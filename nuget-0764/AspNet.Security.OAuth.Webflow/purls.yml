@@ -1,0 +1,4 @@
+- pkg:nuget/AspNet.Security.OAuth.Webflow@9.2.0
+- pkg:nuget/AspNet.Security.OAuth.Webflow@9.3.0
+- pkg:nuget/AspNet.Security.OAuth.Webflow@9.4.0
+- pkg:nuget/AspNet.Security.OAuth.Webflow@9.4.1
