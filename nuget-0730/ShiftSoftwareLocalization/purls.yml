@@ -35,6 +35,7 @@
 - pkg:nuget/ShiftSoftwareLocalization@2025.1.8.1
 - pkg:nuget/ShiftSoftwareLocalization@2025.1.8.2
 - pkg:nuget/ShiftSoftwareLocalization@2025.11.16.2
+- pkg:nuget/ShiftSoftwareLocalization@2025.11.26.1
 - pkg:nuget/ShiftSoftwareLocalization@2025.2.15.1
 - pkg:nuget/ShiftSoftwareLocalization@2025.2.9.1
 - pkg:nuget/ShiftSoftwareLocalization@2025.3.26.1
