@@ -300,3 +300,6 @@
 - pkg:nuget/Common.Messaging.Lib@2.1.94
 - pkg:nuget/Common.Messaging.Lib@2.1.98
 - pkg:nuget/Common.Messaging.Lib@2.2.0
+- pkg:nuget/Common.Messaging.Lib@2.2.16
+- pkg:nuget/Common.Messaging.Lib@2.2.17
+- pkg:nuget/Common.Messaging.Lib@2.2.18
