@@ -42,3 +42,4 @@
 - pkg:nuget/Buildenator.Abstraction@8.2.1
 - pkg:nuget/Buildenator.Abstraction@8.3.0
 - pkg:nuget/Buildenator.Abstraction@8.4.0
+- pkg:nuget/Buildenator.Abstraction@8.5.0.2
