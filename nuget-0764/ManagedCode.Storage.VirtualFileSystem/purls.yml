@@ -1,0 +1,3 @@
+- pkg:nuget/ManagedCode.Storage.VirtualFileSystem@10.0.0
+- pkg:nuget/ManagedCode.Storage.VirtualFileSystem@9.1.0
+- pkg:nuget/ManagedCode.Storage.VirtualFileSystem@9.2.0
