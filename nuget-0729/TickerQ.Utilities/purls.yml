@@ -4,6 +4,7 @@
 - pkg:nuget/TickerQ.Utilities@1.0.2-alpha
 - pkg:nuget/TickerQ.Utilities@1.0.9-alpha
 - pkg:nuget/TickerQ.Utilities@1.1.0-alpha
+- pkg:nuget/TickerQ.Utilities@10.0.1
 - pkg:nuget/TickerQ.Utilities@2.0.0
 - pkg:nuget/TickerQ.Utilities@2.1.0
 - pkg:nuget/TickerQ.Utilities@2.1.2
@@ -32,3 +33,5 @@
 - pkg:nuget/TickerQ.Utilities@2.5.2-preview
 - pkg:nuget/TickerQ.Utilities@2.5.3
 - pkg:nuget/TickerQ.Utilities@2.5.3-preview
+- pkg:nuget/TickerQ.Utilities@8.0.1
+- pkg:nuget/TickerQ.Utilities@9.0.1
