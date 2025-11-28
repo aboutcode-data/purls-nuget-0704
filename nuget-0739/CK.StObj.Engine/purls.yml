@@ -65,6 +65,7 @@
 - pkg:nuget/CK.StObj.Engine@30.0.0
 - pkg:nuget/CK.StObj.Engine@31.0.0
 - pkg:nuget/CK.StObj.Engine@31.0.1
+- pkg:nuget/CK.StObj.Engine@32.1.1
 - pkg:nuget/CK.StObj.Engine@4.0.0
 - pkg:nuget/CK.StObj.Engine@4.0.0-b01
 - pkg:nuget/CK.StObj.Engine@6.0.0

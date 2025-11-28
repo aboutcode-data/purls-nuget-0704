@@ -48,6 +48,7 @@
 - pkg:nuget/CK.DB.User.UserGoogle.EMailColumns@26.0.0
 - pkg:nuget/CK.DB.User.UserGoogle.EMailColumns@26.0.1
 - pkg:nuget/CK.DB.User.UserGoogle.EMailColumns@26.0.2
+- pkg:nuget/CK.DB.User.UserGoogle.EMailColumns@27.1.1
 - pkg:nuget/CK.DB.User.UserGoogle.EMailColumns@5.1.0
 - pkg:nuget/CK.DB.User.UserGoogle.EMailColumns@5.2.0
 - pkg:nuget/CK.DB.User.UserGoogle.EMailColumns@6.0.0

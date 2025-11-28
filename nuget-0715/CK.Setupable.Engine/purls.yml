@@ -63,6 +63,7 @@
 - pkg:nuget/CK.Setupable.Engine@31.0.0
 - pkg:nuget/CK.Setupable.Engine@31.0.1
 - pkg:nuget/CK.Setupable.Engine@31.0.2
+- pkg:nuget/CK.Setupable.Engine@32.1.1
 - pkg:nuget/CK.Setupable.Engine@4.0.0
 - pkg:nuget/CK.Setupable.Engine@4.0.0-b01
 - pkg:nuget/CK.Setupable.Engine@6.0.0
