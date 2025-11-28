@@ -74,4 +74,5 @@
 - pkg:nuget/VirtoCommerce.StoreModule.Data.MySql@3.819.0
 - pkg:nuget/VirtoCommerce.StoreModule.Data.MySql@3.820.0
 - pkg:nuget/VirtoCommerce.StoreModule.Data.MySql@3.821.0
+- pkg:nuget/VirtoCommerce.StoreModule.Data.MySql@3.823.0
 - pkg:nuget/VirtoCommerce.StoreModule.Data.MySql@3.823.0-alpha.766-vcst-4203-cleanup

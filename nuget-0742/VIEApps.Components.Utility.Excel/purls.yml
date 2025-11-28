@@ -1,3 +1,4 @@
+- pkg:nuget/VIEApps.Components.Utility.Excel@10.10.2512.1
 - pkg:nuget/VIEApps.Components.Utility.Excel@10.3.1911.1
 - pkg:nuget/VIEApps.Components.Utility.Excel@10.3.1912.1
 - pkg:nuget/VIEApps.Components.Utility.Excel@10.3.1912.2
