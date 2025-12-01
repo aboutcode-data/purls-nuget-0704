@@ -14,6 +14,7 @@
 - pkg:nuget/Relatude.DB.Plugins.Azure@0.1.0.3-alpha
 - pkg:nuget/Relatude.DB.Plugins.Azure@0.1.0.33-alpha
 - pkg:nuget/Relatude.DB.Plugins.Azure@0.1.0.5-alpha
+- pkg:nuget/Relatude.DB.Plugins.Azure@0.1.0.57-alpha
 - pkg:nuget/Relatude.DB.Plugins.Azure@0.1.0.6-alpha
 - pkg:nuget/Relatude.DB.Plugins.Azure@0.1.0.8-alpha
 - pkg:nuget/Relatude.DB.Plugins.Azure@0.1.0.9-alpha
