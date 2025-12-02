@@ -118,6 +118,7 @@
 - pkg:nuget/Indigina.AspNet@4.1.9
 - pkg:nuget/Indigina.AspNet@4.2.0
 - pkg:nuget/Indigina.AspNet@4.2.1
+- pkg:nuget/Indigina.AspNet@4.2.10
 - pkg:nuget/Indigina.AspNet@4.2.2
 - pkg:nuget/Indigina.AspNet@4.2.3
 - pkg:nuget/Indigina.AspNet@4.2.4
