@@ -29,3 +29,4 @@
 - pkg:nuget/Microsoft.SemanticKernel.Agents.Bedrock@1.63.0-alpha
 - pkg:nuget/Microsoft.SemanticKernel.Agents.Bedrock@1.64.0-alpha
 - pkg:nuget/Microsoft.SemanticKernel.Agents.Bedrock@1.65.0-alpha
+- pkg:nuget/Microsoft.SemanticKernel.Agents.Bedrock@1.68.0-alpha
