@@ -392,6 +392,8 @@
 - pkg:nuget/Microsoft.ReactNative.Cxx@0.74.46-Fabric
 - pkg:nuget/Microsoft.ReactNative.Cxx@0.74.5
 - pkg:nuget/Microsoft.ReactNative.Cxx@0.74.5-Fabric
+- pkg:nuget/Microsoft.ReactNative.Cxx@0.74.50
+- pkg:nuget/Microsoft.ReactNative.Cxx@0.74.50-Fabric
 - pkg:nuget/Microsoft.ReactNative.Cxx@0.74.6
 - pkg:nuget/Microsoft.ReactNative.Cxx@0.74.6-Fabric
 - pkg:nuget/Microsoft.ReactNative.Cxx@0.74.7

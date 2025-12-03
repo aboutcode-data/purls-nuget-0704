@@ -999,6 +999,7 @@
 - pkg:nuget/AWSSDK.DataExchange@3.7.502.1
 - pkg:nuget/AWSSDK.DataExchange@3.7.502.13
 - pkg:nuget/AWSSDK.DataExchange@3.7.502.15
+- pkg:nuget/AWSSDK.DataExchange@3.7.502.17
 - pkg:nuget/AWSSDK.DataExchange@4.0.0
 - pkg:nuget/AWSSDK.DataExchange@4.0.0-preview
 - pkg:nuget/AWSSDK.DataExchange@4.0.0-preview.10

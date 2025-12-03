@@ -1122,6 +1122,7 @@
 - pkg:nuget/AWSSDK.Amplify@3.7.502.1
 - pkg:nuget/AWSSDK.Amplify@3.7.502.13
 - pkg:nuget/AWSSDK.Amplify@3.7.502.15
+- pkg:nuget/AWSSDK.Amplify@3.7.502.17
 - pkg:nuget/AWSSDK.Amplify@4.0.0
 - pkg:nuget/AWSSDK.Amplify@4.0.0-preview
 - pkg:nuget/AWSSDK.Amplify@4.0.0-preview.10
