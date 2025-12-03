@@ -104,3 +104,4 @@
 - pkg:nuget/Dignite.Abp.UserPoints.Application.Contracts@3.1.1
 - pkg:nuget/Dignite.Abp.UserPoints.Application.Contracts@3.1.2
 - pkg:nuget/Dignite.Abp.UserPoints.Application.Contracts@3.2.0
+- pkg:nuget/Dignite.Abp.UserPoints.Application.Contracts@3.6.0-rc.1
