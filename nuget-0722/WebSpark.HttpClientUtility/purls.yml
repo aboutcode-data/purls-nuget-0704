@@ -7,3 +7,4 @@
 - pkg:nuget/WebSpark.HttpClientUtility@1.0.8
 - pkg:nuget/WebSpark.HttpClientUtility@1.1.0
 - pkg:nuget/WebSpark.HttpClientUtility@1.2.0
+- pkg:nuget/WebSpark.HttpClientUtility@2.1.2
