@@ -63,6 +63,7 @@
 - pkg:nuget/Laraue.EfCoreTriggers.MySql@6.4.2
 - pkg:nuget/Laraue.EfCoreTriggers.MySql@6.4.2-alpha
 - pkg:nuget/Laraue.EfCoreTriggers.MySql@6.4.3
+- pkg:nuget/Laraue.EfCoreTriggers.MySql@6.5.0
 - pkg:nuget/Laraue.EfCoreTriggers.MySql@7.0.0
 - pkg:nuget/Laraue.EfCoreTriggers.MySql@7.0.0-alpha
 - pkg:nuget/Laraue.EfCoreTriggers.MySql@7.0.0-alpha2
@@ -84,6 +85,7 @@
 - pkg:nuget/Laraue.EfCoreTriggers.MySql@7.2.0
 - pkg:nuget/Laraue.EfCoreTriggers.MySql@7.2.1
 - pkg:nuget/Laraue.EfCoreTriggers.MySql@7.2.2
+- pkg:nuget/Laraue.EfCoreTriggers.MySql@7.3.0
 - pkg:nuget/Laraue.EfCoreTriggers.MySql@8.0.0
 - pkg:nuget/Laraue.EfCoreTriggers.MySql@8.0.1
 - pkg:nuget/Laraue.EfCoreTriggers.MySql@8.0.2
