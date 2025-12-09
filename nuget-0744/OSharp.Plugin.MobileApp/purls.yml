@@ -23,4 +23,5 @@
 - pkg:nuget/OSharp.Plugin.MobileApp@8.1.5
 - pkg:nuget/OSharp.Plugin.MobileApp@8.1.6
 - pkg:nuget/OSharp.Plugin.MobileApp@8.2.0
+- pkg:nuget/OSharp.Plugin.MobileApp@8.2.1
 - pkg:nuget/OSharp.Plugin.MobileApp@9.0.0
