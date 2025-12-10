@@ -8,6 +8,7 @@
 - pkg:nuget/BinaryLibs.Crypto@0.107.0
 - pkg:nuget/BinaryLibs.Crypto@0.108.0
 - pkg:nuget/BinaryLibs.Crypto@0.109.0
+- pkg:nuget/BinaryLibs.Crypto@0.114.0
 - pkg:nuget/BinaryLibs.Crypto@0.43.0
 - pkg:nuget/BinaryLibs.Crypto@0.44.0
 - pkg:nuget/BinaryLibs.Crypto@0.45.0
