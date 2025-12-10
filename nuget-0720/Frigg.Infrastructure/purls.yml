@@ -61,3 +61,5 @@
 - pkg:nuget/Frigg.Infrastructure@2.2.169
 - pkg:nuget/Frigg.Infrastructure@2.2.170
 - pkg:nuget/Frigg.Infrastructure@2.2.171
+- pkg:nuget/Frigg.Infrastructure@2.2.177
+- pkg:nuget/Frigg.Infrastructure@2.2.178
