@@ -1005,3 +1005,4 @@
 - pkg:nuget/VirtoCommerce.CatalogModule.Core@3.9.0-alpha.1549
 - pkg:nuget/VirtoCommerce.CatalogModule.Core@3.902.0
 - pkg:nuget/VirtoCommerce.CatalogModule.Core@3.903.0
+- pkg:nuget/VirtoCommerce.CatalogModule.Core@3.907.0
