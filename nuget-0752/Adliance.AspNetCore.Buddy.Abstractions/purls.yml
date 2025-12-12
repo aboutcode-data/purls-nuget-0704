@@ -65,3 +65,7 @@
 - pkg:nuget/Adliance.AspNetCore.Buddy.Abstractions@8.0.0.7
 - pkg:nuget/Adliance.AspNetCore.Buddy.Abstractions@8.0.0.8
 - pkg:nuget/Adliance.AspNetCore.Buddy.Abstractions@8.0.0.9
+- pkg:nuget/Adliance.AspNetCore.Buddy.Abstractions@8.2.0.1
+- pkg:nuget/Adliance.AspNetCore.Buddy.Abstractions@8.2.0.2
+- pkg:nuget/Adliance.AspNetCore.Buddy.Abstractions@8.2.0.3
+- pkg:nuget/Adliance.AspNetCore.Buddy.Abstractions@8.2.0.4
