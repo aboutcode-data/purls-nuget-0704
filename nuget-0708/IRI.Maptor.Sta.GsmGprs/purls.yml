@@ -27,6 +27,7 @@
 - pkg:nuget/IRI.Maptor.Sta.GsmGprs@2.7.4-alpha
 - pkg:nuget/IRI.Maptor.Sta.GsmGprs@2.8.0
 - pkg:nuget/IRI.Maptor.Sta.GsmGprs@2.8.1
+- pkg:nuget/IRI.Maptor.Sta.GsmGprs@2.8.12-alpha
 - pkg:nuget/IRI.Maptor.Sta.GsmGprs@2.8.2-alpha
 - pkg:nuget/IRI.Maptor.Sta.GsmGprs@2.8.3
 - pkg:nuget/IRI.Maptor.Sta.GsmGprs@2.8.3-alpha
