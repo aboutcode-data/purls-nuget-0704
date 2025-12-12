@@ -35,6 +35,7 @@
 - pkg:nuget/Ccf.Ck.Cli.NodeSetModelGenerator@1.0.7
 - pkg:nuget/Ccf.Ck.Cli.NodeSetModelGenerator@1.0.8
 - pkg:nuget/Ccf.Ck.Cli.NodeSetModelGenerator@1.0.9
+- pkg:nuget/Ccf.Ck.Cli.NodeSetModelGenerator@10.0.2
 - pkg:nuget/Ccf.Ck.Cli.NodeSetModelGenerator@5.0.0
 - pkg:nuget/Ccf.Ck.Cli.NodeSetModelGenerator@5.0.1
 - pkg:nuget/Ccf.Ck.Cli.NodeSetModelGenerator@5.0.2
