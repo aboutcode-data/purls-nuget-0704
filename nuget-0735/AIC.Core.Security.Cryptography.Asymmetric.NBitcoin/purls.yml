@@ -7,6 +7,7 @@
 - pkg:nuget/AIC.Core.Security.Cryptography.Asymmetric.NBitcoin@2024.9.4.1
 - pkg:nuget/AIC.Core.Security.Cryptography.Asymmetric.NBitcoin@2024.9.4.2
 - pkg:nuget/AIC.Core.Security.Cryptography.Asymmetric.NBitcoin@2024.9.4.3
+- pkg:nuget/AIC.Core.Security.Cryptography.Asymmetric.NBitcoin@2025.12.12.1
 - pkg:nuget/AIC.Core.Security.Cryptography.Asymmetric.NBitcoin@2025.12.5.3
 - pkg:nuget/AIC.Core.Security.Cryptography.Asymmetric.NBitcoin@2025.4.11.2
 - pkg:nuget/AIC.Core.Security.Cryptography.Asymmetric.NBitcoin@2025.4.21.1
