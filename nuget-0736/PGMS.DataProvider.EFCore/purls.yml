@@ -51,6 +51,7 @@
 - pkg:nuget/PGMS.DataProvider.EFCore@4.2.11.5-RC2
 - pkg:nuget/PGMS.DataProvider.EFCore@4.2.11.5-RC3
 - pkg:nuget/PGMS.DataProvider.EFCore@4.2.12.1
+- pkg:nuget/PGMS.DataProvider.EFCore@4.2.12.10-RC1
 - pkg:nuget/PGMS.DataProvider.EFCore@4.2.12.2
 - pkg:nuget/PGMS.DataProvider.EFCore@4.2.12.3
 - pkg:nuget/PGMS.DataProvider.EFCore@4.2.12.4
