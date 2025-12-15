@@ -1,3 +1,4 @@
+- pkg:nuget/snapx@10.0.1-prerelease.5
 - pkg:nuget/snapx@2.6.0
 - pkg:nuget/snapx@2.6.1
 - pkg:nuget/snapx@2.6.1-prerelease0002

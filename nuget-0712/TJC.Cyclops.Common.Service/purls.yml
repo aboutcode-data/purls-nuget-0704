@@ -3,6 +3,7 @@
 - pkg:nuget/TJC.Cyclops.Common.Service@2025.10.28.1
 - pkg:nuget/TJC.Cyclops.Common.Service@2025.11.13.1
 - pkg:nuget/TJC.Cyclops.Common.Service@2025.11.4.2
+- pkg:nuget/TJC.Cyclops.Common.Service@2025.12.15.2
 - pkg:nuget/TJC.Cyclops.Common.Service@2025.9.10.1
 - pkg:nuget/TJC.Cyclops.Common.Service@2025.9.10.2
 - pkg:nuget/TJC.Cyclops.Common.Service@2025.9.15.1
