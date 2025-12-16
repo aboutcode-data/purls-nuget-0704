@@ -1420,6 +1420,10 @@
 - pkg:nuget/Credfeto.Package.Push@1.6.177.1605-main
 - pkg:nuget/Credfeto.Package.Push@1.6.177.1620-main
 - pkg:nuget/Credfeto.Package.Push@1.6.177.1621-main
+- pkg:nuget/Credfeto.Package.Push@1.6.177.1652-main
+- pkg:nuget/Credfeto.Package.Push@1.6.177.1653-main
+- pkg:nuget/Credfeto.Package.Push@1.6.177.1668-main
+- pkg:nuget/Credfeto.Package.Push@1.6.177.1669-main
 - pkg:nuget/Credfeto.Package.Push@1.6.18.669-main
 - pkg:nuget/Credfeto.Package.Push@1.6.18.670-main
 - pkg:nuget/Credfeto.Package.Push@1.6.18.671-main
