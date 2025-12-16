@@ -16,3 +16,8 @@
 - pkg:nuget/Credfeto.Tsql.Formatter.Cmd.osx-x64@0.1.7.229-main
 - pkg:nuget/Credfeto.Tsql.Formatter.Cmd.osx-x64@0.1.7.238-main
 - pkg:nuget/Credfeto.Tsql.Formatter.Cmd.osx-x64@0.1.7.248-main
+- pkg:nuget/Credfeto.Tsql.Formatter.Cmd.osx-x64@0.1.7.323-main
+- pkg:nuget/Credfeto.Tsql.Formatter.Cmd.osx-x64@0.1.7.324-main
+- pkg:nuget/Credfeto.Tsql.Formatter.Cmd.osx-x64@0.1.7.325-main
+- pkg:nuget/Credfeto.Tsql.Formatter.Cmd.osx-x64@0.1.7.326-main
+- pkg:nuget/Credfeto.Tsql.Formatter.Cmd.osx-x64@0.1.7.340-main
