@@ -1155,6 +1155,7 @@
 - pkg:nuget/AWSSDK.ACMPCA@3.7.502.1
 - pkg:nuget/AWSSDK.ACMPCA@3.7.502.6
 - pkg:nuget/AWSSDK.ACMPCA@3.7.503.11
+- pkg:nuget/AWSSDK.ACMPCA@3.7.503.12
 - pkg:nuget/AWSSDK.ACMPCA@3.7.503.3
 - pkg:nuget/AWSSDK.ACMPCA@3.7.503.5
 - pkg:nuget/AWSSDK.ACMPCA@4.0.0
