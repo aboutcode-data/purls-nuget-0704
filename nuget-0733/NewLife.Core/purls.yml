@@ -485,6 +485,8 @@
 - pkg:nuget/NewLife.Core@11.6.2025.921-beta1554
 - pkg:nuget/NewLife.Core@11.6.2025.924-beta0602
 - pkg:nuget/NewLife.Core@11.7.2025.1001-beta1644
+- pkg:nuget/NewLife.Core@11.9.2025.1217-beta0830
+- pkg:nuget/NewLife.Core@11.9.2025.1217-beta0906
 - pkg:nuget/NewLife.Core@3.9.5038.19709
 - pkg:nuget/NewLife.Core@4.2.5259.26174
 - pkg:nuget/NewLife.Core@5.3.5570.2586

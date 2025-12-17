@@ -8,6 +8,7 @@
 - pkg:nuget/F19.Connect.AspNetCore@6.0.0.1-beta
 - pkg:nuget/F19.Connect.AspNetCore@6.0.0.10
 - pkg:nuget/F19.Connect.AspNetCore@6.0.0.11
+- pkg:nuget/F19.Connect.AspNetCore@6.0.0.14
 - pkg:nuget/F19.Connect.AspNetCore@6.0.0.2
 - pkg:nuget/F19.Connect.AspNetCore@6.0.0.3
 - pkg:nuget/F19.Connect.AspNetCore@6.0.0.4
