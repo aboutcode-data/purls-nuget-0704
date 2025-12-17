@@ -1,3 +1,4 @@
+- pkg:nuget/xmisc.core.system@10.0.0
 - pkg:nuget/xmisc.core.system@2.0.14-alpha
 - pkg:nuget/xmisc.core.system@4.0.72-alpha
 - pkg:nuget/xmisc.core.system@6.0.3
