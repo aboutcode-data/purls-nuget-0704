@@ -5,3 +5,4 @@
 - pkg:nuget/Paramore.Brighter.MessageScheduler.Quartz@10.0.0-preview.9
 - pkg:nuget/Paramore.Brighter.MessageScheduler.Quartz@10.0.1
 - pkg:nuget/Paramore.Brighter.MessageScheduler.Quartz@10.0.2
+- pkg:nuget/Paramore.Brighter.MessageScheduler.Quartz@10.0.5
