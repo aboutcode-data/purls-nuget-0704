@@ -12,3 +12,4 @@
 - pkg:nuget/nanoFramework.Device.OneWire@1.4.35
 - pkg:nuget/nanoFramework.Device.OneWire@1.4.5
 - pkg:nuget/nanoFramework.Device.OneWire@1.4.8
+- pkg:nuget/nanoFramework.Device.OneWire@2.0.0-preview.1
