@@ -51,6 +51,7 @@
 - pkg:nuget/PostSharp.Patterns.Model.Redist@2025.1.7
 - pkg:nuget/PostSharp.Patterns.Model.Redist@2025.1.8
 - pkg:nuget/PostSharp.Patterns.Model.Redist@2025.1.9
+- pkg:nuget/PostSharp.Patterns.Model.Redist@2026.0.4-rc
 - pkg:nuget/PostSharp.Patterns.Model.Redist@5.0.11-preview
 - pkg:nuget/PostSharp.Patterns.Model.Redist@5.0.12-preview
 - pkg:nuget/PostSharp.Patterns.Model.Redist@5.0.13-preview

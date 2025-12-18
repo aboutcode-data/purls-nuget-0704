@@ -632,7 +632,9 @@
 - pkg:nuget/DynamoVisualProgramming.Core@4.0.0-beta2854
 - pkg:nuget/DynamoVisualProgramming.Core@4.0.0-beta3167
 - pkg:nuget/DynamoVisualProgramming.Core@4.0.0-beta3227
+- pkg:nuget/DynamoVisualProgramming.Core@4.0.1.3515
 - pkg:nuget/DynamoVisualProgramming.Core@4.1.0-beta2964
 - pkg:nuget/DynamoVisualProgramming.Core@4.1.0-beta2990
 - pkg:nuget/DynamoVisualProgramming.Core@4.1.0-beta3034
 - pkg:nuget/DynamoVisualProgramming.Core@4.1.0-beta3167
+- pkg:nuget/DynamoVisualProgramming.Core@4.1.0-beta3515
