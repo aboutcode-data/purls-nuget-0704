@@ -77,6 +77,7 @@
 - pkg:nuget/SIL.Machine.Plugin@3.6.7
 - pkg:nuget/SIL.Machine.Plugin@3.7.0
 - pkg:nuget/SIL.Machine.Plugin@3.7.1
+- pkg:nuget/SIL.Machine.Plugin@3.7.11
 - pkg:nuget/SIL.Machine.Plugin@3.7.2
 - pkg:nuget/SIL.Machine.Plugin@3.7.3
 - pkg:nuget/SIL.Machine.Plugin@3.7.4
