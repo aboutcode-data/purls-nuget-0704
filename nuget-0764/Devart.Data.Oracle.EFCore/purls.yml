@@ -40,6 +40,10 @@
 - pkg:nuget/Devart.Data.Oracle.EFCore@10.4.290.7
 - pkg:nuget/Devart.Data.Oracle.EFCore@10.4.290.8
 - pkg:nuget/Devart.Data.Oracle.EFCore@10.4.290.9
+- pkg:nuget/Devart.Data.Oracle.EFCore@11.0.0
+- pkg:nuget/Devart.Data.Oracle.EFCore@11.0.0.7
+- pkg:nuget/Devart.Data.Oracle.EFCore@11.0.0.8
+- pkg:nuget/Devart.Data.Oracle.EFCore@11.0.0.9
 - pkg:nuget/Devart.Data.Oracle.EFCore@9.10.909
 - pkg:nuget/Devart.Data.Oracle.EFCore@9.11.1034
 - pkg:nuget/Devart.Data.Oracle.EFCore@9.11.951
