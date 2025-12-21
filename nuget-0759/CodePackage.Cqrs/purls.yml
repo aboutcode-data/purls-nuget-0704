@@ -59,6 +59,7 @@
 - pkg:nuget/CodePackage.Cqrs@17.4.0
 - pkg:nuget/CodePackage.Cqrs@17.4.1
 - pkg:nuget/CodePackage.Cqrs@17.4.4
+- pkg:nuget/CodePackage.Cqrs@18.0.5
 - pkg:nuget/CodePackage.Cqrs@2.0.0
 - pkg:nuget/CodePackage.Cqrs@2.0.1
 - pkg:nuget/CodePackage.Cqrs@5.0.0
