@@ -353,6 +353,7 @@
 - pkg:nuget/ThingsGateway.Plugin.HJ212@10.9.98
 - pkg:nuget/ThingsGateway.Plugin.HJ212@10.9.99
 - pkg:nuget/ThingsGateway.Plugin.HJ212@12.4.10
+- pkg:nuget/ThingsGateway.Plugin.HJ212@12.4.18
 - pkg:nuget/ThingsGateway.Plugin.HJ212@12.4.8
 - pkg:nuget/ThingsGateway.Plugin.HJ212@9.0.1.2
 - pkg:nuget/ThingsGateway.Plugin.HJ212@9.0.1.21

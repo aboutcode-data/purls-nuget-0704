@@ -17,3 +17,4 @@
 - pkg:nuget/AppOS.Logging.Exceptionless@1.1.0
 - pkg:nuget/AppOS.Logging.Exceptionless@2.0.0
 - pkg:nuget/AppOS.Logging.Exceptionless@3.0.3
+- pkg:nuget/AppOS.Logging.Exceptionless@3.0.7
