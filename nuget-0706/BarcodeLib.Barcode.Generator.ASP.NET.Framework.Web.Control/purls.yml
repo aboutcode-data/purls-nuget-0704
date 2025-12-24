@@ -19,3 +19,4 @@
 - pkg:nuget/BarcodeLib.Barcode.Generator.ASP.NET.Framework.Web.Control@7.4.2.7
 - pkg:nuget/BarcodeLib.Barcode.Generator.ASP.NET.Framework.Web.Control@7.4.2.8
 - pkg:nuget/BarcodeLib.Barcode.Generator.ASP.NET.Framework.Web.Control@7.4.2.9
+- pkg:nuget/BarcodeLib.Barcode.Generator.ASP.NET.Framework.Web.Control@8.0.0
