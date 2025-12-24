@@ -26,3 +26,4 @@
 - pkg:nuget/ThrottlingTroll.CounterStores.Redis@8.0.0-beta1
 - pkg:nuget/ThrottlingTroll.CounterStores.Redis@8.0.0-beta2
 - pkg:nuget/ThrottlingTroll.CounterStores.Redis@8.0.0-beta3
+- pkg:nuget/ThrottlingTroll.CounterStores.Redis@9.0.0
