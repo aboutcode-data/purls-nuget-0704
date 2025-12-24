@@ -373,6 +373,7 @@
 - pkg:nuget/AWSSDK.PcaConnectorAd@3.7.500.8
 - pkg:nuget/AWSSDK.PcaConnectorAd@3.7.500.9
 - pkg:nuget/AWSSDK.PcaConnectorAd@3.7.501.11
+- pkg:nuget/AWSSDK.PcaConnectorAd@3.7.501.22
 - pkg:nuget/AWSSDK.PcaConnectorAd@4.0.0
 - pkg:nuget/AWSSDK.PcaConnectorAd@4.0.0-preview
 - pkg:nuget/AWSSDK.PcaConnectorAd@4.0.0-preview.10

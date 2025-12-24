@@ -833,6 +833,7 @@
 - pkg:nuget/AWSSDK.NetworkFirewall@3.7.504.5
 - pkg:nuget/AWSSDK.NetworkFirewall@3.7.505
 - pkg:nuget/AWSSDK.NetworkFirewall@3.7.505.2
+- pkg:nuget/AWSSDK.NetworkFirewall@3.7.506.10
 - pkg:nuget/AWSSDK.NetworkFirewall@3.7.506.6
 - pkg:nuget/AWSSDK.NetworkFirewall@3.7.6
 - pkg:nuget/AWSSDK.NetworkFirewall@3.7.6.1
