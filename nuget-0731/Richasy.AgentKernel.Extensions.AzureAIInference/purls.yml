@@ -46,3 +46,4 @@
 - pkg:nuget/Richasy.AgentKernel.Extensions.AzureAIInference@0.0.7-preview7
 - pkg:nuget/Richasy.AgentKernel.Extensions.AzureAIInference@0.0.7-preview8
 - pkg:nuget/Richasy.AgentKernel.Extensions.AzureAIInference@0.0.7-preview9
+- pkg:nuget/Richasy.AgentKernel.Extensions.AzureAIInference@0.0.8-preview6
