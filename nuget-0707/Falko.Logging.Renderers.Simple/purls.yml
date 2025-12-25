@@ -1,1 +1,3 @@
 - pkg:nuget/Falko.Logging.Renderers.Simple@0.10.0.234-preview
+- pkg:nuget/Falko.Logging.Renderers.Simple@0.11.0.253-preview
+- pkg:nuget/Falko.Logging.Renderers.Simple@0.11.0.254-preview

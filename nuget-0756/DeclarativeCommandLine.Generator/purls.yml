@@ -11,3 +11,4 @@
 - pkg:nuget/DeclarativeCommandLine.Generator@2.0.1-ge9dcc09990
 - pkg:nuget/DeclarativeCommandLine.Generator@2.0.3-g591863a1ad
 - pkg:nuget/DeclarativeCommandLine.Generator@2.0.3-gcc6c4d69d1
+- pkg:nuget/DeclarativeCommandLine.Generator@2.0.5-g35b7f5f92f
