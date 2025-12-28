@@ -32,3 +32,5 @@
 - pkg:nuget/MessageHandler.EventSourcing@5.0.0
 - pkg:nuget/MessageHandler.EventSourcing@5.0.1
 - pkg:nuget/MessageHandler.EventSourcing@5.1.0
+- pkg:nuget/MessageHandler.EventSourcing@5.4.0
+- pkg:nuget/MessageHandler.EventSourcing@5.5.0
