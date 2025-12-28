@@ -22,3 +22,5 @@
 - pkg:nuget/MessageHandler.Runtime.AtomicProcessing.Receiving.EventSource@5.0.0
 - pkg:nuget/MessageHandler.Runtime.AtomicProcessing.Receiving.EventSource@5.0.1
 - pkg:nuget/MessageHandler.Runtime.AtomicProcessing.Receiving.EventSource@5.1.0
+- pkg:nuget/MessageHandler.Runtime.AtomicProcessing.Receiving.EventSource@5.4.0
+- pkg:nuget/MessageHandler.Runtime.AtomicProcessing.Receiving.EventSource@5.5.0
