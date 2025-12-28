@@ -63,6 +63,7 @@
 - pkg:nuget/FrontierSharp.HttpClient@0.14.3
 - pkg:nuget/FrontierSharp.HttpClient@0.14.4
 - pkg:nuget/FrontierSharp.HttpClient@0.14.5
+- pkg:nuget/FrontierSharp.HttpClient@0.15.23
 - pkg:nuget/FrontierSharp.HttpClient@0.3.0
 - pkg:nuget/FrontierSharp.HttpClient@0.8.0
 - pkg:nuget/FrontierSharp.HttpClient@0.9.0
