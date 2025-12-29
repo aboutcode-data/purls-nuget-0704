@@ -94,3 +94,4 @@
 - pkg:nuget/ThingsGateway.Common@10.9.98
 - pkg:nuget/ThingsGateway.Common@10.9.99
 - pkg:nuget/ThingsGateway.Common@12.4.12
+- pkg:nuget/ThingsGateway.Common@12.4.23
