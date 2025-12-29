@@ -76,3 +76,4 @@
 - pkg:nuget/DotVVM.Testing@5.0.0-preview01-final
 - pkg:nuget/DotVVM.Testing@5.0.0-preview02-final
 - pkg:nuget/DotVVM.Testing@5.0.0-preview03-final
+- pkg:nuget/DotVVM.Testing@5.0.0-preview05-final
