@@ -59,6 +59,7 @@
 - pkg:nuget/ITHit.Server.Web@15.3.15268-Beta3
 - pkg:nuget/ITHit.Server.Web@15.3.15282-Beta3
 - pkg:nuget/ITHit.Server.Web@15.3.16041
+- pkg:nuget/ITHit.Server.Web@15.4.16086
 - pkg:nuget/ITHit.Server.Web@9.1.5311-Beta
 - pkg:nuget/ITHit.Server.Web@9.1.5460-Beta
 - pkg:nuget/ITHit.Server.Web@9.2.5604-Beta2
