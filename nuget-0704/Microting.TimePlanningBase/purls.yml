@@ -4,6 +4,7 @@
 - pkg:nuget/Microting.TimePlanningBase@1.0.4
 - pkg:nuget/Microting.TimePlanningBase@1.0.5
 - pkg:nuget/Microting.TimePlanningBase@1.0.6
+- pkg:nuget/Microting.TimePlanningBase@10.0.0
 - pkg:nuget/Microting.TimePlanningBase@2.0.0
 - pkg:nuget/Microting.TimePlanningBase@2.0.1
 - pkg:nuget/Microting.TimePlanningBase@2.0.10
@@ -293,6 +294,7 @@
 - pkg:nuget/Microting.TimePlanningBase@9.0.60
 - pkg:nuget/Microting.TimePlanningBase@9.0.61
 - pkg:nuget/Microting.TimePlanningBase@9.0.64
+- pkg:nuget/Microting.TimePlanningBase@9.0.67
 - pkg:nuget/Microting.TimePlanningBase@9.0.7
 - pkg:nuget/Microting.TimePlanningBase@9.0.8
 - pkg:nuget/Microting.TimePlanningBase@9.0.9
