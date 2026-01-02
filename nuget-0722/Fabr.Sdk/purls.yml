@@ -3,3 +3,4 @@
 - pkg:nuget/Fabr.Sdk@0.1.9-alpha
 - pkg:nuget/Fabr.Sdk@1.0.61-alpha
 - pkg:nuget/Fabr.Sdk@1.2.23-beta
+- pkg:nuget/Fabr.Sdk@1.2.30-beta
