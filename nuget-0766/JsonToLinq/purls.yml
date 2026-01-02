@@ -1,1 +1,5 @@
 - pkg:nuget/JsonToLinq@1.0.0-rc906
+- pkg:nuget/JsonToLinq@1.0.0-rc920
+- pkg:nuget/JsonToLinq@1.0.0-rc921
+- pkg:nuget/JsonToLinq@1.0.0-rc922
+- pkg:nuget/JsonToLinq@1.0.0-rc923
