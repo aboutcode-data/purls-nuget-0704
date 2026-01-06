@@ -33,3 +33,4 @@
 - pkg:nuget/Masa.Contrib.StackSdks.Alert.Wasm@1.2.1-preview.50
 - pkg:nuget/Masa.Contrib.StackSdks.Alert.Wasm@1.2.1-preview.51
 - pkg:nuget/Masa.Contrib.StackSdks.Alert.Wasm@1.2.1-preview.52
+- pkg:nuget/Masa.Contrib.StackSdks.Alert.Wasm@1.2.1-preview.60
