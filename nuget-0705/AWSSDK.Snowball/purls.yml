@@ -1225,3 +1225,4 @@
 - pkg:nuget/AWSSDK.Snowball@4.0.0.7
 - pkg:nuget/AWSSDK.Snowball@4.0.0.8
 - pkg:nuget/AWSSDK.Snowball@4.0.0.9
+- pkg:nuget/AWSSDK.Snowball@4.0.1.9

@@ -135,3 +135,4 @@
 - pkg:nuget/WildernessLabs.Meadow.CLI@2.2.0
 - pkg:nuget/WildernessLabs.Meadow.CLI@2.2.0.1
 - pkg:nuget/WildernessLabs.Meadow.CLI@2.2.0.2
+- pkg:nuget/WildernessLabs.Meadow.CLI@2.5.0
