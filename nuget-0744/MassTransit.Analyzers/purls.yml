@@ -895,3 +895,4 @@
 - pkg:nuget/MassTransit.Analyzers@8.5.6-develop.2397
 - pkg:nuget/MassTransit.Analyzers@8.5.7-develop.2403
 - pkg:nuget/MassTransit.Analyzers@8.5.7-develop.2404
+- pkg:nuget/MassTransit.Analyzers@8.5.8-develop.2411
