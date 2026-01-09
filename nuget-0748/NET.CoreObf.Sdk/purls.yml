@@ -42,3 +42,4 @@
 - pkg:nuget/NET.CoreObf.Sdk@4.2.0-beta
 - pkg:nuget/NET.CoreObf.Sdk@4.2.1-beta
 - pkg:nuget/NET.CoreObf.Sdk@4.2.2-beta
+- pkg:nuget/NET.CoreObf.Sdk@4.2.4-beta
