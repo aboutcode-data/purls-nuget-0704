@@ -1160,3 +1160,4 @@
 - pkg:nuget/Beamable.UnityEngine@6.0.0
 - pkg:nuget/Beamable.UnityEngine@6.0.0-PREVIEW.RC1
 - pkg:nuget/Beamable.UnityEngine@6.0.0-PREVIEW.RC2
+- pkg:nuget/Beamable.UnityEngine@7.0.0-PREVIEW.RC1
