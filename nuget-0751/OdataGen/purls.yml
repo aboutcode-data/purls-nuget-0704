@@ -2,3 +2,4 @@
 - pkg:nuget/OdataGen@1.3.4
 - pkg:nuget/OdataGen@1.4.0
 - pkg:nuget/OdataGen@1.5.0
+- pkg:nuget/OdataGen@1.5.5
