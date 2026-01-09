@@ -55,6 +55,7 @@
 - pkg:nuget/Aggregates@0.50.0
 - pkg:nuget/Aggregates@0.51.0
 - pkg:nuget/Aggregates@0.52.0
+- pkg:nuget/Aggregates@0.54.0
 - pkg:nuget/Aggregates@0.6.0
 - pkg:nuget/Aggregates@0.7.0
 - pkg:nuget/Aggregates@0.8.0
