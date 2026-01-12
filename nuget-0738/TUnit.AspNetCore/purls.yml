@@ -1,1 +1,2 @@
 - pkg:nuget/TUnit.AspNetCore@1.9.42
+- pkg:nuget/TUnit.AspNetCore@1.9.81
