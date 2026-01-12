@@ -125,3 +125,4 @@
 - pkg:nuget/dotnet-xscgen-proj@2.1.959
 - pkg:nuget/dotnet-xscgen-proj@2.1.963
 - pkg:nuget/dotnet-xscgen-proj@3.0.1185
+- pkg:nuget/dotnet-xscgen-proj@3.0.1213
