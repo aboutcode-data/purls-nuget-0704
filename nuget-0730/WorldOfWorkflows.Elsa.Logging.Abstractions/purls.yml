@@ -66,3 +66,4 @@
 - pkg:nuget/WorldOfWorkflows.Elsa.Logging.Abstractions@1.8.469
 - pkg:nuget/WorldOfWorkflows.Elsa.Logging.Abstractions@1.8.471
 - pkg:nuget/WorldOfWorkflows.Elsa.Logging.Abstractions@1.8.475
+- pkg:nuget/WorldOfWorkflows.Elsa.Logging.Abstractions@1.9.14
