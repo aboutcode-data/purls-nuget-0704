@@ -342,3 +342,4 @@
 - pkg:nuget/Syncfusion.Pdf.Net.Core@31.1.19
 - pkg:nuget/Syncfusion.Pdf.Net.Core@31.1.20
 - pkg:nuget/Syncfusion.Pdf.Net.Core@32.1.21
+- pkg:nuget/Syncfusion.Pdf.Net.Core@32.1.23
