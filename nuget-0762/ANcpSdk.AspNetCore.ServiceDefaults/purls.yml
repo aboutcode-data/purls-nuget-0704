@@ -1,1 +1,2 @@
 - pkg:nuget/ANcpSdk.AspNetCore.ServiceDefaults@1.3.8
+- pkg:nuget/ANcpSdk.AspNetCore.ServiceDefaults@1.6.5

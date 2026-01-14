@@ -6,3 +6,5 @@
 - pkg:nuget/sw@1.2.20-ge976fac6aa
 - pkg:nuget/sw@1.2.5-gc33609b60f
 - pkg:nuget/sw@1.5.2-ga74d284cf7
+- pkg:nuget/sw@1.5.3-g99f3c735ce
+- pkg:nuget/sw@1.5.4-gd9cf7304c9
