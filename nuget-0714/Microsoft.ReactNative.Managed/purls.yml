@@ -421,3 +421,4 @@
 - pkg:nuget/Microsoft.ReactNative.Managed@0.78.7
 - pkg:nuget/Microsoft.ReactNative.Managed@0.78.8
 - pkg:nuget/Microsoft.ReactNative.Managed@0.78.9
+- pkg:nuget/Microsoft.ReactNative.Managed@0.81.2
