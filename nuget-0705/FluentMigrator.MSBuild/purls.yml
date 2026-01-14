@@ -38,3 +38,4 @@
 - pkg:nuget/FluentMigrator.MSBuild@6.2.0
 - pkg:nuget/FluentMigrator.MSBuild@7.0.0
 - pkg:nuget/FluentMigrator.MSBuild@7.1.0
+- pkg:nuget/FluentMigrator.MSBuild@8.0.0
