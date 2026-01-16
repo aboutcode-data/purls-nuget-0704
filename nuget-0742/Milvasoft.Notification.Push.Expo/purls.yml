@@ -1,4 +1,5 @@
 - pkg:nuget/Milvasoft.Notification.Push.Expo@1.0.0
+- pkg:nuget/Milvasoft.Notification.Push.Expo@10.0.0
 - pkg:nuget/Milvasoft.Notification.Push.Expo@8.1.0
 - pkg:nuget/Milvasoft.Notification.Push.Expo@8.1.1
 - pkg:nuget/Milvasoft.Notification.Push.Expo@8.1.10
