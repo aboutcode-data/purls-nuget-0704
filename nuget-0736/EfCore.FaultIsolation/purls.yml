@@ -1,1 +1,2 @@
 - pkg:nuget/EfCore.FaultIsolation@1.0.0.1
+- pkg:nuget/EfCore.FaultIsolation@1.0.0.3
