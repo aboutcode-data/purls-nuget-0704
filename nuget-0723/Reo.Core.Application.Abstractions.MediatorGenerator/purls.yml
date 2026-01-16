@@ -324,3 +324,4 @@
 - pkg:nuget/Reo.Core.Application.Abstractions.MediatorGenerator@8.0.783
 - pkg:nuget/Reo.Core.Application.Abstractions.MediatorGenerator@8.0.787
 - pkg:nuget/Reo.Core.Application.Abstractions.MediatorGenerator@8.0.788
+- pkg:nuget/Reo.Core.Application.Abstractions.MediatorGenerator@8.0.820
