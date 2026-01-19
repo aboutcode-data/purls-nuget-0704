@@ -134,6 +134,7 @@
 - pkg:nuget/VmmSharpEx@3.0.9385.1318-rc
 - pkg:nuget/VmmSharpEx@3.0.9386.1111-rc
 - pkg:nuget/VmmSharpEx@3.0.9388.1104
+- pkg:nuget/VmmSharpEx@3.150.0-beta.6
 - pkg:nuget/VmmSharpEx@3.50.9389.878
 - pkg:nuget/VmmSharpEx@3.50.9391.809
 - pkg:nuget/VmmSharpEx@3.50.9394.154
