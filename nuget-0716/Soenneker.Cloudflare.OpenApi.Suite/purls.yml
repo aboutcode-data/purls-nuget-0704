@@ -453,6 +453,7 @@
 - pkg:nuget/Soenneker.Cloudflare.OpenApi.Suite@4.0.1212
 - pkg:nuget/Soenneker.Cloudflare.OpenApi.Suite@4.0.1225
 - pkg:nuget/Soenneker.Cloudflare.OpenApi.Suite@4.0.1237
+- pkg:nuget/Soenneker.Cloudflare.OpenApi.Suite@4.0.1241
 - pkg:nuget/Soenneker.Cloudflare.OpenApi.Suite@4.0.630
 - pkg:nuget/Soenneker.Cloudflare.OpenApi.Suite@4.0.660
 - pkg:nuget/Soenneker.Cloudflare.OpenApi.Suite@4.0.667
