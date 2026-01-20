@@ -5,6 +5,7 @@
 - pkg:nuget/BridgingIT.DevKit.Domain.CodeGen@10.0.2-preview.0.41
 - pkg:nuget/BridgingIT.DevKit.Domain.CodeGen@10.0.2-preview.0.57
 - pkg:nuget/BridgingIT.DevKit.Domain.CodeGen@10.0.2-preview.0.66
+- pkg:nuget/BridgingIT.DevKit.Domain.CodeGen@10.0.2-preview.0.68
 - pkg:nuget/BridgingIT.DevKit.Domain.CodeGen@10.0.2-preview.0.8
 - pkg:nuget/BridgingIT.DevKit.Domain.CodeGen@3.0.3
 - pkg:nuget/BridgingIT.DevKit.Domain.CodeGen@3.0.3-preview.0.21
