@@ -28,6 +28,7 @@
 - pkg:nuget/Dedsi.SqlSugar@1.0.9.7
 - pkg:nuget/Dedsi.SqlSugar@1.0.9.8
 - pkg:nuget/Dedsi.SqlSugar@1.0.9.9
+- pkg:nuget/Dedsi.SqlSugar@10.0.5
 - pkg:nuget/Dedsi.SqlSugar@8.0.0
 - pkg:nuget/Dedsi.SqlSugar@8.0.1
 - pkg:nuget/Dedsi.SqlSugar@8.1.0
