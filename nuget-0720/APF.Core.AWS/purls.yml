@@ -50,6 +50,7 @@
 - pkg:nuget/APF.Core.AWS@8.0.0.12-beta-migration
 - pkg:nuget/APF.Core.AWS@8.0.0.19-Beta-01
 - pkg:nuget/APF.Core.AWS@8.0.0.2
+- pkg:nuget/APF.Core.AWS@8.0.0.21
 - pkg:nuget/APF.Core.AWS@8.0.0.3
 - pkg:nuget/APF.Core.AWS@8.0.0.3-Beta-01
 - pkg:nuget/APF.Core.AWS@8.0.0.4
