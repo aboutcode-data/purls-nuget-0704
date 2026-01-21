@@ -1,1 +1,2 @@
 - pkg:nuget/AWSSDK.Wickr@3.7.500.1
+- pkg:nuget/AWSSDK.Wickr@3.7.500.11
