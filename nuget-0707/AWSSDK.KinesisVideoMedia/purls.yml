@@ -1156,6 +1156,7 @@
 - pkg:nuget/AWSSDK.KinesisVideoMedia@3.7.502.20
 - pkg:nuget/AWSSDK.KinesisVideoMedia@3.7.502.21
 - pkg:nuget/AWSSDK.KinesisVideoMedia@3.7.502.25
+- pkg:nuget/AWSSDK.KinesisVideoMedia@3.7.502.35
 - pkg:nuget/AWSSDK.KinesisVideoMedia@3.7.502.5
 - pkg:nuget/AWSSDK.KinesisVideoMedia@4.0.0
 - pkg:nuget/AWSSDK.KinesisVideoMedia@4.0.0-preview

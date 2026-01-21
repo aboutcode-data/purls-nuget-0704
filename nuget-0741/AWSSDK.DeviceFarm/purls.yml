@@ -1214,6 +1214,7 @@
 - pkg:nuget/AWSSDK.DeviceFarm@3.7.502.2
 - pkg:nuget/AWSSDK.DeviceFarm@3.7.503.12
 - pkg:nuget/AWSSDK.DeviceFarm@3.7.503.13
+- pkg:nuget/AWSSDK.DeviceFarm@3.7.503.22
 - pkg:nuget/AWSSDK.DeviceFarm@4.0.0
 - pkg:nuget/AWSSDK.DeviceFarm@4.0.0-preview
 - pkg:nuget/AWSSDK.DeviceFarm@4.0.0-preview.10
