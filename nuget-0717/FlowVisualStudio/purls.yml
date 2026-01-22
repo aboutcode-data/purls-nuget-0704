@@ -7,4 +7,5 @@
 - pkg:nuget/FlowVisualStudio@1.0.8
 - pkg:nuget/FlowVisualStudio@2.0.0
 - pkg:nuget/FlowVisualStudio@3.0.2
+- pkg:nuget/FlowVisualStudio@3.1.33
 - pkg:nuget/FlowVisualStudio@3.1.5.5
