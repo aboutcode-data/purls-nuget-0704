@@ -45,6 +45,7 @@
 - pkg:nuget/CloudSnorkel.Cdk.Github.Runners@0.14.12
 - pkg:nuget/CloudSnorkel.Cdk.Github.Runners@0.14.14
 - pkg:nuget/CloudSnorkel.Cdk.Github.Runners@0.14.2
+- pkg:nuget/CloudSnorkel.Cdk.Github.Runners@0.14.22
 - pkg:nuget/CloudSnorkel.Cdk.Github.Runners@0.14.3
 - pkg:nuget/CloudSnorkel.Cdk.Github.Runners@0.14.4
 - pkg:nuget/CloudSnorkel.Cdk.Github.Runners@0.14.5
