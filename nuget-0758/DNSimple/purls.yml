@@ -34,3 +34,4 @@
 - pkg:nuget/DNSimple@0.8.0-alpha-27042020
 - pkg:nuget/DNSimple@0.8.3-alpha
 - pkg:nuget/DNSimple@0.9.0
+- pkg:nuget/DNSimple@1.0.0
