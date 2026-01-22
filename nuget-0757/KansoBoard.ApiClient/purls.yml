@@ -1,1 +1,3 @@
 - pkg:nuget/KansoBoard.ApiClient@1.1.0
+- pkg:nuget/KansoBoard.ApiClient@2.1.1
+- pkg:nuget/KansoBoard.ApiClient@2.2.0
