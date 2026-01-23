@@ -997,6 +997,7 @@
 - pkg:nuget/AWSSDK.MarketplaceCatalog@3.7.503
 - pkg:nuget/AWSSDK.MarketplaceCatalog@3.7.503.1
 - pkg:nuget/AWSSDK.MarketplaceCatalog@3.7.503.10
+- pkg:nuget/AWSSDK.MarketplaceCatalog@3.7.503.22
 - pkg:nuget/AWSSDK.MarketplaceCatalog@3.7.503.5
 - pkg:nuget/AWSSDK.MarketplaceCatalog@4.0.0
 - pkg:nuget/AWSSDK.MarketplaceCatalog@4.0.0-preview
