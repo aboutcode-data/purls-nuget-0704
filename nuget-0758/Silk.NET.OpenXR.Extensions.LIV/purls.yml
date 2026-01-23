@@ -13,6 +13,7 @@
 - pkg:nuget/Silk.NET.OpenXR.Extensions.LIV@2.20.0
 - pkg:nuget/Silk.NET.OpenXR.Extensions.LIV@2.21.0
 - pkg:nuget/Silk.NET.OpenXR.Extensions.LIV@2.22.0
+- pkg:nuget/Silk.NET.OpenXR.Extensions.LIV@2.23.0
 - pkg:nuget/Silk.NET.OpenXR.Extensions.LIV@2.7.0
 - pkg:nuget/Silk.NET.OpenXR.Extensions.LIV@2.8.0
 - pkg:nuget/Silk.NET.OpenXR.Extensions.LIV@2.9.0

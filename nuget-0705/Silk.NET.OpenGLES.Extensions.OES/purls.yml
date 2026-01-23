@@ -39,6 +39,7 @@
 - pkg:nuget/Silk.NET.OpenGLES.Extensions.OES@2.20.0
 - pkg:nuget/Silk.NET.OpenGLES.Extensions.OES@2.21.0
 - pkg:nuget/Silk.NET.OpenGLES.Extensions.OES@2.22.0
+- pkg:nuget/Silk.NET.OpenGLES.Extensions.OES@2.23.0
 - pkg:nuget/Silk.NET.OpenGLES.Extensions.OES@2.3.0
 - pkg:nuget/Silk.NET.OpenGLES.Extensions.OES@2.4.0
 - pkg:nuget/Silk.NET.OpenGLES.Extensions.OES@2.5.0

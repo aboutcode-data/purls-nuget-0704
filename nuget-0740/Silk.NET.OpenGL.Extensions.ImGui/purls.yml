@@ -13,6 +13,7 @@
 - pkg:nuget/Silk.NET.OpenGL.Extensions.ImGui@2.20.0
 - pkg:nuget/Silk.NET.OpenGL.Extensions.ImGui@2.21.0
 - pkg:nuget/Silk.NET.OpenGL.Extensions.ImGui@2.22.0
+- pkg:nuget/Silk.NET.OpenGL.Extensions.ImGui@2.23.0
 - pkg:nuget/Silk.NET.OpenGL.Extensions.ImGui@2.3.0
 - pkg:nuget/Silk.NET.OpenGL.Extensions.ImGui@2.4.0
 - pkg:nuget/Silk.NET.OpenGL.Extensions.ImGui@2.5.0
