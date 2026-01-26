@@ -23,6 +23,7 @@
 - pkg:nuget/Robhan.CdkLib.AwsGrafana@0.0.147
 - pkg:nuget/Robhan.CdkLib.AwsGrafana@0.0.173
 - pkg:nuget/Robhan.CdkLib.AwsGrafana@0.0.213
+- pkg:nuget/Robhan.CdkLib.AwsGrafana@0.0.235
 - pkg:nuget/Robhan.CdkLib.AwsGrafana@0.0.29
 - pkg:nuget/Robhan.CdkLib.AwsGrafana@0.0.30
 - pkg:nuget/Robhan.CdkLib.AwsGrafana@0.0.31
