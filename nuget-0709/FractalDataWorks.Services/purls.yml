@@ -15,6 +15,7 @@
 - pkg:nuget/FractalDataWorks.Services@0.2.0-preview-g04be583521
 - pkg:nuget/FractalDataWorks.Services@0.2.0-preview-g227c756239
 - pkg:nuget/FractalDataWorks.Services@0.2.0-preview-g6e9fdee4de
+- pkg:nuget/FractalDataWorks.Services@0.2.4-preview.2
 - pkg:nuget/FractalDataWorks.Services@0.20.0-alpha.1062
 - pkg:nuget/FractalDataWorks.Services@0.20.0-alpha.1074
 - pkg:nuget/FractalDataWorks.Services@0.30.0-alpha.1224
