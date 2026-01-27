@@ -20,3 +20,5 @@
 - pkg:nuget/OnAim.Shared.Domain@1.0.7
 - pkg:nuget/OnAim.Shared.Domain@1.0.8
 - pkg:nuget/OnAim.Shared.Domain@1.0.9
+- pkg:nuget/OnAim.Shared.Domain@1.4.3
+- pkg:nuget/OnAim.Shared.Domain@1.4.4
