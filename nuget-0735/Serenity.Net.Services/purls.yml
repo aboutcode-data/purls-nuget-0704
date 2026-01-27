@@ -1,4 +1,5 @@
 - pkg:nuget/Serenity.Net.Services@10.1.0
+- pkg:nuget/Serenity.Net.Services@10.1.5
 - pkg:nuget/Serenity.Net.Services@5.0.0
 - pkg:nuget/Serenity.Net.Services@5.0.1
 - pkg:nuget/Serenity.Net.Services@5.0.10
@@ -200,3 +201,4 @@
 - pkg:nuget/Serenity.Net.Services@8.8.8
 - pkg:nuget/Serenity.Net.Services@8.8.9
 - pkg:nuget/Serenity.Net.Services@9.0.0
+- pkg:nuget/Serenity.Net.Services@9.2.2

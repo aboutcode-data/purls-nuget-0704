@@ -1,4 +1,5 @@
 - pkg:nuget/Serenity.Demo.BasicSamples@10.1.0
+- pkg:nuget/Serenity.Demo.BasicSamples@10.1.5
 - pkg:nuget/Serenity.Demo.BasicSamples@5.0.28.3
 - pkg:nuget/Serenity.Demo.BasicSamples@5.0.33
 - pkg:nuget/Serenity.Demo.BasicSamples@5.0.34
@@ -143,3 +144,4 @@
 - pkg:nuget/Serenity.Demo.BasicSamples@8.8.9
 - pkg:nuget/Serenity.Demo.BasicSamples@9.0.0
 - pkg:nuget/Serenity.Demo.BasicSamples@9.1.1
+- pkg:nuget/Serenity.Demo.BasicSamples@9.2.2

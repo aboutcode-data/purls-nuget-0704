@@ -85,3 +85,4 @@
 - pkg:nuget/Microsoft.PowerApps.MSBuild.Solution@1.9.4
 - pkg:nuget/Microsoft.PowerApps.MSBuild.Solution@1.9.8
 - pkg:nuget/Microsoft.PowerApps.MSBuild.Solution@1.9.9
+- pkg:nuget/Microsoft.PowerApps.MSBuild.Solution@2.1.1
