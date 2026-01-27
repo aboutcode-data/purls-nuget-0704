@@ -8,6 +8,7 @@
 - pkg:nuget/KnightBus.ApplicationInsights@11.0.0
 - pkg:nuget/KnightBus.ApplicationInsights@12.0.0
 - pkg:nuget/KnightBus.ApplicationInsights@13.0.0
+- pkg:nuget/KnightBus.ApplicationInsights@14.0.0-alpha-ff7a73ac
 - pkg:nuget/KnightBus.ApplicationInsights@2.0.0
 - pkg:nuget/KnightBus.ApplicationInsights@2.1.0
 - pkg:nuget/KnightBus.ApplicationInsights@3.0.0
