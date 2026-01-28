@@ -4,3 +4,4 @@
 - pkg:nuget/ANcpSdk.AspNetCore.ServiceDefaults@1.6.29
 - pkg:nuget/ANcpSdk.AspNetCore.ServiceDefaults@1.6.5
 - pkg:nuget/ANcpSdk.AspNetCore.ServiceDefaults@1.6.7
+- pkg:nuget/ANcpSdk.AspNetCore.ServiceDefaults@1.7.2
