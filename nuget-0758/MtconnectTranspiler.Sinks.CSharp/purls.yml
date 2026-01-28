@@ -24,3 +24,4 @@
 - pkg:nuget/MtconnectTranspiler.Sinks.CSharp@2.5.0-review
 - pkg:nuget/MtconnectTranspiler.Sinks.CSharp@2.5.1
 - pkg:nuget/MtconnectTranspiler.Sinks.CSharp@2.5.2
+- pkg:nuget/MtconnectTranspiler.Sinks.CSharp@2.7.0-voting
