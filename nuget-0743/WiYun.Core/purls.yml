@@ -1,5 +1,6 @@
 - pkg:nuget/WiYun.Core@5.59.46
 - pkg:nuget/WiYun.Core@5.59.49
+- pkg:nuget/WiYun.Core@5.59.58
 - pkg:nuget/WiYun.Core@6.2.1
 - pkg:nuget/WiYun.Core@6.2.2
 - pkg:nuget/WiYun.Core@6.2.3
