@@ -1,4 +1,6 @@
 - pkg:nuget/FractalDataWorks.MessageLogging.SourceGenerators@0.2.4-preview.2
 - pkg:nuget/FractalDataWorks.MessageLogging.SourceGenerators@0.30.0-alpha.1224
+- pkg:nuget/FractalDataWorks.MessageLogging.SourceGenerators@0.4.0-preview.5
+- pkg:nuget/FractalDataWorks.MessageLogging.SourceGenerators@0.4.0-preview.6
 - pkg:nuget/FractalDataWorks.MessageLogging.SourceGenerators@0.9.0-alpha.1009.g7f6817e985
 - pkg:nuget/FractalDataWorks.MessageLogging.SourceGenerators@0.9.0-alpha.1010.gecd88aac50
