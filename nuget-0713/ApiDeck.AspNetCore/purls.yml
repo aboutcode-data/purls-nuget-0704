@@ -1,2 +1,3 @@
 - pkg:nuget/ApiDeck.AspNetCore@1.0.0
 - pkg:nuget/ApiDeck.AspNetCore@1.0.2
+- pkg:nuget/ApiDeck.AspNetCore@2.5.1
