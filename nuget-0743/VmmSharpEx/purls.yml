@@ -144,7 +144,10 @@
 - pkg:nuget/VmmSharpEx@3.200.0-beta.15
 - pkg:nuget/VmmSharpEx@3.200.0-beta.16
 - pkg:nuget/VmmSharpEx@3.200.0-beta.2
+- pkg:nuget/VmmSharpEx@3.200.0-beta.21
+- pkg:nuget/VmmSharpEx@3.200.0-beta.22
 - pkg:nuget/VmmSharpEx@3.200.0-beta.23
+- pkg:nuget/VmmSharpEx@3.200.0-beta.24
 - pkg:nuget/VmmSharpEx@3.200.0-beta.8
 - pkg:nuget/VmmSharpEx@3.200.0-beta.9
 - pkg:nuget/VmmSharpEx@3.50.9389.878
