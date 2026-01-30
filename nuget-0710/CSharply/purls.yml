@@ -5,3 +5,5 @@
 - pkg:nuget/CSharply@1.16.0
 - pkg:nuget/CSharply@1.17.0
 - pkg:nuget/CSharply@1.18.0
+- pkg:nuget/CSharply@1.41.0
+- pkg:nuget/CSharply@1.42.0
