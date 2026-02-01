@@ -52,3 +52,4 @@
 - pkg:nuget/XConsole@1.5.1
 - pkg:nuget/XConsole@1.5.2
 - pkg:nuget/XConsole@1.5.3
+- pkg:nuget/XConsole@1.6.3

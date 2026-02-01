@@ -26,6 +26,7 @@
 - pkg:nuget/GridLab.Abp.Persona@1.3.3
 - pkg:nuget/GridLab.Abp.Persona@1.3.4
 - pkg:nuget/GridLab.Abp.Persona@1.3.5
+- pkg:nuget/GridLab.Abp.Persona@10.1.0.390
 - pkg:nuget/GridLab.Abp.Persona@9.2.1
 - pkg:nuget/GridLab.Abp.Persona@9.2.2
 - pkg:nuget/GridLab.Abp.Persona@9.2.2.178
