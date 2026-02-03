@@ -145,4 +145,5 @@
 - pkg:nuget/Onsight.DeviceApi.TestHelpers@0.0.5-beta.180
 - pkg:nuget/Onsight.DeviceApi.TestHelpers@0.0.5-beta.218
 - pkg:nuget/Onsight.DeviceApi.TestHelpers@0.0.6-beta.27
+- pkg:nuget/Onsight.DeviceApi.TestHelpers@0.0.6-beta.31
 - pkg:nuget/Onsight.DeviceApi.TestHelpers@0.0.6-beta.7
