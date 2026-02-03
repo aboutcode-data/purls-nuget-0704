@@ -23,3 +23,6 @@
 - pkg:nuget/NLog.Targets.OpenTelemetryProtocol@1.2.1-rc.1
 - pkg:nuget/NLog.Targets.OpenTelemetryProtocol@1.2.1-rc.2
 - pkg:nuget/NLog.Targets.OpenTelemetryProtocol@1.2.2
+- pkg:nuget/NLog.Targets.OpenTelemetryProtocol@1.2.5
+- pkg:nuget/NLog.Targets.OpenTelemetryProtocol@1.2.5-rc.1
+- pkg:nuget/NLog.Targets.OpenTelemetryProtocol@1.2.5-rc.2
