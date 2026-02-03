@@ -41,6 +41,7 @@
 - pkg:nuget/OCI.DotNetSDK.Waa@119.1.0
 - pkg:nuget/OCI.DotNetSDK.Waa@120.0.0
 - pkg:nuget/OCI.DotNetSDK.Waa@121.1.0
+- pkg:nuget/OCI.DotNetSDK.Waa@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Waa@39.0.0
 - pkg:nuget/OCI.DotNetSDK.Waa@39.1.0
 - pkg:nuget/OCI.DotNetSDK.Waa@39.2.0

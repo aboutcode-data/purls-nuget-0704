@@ -42,6 +42,7 @@
 - pkg:nuget/OCI.DotNetSDK.Jmsjavadownloads@120.0.0
 - pkg:nuget/OCI.DotNetSDK.Jmsjavadownloads@121.1.0
 - pkg:nuget/OCI.DotNetSDK.Jmsjavadownloads@122.0.0
+- pkg:nuget/OCI.DotNetSDK.Jmsjavadownloads@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Jmsjavadownloads@74.1.0
 - pkg:nuget/OCI.DotNetSDK.Jmsjavadownloads@75.0.0
 - pkg:nuget/OCI.DotNetSDK.Jmsjavadownloads@76.0.0

@@ -42,6 +42,7 @@
 - pkg:nuget/OCI.DotNetSDK.Databasetools@120.0.0
 - pkg:nuget/OCI.DotNetSDK.Databasetools@121.1.0
 - pkg:nuget/OCI.DotNetSDK.Databasetools@122.0.0
+- pkg:nuget/OCI.DotNetSDK.Databasetools@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Databasetools@28.1.0
 - pkg:nuget/OCI.DotNetSDK.Databasetools@29.0.0
 - pkg:nuget/OCI.DotNetSDK.Databasetools@29.1.0

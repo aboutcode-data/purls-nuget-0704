@@ -41,6 +41,7 @@
 - pkg:nuget/OCI.DotNetSDK.Osmanagementhub@119.1.0
 - pkg:nuget/OCI.DotNetSDK.Osmanagementhub@120.0.0
 - pkg:nuget/OCI.DotNetSDK.Osmanagementhub@121.1.0
+- pkg:nuget/OCI.DotNetSDK.Osmanagementhub@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Osmanagementhub@64.2.0
 - pkg:nuget/OCI.DotNetSDK.Osmanagementhub@65.0.0
 - pkg:nuget/OCI.DotNetSDK.Osmanagementhub@66.0.0
