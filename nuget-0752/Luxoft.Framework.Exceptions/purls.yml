@@ -263,3 +263,4 @@
 - pkg:nuget/Luxoft.Framework.Exceptions@23.2.9.3
 - pkg:nuget/Luxoft.Framework.Exceptions@24.1.3
 - pkg:nuget/Luxoft.Framework.Exceptions@25.1.5
+- pkg:nuget/Luxoft.Framework.Exceptions@25.3.0
