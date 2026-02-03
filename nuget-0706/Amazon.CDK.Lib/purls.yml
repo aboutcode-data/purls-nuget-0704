@@ -226,6 +226,7 @@
 - pkg:nuget/Amazon.CDK.Lib@2.23.0
 - pkg:nuget/Amazon.CDK.Lib@2.235.0
 - pkg:nuget/Amazon.CDK.Lib@2.235.1
+- pkg:nuget/Amazon.CDK.Lib@2.237.0
 - pkg:nuget/Amazon.CDK.Lib@2.24.0
 - pkg:nuget/Amazon.CDK.Lib@2.24.1
 - pkg:nuget/Amazon.CDK.Lib@2.25.0
