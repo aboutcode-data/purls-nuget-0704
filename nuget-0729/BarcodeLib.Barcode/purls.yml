@@ -20,3 +20,4 @@
 - pkg:nuget/BarcodeLib.Barcode@7.4.2.7
 - pkg:nuget/BarcodeLib.Barcode@7.4.2.8
 - pkg:nuget/BarcodeLib.Barcode@7.4.2.9
+- pkg:nuget/BarcodeLib.Barcode@8.0.0.6
