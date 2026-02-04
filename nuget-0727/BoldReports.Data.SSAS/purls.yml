@@ -13,6 +13,7 @@
 - pkg:nuget/BoldReports.Data.SSAS@11.1.10
 - pkg:nuget/BoldReports.Data.SSAS@11.1.11
 - pkg:nuget/BoldReports.Data.SSAS@11.1.15
+- pkg:nuget/BoldReports.Data.SSAS@12.2.9
 - pkg:nuget/BoldReports.Data.SSAS@3.1.101
 - pkg:nuget/BoldReports.Data.SSAS@3.3.23
 - pkg:nuget/BoldReports.Data.SSAS@3.3.24

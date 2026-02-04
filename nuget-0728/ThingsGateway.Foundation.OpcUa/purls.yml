@@ -359,6 +359,7 @@
 - pkg:nuget/ThingsGateway.Foundation.OpcUa@12.4.22
 - pkg:nuget/ThingsGateway.Foundation.OpcUa@12.4.38
 - pkg:nuget/ThingsGateway.Foundation.OpcUa@12.4.45
+- pkg:nuget/ThingsGateway.Foundation.OpcUa@12.4.47
 - pkg:nuget/ThingsGateway.Foundation.OpcUa@5.0.0
 - pkg:nuget/ThingsGateway.Foundation.OpcUa@5.0.0.1
 - pkg:nuget/ThingsGateway.Foundation.OpcUa@5.0.0.10
