@@ -6,6 +6,7 @@
 - pkg:nuget/ForgejoApiClient@12.0.1-rev.2
 - pkg:nuget/ForgejoApiClient@12.0.1-rev.3
 - pkg:nuget/ForgejoApiClient@12.0.1-rev.4
+- pkg:nuget/ForgejoApiClient@14.0.0-rev.2
 - pkg:nuget/ForgejoApiClient@7.0.0-rev.0
 - pkg:nuget/ForgejoApiClient@7.0.5-rev.0
 - pkg:nuget/ForgejoApiClient@7.0.5-rev.1
