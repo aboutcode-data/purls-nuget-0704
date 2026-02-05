@@ -99,3 +99,4 @@
 - pkg:nuget/NTwain@4.0.0-alpha.7
 - pkg:nuget/NTwain@4.0.0-alpha.8
 - pkg:nuget/NTwain@4.0.0-alpha.9
+- pkg:nuget/NTwain@4.0.0-beta.4
