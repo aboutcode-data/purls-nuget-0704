@@ -25,3 +25,4 @@
 - pkg:nuget/FeiNuo.AspNetCore@1.1.9
 - pkg:nuget/FeiNuo.AspNetCore@1.2.0
 - pkg:nuget/FeiNuo.AspNetCore@1.2.1
+- pkg:nuget/FeiNuo.AspNetCore@1.3.4
