@@ -995,6 +995,7 @@
 - pkg:nuget/AWSSDK.SSOOIDC@3.7.503.25
 - pkg:nuget/AWSSDK.SSOOIDC@3.7.503.32
 - pkg:nuget/AWSSDK.SSOOIDC@3.7.503.34
+- pkg:nuget/AWSSDK.SSOOIDC@3.7.503.39
 - pkg:nuget/AWSSDK.SSOOIDC@3.7.503.9
 - pkg:nuget/AWSSDK.SSOOIDC@4.0.0
 - pkg:nuget/AWSSDK.SSOOIDC@4.0.0-preview

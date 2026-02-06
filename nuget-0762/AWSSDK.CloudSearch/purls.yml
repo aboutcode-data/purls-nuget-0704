@@ -1205,6 +1205,7 @@
 - pkg:nuget/AWSSDK.CloudSearch@3.7.501.19
 - pkg:nuget/AWSSDK.CloudSearch@3.7.501.20
 - pkg:nuget/AWSSDK.CloudSearch@3.7.501.29
+- pkg:nuget/AWSSDK.CloudSearch@3.7.501.36
 - pkg:nuget/AWSSDK.CloudSearch@3.7.501.6
 - pkg:nuget/AWSSDK.CloudSearch@3.7.501.8
 - pkg:nuget/AWSSDK.CloudSearch@4.0.0

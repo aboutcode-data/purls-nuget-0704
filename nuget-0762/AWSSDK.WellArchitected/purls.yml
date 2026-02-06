@@ -824,6 +824,7 @@
 - pkg:nuget/AWSSDK.WellArchitected@3.7.501.25
 - pkg:nuget/AWSSDK.WellArchitected@3.7.501.26
 - pkg:nuget/AWSSDK.WellArchitected@3.7.501.37
+- pkg:nuget/AWSSDK.WellArchitected@3.7.501.42
 - pkg:nuget/AWSSDK.WellArchitected@4.0.0
 - pkg:nuget/AWSSDK.WellArchitected@4.0.0-preview
 - pkg:nuget/AWSSDK.WellArchitected@4.0.0-preview.10

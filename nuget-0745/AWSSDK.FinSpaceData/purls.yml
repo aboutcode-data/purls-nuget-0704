@@ -776,6 +776,7 @@
 - pkg:nuget/AWSSDK.FinSpaceData@3.7.501.16
 - pkg:nuget/AWSSDK.FinSpaceData@3.7.501.25
 - pkg:nuget/AWSSDK.FinSpaceData@3.7.501.28
+- pkg:nuget/AWSSDK.FinSpaceData@3.7.501.42
 - pkg:nuget/AWSSDK.FinSpaceData@4.0.0
 - pkg:nuget/AWSSDK.FinSpaceData@4.0.0-preview
 - pkg:nuget/AWSSDK.FinSpaceData@4.0.0-preview.10
