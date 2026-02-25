@@ -173,6 +173,7 @@
 - pkg:nuget/Parlem.Provisioning.AgileTv.Facade@8.0.61
 - pkg:nuget/Parlem.Provisioning.AgileTv.Facade@8.0.68
 - pkg:nuget/Parlem.Provisioning.AgileTv.Facade@8.0.7
+- pkg:nuget/Parlem.Provisioning.AgileTv.Facade@8.0.74
 - pkg:nuget/Parlem.Provisioning.AgileTv.Facade@8.0.8
 - pkg:nuget/Parlem.Provisioning.AgileTv.Facade@8.0.9
 - pkg:nuget/Parlem.Provisioning.AgileTv.Facade@8.0.9-beta1

@@ -1,3 +1,4 @@
+- pkg:nuget/M2FNugetControllers@10.0.0
 - pkg:nuget/M2FNugetControllers@5.1.10
 - pkg:nuget/M2FNugetControllers@5.1.9
 - pkg:nuget/M2FNugetControllers@5.2.0

@@ -20,3 +20,5 @@
 - pkg:nuget/TimeWarp.Nuru@2.1.0-beta.9
 - pkg:nuget/TimeWarp.Nuru@3.0.0-beta.10
 - pkg:nuget/TimeWarp.Nuru@3.0.0-beta.35
+- pkg:nuget/TimeWarp.Nuru@3.0.0-beta.46
+- pkg:nuget/TimeWarp.Nuru@3.0.0-beta.54
