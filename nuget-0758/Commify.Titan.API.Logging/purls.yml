@@ -1,3 +1,5 @@
 - pkg:nuget/Commify.Titan.API.Logging@0.14.0
 - pkg:nuget/Commify.Titan.API.Logging@0.15.0
 - pkg:nuget/Commify.Titan.API.Logging@0.21.0
+- pkg:nuget/Commify.Titan.API.Logging@0.28.0
+- pkg:nuget/Commify.Titan.API.Logging@0.30.0

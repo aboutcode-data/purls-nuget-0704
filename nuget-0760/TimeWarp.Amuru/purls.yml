@@ -2,6 +2,7 @@
 - pkg:nuget/TimeWarp.Amuru@1.0.0-beta.10
 - pkg:nuget/TimeWarp.Amuru@1.0.0-beta.15
 - pkg:nuget/TimeWarp.Amuru@1.0.0-beta.2
+- pkg:nuget/TimeWarp.Amuru@1.0.0-beta.20
 - pkg:nuget/TimeWarp.Amuru@1.0.0-beta.3
 - pkg:nuget/TimeWarp.Amuru@1.0.0-beta.4
 - pkg:nuget/TimeWarp.Amuru@1.0.0-beta.5
