@@ -169,6 +169,7 @@
 - pkg:nuget/Skyline.DataMiner.Files.SLLoggerUtil@10.5.0
 - pkg:nuget/Skyline.DataMiner.Files.SLLoggerUtil@10.5.0.1
 - pkg:nuget/Skyline.DataMiner.Files.SLLoggerUtil@10.5.0.10
+- pkg:nuget/Skyline.DataMiner.Files.SLLoggerUtil@10.5.0.16
 - pkg:nuget/Skyline.DataMiner.Files.SLLoggerUtil@10.5.0.2
 - pkg:nuget/Skyline.DataMiner.Files.SLLoggerUtil@10.5.0.3
 - pkg:nuget/Skyline.DataMiner.Files.SLLoggerUtil@10.5.0.4
@@ -194,3 +195,5 @@
 - pkg:nuget/Skyline.DataMiner.Files.SLLoggerUtil@10.5.8.1
 - pkg:nuget/Skyline.DataMiner.Files.SLLoggerUtil@10.5.9.1
 - pkg:nuget/Skyline.DataMiner.Files.SLLoggerUtil@10.5.9.2
+- pkg:nuget/Skyline.DataMiner.Files.SLLoggerUtil@10.6.0.1
+- pkg:nuget/Skyline.DataMiner.Files.SLLoggerUtil@10.6.3

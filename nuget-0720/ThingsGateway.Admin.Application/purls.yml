@@ -360,6 +360,7 @@
 - pkg:nuget/ThingsGateway.Admin.Application@10.9.98
 - pkg:nuget/ThingsGateway.Admin.Application@10.9.99
 - pkg:nuget/ThingsGateway.Admin.Application@12.4.23
+- pkg:nuget/ThingsGateway.Admin.Application@12.4.49
 - pkg:nuget/ThingsGateway.Admin.Application@6.0.4.10
 - pkg:nuget/ThingsGateway.Admin.Application@6.0.4.11
 - pkg:nuget/ThingsGateway.Admin.Application@6.0.4.13

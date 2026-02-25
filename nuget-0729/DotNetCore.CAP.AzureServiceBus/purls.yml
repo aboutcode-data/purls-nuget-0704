@@ -1,3 +1,4 @@
+- pkg:nuget/DotNetCore.CAP.AzureServiceBus@10.0.2-preview-287480508
 - pkg:nuget/DotNetCore.CAP.AzureServiceBus@2.5.0
 - pkg:nuget/DotNetCore.CAP.AzureServiceBus@2.5.0-preview-67093158
 - pkg:nuget/DotNetCore.CAP.AzureServiceBus@2.5.0-preview-68640186

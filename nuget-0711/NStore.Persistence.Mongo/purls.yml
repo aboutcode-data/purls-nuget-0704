@@ -107,6 +107,7 @@
 - pkg:nuget/NStore.Persistence.Mongo@0.20.1
 - pkg:nuget/NStore.Persistence.Mongo@0.21.0-batchoperations0060
 - pkg:nuget/NStore.Persistence.Mongo@0.21.0-batchoperations0061
+- pkg:nuget/NStore.Persistence.Mongo@0.22.0-perfs0019
 - pkg:nuget/NStore.Persistence.Mongo@0.3.0
 - pkg:nuget/NStore.Persistence.Mongo@0.4.0
 - pkg:nuget/NStore.Persistence.Mongo@0.6.0
@@ -114,4 +115,5 @@
 - pkg:nuget/NStore.Persistence.Mongo@0.9.0
 - pkg:nuget/NStore.Persistence.Mongo@0.9.0-pre0034
 - pkg:nuget/NStore.Persistence.Mongo@0.9.0-pre0035
+- pkg:nuget/NStore.Persistence.Mongo@1.0.0-beta0000
 - pkg:nuget/NStore.Persistence.Mongo@10.1.0-pre0012

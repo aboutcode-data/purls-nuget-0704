@@ -138,3 +138,5 @@
 - pkg:nuget/Soenneker.Cloudflare.Caching@4.0.281
 - pkg:nuget/Soenneker.Cloudflare.Caching@4.0.285
 - pkg:nuget/Soenneker.Cloudflare.Caching@4.0.286
+- pkg:nuget/Soenneker.Cloudflare.Caching@4.0.309
+- pkg:nuget/Soenneker.Cloudflare.Caching@4.0.315

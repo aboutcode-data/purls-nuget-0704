@@ -153,6 +153,8 @@
 - pkg:nuget/Uno.Wasm.Bootstrap@1.5.0-dev.57
 - pkg:nuget/Uno.Wasm.Bootstrap@10.0.0-dev.24
 - pkg:nuget/Uno.Wasm.Bootstrap@10.0.1
+- pkg:nuget/Uno.Wasm.Bootstrap@10.0.40
+- pkg:nuget/Uno.Wasm.Bootstrap@10.0.96
 - pkg:nuget/Uno.Wasm.Bootstrap@2.0.0
 - pkg:nuget/Uno.Wasm.Bootstrap@2.0.0-dev.115
 - pkg:nuget/Uno.Wasm.Bootstrap@2.0.0-dev.119

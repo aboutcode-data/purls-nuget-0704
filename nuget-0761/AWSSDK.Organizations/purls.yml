@@ -1195,6 +1195,7 @@
 - pkg:nuget/AWSSDK.Organizations@3.7.509.16
 - pkg:nuget/AWSSDK.Organizations@3.7.509.18
 - pkg:nuget/AWSSDK.Organizations@3.7.509.24
+- pkg:nuget/AWSSDK.Organizations@3.7.509.29
 - pkg:nuget/AWSSDK.Organizations@3.7.509.6
 - pkg:nuget/AWSSDK.Organizations@4.0.0
 - pkg:nuget/AWSSDK.Organizations@4.0.0-preview

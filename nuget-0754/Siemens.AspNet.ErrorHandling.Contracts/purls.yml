@@ -1,3 +1,6 @@
+- pkg:nuget/Siemens.AspNet.ErrorHandling.Contracts@0.2.0-alpha.504
+- pkg:nuget/Siemens.AspNet.ErrorHandling.Contracts@0.2.0-alpha.510
+- pkg:nuget/Siemens.AspNet.ErrorHandling.Contracts@0.2.0-alpha.514
 - pkg:nuget/Siemens.AspNet.ErrorHandling.Contracts@1.0.0
 - pkg:nuget/Siemens.AspNet.ErrorHandling.Contracts@2.0.0%2B9
 - pkg:nuget/Siemens.AspNet.ErrorHandling.Contracts@2.0.1%2B2

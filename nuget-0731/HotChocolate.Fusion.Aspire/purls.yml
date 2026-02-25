@@ -252,6 +252,8 @@
 - pkg:nuget/HotChocolate.Fusion.Aspire@16.0.0-p.10.39
 - pkg:nuget/HotChocolate.Fusion.Aspire@16.0.0-p.10.5
 - pkg:nuget/HotChocolate.Fusion.Aspire@16.0.0-p.10.6
+- pkg:nuget/HotChocolate.Fusion.Aspire@16.0.0-p.11.10
+- pkg:nuget/HotChocolate.Fusion.Aspire@16.0.0-p.11.2
 - pkg:nuget/HotChocolate.Fusion.Aspire@16.0.0-p.7.17
 - pkg:nuget/HotChocolate.Fusion.Aspire@16.0.0-p.7.18
 - pkg:nuget/HotChocolate.Fusion.Aspire@16.0.0-p.7.19

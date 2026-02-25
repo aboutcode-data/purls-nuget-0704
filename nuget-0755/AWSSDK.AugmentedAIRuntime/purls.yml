@@ -991,6 +991,7 @@
 - pkg:nuget/AWSSDK.AugmentedAIRuntime@3.7.502.26
 - pkg:nuget/AWSSDK.AugmentedAIRuntime@3.7.502.36
 - pkg:nuget/AWSSDK.AugmentedAIRuntime@3.7.502.41
+- pkg:nuget/AWSSDK.AugmentedAIRuntime@3.7.502.46
 - pkg:nuget/AWSSDK.AugmentedAIRuntime@4.0.0
 - pkg:nuget/AWSSDK.AugmentedAIRuntime@4.0.0-preview
 - pkg:nuget/AWSSDK.AugmentedAIRuntime@4.0.0-preview.10
