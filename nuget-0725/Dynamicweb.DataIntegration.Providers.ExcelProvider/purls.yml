@@ -86,6 +86,7 @@
 - pkg:nuget/Dynamicweb.DataIntegration.Providers.ExcelProvider@10.19.4-PreRelease
 - pkg:nuget/Dynamicweb.DataIntegration.Providers.ExcelProvider@10.19.6
 - pkg:nuget/Dynamicweb.DataIntegration.Providers.ExcelProvider@10.20.0-PreRelease
+- pkg:nuget/Dynamicweb.DataIntegration.Providers.ExcelProvider@10.20.15
 - pkg:nuget/Dynamicweb.DataIntegration.Providers.ExcelProvider@10.21.2-PreRelease
 - pkg:nuget/Dynamicweb.DataIntegration.Providers.ExcelProvider@10.22.8
 - pkg:nuget/Dynamicweb.DataIntegration.Providers.ExcelProvider@10.4.0

@@ -27,3 +27,4 @@
 - pkg:nuget/CData.Zendesk@24.0.9060
 - pkg:nuget/CData.Zendesk@24.0.9111
 - pkg:nuget/CData.Zendesk@24.0.9175
+- pkg:nuget/CData.Zendesk@25.0.9539
