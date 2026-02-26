@@ -22,3 +22,4 @@
 - pkg:nuget/LumexUI@2.0.0-preview.4
 - pkg:nuget/LumexUI@2.0.1
 - pkg:nuget/LumexUI@2.1.0
+- pkg:nuget/LumexUI@2.3.0
