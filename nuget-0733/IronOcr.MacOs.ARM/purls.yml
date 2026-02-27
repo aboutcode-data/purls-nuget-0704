@@ -38,3 +38,4 @@
 - pkg:nuget/IronOcr.MacOs.ARM@2025.7.19
 - pkg:nuget/IronOcr.MacOs.ARM@2025.8.6
 - pkg:nuget/IronOcr.MacOs.ARM@2025.9.7
+- pkg:nuget/IronOcr.MacOs.ARM@2026.3.2
