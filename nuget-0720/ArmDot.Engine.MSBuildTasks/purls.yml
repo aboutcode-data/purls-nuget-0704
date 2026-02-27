@@ -98,3 +98,4 @@
 - pkg:nuget/ArmDot.Engine.MSBuildTasks@2025.6.0
 - pkg:nuget/ArmDot.Engine.MSBuildTasks@2025.7.0
 - pkg:nuget/ArmDot.Engine.MSBuildTasks@2025.8.0
+- pkg:nuget/ArmDot.Engine.MSBuildTasks@2026.4.0

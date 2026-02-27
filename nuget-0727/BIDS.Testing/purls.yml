@@ -1086,3 +1086,4 @@
 - pkg:nuget/BIDS.Testing@6.5.2-dev-b23785-cd2dd774
 - pkg:nuget/BIDS.Testing@6.5.5-dev-b23875-3a467d7a
 - pkg:nuget/BIDS.Testing@6.5.5-dev-b23885-3a467d7a
+- pkg:nuget/BIDS.Testing@6.5.5-dev-b23886-3a467d7a
