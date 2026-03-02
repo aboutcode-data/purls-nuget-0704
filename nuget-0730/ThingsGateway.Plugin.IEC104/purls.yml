@@ -3,4 +3,5 @@
 - pkg:nuget/ThingsGateway.Plugin.IEC104@12.4.20
 - pkg:nuget/ThingsGateway.Plugin.IEC104@12.4.37
 - pkg:nuget/ThingsGateway.Plugin.IEC104@12.4.43
+- pkg:nuget/ThingsGateway.Plugin.IEC104@12.4.45
 - pkg:nuget/ThingsGateway.Plugin.IEC104@12.4.8
