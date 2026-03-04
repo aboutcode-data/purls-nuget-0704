@@ -1,1 +1,2 @@
 - pkg:nuget/Performer.Ado.MySql@0.2.0-alpha
+- pkg:nuget/Performer.Ado.MySql@1.10.0-dev.2
