@@ -11,6 +11,7 @@
 - pkg:nuget/Soenneker.Entra.Middlewares.JwtAuth.Functions@3.0.8
 - pkg:nuget/Soenneker.Entra.Middlewares.JwtAuth.Functions@3.0.9
 - pkg:nuget/Soenneker.Entra.Middlewares.JwtAuth.Functions@4.0.115
+- pkg:nuget/Soenneker.Entra.Middlewares.JwtAuth.Functions@4.0.117
 - pkg:nuget/Soenneker.Entra.Middlewares.JwtAuth.Functions@4.0.46
 - pkg:nuget/Soenneker.Entra.Middlewares.JwtAuth.Functions@4.0.56
 - pkg:nuget/Soenneker.Entra.Middlewares.JwtAuth.Functions@4.0.80
