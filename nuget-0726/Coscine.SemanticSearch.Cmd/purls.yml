@@ -17,3 +17,4 @@
 - pkg:nuget/Coscine.SemanticSearch.Cmd@1.7.3
 - pkg:nuget/Coscine.SemanticSearch.Cmd@1.7.4
 - pkg:nuget/Coscine.SemanticSearch.Cmd@1.7.5
+- pkg:nuget/Coscine.SemanticSearch.Cmd@1.9.0
