@@ -96,3 +96,4 @@
 - pkg:nuget/ZhileTime.Hope.ServiceManagement.HttpApi.Client@5.5.1
 - pkg:nuget/ZhileTime.Hope.ServiceManagement.HttpApi.Client@5.5.9
 - pkg:nuget/ZhileTime.Hope.ServiceManagement.HttpApi.Client@5.7.2
+- pkg:nuget/ZhileTime.Hope.ServiceManagement.HttpApi.Client@6.2.0
