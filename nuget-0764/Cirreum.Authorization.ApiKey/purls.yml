@@ -1,1 +1,2 @@
 - pkg:nuget/Cirreum.Authorization.ApiKey@1.0.5
+- pkg:nuget/Cirreum.Authorization.ApiKey@1.0.8
