@@ -1,4 +1,6 @@
 - pkg:nuget/ArmoniK.Extensions.CSharp.Worker.Interfaces@0.20.1-ppi.releasePipeline.12.g301f7ca
 - pkg:nuget/ArmoniK.Extensions.CSharp.Worker.Interfaces@0.21.2
 - pkg:nuget/ArmoniK.Extensions.CSharp.Worker.Interfaces@0.21.3-ppi.partitionFilter.11.g39aaf0a
+- pkg:nuget/ArmoniK.Extensions.CSharp.Worker.Interfaces@0.21.3-ppi.partitionFilter.13.ge27038d
+- pkg:nuget/ArmoniK.Extensions.CSharp.Worker.Interfaces@0.21.3-ppi.pptyTaskState.16.gd0604af
 - pkg:nuget/ArmoniK.Extensions.CSharp.Worker.Interfaces@0.21.3-ppi.taskFilter.6.g0452134
