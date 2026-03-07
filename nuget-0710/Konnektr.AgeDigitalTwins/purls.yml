@@ -94,6 +94,7 @@
 - pkg:nuget/Konnektr.AgeDigitalTwins@1.18.0-preview.20
 - pkg:nuget/Konnektr.AgeDigitalTwins@1.18.0-preview.27
 - pkg:nuget/Konnektr.AgeDigitalTwins@1.19.2
+- pkg:nuget/Konnektr.AgeDigitalTwins@1.19.4
 - pkg:nuget/Konnektr.AgeDigitalTwins@1.2.1
 - pkg:nuget/Konnektr.AgeDigitalTwins@1.3.0
 - pkg:nuget/Konnektr.AgeDigitalTwins@1.3.1
