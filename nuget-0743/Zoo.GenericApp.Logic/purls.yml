@@ -137,6 +137,7 @@
 - pkg:nuget/Zoo.GenericApp.Logic@1.66.0
 - pkg:nuget/Zoo.GenericApp.Logic@1.8.0
 - pkg:nuget/Zoo.GenericApp.Logic@1.9.0
+- pkg:nuget/Zoo.GenericApp.Logic@10.2.8
 - pkg:nuget/Zoo.GenericApp.Logic@2.0.0
 - pkg:nuget/Zoo.GenericApp.Logic@2.1.0
 - pkg:nuget/Zoo.GenericApp.Logic@2.1.1
