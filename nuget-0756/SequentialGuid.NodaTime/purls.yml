@@ -8,3 +8,6 @@
 - pkg:nuget/SequentialGuid.NodaTime@4.0.4
 - pkg:nuget/SequentialGuid.NodaTime@4.0.5
 - pkg:nuget/SequentialGuid.NodaTime@4.0.6
+- pkg:nuget/SequentialGuid.NodaTime@5.0.0
+- pkg:nuget/SequentialGuid.NodaTime@5.0.1
+- pkg:nuget/SequentialGuid.NodaTime@5.0.2
