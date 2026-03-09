@@ -24,3 +24,5 @@
 - pkg:nuget/Credfeto.DotNet.Code.Analysis.Overrides.Cmd.osx-x64@1.0.5.291-main
 - pkg:nuget/Credfeto.DotNet.Code.Analysis.Overrides.Cmd.osx-x64@1.0.5.292-main
 - pkg:nuget/Credfeto.DotNet.Code.Analysis.Overrides.Cmd.osx-x64@1.0.5.310-main
+- pkg:nuget/Credfeto.DotNet.Code.Analysis.Overrides.Cmd.osx-x64@1.0.5.311-main
+- pkg:nuget/Credfeto.DotNet.Code.Analysis.Overrides.Cmd.osx-x64@1.0.5.312-main
