@@ -68,3 +68,4 @@
 - pkg:nuget/YuckQi.Data.Sql.Dapper@6.5.3
 - pkg:nuget/YuckQi.Data.Sql.Dapper@8.2.0
 - pkg:nuget/YuckQi.Data.Sql.Dapper@8.3.1
+- pkg:nuget/YuckQi.Data.Sql.Dapper@8.3.2
