@@ -79,3 +79,4 @@
 - pkg:nuget/Soenneker.StartupFilters.IntegrationTests@4.0.85
 - pkg:nuget/Soenneker.StartupFilters.IntegrationTests@4.0.88
 - pkg:nuget/Soenneker.StartupFilters.IntegrationTests@4.0.91
+- pkg:nuget/Soenneker.StartupFilters.IntegrationTests@4.0.92
