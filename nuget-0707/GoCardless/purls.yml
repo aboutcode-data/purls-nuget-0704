@@ -133,3 +133,4 @@
 - pkg:nuget/GoCardless@9.0.0
 - pkg:nuget/GoCardless@9.1.0
 - pkg:nuget/GoCardless@9.2.0
+- pkg:nuget/GoCardless@9.5.0
