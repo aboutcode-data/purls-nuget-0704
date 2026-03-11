@@ -44,3 +44,4 @@
 - pkg:nuget/Intent.Modules.Application.MediatR@4.4.2
 - pkg:nuget/Intent.Modules.Application.MediatR@4.5.0
 - pkg:nuget/Intent.Modules.Application.MediatR@4.5.1
+- pkg:nuget/Intent.Modules.Application.MediatR@4.6.0

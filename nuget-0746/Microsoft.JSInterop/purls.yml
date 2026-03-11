@@ -13,6 +13,7 @@
 - pkg:nuget/Microsoft.JSInterop@10.0.0-rc.1.25451.107
 - pkg:nuget/Microsoft.JSInterop@10.0.1
 - pkg:nuget/Microsoft.JSInterop@11.0.0-preview.1.26104.118
+- pkg:nuget/Microsoft.JSInterop@11.0.0-preview.2.26159.112
 - pkg:nuget/Microsoft.JSInterop@3.0.0
 - pkg:nuget/Microsoft.JSInterop@3.0.0-preview.19074.2
 - pkg:nuget/Microsoft.JSInterop@3.0.0-preview3.19153.1

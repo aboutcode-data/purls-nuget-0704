@@ -32,6 +32,7 @@
 - pkg:nuget/Eventuous.Gateway@0.15.0-rc.3
 - pkg:nuget/Eventuous.Gateway@0.15.1
 - pkg:nuget/Eventuous.Gateway@0.16.2
+- pkg:nuget/Eventuous.Gateway@0.16.3
 - pkg:nuget/Eventuous.Gateway@0.6.0
 - pkg:nuget/Eventuous.Gateway@0.6.1
 - pkg:nuget/Eventuous.Gateway@0.6.2
