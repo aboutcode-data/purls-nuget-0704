@@ -36,4 +36,5 @@
 - pkg:nuget/Cblx.EntityFrameworkCore.Dataverse@0.0.7
 - pkg:nuget/Cblx.EntityFrameworkCore.Dataverse@0.0.8
 - pkg:nuget/Cblx.EntityFrameworkCore.Dataverse@0.0.9
+- pkg:nuget/Cblx.EntityFrameworkCore.Dataverse@10.0.3
 - pkg:nuget/Cblx.EntityFrameworkCore.Dataverse@9.0.13

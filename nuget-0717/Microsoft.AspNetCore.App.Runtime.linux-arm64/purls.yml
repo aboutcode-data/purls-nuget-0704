@@ -8,6 +8,7 @@
 - pkg:nuget/Microsoft.AspNetCore.App.Runtime.linux-arm64@10.0.0-rc.1.25451.107
 - pkg:nuget/Microsoft.AspNetCore.App.Runtime.linux-arm64@10.0.0-rc.2.25502.107
 - pkg:nuget/Microsoft.AspNetCore.App.Runtime.linux-arm64@10.0.1
+- pkg:nuget/Microsoft.AspNetCore.App.Runtime.linux-arm64@11.0.0-preview.2.26159.112
 - pkg:nuget/Microsoft.AspNetCore.App.Runtime.linux-arm64@3.0.0
 - pkg:nuget/Microsoft.AspNetCore.App.Runtime.linux-arm64@3.0.0-preview5-19227-01
 - pkg:nuget/Microsoft.AspNetCore.App.Runtime.linux-arm64@3.0.0-preview6.19307.2

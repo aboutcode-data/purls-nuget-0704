@@ -699,3 +699,4 @@
 - pkg:nuget/Soenneker.Extensions.Dictionary@3.0.600
 - pkg:nuget/Soenneker.Extensions.Dictionary@3.0.601
 - pkg:nuget/Soenneker.Extensions.Dictionary@4.0.602
+- pkg:nuget/Soenneker.Extensions.Dictionary@4.0.610
