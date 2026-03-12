@@ -164,4 +164,5 @@
 - pkg:nuget/WolverineFx.AzureServiceBus@4.9.1
 - pkg:nuget/WolverineFx.AzureServiceBus@4.9.2
 - pkg:nuget/WolverineFx.AzureServiceBus@4.9.3
+- pkg:nuget/WolverineFx.AzureServiceBus@5.18.2
 - pkg:nuget/WolverineFx.AzureServiceBus@5.4.3
