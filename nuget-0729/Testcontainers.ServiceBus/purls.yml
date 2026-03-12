@@ -1,4 +1,5 @@
 - pkg:nuget/Testcontainers.ServiceBus@4.1.0
+- pkg:nuget/Testcontainers.ServiceBus@4.11.0
 - pkg:nuget/Testcontainers.ServiceBus@4.2.0
 - pkg:nuget/Testcontainers.ServiceBus@4.3.0
 - pkg:nuget/Testcontainers.ServiceBus@4.4.0
