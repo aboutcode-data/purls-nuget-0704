@@ -73,6 +73,7 @@
 - pkg:nuget/Soenneker.Libraries.FFplay@3.0.90
 - pkg:nuget/Soenneker.Libraries.FFplay@3.0.94
 - pkg:nuget/Soenneker.Libraries.FFplay@4.0.21
+- pkg:nuget/Soenneker.Libraries.FFplay@4.0.22
 - pkg:nuget/Soenneker.Libraries.FFplay@4.0.312
 - pkg:nuget/Soenneker.Libraries.FFplay@4.0.340
 - pkg:nuget/Soenneker.Libraries.FFplay@4.0.361

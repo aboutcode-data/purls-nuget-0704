@@ -167,3 +167,4 @@
 - pkg:nuget/Metalama.Tool@2025.1.9
 - pkg:nuget/Metalama.Tool@2025.2.1-preview
 - pkg:nuget/Metalama.Tool@2025.2.2-preview
+- pkg:nuget/Metalama.Tool@2026.0.17

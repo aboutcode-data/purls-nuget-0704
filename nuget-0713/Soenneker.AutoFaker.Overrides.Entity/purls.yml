@@ -741,3 +741,4 @@
 - pkg:nuget/Soenneker.AutoFaker.Overrides.Entity@4.0.787
 - pkg:nuget/Soenneker.AutoFaker.Overrides.Entity@4.0.789
 - pkg:nuget/Soenneker.AutoFaker.Overrides.Entity@4.0.797
+- pkg:nuget/Soenneker.AutoFaker.Overrides.Entity@4.0.805
