@@ -337,6 +337,7 @@
 - pkg:nuget/Soenneker.Libraries.ytdlp@3.0.665
 - pkg:nuget/Soenneker.Libraries.ytdlp@3.0.666
 - pkg:nuget/Soenneker.Libraries.ytdlp@3.0.669
+- pkg:nuget/Soenneker.Libraries.ytdlp@4.0.2
 - pkg:nuget/Soenneker.Libraries.ytdlp@4.0.701
 - pkg:nuget/Soenneker.Libraries.ytdlp@4.0.784
 - pkg:nuget/Soenneker.Libraries.ytdlp@4.0.822
