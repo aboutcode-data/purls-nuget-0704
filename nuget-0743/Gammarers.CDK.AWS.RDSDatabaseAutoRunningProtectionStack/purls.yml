@@ -37,3 +37,4 @@
 - pkg:nuget/Gammarers.CDK.AWS.RDSDatabaseAutoRunningProtectionStack@2.5.7
 - pkg:nuget/Gammarers.CDK.AWS.RDSDatabaseAutoRunningProtectionStack@2.5.8
 - pkg:nuget/Gammarers.CDK.AWS.RDSDatabaseAutoRunningProtectionStack@2.5.9
+- pkg:nuget/Gammarers.CDK.AWS.RDSDatabaseAutoRunningProtectionStack@2.7.6
