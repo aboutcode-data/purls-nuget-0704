@@ -1,1 +1,2 @@
 - pkg:nuget/rbkApiModules.Messaging.Core@10.0.12
+- pkg:nuget/rbkApiModules.Messaging.Core@10.0.14
