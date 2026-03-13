@@ -1,1 +1,4 @@
+- pkg:nuget/IronAlpine.Locking.Abstractions@0.1.1-preview.4
+- pkg:nuget/IronAlpine.Locking.Abstractions@1.0.0-rc1
 - pkg:nuget/IronAlpine.Locking.Abstractions@1.0.0-rc4
+- pkg:nuget/IronAlpine.Locking.Abstractions@1.1.0

@@ -1,1 +1,5 @@
+- pkg:nuget/IronAlpine.Security.Authorization.EFCore@0.3.0
+- pkg:nuget/IronAlpine.Security.Authorization.EFCore@1.0.0-rc1
 - pkg:nuget/IronAlpine.Security.Authorization.EFCore@1.0.0-rc4
+- pkg:nuget/IronAlpine.Security.Authorization.EFCore@1.0.1-rc4
+- pkg:nuget/IronAlpine.Security.Authorization.EFCore@1.1.0
