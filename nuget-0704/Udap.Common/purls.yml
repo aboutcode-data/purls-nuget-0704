@@ -223,3 +223,4 @@
 - pkg:nuget/Udap.Common@0.5.7
 - pkg:nuget/Udap.Common@0.5.8
 - pkg:nuget/Udap.Common@0.5.9
+- pkg:nuget/Udap.Common@0.6.3
