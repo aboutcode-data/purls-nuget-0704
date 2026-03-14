@@ -1,1 +1,2 @@
 - pkg:nuget/WolverineFx.Sqlite@5.18.2
+- pkg:nuget/WolverineFx.Sqlite@5.19.1
