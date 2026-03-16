@@ -1,4 +1,5 @@
 - pkg:nuget/NuvTools.Security.Identity.AspNetCore@10.1.1
+- pkg:nuget/NuvTools.Security.Identity.AspNetCore@10.1.5
 - pkg:nuget/NuvTools.Security.Identity.AspNetCore@6.5.0
 - pkg:nuget/NuvTools.Security.Identity.AspNetCore@7.0.0
 - pkg:nuget/NuvTools.Security.Identity.AspNetCore@7.0.1
