@@ -1,1 +1,2 @@
 - pkg:nuget/FclEx.AspNetCore.Testing@2.0.2
+- pkg:nuget/FclEx.AspNetCore.Testing@2.0.7
