@@ -1,4 +1,5 @@
 - pkg:nuget/YaBlewIt@1.0.1
+- pkg:nuget/YaBlewIt@10.0.5
 - pkg:nuget/YaBlewIt@2.0.1
 - pkg:nuget/YaBlewIt@2.0.2
 - pkg:nuget/YaBlewIt@7.0.1

@@ -1,4 +1,5 @@
 - pkg:nuget/DemonSolitaire@1.0.1
+- pkg:nuget/DemonSolitaire@10.0.5
 - pkg:nuget/DemonSolitaire@2.0.1
 - pkg:nuget/DemonSolitaire@2.0.2
 - pkg:nuget/DemonSolitaire@7.0.1
