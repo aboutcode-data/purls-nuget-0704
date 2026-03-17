@@ -5,6 +5,8 @@
 - pkg:nuget/RESTyard.Generator@0.12.0
 - pkg:nuget/RESTyard.Generator@0.12.0-develop-20250514.1
 - pkg:nuget/RESTyard.Generator@0.12.1
+- pkg:nuget/RESTyard.Generator@0.12.1-partial-controller-stubs-20260317.1
+- pkg:nuget/RESTyard.Generator@0.12.1-partial-controller-stubs-20260317.2
 - pkg:nuget/RESTyard.Generator@0.2.0
 - pkg:nuget/RESTyard.Generator@0.3.0
 - pkg:nuget/RESTyard.Generator@0.4.0
