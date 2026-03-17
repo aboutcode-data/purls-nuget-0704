@@ -1,4 +1,5 @@
 - pkg:nuget/SQLiteHelperLibraries@1.0.0
+- pkg:nuget/SQLiteHelperLibraries@10.0.12
 - pkg:nuget/SQLiteHelperLibraries@2.0.1
 - pkg:nuget/SQLiteHelperLibraries@3.0.1
 - pkg:nuget/SQLiteHelperLibraries@4.0.1
