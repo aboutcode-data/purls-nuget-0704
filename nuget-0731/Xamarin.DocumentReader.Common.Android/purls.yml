@@ -404,3 +404,4 @@
 - pkg:nuget/Xamarin.DocumentReader.Common.Android@9.3.3094-nightly
 - pkg:nuget/Xamarin.DocumentReader.Common.Android@9.3.3107-nightly
 - pkg:nuget/Xamarin.DocumentReader.Common.Android@9.3.3116-nightly
+- pkg:nuget/Xamarin.DocumentReader.Common.Android@9.3.3147-rc

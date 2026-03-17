@@ -538,3 +538,4 @@
 - pkg:nuget/Redpoint.ThirdParty.SharpSnmp@2026.1044.875
 - pkg:nuget/Redpoint.ThirdParty.SharpSnmp@2026.1064.360
 - pkg:nuget/Redpoint.ThirdParty.SharpSnmp@2026.1072.370
+- pkg:nuget/Redpoint.ThirdParty.SharpSnmp@2026.1076.368

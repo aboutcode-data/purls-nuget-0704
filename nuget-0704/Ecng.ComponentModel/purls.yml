@@ -283,6 +283,7 @@
 - pkg:nuget/Ecng.ComponentModel@1.0.42
 - pkg:nuget/Ecng.ComponentModel@1.0.420
 - pkg:nuget/Ecng.ComponentModel@1.0.43
+- pkg:nuget/Ecng.ComponentModel@1.0.436
 - pkg:nuget/Ecng.ComponentModel@1.0.44
 - pkg:nuget/Ecng.ComponentModel@1.0.45
 - pkg:nuget/Ecng.ComponentModel@1.0.46
