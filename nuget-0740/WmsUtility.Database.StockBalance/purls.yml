@@ -2,3 +2,5 @@
 - pkg:nuget/WmsUtility.Database.StockBalance@1.0.1
 - pkg:nuget/WmsUtility.Database.StockBalance@1.0.2
 - pkg:nuget/WmsUtility.Database.StockBalance@1.0.3
+- pkg:nuget/WmsUtility.Database.StockBalance@1.0.7
+- pkg:nuget/WmsUtility.Database.StockBalance@1.0.8
