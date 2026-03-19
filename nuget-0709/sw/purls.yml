@@ -13,5 +13,7 @@
 - pkg:nuget/sw@1.5.9-gd8162a2a47
 - pkg:nuget/sw@1.7.16-g996667f892
 - pkg:nuget/sw@1.7.3-g2ba93ead54
+- pkg:nuget/sw@1.7.34-g756502eb12
+- pkg:nuget/sw@1.7.35-g3cc511062d
 - pkg:nuget/sw@1.7.6-g70c8c3dd90
 - pkg:nuget/sw@1.7.7-ge249d0e168
