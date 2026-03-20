@@ -172,6 +172,8 @@
 - pkg:nuget/SpecItEasy.WinUI.Core@1.2.106-alpha-g9bc2be85a9
 - pkg:nuget/SpecItEasy.WinUI.Core@1.2.107-alpha-gef1894aad5
 - pkg:nuget/SpecItEasy.WinUI.Core@1.2.108-alpha-g2909ef49a0
+- pkg:nuget/SpecItEasy.WinUI.Core@1.2.112-alpha-ga7ba6a9572
+- pkg:nuget/SpecItEasy.WinUI.Core@1.2.113-alpha-g9b6221ce70
 - pkg:nuget/SpecItEasy.WinUI.Core@1.2.20-beta-g322a3178af
 - pkg:nuget/SpecItEasy.WinUI.Core@1.2.21-beta-gb467ba7ba9
 - pkg:nuget/SpecItEasy.WinUI.Core@1.2.22-beta-g9865b35087
