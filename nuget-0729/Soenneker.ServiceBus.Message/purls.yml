@@ -3032,3 +3032,6 @@
 - pkg:nuget/Soenneker.ServiceBus.Message@4.0.2846
 - pkg:nuget/Soenneker.ServiceBus.Message@4.0.2853
 - pkg:nuget/Soenneker.ServiceBus.Message@4.0.2866
+- pkg:nuget/Soenneker.ServiceBus.Message@4.0.2890
+- pkg:nuget/Soenneker.ServiceBus.Message@4.0.2891
+- pkg:nuget/Soenneker.ServiceBus.Message@4.0.2892

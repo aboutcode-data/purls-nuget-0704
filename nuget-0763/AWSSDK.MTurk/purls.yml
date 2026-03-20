@@ -1177,6 +1177,7 @@
 - pkg:nuget/AWSSDK.MTurk@3.7.502.38
 - pkg:nuget/AWSSDK.MTurk@3.7.502.43
 - pkg:nuget/AWSSDK.MTurk@3.7.502.50
+- pkg:nuget/AWSSDK.MTurk@3.7.502.53
 - pkg:nuget/AWSSDK.MTurk@3.7.502.8
 - pkg:nuget/AWSSDK.MTurk@4.0.0
 - pkg:nuget/AWSSDK.MTurk@4.0.0-preview

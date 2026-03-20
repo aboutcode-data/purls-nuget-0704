@@ -1237,6 +1237,7 @@
 - pkg:nuget/AWSSDK.StorageGateway@3.7.502.3
 - pkg:nuget/AWSSDK.StorageGateway@3.7.502.31
 - pkg:nuget/AWSSDK.StorageGateway@3.7.502.43
+- pkg:nuget/AWSSDK.StorageGateway@3.7.502.46
 - pkg:nuget/AWSSDK.StorageGateway@4.0.0
 - pkg:nuget/AWSSDK.StorageGateway@4.0.0-preview
 - pkg:nuget/AWSSDK.StorageGateway@4.0.0-preview.10
