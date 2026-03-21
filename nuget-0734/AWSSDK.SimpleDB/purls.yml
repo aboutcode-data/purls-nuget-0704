@@ -1206,6 +1206,7 @@
 - pkg:nuget/AWSSDK.SimpleDB@3.7.500.88
 - pkg:nuget/AWSSDK.SimpleDB@3.7.500.9
 - pkg:nuget/AWSSDK.SimpleDB@3.7.500.91
+- pkg:nuget/AWSSDK.SimpleDB@3.7.500.92
 - pkg:nuget/AWSSDK.SimpleDB@4.0.0
 - pkg:nuget/AWSSDK.SimpleDB@4.0.0-preview
 - pkg:nuget/AWSSDK.SimpleDB@4.0.0-preview.10

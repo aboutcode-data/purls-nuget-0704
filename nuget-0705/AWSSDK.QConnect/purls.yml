@@ -333,6 +333,7 @@
 - pkg:nuget/AWSSDK.QConnect@3.7.506.5
 - pkg:nuget/AWSSDK.QConnect@3.7.507.10
 - pkg:nuget/AWSSDK.QConnect@3.7.507.13
+- pkg:nuget/AWSSDK.QConnect@3.7.507.14
 - pkg:nuget/AWSSDK.QConnect@3.7.507.3
 - pkg:nuget/AWSSDK.QConnect@4.0.0
 - pkg:nuget/AWSSDK.QConnect@4.0.0-preview

@@ -1220,6 +1220,7 @@
 - pkg:nuget/AWSSDK.GameLift@3.7.505.7
 - pkg:nuget/AWSSDK.GameLift@3.7.506.4
 - pkg:nuget/AWSSDK.GameLift@3.7.506.7
+- pkg:nuget/AWSSDK.GameLift@3.7.506.8
 - pkg:nuget/AWSSDK.GameLift@4.0.0
 - pkg:nuget/AWSSDK.GameLift@4.0.0-preview
 - pkg:nuget/AWSSDK.GameLift@4.0.0-preview.10

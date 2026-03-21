@@ -1127,6 +1127,7 @@
 - pkg:nuget/AWSSDK.Transfer@3.7.505
 - pkg:nuget/AWSSDK.Transfer@3.7.505.12
 - pkg:nuget/AWSSDK.Transfer@3.7.505.15
+- pkg:nuget/AWSSDK.Transfer@3.7.505.16
 - pkg:nuget/AWSSDK.Transfer@3.7.505.5
 - pkg:nuget/AWSSDK.Transfer@3.7.6
 - pkg:nuget/AWSSDK.Transfer@3.7.6.1

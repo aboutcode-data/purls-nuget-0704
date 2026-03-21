@@ -452,6 +452,7 @@
 - pkg:nuget/AWSSDK.OSIS@3.7.503.48
 - pkg:nuget/AWSSDK.OSIS@3.7.503.55
 - pkg:nuget/AWSSDK.OSIS@3.7.503.58
+- pkg:nuget/AWSSDK.OSIS@3.7.503.59
 - pkg:nuget/AWSSDK.OSIS@4.0.0
 - pkg:nuget/AWSSDK.OSIS@4.0.0-preview
 - pkg:nuget/AWSSDK.OSIS@4.0.0-preview.10
