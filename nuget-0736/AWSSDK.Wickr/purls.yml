@@ -3,6 +3,7 @@
 - pkg:nuget/AWSSDK.Wickr@3.7.500.18
 - pkg:nuget/AWSSDK.Wickr@3.7.500.22
 - pkg:nuget/AWSSDK.Wickr@3.7.500.23
+- pkg:nuget/AWSSDK.Wickr@3.7.501.10
 - pkg:nuget/AWSSDK.Wickr@3.7.501.6
 - pkg:nuget/AWSSDK.Wickr@3.7.501.9
 - pkg:nuget/AWSSDK.Wickr@4.0.1.2

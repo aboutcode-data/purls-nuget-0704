@@ -11,6 +11,7 @@
 - pkg:nuget/Statsig.NativeAssets.osx-x64@0.16.3-beta.2602240529
 - pkg:nuget/Statsig.NativeAssets.osx-x64@0.16.3-beta.2603021916
 - pkg:nuget/Statsig.NativeAssets.osx-x64@0.16.4-beta.2603051742
+- pkg:nuget/Statsig.NativeAssets.osx-x64@0.17.1-rc.2603201903
 - pkg:nuget/Statsig.NativeAssets.osx-x64@0.7.1
 - pkg:nuget/Statsig.NativeAssets.osx-x64@0.7.1-beta.2508020243
 - pkg:nuget/Statsig.NativeAssets.osx-x64@0.7.1-beta.2508020244

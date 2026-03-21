@@ -29,3 +29,4 @@
 - pkg:nuget/BridgePoint.Shared.Functions@5.4.3
 - pkg:nuget/BridgePoint.Shared.Functions@5.6.0
 - pkg:nuget/BridgePoint.Shared.Functions@5.8.0
+- pkg:nuget/BridgePoint.Shared.Functions@6.2.0
