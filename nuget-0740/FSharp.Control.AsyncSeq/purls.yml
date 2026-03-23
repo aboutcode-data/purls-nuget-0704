@@ -38,4 +38,5 @@
 - pkg:nuget/FSharp.Control.AsyncSeq@3.1.0
 - pkg:nuget/FSharp.Control.AsyncSeq@3.2.0
 - pkg:nuget/FSharp.Control.AsyncSeq@3.2.1
+- pkg:nuget/FSharp.Control.AsyncSeq@4.11.0
 - pkg:nuget/FSharp.Control.AsyncSeq@4.8.0

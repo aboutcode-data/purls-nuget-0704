@@ -50,6 +50,7 @@
 - pkg:nuget/SqlBuildingBlocks.Core@1.0.0.25
 - pkg:nuget/SqlBuildingBlocks.Core@1.0.0.259
 - pkg:nuget/SqlBuildingBlocks.Core@1.0.0.26
+- pkg:nuget/SqlBuildingBlocks.Core@1.0.0.267
 - pkg:nuget/SqlBuildingBlocks.Core@1.0.0.27
 - pkg:nuget/SqlBuildingBlocks.Core@1.0.0.28
 - pkg:nuget/SqlBuildingBlocks.Core@1.0.0.29
