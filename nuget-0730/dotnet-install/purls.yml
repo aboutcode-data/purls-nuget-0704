@@ -1,1 +1,2 @@
+- pkg:nuget/dotnet-install@0.6.1
 - pkg:nuget/dotnet-install@1.0.0
