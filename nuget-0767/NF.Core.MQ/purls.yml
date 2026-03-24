@@ -58,4 +58,7 @@
 - pkg:nuget/NF.Core.MQ@3.1.4-beta02
 - pkg:nuget/NF.Core.MQ@3.1.4-beta03
 - pkg:nuget/NF.Core.MQ@3.1.6
+- pkg:nuget/NF.Core.MQ@3.1.7
 - pkg:nuget/NF.Core.MQ@3.1.8-beta04
+- pkg:nuget/NF.Core.MQ@3.2.1
+- pkg:nuget/NF.Core.MQ@3.2.2-beta01
