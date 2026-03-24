@@ -37,6 +37,7 @@
 - pkg:nuget/Google.Cloud.SecurityCenter.V1@3.22.0
 - pkg:nuget/Google.Cloud.SecurityCenter.V1@3.23.0
 - pkg:nuget/Google.Cloud.SecurityCenter.V1@3.24.0
+- pkg:nuget/Google.Cloud.SecurityCenter.V1@3.26.0
 - pkg:nuget/Google.Cloud.SecurityCenter.V1@3.3.0
 - pkg:nuget/Google.Cloud.SecurityCenter.V1@3.4.0
 - pkg:nuget/Google.Cloud.SecurityCenter.V1@3.5.0
