@@ -10,3 +10,4 @@
 - pkg:nuget/Transmitly.ChannelProvider.SendGrid.Configuration@0.2.2-3.ac21f49
 - pkg:nuget/Transmitly.ChannelProvider.SendGrid.Configuration@0.2.2-4.d104a48
 - pkg:nuget/Transmitly.ChannelProvider.SendGrid.Configuration@0.2.3
+- pkg:nuget/Transmitly.ChannelProvider.SendGrid.Configuration@0.3.0
