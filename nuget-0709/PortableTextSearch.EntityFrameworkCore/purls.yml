@@ -1,0 +1,3 @@
+- pkg:nuget/PortableTextSearch.EntityFrameworkCore@10.0.0-alpha.6
+- pkg:nuget/PortableTextSearch.EntityFrameworkCore@8.0.0-alpha.6
+- pkg:nuget/PortableTextSearch.EntityFrameworkCore@9.0.9-alpha.6

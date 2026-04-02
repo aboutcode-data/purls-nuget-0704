@@ -33,3 +33,5 @@
 - pkg:nuget/Shiny.Reflector@1.7.0
 - pkg:nuget/Shiny.Reflector@1.7.0-beta-0001
 - pkg:nuget/Shiny.Reflector@1.7.0-beta-0002
+- pkg:nuget/Shiny.Reflector@1.7.2
+- pkg:nuget/Shiny.Reflector@1.7.2-beta-0001

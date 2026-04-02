@@ -39,3 +39,4 @@
 - pkg:nuget/StrongOf.FluentValidation@1.2.7
 - pkg:nuget/StrongOf.FluentValidation@1.2.7-ga639164e54
 - pkg:nuget/StrongOf.FluentValidation@1.2.8
+- pkg:nuget/StrongOf.FluentValidation@2.1.31
