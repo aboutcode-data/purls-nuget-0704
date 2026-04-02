@@ -18,3 +18,4 @@
 - pkg:nuget/DataDome.AspNetCore@0.9.0
 - pkg:nuget/DataDome.AspNetCore@0.9.1
 - pkg:nuget/DataDome.AspNetCore@1.0.0
+- pkg:nuget/DataDome.AspNetCore@2.1.1

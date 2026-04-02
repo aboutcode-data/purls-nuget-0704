@@ -11,6 +11,9 @@
 - pkg:nuget/Asv.Sdr.Simulate@1.5.13
 - pkg:nuget/Asv.Sdr.Simulate@1.5.14
 - pkg:nuget/Asv.Sdr.Simulate@1.5.2
+- pkg:nuget/Asv.Sdr.Simulate@1.5.27
+- pkg:nuget/Asv.Sdr.Simulate@1.5.28
+- pkg:nuget/Asv.Sdr.Simulate@1.5.29
 - pkg:nuget/Asv.Sdr.Simulate@1.5.3
 - pkg:nuget/Asv.Sdr.Simulate@1.5.4
 - pkg:nuget/Asv.Sdr.Simulate@1.5.5

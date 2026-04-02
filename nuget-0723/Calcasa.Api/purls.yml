@@ -22,3 +22,5 @@
 - pkg:nuget/Calcasa.Api@1.4.0-rc1
 - pkg:nuget/Calcasa.Api@1.4.0-rc3
 - pkg:nuget/Calcasa.Api@1.4.0-rc4
+- pkg:nuget/Calcasa.Api@1.5.0
+- pkg:nuget/Calcasa.Api@1.5.1

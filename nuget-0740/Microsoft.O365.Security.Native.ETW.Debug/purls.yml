@@ -32,3 +32,4 @@
 - pkg:nuget/Microsoft.O365.Security.Native.ETW.Debug@4.4.2
 - pkg:nuget/Microsoft.O365.Security.Native.ETW.Debug@4.4.3
 - pkg:nuget/Microsoft.O365.Security.Native.ETW.Debug@4.4.5
+- pkg:nuget/Microsoft.O365.Security.Native.ETW.Debug@4.4.8

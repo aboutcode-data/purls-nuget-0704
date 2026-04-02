@@ -40,3 +40,5 @@
 - pkg:nuget/Autossential.Activities@3.3.6
 - pkg:nuget/Autossential.Activities@3.3.7
 - pkg:nuget/Autossential.Activities@3.3.8
+- pkg:nuget/Autossential.Activities@4.0.0-preview-881432
+- pkg:nuget/Autossential.Activities@4.0.0-preview-901137

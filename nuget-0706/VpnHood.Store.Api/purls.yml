@@ -88,5 +88,8 @@
 - pkg:nuget/VpnHood.Store.Api@1.0.70-prerelease
 - pkg:nuget/VpnHood.Store.Api@1.0.71-prerelease
 - pkg:nuget/VpnHood.Store.Api@1.0.72-prerelease
+- pkg:nuget/VpnHood.Store.Api@1.0.73
 - pkg:nuget/VpnHood.Store.Api@1.0.8
 - pkg:nuget/VpnHood.Store.Api@1.0.9
+- pkg:nuget/VpnHood.Store.Api@26.4.1.710-prerelease
+- pkg:nuget/VpnHood.Store.Api@26.4.1.721

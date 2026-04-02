@@ -1,2 +1,3 @@
 - pkg:nuget/TeknixIT.OpenApiGenerator.Server@0.1.0
 - pkg:nuget/TeknixIT.OpenApiGenerator.Server@0.1.3
+- pkg:nuget/TeknixIT.OpenApiGenerator.Server@0.1.4

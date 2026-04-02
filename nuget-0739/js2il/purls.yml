@@ -18,3 +18,5 @@
 - pkg:nuget/js2il@0.8.13
 - pkg:nuget/js2il@0.8.25
 - pkg:nuget/js2il@0.8.29
+- pkg:nuget/js2il@0.9.5
+- pkg:nuget/js2il@0.9.6

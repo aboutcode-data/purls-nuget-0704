@@ -31,3 +31,5 @@
 - pkg:nuget/Siemens.AspNet.ErrorHandling.Contracts@5.2.1%2B2
 - pkg:nuget/Siemens.AspNet.ErrorHandling.Contracts@5.2.2
 - pkg:nuget/Siemens.AspNet.ErrorHandling.Contracts@5.2.3
+- pkg:nuget/Siemens.AspNet.ErrorHandling.Contracts@7.0.1
+- pkg:nuget/Siemens.AspNet.ErrorHandling.Contracts@7.0.2

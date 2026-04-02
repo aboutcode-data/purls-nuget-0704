@@ -33,5 +33,9 @@
 - pkg:nuget/AWSSDK.Extensions.CrtIntegration@4.0.0-preview.9
 - pkg:nuget/AWSSDK.Extensions.CrtIntegration@4.0.0.1
 - pkg:nuget/AWSSDK.Extensions.CrtIntegration@4.0.0.26
+- pkg:nuget/AWSSDK.Extensions.CrtIntegration@4.0.0.28
+- pkg:nuget/AWSSDK.Extensions.CrtIntegration@4.0.0.29
 - pkg:nuget/AWSSDK.Extensions.CrtIntegration@4.0.0.3
+- pkg:nuget/AWSSDK.Extensions.CrtIntegration@4.0.0.30
+- pkg:nuget/AWSSDK.Extensions.CrtIntegration@4.0.0.31
 - pkg:nuget/AWSSDK.Extensions.CrtIntegration@4.0.0.7

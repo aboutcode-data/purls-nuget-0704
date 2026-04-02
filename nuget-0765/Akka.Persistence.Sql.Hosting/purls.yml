@@ -22,4 +22,5 @@
 - pkg:nuget/Akka.Persistence.Sql.Hosting@1.5.42
 - pkg:nuget/Akka.Persistence.Sql.Hosting@1.5.44
 - pkg:nuget/Akka.Persistence.Sql.Hosting@1.5.55.1
+- pkg:nuget/Akka.Persistence.Sql.Hosting@1.5.62
 - pkg:nuget/Akka.Persistence.Sql.Hosting@1.5.9-beta1
