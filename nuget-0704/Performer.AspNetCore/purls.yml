@@ -14,6 +14,8 @@
 - pkg:nuget/Performer.AspNetCore@1.10.0-dev.20
 - pkg:nuget/Performer.AspNetCore@1.10.0-dev.3
 - pkg:nuget/Performer.AspNetCore@1.10.0-dev.5
+- pkg:nuget/Performer.AspNetCore@1.10.0-dev.51
+- pkg:nuget/Performer.AspNetCore@1.10.0-dev.52
 - pkg:nuget/Performer.AspNetCore@1.10.0-dev.6
 - pkg:nuget/Performer.AspNetCore@1.10.0-dev.7
 - pkg:nuget/Performer.AspNetCore@1.10.0-dev.8

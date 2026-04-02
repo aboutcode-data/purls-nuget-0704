@@ -10,6 +10,7 @@
 - pkg:nuget/OsuMemoryDataProvider@0.10.3
 - pkg:nuget/OsuMemoryDataProvider@0.11.0
 - pkg:nuget/OsuMemoryDataProvider@0.11.1
+- pkg:nuget/OsuMemoryDataProvider@0.12.1
 - pkg:nuget/OsuMemoryDataProvider@0.2.0
 - pkg:nuget/OsuMemoryDataProvider@0.2.1
 - pkg:nuget/OsuMemoryDataProvider@0.2.2

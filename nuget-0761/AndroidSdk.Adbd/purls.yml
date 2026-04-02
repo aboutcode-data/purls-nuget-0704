@@ -16,6 +16,7 @@
 - pkg:nuget/AndroidSdk.Adbd@0.23.0
 - pkg:nuget/AndroidSdk.Adbd@0.24.0
 - pkg:nuget/AndroidSdk.Adbd@0.25.0
+- pkg:nuget/AndroidSdk.Adbd@0.35.1
 - pkg:nuget/AndroidSdk.Adbd@0.8.0
 - pkg:nuget/AndroidSdk.Adbd@0.9.0
 - pkg:nuget/AndroidSdk.Adbd@0.9.1

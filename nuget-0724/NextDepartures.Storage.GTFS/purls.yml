@@ -76,3 +76,4 @@
 - pkg:nuget/NextDepartures.Storage.GTFS@3.8.6
 - pkg:nuget/NextDepartures.Storage.GTFS@3.8.7
 - pkg:nuget/NextDepartures.Storage.GTFS@3.8.8
+- pkg:nuget/NextDepartures.Storage.GTFS@3.9.6
