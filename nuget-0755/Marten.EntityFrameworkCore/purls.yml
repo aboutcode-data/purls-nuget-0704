@@ -1,0 +1,2 @@
+- pkg:nuget/Marten.EntityFrameworkCore@8.27.0
+- pkg:nuget/Marten.EntityFrameworkCore@8.28.0
