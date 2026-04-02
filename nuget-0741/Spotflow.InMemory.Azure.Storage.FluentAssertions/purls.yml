@@ -17,6 +17,8 @@
 - pkg:nuget/Spotflow.InMemory.Azure.Storage.FluentAssertions@0.12.2
 - pkg:nuget/Spotflow.InMemory.Azure.Storage.FluentAssertions@0.13.0
 - pkg:nuget/Spotflow.InMemory.Azure.Storage.FluentAssertions@0.14.1
+- pkg:nuget/Spotflow.InMemory.Azure.Storage.FluentAssertions@0.16.1
+- pkg:nuget/Spotflow.InMemory.Azure.Storage.FluentAssertions@0.16.2
 - pkg:nuget/Spotflow.InMemory.Azure.Storage.FluentAssertions@0.2.0
 - pkg:nuget/Spotflow.InMemory.Azure.Storage.FluentAssertions@0.3.0
 - pkg:nuget/Spotflow.InMemory.Azure.Storage.FluentAssertions@0.3.1

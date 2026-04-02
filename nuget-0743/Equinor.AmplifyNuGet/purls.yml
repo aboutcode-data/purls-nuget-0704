@@ -3,3 +3,4 @@
 - pkg:nuget/Equinor.AmplifyNuGet@2.0.0-alpha.3
 - pkg:nuget/Equinor.AmplifyNuGet@2.0.1-alpha.1
 - pkg:nuget/Equinor.AmplifyNuGet@2.2.0-alpha.2
+- pkg:nuget/Equinor.AmplifyNuGet@3.0.1

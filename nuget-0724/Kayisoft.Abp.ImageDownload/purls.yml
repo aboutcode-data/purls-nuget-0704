@@ -19,3 +19,6 @@
 - pkg:nuget/Kayisoft.Abp.ImageDownload@4.6.2
 - pkg:nuget/Kayisoft.Abp.ImageDownload@4.7.6
 - pkg:nuget/Kayisoft.Abp.ImageDownload@4.9.9
+- pkg:nuget/Kayisoft.Abp.ImageDownload@5.0.2
+- pkg:nuget/Kayisoft.Abp.ImageDownload@5.0.3
+- pkg:nuget/Kayisoft.Abp.ImageDownload@5.0.4

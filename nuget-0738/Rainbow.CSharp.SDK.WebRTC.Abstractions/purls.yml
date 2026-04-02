@@ -10,3 +10,4 @@
 - pkg:nuget/Rainbow.CSharp.SDK.WebRTC.Abstractions@2.0.0-sts.3
 - pkg:nuget/Rainbow.CSharp.SDK.WebRTC.Abstractions@2.1.0
 - pkg:nuget/Rainbow.CSharp.SDK.WebRTC.Abstractions@2.2.0
+- pkg:nuget/Rainbow.CSharp.SDK.WebRTC.Abstractions@2.6.0

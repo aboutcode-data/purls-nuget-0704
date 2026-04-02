@@ -35,3 +35,4 @@
 - pkg:nuget/Smdn.MSBuild.DefineConstants.NETSdkApi@1.5.0
 - pkg:nuget/Smdn.MSBuild.DefineConstants.NETSdkApi@1.5.1
 - pkg:nuget/Smdn.MSBuild.DefineConstants.NETSdkApi@1.5.2
+- pkg:nuget/Smdn.MSBuild.DefineConstants.NETSdkApi@1.8.2

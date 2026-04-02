@@ -21,4 +21,5 @@
 - pkg:nuget/Akka.Persistence.Sql@1.5.40.1
 - pkg:nuget/Akka.Persistence.Sql@1.5.42
 - pkg:nuget/Akka.Persistence.Sql@1.5.44
+- pkg:nuget/Akka.Persistence.Sql@1.5.62
 - pkg:nuget/Akka.Persistence.Sql@1.5.9-beta1

@@ -35,3 +35,5 @@
 - pkg:nuget/LCTCS.DbClient.Oracle@1.1.102
 - pkg:nuget/LCTCS.DbClient.Oracle@1.1.103
 - pkg:nuget/LCTCS.DbClient.Oracle@1.1.204
+- pkg:nuget/LCTCS.DbClient.Oracle@1.1.205
+- pkg:nuget/LCTCS.DbClient.Oracle@1.1.207

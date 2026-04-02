@@ -22,3 +22,4 @@
 - pkg:nuget/Treyt.Yarp.ReverseProxy.Swagger@3.8.0
 - pkg:nuget/Treyt.Yarp.ReverseProxy.Swagger@3.8.1
 - pkg:nuget/Treyt.Yarp.ReverseProxy.Swagger@3.9.0
+- pkg:nuget/Treyt.Yarp.ReverseProxy.Swagger@4.0.1

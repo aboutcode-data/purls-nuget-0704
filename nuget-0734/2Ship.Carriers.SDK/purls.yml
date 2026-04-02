@@ -99,3 +99,5 @@
 - pkg:nuget/2Ship.Carriers.SDK@8.2.6
 - pkg:nuget/2Ship.Carriers.SDK@8.2.7
 - pkg:nuget/2Ship.Carriers.SDK@8.3.4
+- pkg:nuget/2Ship.Carriers.SDK@8.4.4
+- pkg:nuget/2Ship.Carriers.SDK@8.4.5

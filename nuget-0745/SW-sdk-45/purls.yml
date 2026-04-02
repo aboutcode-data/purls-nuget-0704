@@ -66,6 +66,7 @@
 - pkg:nuget/SW-sdk-45@0.0.33.1-rc
 - pkg:nuget/SW-sdk-45@0.0.34.1
 - pkg:nuget/SW-sdk-45@0.0.34.1-rc
+- pkg:nuget/SW-sdk-45@0.0.36.1-rc
 - pkg:nuget/SW-sdk-45@0.0.4.3
 - pkg:nuget/SW-sdk-45@0.0.5.2
 - pkg:nuget/SW-sdk-45@0.0.6.1-rc

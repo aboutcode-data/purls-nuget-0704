@@ -137,3 +137,5 @@
 - pkg:nuget/Krosoft.Extensions.WebApi@2025.9.9.2907
 - pkg:nuget/Krosoft.Extensions.WebApi@2025.9.9.2908
 - pkg:nuget/Krosoft.Extensions.WebApi@2025.9.9.2937
+- pkg:nuget/Krosoft.Extensions.WebApi@2026.3.27.6263
+- pkg:nuget/Krosoft.Extensions.WebApi@2026.3.31.6318

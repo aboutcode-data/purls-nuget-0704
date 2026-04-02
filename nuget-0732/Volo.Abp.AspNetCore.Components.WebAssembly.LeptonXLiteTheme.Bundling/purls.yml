@@ -24,3 +24,5 @@
 - pkg:nuget/Volo.Abp.AspNetCore.Components.WebAssembly.LeptonXLiteTheme.Bundling@4.3.3
 - pkg:nuget/Volo.Abp.AspNetCore.Components.WebAssembly.LeptonXLiteTheme.Bundling@5.0.1
 - pkg:nuget/Volo.Abp.AspNetCore.Components.WebAssembly.LeptonXLiteTheme.Bundling@5.1.0-rc.2
+- pkg:nuget/Volo.Abp.AspNetCore.Components.WebAssembly.LeptonXLiteTheme.Bundling@5.2.0
+- pkg:nuget/Volo.Abp.AspNetCore.Components.WebAssembly.LeptonXLiteTheme.Bundling@5.3.0-rc.1
