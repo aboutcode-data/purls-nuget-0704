@@ -2,3 +2,4 @@
 - pkg:nuget/IronSoftware.Native.PdfModel.MacOs@2025.7.13
 - pkg:nuget/IronSoftware.Native.PdfModel.MacOs@2025.8.13
 - pkg:nuget/IronSoftware.Native.PdfModel.MacOs@2025.9.18
+- pkg:nuget/IronSoftware.Native.PdfModel.MacOs@2026.4.1

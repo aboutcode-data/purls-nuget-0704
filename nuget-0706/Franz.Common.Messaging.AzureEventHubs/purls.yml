@@ -1,2 +1,4 @@
 - pkg:nuget/Franz.Common.Messaging.AzureEventHubs@1.7.2
 - pkg:nuget/Franz.Common.Messaging.AzureEventHubs@1.7.3
+- pkg:nuget/Franz.Common.Messaging.AzureEventHubs@2.0.1
+- pkg:nuget/Franz.Common.Messaging.AzureEventHubs@2.0.2

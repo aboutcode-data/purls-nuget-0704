@@ -2,3 +2,5 @@
 - pkg:nuget/HLCores.Utilities@1.1.0
 - pkg:nuget/HLCores.Utilities@1.2.0
 - pkg:nuget/HLCores.Utilities@2.0.0
+- pkg:nuget/HLCores.Utilities@3.0.0
+- pkg:nuget/HLCores.Utilities@4.0.0
