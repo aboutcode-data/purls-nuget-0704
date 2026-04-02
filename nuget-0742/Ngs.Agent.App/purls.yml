@@ -200,5 +200,6 @@
 - pkg:nuget/Ngs.Agent.App@1.5.60
 - pkg:nuget/Ngs.Agent.App@1.5.67
 - pkg:nuget/Ngs.Agent.App@1.5.7
+- pkg:nuget/Ngs.Agent.App@1.5.76
 - pkg:nuget/Ngs.Agent.App@1.5.8
 - pkg:nuget/Ngs.Agent.App@1.5.9

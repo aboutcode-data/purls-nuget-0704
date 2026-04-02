@@ -75,6 +75,7 @@
 - pkg:nuget/CefSharp.OffScreen@138.0.340
 - pkg:nuget/CefSharp.OffScreen@139.0.280
 - pkg:nuget/CefSharp.OffScreen@140.1.140
+- pkg:nuget/CefSharp.OffScreen@146.0.70
 - pkg:nuget/CefSharp.OffScreen@37.0.0
 - pkg:nuget/CefSharp.OffScreen@37.0.0-pre01
 - pkg:nuget/CefSharp.OffScreen@37.0.0-pre02

@@ -409,6 +409,15 @@
 - pkg:nuget/GemBox.Bundle@2026.2.137
 - pkg:nuget/GemBox.Bundle@2026.3.126
 - pkg:nuget/GemBox.Bundle@2026.3.127
+- pkg:nuget/GemBox.Bundle@2026.3.131
+- pkg:nuget/GemBox.Bundle@2026.3.132
+- pkg:nuget/GemBox.Bundle@2026.3.133
+- pkg:nuget/GemBox.Bundle@2026.3.134
+- pkg:nuget/GemBox.Bundle@2026.3.135
+- pkg:nuget/GemBox.Bundle@2026.3.136
+- pkg:nuget/GemBox.Bundle@2026.3.137
+- pkg:nuget/GemBox.Bundle@2026.4.100
+- pkg:nuget/GemBox.Bundle@2026.4.101
 - pkg:nuget/GemBox.Bundle@33.0.0.1009
 - pkg:nuget/GemBox.Bundle@33.0.0.1011
 - pkg:nuget/GemBox.Bundle@33.0.0.1012

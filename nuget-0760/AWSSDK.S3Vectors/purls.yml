@@ -46,6 +46,7 @@
 - pkg:nuget/AWSSDK.S3Vectors@3.7.504.38
 - pkg:nuget/AWSSDK.S3Vectors@3.7.504.41
 - pkg:nuget/AWSSDK.S3Vectors@3.7.504.42
+- pkg:nuget/AWSSDK.S3Vectors@3.7.504.43
 - pkg:nuget/AWSSDK.S3Vectors@3.7.504.5
 - pkg:nuget/AWSSDK.S3Vectors@3.7.504.9
 - pkg:nuget/AWSSDK.S3Vectors@4.0.0
@@ -60,3 +61,7 @@
 - pkg:nuget/AWSSDK.S3Vectors@4.0.1.4
 - pkg:nuget/AWSSDK.S3Vectors@4.0.1.5
 - pkg:nuget/AWSSDK.S3Vectors@4.0.1.7
+- pkg:nuget/AWSSDK.S3Vectors@4.0.4.13
+- pkg:nuget/AWSSDK.S3Vectors@4.0.4.14
+- pkg:nuget/AWSSDK.S3Vectors@4.0.4.15
+- pkg:nuget/AWSSDK.S3Vectors@4.0.4.16

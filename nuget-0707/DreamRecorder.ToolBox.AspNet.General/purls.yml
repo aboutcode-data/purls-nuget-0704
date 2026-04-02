@@ -60,6 +60,12 @@
 - pkg:nuget/DreamRecorder.ToolBox.AspNet.General@1.1.6.37537
 - pkg:nuget/DreamRecorder.ToolBox.AspNet.General@1.1.6.37540
 - pkg:nuget/DreamRecorder.ToolBox.AspNet.General@1.1.6.37859
+- pkg:nuget/DreamRecorder.ToolBox.AspNet.General@1.1.6.38670
+- pkg:nuget/DreamRecorder.ToolBox.AspNet.General@1.1.6.38673
+- pkg:nuget/DreamRecorder.ToolBox.AspNet.General@1.1.6.38674
+- pkg:nuget/DreamRecorder.ToolBox.AspNet.General@1.1.6.38675
+- pkg:nuget/DreamRecorder.ToolBox.AspNet.General@1.1.6.38680
+- pkg:nuget/DreamRecorder.ToolBox.AspNet.General@1.1.6.38686
 - pkg:nuget/DreamRecorder.ToolBox.AspNet.General@1.1.6.3919
 - pkg:nuget/DreamRecorder.ToolBox.AspNet.General@1.1.6.4193
 - pkg:nuget/DreamRecorder.ToolBox.AspNet.General@1.1.6.6186

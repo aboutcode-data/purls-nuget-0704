@@ -175,3 +175,5 @@
 - pkg:nuget/Soenneker.Extensions.IIdentity@4.0.294
 - pkg:nuget/Soenneker.Extensions.IIdentity@4.0.295
 - pkg:nuget/Soenneker.Extensions.IIdentity@4.0.302
+- pkg:nuget/Soenneker.Extensions.IIdentity@4.0.303
+- pkg:nuget/Soenneker.Extensions.IIdentity@4.0.304

@@ -2,6 +2,7 @@
 - pkg:nuget/ModPlus.AutoCAD.Module.2022@12.0.0
 - pkg:nuget/ModPlus.AutoCAD.Module.2022@13.0.0
 - pkg:nuget/ModPlus.AutoCAD.Module.2022@14.0.0
+- pkg:nuget/ModPlus.AutoCAD.Module.2022@15.0.0
 - pkg:nuget/ModPlus.AutoCAD.Module.2022@6.4.0
 - pkg:nuget/ModPlus.AutoCAD.Module.2022@6.4.3
 - pkg:nuget/ModPlus.AutoCAD.Module.2022@6.4.4

@@ -45,3 +45,4 @@
 - pkg:nuget/itext7.font-asian@9.1.0
 - pkg:nuget/itext7.font-asian@9.2.0
 - pkg:nuget/itext7.font-asian@9.3.0
+- pkg:nuget/itext7.font-asian@9.6.0

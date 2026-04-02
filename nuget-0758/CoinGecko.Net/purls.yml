@@ -49,3 +49,4 @@
 - pkg:nuget/CoinGecko.Net@4.7.0
 - pkg:nuget/CoinGecko.Net@4.8.0
 - pkg:nuget/CoinGecko.Net@4.8.1
+- pkg:nuget/CoinGecko.Net@5.9.1

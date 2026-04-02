@@ -298,5 +298,6 @@
 - pkg:nuget/Google.Apis.Container.v1@1.70.0.3871
 - pkg:nuget/Google.Apis.Container.v1@1.70.0.3876
 - pkg:nuget/Google.Apis.Container.v1@1.72.0.3939
+- pkg:nuget/Google.Apis.Container.v1@1.73.0.4099
 - pkg:nuget/Google.Apis.Container.v1@1.9.2.10
 - pkg:nuget/Google.Apis.Container.v1@1.9.2.30

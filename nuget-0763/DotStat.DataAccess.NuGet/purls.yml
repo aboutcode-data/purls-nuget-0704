@@ -156,6 +156,7 @@
 - pkg:nuget/DotStat.DataAccess.NuGet@3.3.35
 - pkg:nuget/DotStat.DataAccess.NuGet@3.3.8
 - pkg:nuget/DotStat.DataAccess.NuGet@30.0.0
+- pkg:nuget/DotStat.DataAccess.NuGet@31.1.0
 - pkg:nuget/DotStat.DataAccess.NuGet@4.0.10
 - pkg:nuget/DotStat.DataAccess.NuGet@4.1.2
 - pkg:nuget/DotStat.DataAccess.NuGet@5.1.4

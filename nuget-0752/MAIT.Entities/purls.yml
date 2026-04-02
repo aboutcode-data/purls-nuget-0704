@@ -156,3 +156,7 @@
 - pkg:nuget/MAIT.Entities@2.10.212
 - pkg:nuget/MAIT.Entities@2.10.213
 - pkg:nuget/MAIT.Entities@3.2.20
+- pkg:nuget/MAIT.Entities@4.0.2
+- pkg:nuget/MAIT.Entities@4.0.3
+- pkg:nuget/MAIT.Entities@4.0.4
+- pkg:nuget/MAIT.Entities@4.0.5

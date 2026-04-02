@@ -528,3 +528,4 @@
 - pkg:nuget/Google.Apis.CloudBuild.v1@1.70.0.3851
 - pkg:nuget/Google.Apis.CloudBuild.v1@1.70.0.3865
 - pkg:nuget/Google.Apis.CloudBuild.v1@1.70.0.3898
+- pkg:nuget/Google.Apis.CloudBuild.v1@1.73.0.4099

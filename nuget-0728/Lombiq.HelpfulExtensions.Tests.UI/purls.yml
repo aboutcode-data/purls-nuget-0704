@@ -18,6 +18,8 @@
 - pkg:nuget/Lombiq.HelpfulExtensions.Tests.UI@11.0.1-alpha.2.olys-35
 - pkg:nuget/Lombiq.HelpfulExtensions.Tests.UI@11.0.1-alpha.3.olys-35
 - pkg:nuget/Lombiq.HelpfulExtensions.Tests.UI@11.0.1-alpha.4.olys-35
+- pkg:nuget/Lombiq.HelpfulExtensions.Tests.UI@11.1.1-alpha.2.nest-644
+- pkg:nuget/Lombiq.HelpfulExtensions.Tests.UI@11.1.1-alpha.6.osoe-925
 - pkg:nuget/Lombiq.HelpfulExtensions.Tests.UI@3.3.2-alpha.osoe-146.0
 - pkg:nuget/Lombiq.HelpfulExtensions.Tests.UI@3.3.2-alpha.osoe-146.1
 - pkg:nuget/Lombiq.HelpfulExtensions.Tests.UI@3.4.0

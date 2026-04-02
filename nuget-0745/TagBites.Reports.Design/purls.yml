@@ -100,6 +100,7 @@
 - pkg:nuget/TagBites.Reports.Design@1.0.59
 - pkg:nuget/TagBites.Reports.Design@1.0.6-preview4
 - pkg:nuget/TagBites.Reports.Design@1.0.6-preview6
+- pkg:nuget/TagBites.Reports.Design@1.0.65
 - pkg:nuget/TagBites.Reports.Design@1.0.7-preview1
 - pkg:nuget/TagBites.Reports.Design@1.0.7-preview2
 - pkg:nuget/TagBites.Reports.Design@1.0.7-preview8

@@ -1014,6 +1014,7 @@
 - pkg:nuget/AWSSDK.MediaTailor@3.7.504.5
 - pkg:nuget/AWSSDK.MediaTailor@3.7.504.8
 - pkg:nuget/AWSSDK.MediaTailor@3.7.505.10
+- pkg:nuget/AWSSDK.MediaTailor@3.7.505.11
 - pkg:nuget/AWSSDK.MediaTailor@3.7.505.6
 - pkg:nuget/AWSSDK.MediaTailor@3.7.505.9
 - pkg:nuget/AWSSDK.MediaTailor@3.7.6
@@ -1203,3 +1204,7 @@
 - pkg:nuget/AWSSDK.MediaTailor@4.0.2.2
 - pkg:nuget/AWSSDK.MediaTailor@4.0.2.4
 - pkg:nuget/AWSSDK.MediaTailor@4.0.3
+- pkg:nuget/AWSSDK.MediaTailor@4.0.6.4
+- pkg:nuget/AWSSDK.MediaTailor@4.0.6.5
+- pkg:nuget/AWSSDK.MediaTailor@4.0.6.6
+- pkg:nuget/AWSSDK.MediaTailor@4.0.6.7

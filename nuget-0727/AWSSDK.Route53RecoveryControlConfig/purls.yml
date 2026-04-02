@@ -749,6 +749,7 @@
 - pkg:nuget/AWSSDK.Route53RecoveryControlConfig@3.7.502.55
 - pkg:nuget/AWSSDK.Route53RecoveryControlConfig@3.7.502.58
 - pkg:nuget/AWSSDK.Route53RecoveryControlConfig@3.7.502.59
+- pkg:nuget/AWSSDK.Route53RecoveryControlConfig@3.7.502.60
 - pkg:nuget/AWSSDK.Route53RecoveryControlConfig@4.0.0
 - pkg:nuget/AWSSDK.Route53RecoveryControlConfig@4.0.0-preview
 - pkg:nuget/AWSSDK.Route53RecoveryControlConfig@4.0.0-preview.10
@@ -789,3 +790,7 @@
 - pkg:nuget/AWSSDK.Route53RecoveryControlConfig@4.0.1.5
 - pkg:nuget/AWSSDK.Route53RecoveryControlConfig@4.0.1.9
 - pkg:nuget/AWSSDK.Route53RecoveryControlConfig@4.0.2.19
+- pkg:nuget/AWSSDK.Route53RecoveryControlConfig@4.0.2.20
+- pkg:nuget/AWSSDK.Route53RecoveryControlConfig@4.0.2.21
+- pkg:nuget/AWSSDK.Route53RecoveryControlConfig@4.0.2.22
+- pkg:nuget/AWSSDK.Route53RecoveryControlConfig@4.0.2.23

@@ -5,3 +5,7 @@
 - pkg:nuget/AWSSDK.Extensions.Logging.ILoggerAdaptor@4.0.0-preview.13
 - pkg:nuget/AWSSDK.Extensions.Logging.ILoggerAdaptor@4.0.0-preview.9
 - pkg:nuget/AWSSDK.Extensions.Logging.ILoggerAdaptor@4.0.0.2
+- pkg:nuget/AWSSDK.Extensions.Logging.ILoggerAdaptor@4.0.0.27
+- pkg:nuget/AWSSDK.Extensions.Logging.ILoggerAdaptor@4.0.0.28
+- pkg:nuget/AWSSDK.Extensions.Logging.ILoggerAdaptor@4.0.0.29
+- pkg:nuget/AWSSDK.Extensions.Logging.ILoggerAdaptor@4.0.0.30

@@ -34,3 +34,5 @@
 - pkg:nuget/NCSLogger@1.0.45
 - pkg:nuget/NCSLogger@1.0.46
 - pkg:nuget/NCSLogger@1.0.52
+- pkg:nuget/NCSLogger@1.0.55
+- pkg:nuget/NCSLogger@1.0.56

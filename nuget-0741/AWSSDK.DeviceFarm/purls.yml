@@ -1220,6 +1220,7 @@
 - pkg:nuget/AWSSDK.DeviceFarm@3.7.503.41
 - pkg:nuget/AWSSDK.DeviceFarm@3.7.503.44
 - pkg:nuget/AWSSDK.DeviceFarm@3.7.503.45
+- pkg:nuget/AWSSDK.DeviceFarm@3.7.503.46
 - pkg:nuget/AWSSDK.DeviceFarm@4.0.0
 - pkg:nuget/AWSSDK.DeviceFarm@4.0.0-preview
 - pkg:nuget/AWSSDK.DeviceFarm@4.0.0-preview.10
@@ -1259,4 +1260,8 @@
 - pkg:nuget/AWSSDK.DeviceFarm@4.0.1.8
 - pkg:nuget/AWSSDK.DeviceFarm@4.0.1.9
 - pkg:nuget/AWSSDK.DeviceFarm@4.0.4.12
+- pkg:nuget/AWSSDK.DeviceFarm@4.0.4.14
+- pkg:nuget/AWSSDK.DeviceFarm@4.0.4.15
+- pkg:nuget/AWSSDK.DeviceFarm@4.0.4.16
+- pkg:nuget/AWSSDK.DeviceFarm@4.0.4.17
 - pkg:nuget/AWSSDK.DeviceFarm@4.0.4.5

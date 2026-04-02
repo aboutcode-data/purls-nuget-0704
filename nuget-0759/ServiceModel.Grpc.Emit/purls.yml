@@ -7,5 +7,6 @@
 - pkg:nuget/ServiceModel.Grpc.Emit@1.15.0
 - pkg:nuget/ServiceModel.Grpc.Emit@1.16.0
 - pkg:nuget/ServiceModel.Grpc.Emit@1.17.0
+- pkg:nuget/ServiceModel.Grpc.Emit@1.22.0
 - pkg:nuget/ServiceModel.Grpc.Emit@1.9.0
 - pkg:nuget/ServiceModel.Grpc.Emit@1.9.1

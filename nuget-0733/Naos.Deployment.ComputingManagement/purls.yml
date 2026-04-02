@@ -288,3 +288,5 @@
 - pkg:nuget/Naos.Deployment.ComputingManagement@1.1.517
 - pkg:nuget/Naos.Deployment.ComputingManagement@1.1.518
 - pkg:nuget/Naos.Deployment.ComputingManagement@1.1.519
+- pkg:nuget/Naos.Deployment.ComputingManagement@1.1.521
+- pkg:nuget/Naos.Deployment.ComputingManagement@1.1.522

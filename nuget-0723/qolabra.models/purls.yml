@@ -94,4 +94,7 @@
 - pkg:nuget/qolabra.models@8.2.0
 - pkg:nuget/qolabra.models@8.2.1
 - pkg:nuget/qolabra.models@8.2.2
+- pkg:nuget/qolabra.models@9.12.0
+- pkg:nuget/qolabra.models@9.12.1
+- pkg:nuget/qolabra.models@9.12.2
 - pkg:nuget/qolabra.models@9.4.1

@@ -665,6 +665,7 @@
 - pkg:nuget/RhinoWindows@8.3.23360.13001-rc
 - pkg:nuget/RhinoWindows@8.3.24002.13001-rc
 - pkg:nuget/RhinoWindows@8.3.24009.15001
+- pkg:nuget/RhinoWindows@8.30.26090.13001-rc
 - pkg:nuget/RhinoWindows@8.4.24009.13521-rc
 - pkg:nuget/RhinoWindows@8.4.24016.19001-rc
 - pkg:nuget/RhinoWindows@8.4.24023.15001-rc

@@ -56,6 +56,7 @@
 - pkg:nuget/BarCode@2025.7.29
 - pkg:nuget/BarCode@2025.8.5
 - pkg:nuget/BarCode@2025.9.5
+- pkg:nuget/BarCode@2026.4.2
 - pkg:nuget/BarCode@4.0.1
 - pkg:nuget/BarCode@4.0.1.1
 - pkg:nuget/BarCode@4.0.1.2

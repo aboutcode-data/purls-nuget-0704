@@ -20,6 +20,7 @@
 - pkg:nuget/EasyAbp.AbpHelper@0.24.0
 - pkg:nuget/EasyAbp.AbpHelper@0.25.0
 - pkg:nuget/EasyAbp.AbpHelper@0.26.0
+- pkg:nuget/EasyAbp.AbpHelper@0.28.0
 - pkg:nuget/EasyAbp.AbpHelper@0.3.0
 - pkg:nuget/EasyAbp.AbpHelper@0.3.1
 - pkg:nuget/EasyAbp.AbpHelper@0.4.1

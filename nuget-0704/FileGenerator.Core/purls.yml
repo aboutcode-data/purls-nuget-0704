@@ -21,3 +21,5 @@
 - pkg:nuget/FileGenerator.Core@7.0.1
 - pkg:nuget/FileGenerator.Core@7.0.2
 - pkg:nuget/FileGenerator.Core@7.0.3
+- pkg:nuget/FileGenerator.Core@7.1.2
+- pkg:nuget/FileGenerator.Core@7.1.3

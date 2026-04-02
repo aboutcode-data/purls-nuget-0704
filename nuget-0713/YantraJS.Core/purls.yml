@@ -308,6 +308,8 @@
 - pkg:nuget/YantraJS.Core@1.2.30
 - pkg:nuget/YantraJS.Core@1.2.31
 - pkg:nuget/YantraJS.Core@1.2.32
+- pkg:nuget/YantraJS.Core@1.2.323
+- pkg:nuget/YantraJS.Core@1.2.324
 - pkg:nuget/YantraJS.Core@1.2.33
 - pkg:nuget/YantraJS.Core@1.2.34
 - pkg:nuget/YantraJS.Core@1.2.35

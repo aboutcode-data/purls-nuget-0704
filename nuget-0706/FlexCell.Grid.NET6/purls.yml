@@ -91,6 +91,8 @@
 - pkg:nuget/FlexCell.Grid.NET6@25.9.5
 - pkg:nuget/FlexCell.Grid.NET6@26.2.3
 - pkg:nuget/FlexCell.Grid.NET6@26.3.10
+- pkg:nuget/FlexCell.Grid.NET6@26.4.1
+- pkg:nuget/FlexCell.Grid.NET6@26.4.2
 - pkg:nuget/FlexCell.Grid.NET6@6.0.2
 - pkg:nuget/FlexCell.Grid.NET6@6.0.3
 - pkg:nuget/FlexCell.Grid.NET6@6.0.4

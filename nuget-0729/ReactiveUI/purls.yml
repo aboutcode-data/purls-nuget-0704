@@ -114,6 +114,7 @@
 - pkg:nuget/ReactiveUI@20.3.1
 - pkg:nuget/ReactiveUI@20.4.1
 - pkg:nuget/ReactiveUI@21.0.1
+- pkg:nuget/ReactiveUI@23.2.1
 - pkg:nuget/ReactiveUI@8.0.0
 - pkg:nuget/ReactiveUI@8.0.0-alpha0110
 - pkg:nuget/ReactiveUI@8.0.0-alpha0113

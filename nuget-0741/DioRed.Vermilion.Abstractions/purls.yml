@@ -1,1 +1,8 @@
 - pkg:nuget/DioRed.Vermilion.Abstractions@14.0.0
+- pkg:nuget/DioRed.Vermilion.Abstractions@15.0.0-preview.1
+- pkg:nuget/DioRed.Vermilion.Abstractions@15.0.0-preview.2
+- pkg:nuget/DioRed.Vermilion.Abstractions@15.0.0-preview.3
+- pkg:nuget/DioRed.Vermilion.Abstractions@15.0.0-preview.4
+- pkg:nuget/DioRed.Vermilion.Abstractions@15.0.0-preview.5
+- pkg:nuget/DioRed.Vermilion.Abstractions@15.0.0-preview.6
+- pkg:nuget/DioRed.Vermilion.Abstractions@15.0.0-preview.7

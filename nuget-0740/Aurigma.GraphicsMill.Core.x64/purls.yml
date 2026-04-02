@@ -143,6 +143,7 @@
 - pkg:nuget/Aurigma.GraphicsMill.Core.x64@11.5.81
 - pkg:nuget/Aurigma.GraphicsMill.Core.x64@11.5.82
 - pkg:nuget/Aurigma.GraphicsMill.Core.x64@11.5.84
+- pkg:nuget/Aurigma.GraphicsMill.Core.x64@11.6.25
 - pkg:nuget/Aurigma.GraphicsMill.Core.x64@7.0.62
 - pkg:nuget/Aurigma.GraphicsMill.Core.x64@7.0.63
 - pkg:nuget/Aurigma.GraphicsMill.Core.x64@7.1.65

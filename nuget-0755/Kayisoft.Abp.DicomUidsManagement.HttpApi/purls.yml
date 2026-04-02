@@ -230,3 +230,6 @@
 - pkg:nuget/Kayisoft.Abp.DicomUidsManagement.HttpApi@4.6.8
 - pkg:nuget/Kayisoft.Abp.DicomUidsManagement.HttpApi@4.6.9
 - pkg:nuget/Kayisoft.Abp.DicomUidsManagement.HttpApi@4.7.4
+- pkg:nuget/Kayisoft.Abp.DicomUidsManagement.HttpApi@5.0.2
+- pkg:nuget/Kayisoft.Abp.DicomUidsManagement.HttpApi@5.0.3
+- pkg:nuget/Kayisoft.Abp.DicomUidsManagement.HttpApi@5.0.4

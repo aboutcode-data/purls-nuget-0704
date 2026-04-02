@@ -1,4 +1,10 @@
 - pkg:nuget/Fabrik.Components@0.1.115
+- pkg:nuget/Fabrik.Components@0.1.120
+- pkg:nuget/Fabrik.Components@0.1.121
+- pkg:nuget/Fabrik.Components@0.1.123
+- pkg:nuget/Fabrik.Components@0.1.125
+- pkg:nuget/Fabrik.Components@0.1.128
+- pkg:nuget/Fabrik.Components@0.1.130
 - pkg:nuget/Fabrik.Components@0.1.32
 - pkg:nuget/Fabrik.Components@0.1.45
 - pkg:nuget/Fabrik.Components@0.1.65

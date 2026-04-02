@@ -20,5 +20,6 @@
 - pkg:nuget/NetOfficeFw.VBIDE@1.9.6
 - pkg:nuget/NetOfficeFw.VBIDE@1.9.6-preview13
 - pkg:nuget/NetOfficeFw.VBIDE@1.9.7
+- pkg:nuget/NetOfficeFw.VBIDE@1.9.9
 - pkg:nuget/NetOfficeFw.VBIDE@2.0.0-preview19
 - pkg:nuget/NetOfficeFw.VBIDE@2.0.0-preview20

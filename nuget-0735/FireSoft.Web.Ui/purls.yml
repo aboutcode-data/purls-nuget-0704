@@ -1,6 +1,7 @@
 - pkg:nuget/FireSoft.Web.Ui@1.0.0
 - pkg:nuget/FireSoft.Web.Ui@10.0.2
 - pkg:nuget/FireSoft.Web.Ui@10.0.5
+- pkg:nuget/FireSoft.Web.Ui@10.0.6
 - pkg:nuget/FireSoft.Web.Ui@7.0.0
 - pkg:nuget/FireSoft.Web.Ui@7.0.1
 - pkg:nuget/FireSoft.Web.Ui@7.0.10

@@ -1199,6 +1199,7 @@
 - pkg:nuget/AWSSDK.Organizations@3.7.509.36
 - pkg:nuget/AWSSDK.Organizations@3.7.509.39
 - pkg:nuget/AWSSDK.Organizations@3.7.509.40
+- pkg:nuget/AWSSDK.Organizations@3.7.509.41
 - pkg:nuget/AWSSDK.Organizations@3.7.509.6
 - pkg:nuget/AWSSDK.Organizations@4.0.0
 - pkg:nuget/AWSSDK.Organizations@4.0.0-preview
@@ -1234,6 +1235,11 @@
 - pkg:nuget/AWSSDK.Organizations@4.0.1.8
 - pkg:nuget/AWSSDK.Organizations@4.0.10
 - pkg:nuget/AWSSDK.Organizations@4.0.10.11
+- pkg:nuget/AWSSDK.Organizations@4.0.10.12
+- pkg:nuget/AWSSDK.Organizations@4.0.10.13
+- pkg:nuget/AWSSDK.Organizations@4.0.11
+- pkg:nuget/AWSSDK.Organizations@4.0.11.1
+- pkg:nuget/AWSSDK.Organizations@4.0.11.2
 - pkg:nuget/AWSSDK.Organizations@4.0.2
 - pkg:nuget/AWSSDK.Organizations@4.0.2.1
 - pkg:nuget/AWSSDK.Organizations@4.0.2.2
