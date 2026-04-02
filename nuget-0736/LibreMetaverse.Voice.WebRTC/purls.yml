@@ -1,1 +1,4 @@
 - pkg:nuget/LibreMetaverse.Voice.WebRTC@2.5.9.113
+- pkg:nuget/LibreMetaverse.Voice.WebRTC@2.6.2
+- pkg:nuget/LibreMetaverse.Voice.WebRTC@2.6.3
+- pkg:nuget/LibreMetaverse.Voice.WebRTC@2.6.4

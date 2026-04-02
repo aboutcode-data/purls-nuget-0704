@@ -1,1 +1,3 @@
+- pkg:nuget/VapeCache.Extensions.DependencyInjection@1.2.17
+- pkg:nuget/VapeCache.Extensions.DependencyInjection@1.2.18
 - pkg:nuget/VapeCache.Extensions.DependencyInjection@1.2.8

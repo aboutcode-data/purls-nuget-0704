@@ -40,4 +40,5 @@
 - pkg:nuget/Cross.CQRS.EF@9.0.0-preview.29
 - pkg:nuget/Cross.CQRS.EF@9.0.0-preview.30
 - pkg:nuget/Cross.CQRS.EF@9.0.0-preview.31
+- pkg:nuget/Cross.CQRS.EF@9.0.0-preview.33
 - pkg:nuget/Cross.CQRS.EF@9.1.0

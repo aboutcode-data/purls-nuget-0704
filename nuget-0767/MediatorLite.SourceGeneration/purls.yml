@@ -1,1 +1,3 @@
+- pkg:nuget/MediatorLite.SourceGeneration@1.0.12
+- pkg:nuget/MediatorLite.SourceGeneration@1.0.13
 - pkg:nuget/MediatorLite.SourceGeneration@1.0.8
