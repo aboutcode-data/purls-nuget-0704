@@ -102,3 +102,4 @@
 - pkg:nuget/DartSass.Native.linux-arm@1.94.1
 - pkg:nuget/DartSass.Native.linux-arm@1.94.2
 - pkg:nuget/DartSass.Native.linux-arm@1.98.0
+- pkg:nuget/DartSass.Native.linux-arm@1.99.0
