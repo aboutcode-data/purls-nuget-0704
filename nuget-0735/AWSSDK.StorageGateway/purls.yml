@@ -1283,3 +1283,4 @@
 - pkg:nuget/AWSSDK.StorageGateway@4.0.3.16
 - pkg:nuget/AWSSDK.StorageGateway@4.0.3.17
 - pkg:nuget/AWSSDK.StorageGateway@4.0.3.18
+- pkg:nuget/AWSSDK.StorageGateway@4.0.3.19
