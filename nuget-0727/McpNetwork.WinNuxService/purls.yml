@@ -4,6 +4,7 @@
 - pkg:nuget/McpNetwork.WinNuxService@1.1.0
 - pkg:nuget/McpNetwork.WinNuxService@1.1.1
 - pkg:nuget/McpNetwork.WinNuxService@11.1.1
+- pkg:nuget/McpNetwork.WinNuxService@11.2.0.5
 - pkg:nuget/McpNetwork.WinNuxService@6.0.0
 - pkg:nuget/McpNetwork.WinNuxService@6.1.0
 - pkg:nuget/McpNetwork.WinNuxService@7.0.0
