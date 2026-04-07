@@ -1,3 +1,4 @@
+- pkg:nuget/InFloworx.Workflow@10.0.5
 - pkg:nuget/InFloworx.Workflow@8.0.0
 - pkg:nuget/InFloworx.Workflow@8.0.1
 - pkg:nuget/InFloworx.Workflow@8.0.2
