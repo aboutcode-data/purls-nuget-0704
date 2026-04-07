@@ -119,6 +119,7 @@
 - pkg:nuget/Indice.Hive.Core@1.5.3-dev3
 - pkg:nuget/Indice.Hive.Core@1.5.3-dev4
 - pkg:nuget/Indice.Hive.Core@1.5.3-dev5
+- pkg:nuget/Indice.Hive.Core@1.5.36
 - pkg:nuget/Indice.Hive.Core@1.5.4-dev1
 - pkg:nuget/Indice.Hive.Core@1.5.4-dev2
 - pkg:nuget/Indice.Hive.Core@1.5.4-dev3

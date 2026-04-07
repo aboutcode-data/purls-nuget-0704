@@ -327,4 +327,5 @@
 - pkg:nuget/Common.Messaging.Lib@2.4.42
 - pkg:nuget/Common.Messaging.Lib@2.4.43
 - pkg:nuget/Common.Messaging.Lib@2.4.44
+- pkg:nuget/Common.Messaging.Lib@2.4.48
 - pkg:nuget/Common.Messaging.Lib@2.4.6
