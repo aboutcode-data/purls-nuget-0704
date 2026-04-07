@@ -1216,6 +1216,7 @@
 - pkg:nuget/MassTransit.DapperIntegration@8.5.8-develop.2411
 - pkg:nuget/MassTransit.DapperIntegration@8.5.8-develop.2415
 - pkg:nuget/MassTransit.DapperIntegration@8.5.8-develop.2416
+- pkg:nuget/MassTransit.DapperIntegration@8.5.9
 - pkg:nuget/MassTransit.DapperIntegration@9.0.0-develop.23
 - pkg:nuget/MassTransit.DapperIntegration@9.0.0-develop.25
 - pkg:nuget/MassTransit.DapperIntegration@9.1.0

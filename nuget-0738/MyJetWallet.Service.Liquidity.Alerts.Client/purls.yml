@@ -117,6 +117,7 @@
 - pkg:nuget/MyJetWallet.Service.Liquidity.Alerts.Client@1.2.7
 - pkg:nuget/MyJetWallet.Service.Liquidity.Alerts.Client@1.2.8
 - pkg:nuget/MyJetWallet.Service.Liquidity.Alerts.Client@1.2.9
+- pkg:nuget/MyJetWallet.Service.Liquidity.Alerts.Client@2.10.3
 - pkg:nuget/MyJetWallet.Service.Liquidity.Alerts.Client@2.7.1
 - pkg:nuget/MyJetWallet.Service.Liquidity.Alerts.Client@2.7.2
 - pkg:nuget/MyJetWallet.Service.Liquidity.Alerts.Client@2.7.20
