@@ -1,0 +1,4 @@
+- pkg:nuget/Json5@1.0.0
+- pkg:nuget/Json5@1.0.0-beta
+- pkg:nuget/Json5@1.0.0-rc
+- pkg:nuget/Json5@1.0.1
