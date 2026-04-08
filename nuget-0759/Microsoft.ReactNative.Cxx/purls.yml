@@ -6,6 +6,7 @@
 - pkg:nuget/Microsoft.ReactNative.Cxx@0.0.0-canary.1043
 - pkg:nuget/Microsoft.ReactNative.Cxx@0.0.0-canary.1044
 - pkg:nuget/Microsoft.ReactNative.Cxx@0.0.0-canary.1045
+- pkg:nuget/Microsoft.ReactNative.Cxx@0.0.0-canary.1048
 - pkg:nuget/Microsoft.ReactNative.Cxx@0.0.0-canary.381
 - pkg:nuget/Microsoft.ReactNative.Cxx@0.64.0
 - pkg:nuget/Microsoft.ReactNative.Cxx@0.64.1
