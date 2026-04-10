@@ -304,3 +304,4 @@
 - pkg:nuget/Soenneker.Cloudflare.OpenApiClient@4.0.544
 - pkg:nuget/Soenneker.Cloudflare.OpenApiClient@4.0.545
 - pkg:nuget/Soenneker.Cloudflare.OpenApiClient@4.0.551
+- pkg:nuget/Soenneker.Cloudflare.OpenApiClient@4.0.553
