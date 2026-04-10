@@ -1,2 +1,3 @@
 - pkg:nuget/Jobby.AspNetCore@0.1.0
 - pkg:nuget/Jobby.AspNetCore@0.2.0
+- pkg:nuget/Jobby.AspNetCore@0.6.2
