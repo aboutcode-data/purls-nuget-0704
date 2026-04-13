@@ -1,2 +1,4 @@
 - pkg:nuget/Spectre.Tui@0.0.0-preview
 - pkg:nuget/Spectre.Tui@0.0.0-preview.0.33
+- pkg:nuget/Spectre.Tui@0.4.1-preview.0.3
+- pkg:nuget/Spectre.Tui@0.4.1-preview.0.4
