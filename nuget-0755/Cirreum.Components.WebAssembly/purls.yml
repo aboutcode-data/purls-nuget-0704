@@ -1,4 +1,5 @@
 - pkg:nuget/Cirreum.Components.WebAssembly@1.0.14
 - pkg:nuget/Cirreum.Components.WebAssembly@1.0.22
 - pkg:nuget/Cirreum.Components.WebAssembly@1.0.25
+- pkg:nuget/Cirreum.Components.WebAssembly@1.0.33
 - pkg:nuget/Cirreum.Components.WebAssembly@1.0.7
