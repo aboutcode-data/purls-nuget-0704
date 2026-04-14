@@ -3,3 +3,4 @@
 - pkg:nuget/Any.NSubstitute@0.1.2
 - pkg:nuget/Any.NSubstitute@0.2.0
 - pkg:nuget/Any.NSubstitute@1.0.0
+- pkg:nuget/Any.NSubstitute@2.0.0
