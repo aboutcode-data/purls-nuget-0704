@@ -334,4 +334,6 @@
 - pkg:nuget/SenDev.Xaf.Dashboards@24.2.3.387
 - pkg:nuget/SenDev.Xaf.Dashboards@24.2.3.388
 - pkg:nuget/SenDev.Xaf.Dashboards@24.2.3.393
+- pkg:nuget/SenDev.Xaf.Dashboards@25.2.4.82
+- pkg:nuget/SenDev.Xaf.Dashboards@25.2.5
 - pkg:nuget/SenDev.Xaf.Dashboards@25.2.5.3
