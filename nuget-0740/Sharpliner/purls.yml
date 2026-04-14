@@ -94,6 +94,7 @@
 - pkg:nuget/Sharpliner@1.7.9
 - pkg:nuget/Sharpliner@1.8.0
 - pkg:nuget/Sharpliner@1.8.1
+- pkg:nuget/Sharpliner@1.8.11
 - pkg:nuget/Sharpliner@1.8.2
 - pkg:nuget/Sharpliner@1.8.3
 - pkg:nuget/Sharpliner@1.8.4
