@@ -960,6 +960,8 @@
 - pkg:nuget/Soenneker.Html.Parser@4.0.1142
 - pkg:nuget/Soenneker.Html.Parser@4.0.1143
 - pkg:nuget/Soenneker.Html.Parser@4.0.1145
+- pkg:nuget/Soenneker.Html.Parser@4.0.1148
+- pkg:nuget/Soenneker.Html.Parser@4.0.1149
 - pkg:nuget/Soenneker.Html.Parser@4.0.953
 - pkg:nuget/Soenneker.Html.Parser@4.0.959
 - pkg:nuget/Soenneker.Html.Parser@4.0.960

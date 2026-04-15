@@ -131,4 +131,5 @@
 - pkg:nuget/WolverineFx.MQTT@5.25.0
 - pkg:nuget/WolverineFx.MQTT@5.26.0
 - pkg:nuget/WolverineFx.MQTT@5.27.0
+- pkg:nuget/WolverineFx.MQTT@5.31.0
 - pkg:nuget/WolverineFx.MQTT@5.4.3
