@@ -8,3 +8,4 @@
 - pkg:nuget/dotnet-text-encoder@1.1.0
 - pkg:nuget/dotnet-text-encoder@1.1.1.1
 - pkg:nuget/dotnet-text-encoder@2.0.0.1
+- pkg:nuget/dotnet-text-encoder@3.0.1
