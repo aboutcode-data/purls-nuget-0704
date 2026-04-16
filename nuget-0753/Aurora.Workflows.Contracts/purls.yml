@@ -212,3 +212,4 @@
 - pkg:nuget/Aurora.Workflows.Contracts@0.2.1.77
 - pkg:nuget/Aurora.Workflows.Contracts@0.2.1.9
 - pkg:nuget/Aurora.Workflows.Contracts@0.3.1.53
+- pkg:nuget/Aurora.Workflows.Contracts@0.4.1.5

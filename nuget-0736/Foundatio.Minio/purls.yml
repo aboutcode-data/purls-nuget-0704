@@ -25,6 +25,7 @@
 - pkg:nuget/Foundatio.Minio@11.0.8
 - pkg:nuget/Foundatio.Minio@11.1.0
 - pkg:nuget/Foundatio.Minio@12.0.0
+- pkg:nuget/Foundatio.Minio@13.0.0-beta6
 - pkg:nuget/Foundatio.Minio@7.0.23
 - pkg:nuget/Foundatio.Minio@7.0.29
 - pkg:nuget/Foundatio.Minio@8.0.42
