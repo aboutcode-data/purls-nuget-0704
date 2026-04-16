@@ -29,6 +29,7 @@
 - pkg:nuget/Microsoft.Direct3D.D3D12@1.616.1
 - pkg:nuget/Microsoft.Direct3D.D3D12@1.619.0
 - pkg:nuget/Microsoft.Direct3D.D3D12@1.619.1
+- pkg:nuget/Microsoft.Direct3D.D3D12@1.619.2
 - pkg:nuget/Microsoft.Direct3D.D3D12@1.700.10-preview
 - pkg:nuget/Microsoft.Direct3D.D3D12@1.706.3-preview
 - pkg:nuget/Microsoft.Direct3D.D3D12@1.706.4-preview
