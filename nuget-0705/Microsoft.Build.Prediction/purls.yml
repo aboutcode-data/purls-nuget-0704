@@ -16,5 +16,6 @@
 - pkg:nuget/Microsoft.Build.Prediction@1.2.31
 - pkg:nuget/Microsoft.Build.Prediction@1.2.34
 - pkg:nuget/Microsoft.Build.Prediction@1.2.36
+- pkg:nuget/Microsoft.Build.Prediction@1.2.37
 - pkg:nuget/Microsoft.Build.Prediction@1.2.6
 - pkg:nuget/Microsoft.Build.Prediction@1.2.8
