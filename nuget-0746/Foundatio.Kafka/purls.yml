@@ -10,3 +10,4 @@
 - pkg:nuget/Foundatio.Kafka@11.0.8
 - pkg:nuget/Foundatio.Kafka@11.1.0
 - pkg:nuget/Foundatio.Kafka@12.0.0
+- pkg:nuget/Foundatio.Kafka@13.0.0-beta6
