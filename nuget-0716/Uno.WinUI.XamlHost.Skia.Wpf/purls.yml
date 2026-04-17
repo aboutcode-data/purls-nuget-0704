@@ -2814,6 +2814,7 @@
 - pkg:nuget/Uno.WinUI.XamlHost.Skia.Wpf@6.6.0-dev.106
 - pkg:nuget/Uno.WinUI.XamlHost.Skia.Wpf@6.6.0-dev.1124
 - pkg:nuget/Uno.WinUI.XamlHost.Skia.Wpf@6.6.0-dev.1283
+- pkg:nuget/Uno.WinUI.XamlHost.Skia.Wpf@6.6.0-dev.1289
 - pkg:nuget/Uno.WinUI.XamlHost.Skia.Wpf@6.6.0-dev.129
 - pkg:nuget/Uno.WinUI.XamlHost.Skia.Wpf@6.6.0-dev.130
 - pkg:nuget/Uno.WinUI.XamlHost.Skia.Wpf@6.6.0-dev.204
