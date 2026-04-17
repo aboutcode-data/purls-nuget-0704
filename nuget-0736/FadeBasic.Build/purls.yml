@@ -37,6 +37,7 @@
 - pkg:nuget/FadeBasic.Build@0.0.58.1
 - pkg:nuget/FadeBasic.Build@0.0.59.1
 - pkg:nuget/FadeBasic.Build@0.0.6.1
+- pkg:nuget/FadeBasic.Build@0.0.61.1
 - pkg:nuget/FadeBasic.Build@0.0.7.1
 - pkg:nuget/FadeBasic.Build@0.0.8.1
 - pkg:nuget/FadeBasic.Build@0.0.9.1
