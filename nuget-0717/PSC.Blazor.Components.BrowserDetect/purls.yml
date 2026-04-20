@@ -3,6 +3,7 @@
 - pkg:nuget/PSC.Blazor.Components.BrowserDetect@1.0.11
 - pkg:nuget/PSC.Blazor.Components.BrowserDetect@1.0.14
 - pkg:nuget/PSC.Blazor.Components.BrowserDetect@1.0.2
+- pkg:nuget/PSC.Blazor.Components.BrowserDetect@1.0.23
 - pkg:nuget/PSC.Blazor.Components.BrowserDetect@1.0.3
 - pkg:nuget/PSC.Blazor.Components.BrowserDetect@1.0.4
 - pkg:nuget/PSC.Blazor.Components.BrowserDetect@1.0.5
