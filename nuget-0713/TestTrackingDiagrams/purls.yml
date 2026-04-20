@@ -65,6 +65,7 @@
 - pkg:nuget/TestTrackingDiagrams@2.0.124-beta
 - pkg:nuget/TestTrackingDiagrams@2.0.13-alpha
 - pkg:nuget/TestTrackingDiagrams@2.0.151-beta
+- pkg:nuget/TestTrackingDiagrams@2.0.162-beta
 - pkg:nuget/TestTrackingDiagrams@2.0.24-alpha
 - pkg:nuget/TestTrackingDiagrams@2.0.25-alpha
 - pkg:nuget/TestTrackingDiagrams@2.0.26-alpha
