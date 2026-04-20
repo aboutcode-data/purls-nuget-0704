@@ -22,3 +22,4 @@
 - pkg:nuget/GoPlay.Core.Transport.Ws@0.2.7
 - pkg:nuget/GoPlay.Core.Transport.Ws@0.2.8
 - pkg:nuget/GoPlay.Core.Transport.Ws@0.2.9
+- pkg:nuget/GoPlay.Core.Transport.Ws@0.9.0
