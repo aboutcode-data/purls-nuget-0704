@@ -8,6 +8,7 @@
 - pkg:nuget/Microsoft.DotNet.Web.Client.ItemTemplates@10.0.0-rc.1.25451.107
 - pkg:nuget/Microsoft.DotNet.Web.Client.ItemTemplates@10.0.0-rc.2.25502.107
 - pkg:nuget/Microsoft.DotNet.Web.Client.ItemTemplates@10.0.1
+- pkg:nuget/Microsoft.DotNet.Web.Client.ItemTemplates@10.0.7
 - pkg:nuget/Microsoft.DotNet.Web.Client.ItemTemplates@2.1.13
 - pkg:nuget/Microsoft.DotNet.Web.Client.ItemTemplates@2.1.14
 - pkg:nuget/Microsoft.DotNet.Web.Client.ItemTemplates@2.1.15
