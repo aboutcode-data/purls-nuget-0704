@@ -1,2 +1,3 @@
 - pkg:nuget/TORM.Sqlite@1.9.25
 - pkg:nuget/TORM.Sqlite@1.9.26
+- pkg:nuget/TORM.Sqlite@2.0.3
