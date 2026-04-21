@@ -4,6 +4,7 @@
 - pkg:nuget/ES.FX.TransactionalOutbox.EntityFrameworkCore.MySql@10.0.27
 - pkg:nuget/ES.FX.TransactionalOutbox.EntityFrameworkCore.MySql@10.0.3
 - pkg:nuget/ES.FX.TransactionalOutbox.EntityFrameworkCore.MySql@10.0.33
+- pkg:nuget/ES.FX.TransactionalOutbox.EntityFrameworkCore.MySql@10.0.35
 - pkg:nuget/ES.FX.TransactionalOutbox.EntityFrameworkCore.MySql@9.1.30
 - pkg:nuget/ES.FX.TransactionalOutbox.EntityFrameworkCore.MySql@9.1.31
 - pkg:nuget/ES.FX.TransactionalOutbox.EntityFrameworkCore.MySql@9.1.32
