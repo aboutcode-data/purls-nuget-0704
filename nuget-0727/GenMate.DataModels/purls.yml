@@ -26,6 +26,7 @@
 - pkg:nuget/GenMate.DataModels@10.8.0
 - pkg:nuget/GenMate.DataModels@10.9.0
 - pkg:nuget/GenMate.DataModels@17.1.0
+- pkg:nuget/GenMate.DataModels@18.13.0
 - pkg:nuget/GenMate.DataModels@18.4.0
 - pkg:nuget/GenMate.DataModels@3.10.0
 - pkg:nuget/GenMate.DataModels@3.6.1
