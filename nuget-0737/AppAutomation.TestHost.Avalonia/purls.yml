@@ -1,1 +1,2 @@
 - pkg:nuget/AppAutomation.TestHost.Avalonia@1.2.0
+- pkg:nuget/AppAutomation.TestHost.Avalonia@1.4.6
