@@ -40,6 +40,7 @@
 - pkg:nuget/Oarw.Data.Tracking.Blazor@1.0.58
 - pkg:nuget/Oarw.Data.Tracking.Blazor@1.0.59
 - pkg:nuget/Oarw.Data.Tracking.Blazor@1.0.6
+- pkg:nuget/Oarw.Data.Tracking.Blazor@1.0.65
 - pkg:nuget/Oarw.Data.Tracking.Blazor@1.0.7
 - pkg:nuget/Oarw.Data.Tracking.Blazor@1.0.8
 - pkg:nuget/Oarw.Data.Tracking.Blazor@1.0.9
