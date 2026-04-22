@@ -39,4 +39,5 @@
 - pkg:nuget/Facet.Mapping@5.8.7
 - pkg:nuget/Facet.Mapping@5.8.8
 - pkg:nuget/Facet.Mapping@5.9.0
+- pkg:nuget/Facet.Mapping@6.3.4-preview.pr350.22
 - pkg:nuget/Facet.Mapping@6.4.0
