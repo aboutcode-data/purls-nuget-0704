@@ -16,6 +16,7 @@
 - pkg:nuget/ITBees.RestfulApiControllers@8.0.22
 - pkg:nuget/ITBees.RestfulApiControllers@8.0.24
 - pkg:nuget/ITBees.RestfulApiControllers@8.0.25
+- pkg:nuget/ITBees.RestfulApiControllers@8.0.30
 - pkg:nuget/ITBees.RestfulApiControllers@8.0.5
 - pkg:nuget/ITBees.RestfulApiControllers@8.0.6
 - pkg:nuget/ITBees.RestfulApiControllers@8.0.7
