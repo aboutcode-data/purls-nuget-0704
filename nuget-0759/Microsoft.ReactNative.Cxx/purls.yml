@@ -539,6 +539,7 @@
 - pkg:nuget/Microsoft.ReactNative.Cxx@0.81.2
 - pkg:nuget/Microsoft.ReactNative.Cxx@0.82.0-preview.10
 - pkg:nuget/Microsoft.ReactNative.Cxx@0.82.0-preview.8
+- pkg:nuget/Microsoft.ReactNative.Cxx@0.82.5
 - pkg:nuget/Microsoft.ReactNative.Cxx@0.83.0-preview.0
 - pkg:nuget/Microsoft.ReactNative.Cxx@0.83.0-preview.1
 - pkg:nuget/Microsoft.ReactNative.Cxx@0.83.0-preview.2
