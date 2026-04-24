@@ -21,3 +21,4 @@
 - pkg:nuget/SteamStorageAPI.SDK@1.4.0
 - pkg:nuget/SteamStorageAPI.SDK@1.5.0
 - pkg:nuget/SteamStorageAPI.SDK@2.0.0
+- pkg:nuget/SteamStorageAPI.SDK@2.0.1
