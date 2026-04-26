@@ -5,4 +5,6 @@
 - pkg:nuget/TestTrackingDiagrams.Extensions.ServiceBus@2.15.0
 - pkg:nuget/TestTrackingDiagrams.Extensions.ServiceBus@2.19.0
 - pkg:nuget/TestTrackingDiagrams.Extensions.ServiceBus@2.22.19
+- pkg:nuget/TestTrackingDiagrams.Extensions.ServiceBus@2.22.27
+- pkg:nuget/TestTrackingDiagrams.Extensions.ServiceBus@2.22.28
 - pkg:nuget/TestTrackingDiagrams.Extensions.ServiceBus@2.4.1
