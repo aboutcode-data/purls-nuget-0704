@@ -12,6 +12,7 @@
 - pkg:nuget/BinaryLibs.Security@0.124.0
 - pkg:nuget/BinaryLibs.Security@0.125.0
 - pkg:nuget/BinaryLibs.Security@0.126.0
+- pkg:nuget/BinaryLibs.Security@0.127.0
 - pkg:nuget/BinaryLibs.Security@0.89.0
 - pkg:nuget/BinaryLibs.Security@0.90.0
 - pkg:nuget/BinaryLibs.Security@0.91.0
