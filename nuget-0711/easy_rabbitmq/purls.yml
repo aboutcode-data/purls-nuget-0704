@@ -1,1 +1,2 @@
 - pkg:nuget/easy_rabbitmq@1.0.1
+- pkg:nuget/easy_rabbitmq@1.1.1
