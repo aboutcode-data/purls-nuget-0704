@@ -1,5 +1,7 @@
 - pkg:nuget/Dnet.AspNet@3.12.10
 - pkg:nuget/Dnet.AspNet@3.12.11
+- pkg:nuget/Dnet.AspNet@3.12.12
+- pkg:nuget/Dnet.AspNet@3.12.13
 - pkg:nuget/Dnet.AspNet@3.12.6
 - pkg:nuget/Dnet.AspNet@3.12.7
 - pkg:nuget/Dnet.AspNet@3.12.9
