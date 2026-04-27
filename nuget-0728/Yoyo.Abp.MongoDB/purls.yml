@@ -1,4 +1,5 @@
 - pkg:nuget/Yoyo.Abp.MongoDB@1.0.0
+- pkg:nuget/Yoyo.Abp.MongoDB@10.3.0
 - pkg:nuget/Yoyo.Abp.MongoDB@6.4.0
 - pkg:nuget/Yoyo.Abp.MongoDB@7.3.0
 - pkg:nuget/Yoyo.Abp.MongoDB@7.3.0.10
