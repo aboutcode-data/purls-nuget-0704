@@ -1,5 +1,6 @@
 - pkg:nuget/JetBrains.Platform.VisualStudio.SinceVs18@251.0.20250812.163933
 - pkg:nuget/JetBrains.Platform.VisualStudio.SinceVs18@251.0.20250902.233334
+- pkg:nuget/JetBrains.Platform.VisualStudio.SinceVs18@251.0.20260420.144004
 - pkg:nuget/JetBrains.Platform.VisualStudio.SinceVs18@252.0.20250820.211355
 - pkg:nuget/JetBrains.Platform.VisualStudio.SinceVs18@252.0.20250904.64847
 - pkg:nuget/JetBrains.Platform.VisualStudio.SinceVs18@252.0.20250917.144029
