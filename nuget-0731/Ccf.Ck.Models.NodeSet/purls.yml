@@ -40,6 +40,7 @@
 - pkg:nuget/Ccf.Ck.Models.NodeSet@1.0.7
 - pkg:nuget/Ccf.Ck.Models.NodeSet@1.0.8
 - pkg:nuget/Ccf.Ck.Models.NodeSet@1.0.9
+- pkg:nuget/Ccf.Ck.Models.NodeSet@10.0.3
 - pkg:nuget/Ccf.Ck.Models.NodeSet@5.0.0
 - pkg:nuget/Ccf.Ck.Models.NodeSet@5.0.1
 - pkg:nuget/Ccf.Ck.Models.NodeSet@5.0.2
