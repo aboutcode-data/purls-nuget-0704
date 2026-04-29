@@ -1,5 +1,6 @@
 - pkg:nuget/FactSet.SDK.FactSetFunds@0.20.0
 - pkg:nuget/FactSet.SDK.FactSetFunds@0.21.0
+- pkg:nuget/FactSet.SDK.FactSetFunds@0.40.1
 - pkg:nuget/FactSet.SDK.FactSetFunds@0.9.0
 - pkg:nuget/FactSet.SDK.FactSetFunds@0.9.1
 - pkg:nuget/FactSet.SDK.FactSetFunds@1.0.0
