@@ -21,6 +21,7 @@
 - pkg:nuget/FS.Dapper@1.5.3
 - pkg:nuget/FS.Dapper@1.5.4
 - pkg:nuget/FS.Dapper@1.5.5
+- pkg:nuget/FS.Dapper@10.0.3
 - pkg:nuget/FS.Dapper@6.0.0
 - pkg:nuget/FS.Dapper@6.0.1
 - pkg:nuget/FS.Dapper@6.0.2
