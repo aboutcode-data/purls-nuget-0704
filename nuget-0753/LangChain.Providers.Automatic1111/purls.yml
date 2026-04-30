@@ -281,6 +281,7 @@
 - pkg:nuget/LangChain.Providers.Automatic1111@0.16.1-dev.26
 - pkg:nuget/LangChain.Providers.Automatic1111@0.16.1-dev.5
 - pkg:nuget/LangChain.Providers.Automatic1111@0.17.0
+- pkg:nuget/LangChain.Providers.Automatic1111@0.17.1
 - pkg:nuget/LangChain.Providers.Automatic1111@0.17.1-dev.15
 - pkg:nuget/LangChain.Providers.Automatic1111@0.17.1-dev.18
 - pkg:nuget/LangChain.Providers.Automatic1111@0.17.1-dev.20
