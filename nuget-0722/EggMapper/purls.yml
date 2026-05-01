@@ -9,3 +9,7 @@
 - pkg:nuget/EggMapper@1.15.2
 - pkg:nuget/EggMapper@1.16.0
 - pkg:nuget/EggMapper@1.16.1
+- pkg:nuget/EggMapper@1.17.5
+- pkg:nuget/EggMapper@1.17.6
+- pkg:nuget/EggMapper@1.17.7
+- pkg:nuget/EggMapper@1.17.8
