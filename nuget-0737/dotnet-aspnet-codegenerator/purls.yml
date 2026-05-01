@@ -1,5 +1,6 @@
 - pkg:nuget/dotnet-aspnet-codegenerator@0.0.1-alpha
 - pkg:nuget/dotnet-aspnet-codegenerator@10.0.0-rc.1.25458.5
+- pkg:nuget/dotnet-aspnet-codegenerator@11.0.0-preview.1.26230.3
 - pkg:nuget/dotnet-aspnet-codegenerator@2.1.0
 - pkg:nuget/dotnet-aspnet-codegenerator@2.1.0-rc1-final
 - pkg:nuget/dotnet-aspnet-codegenerator@2.1.1
