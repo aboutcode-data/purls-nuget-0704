@@ -1,3 +1,4 @@
+- pkg:nuget/Microsoft.Extensions.AI@10.5.1
 - pkg:nuget/Microsoft.Extensions.AI@9.0.0-preview.9.24507.7
 - pkg:nuget/Microsoft.Extensions.AI@9.0.0-preview.9.24525.1
 - pkg:nuget/Microsoft.Extensions.AI@9.0.0-preview.9.24556.5
