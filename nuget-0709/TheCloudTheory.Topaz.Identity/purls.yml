@@ -1,3 +1,4 @@
 - pkg:nuget/TheCloudTheory.Topaz.Identity@1.0.467-alpha
 - pkg:nuget/TheCloudTheory.Topaz.Identity@1.0.539-beta
 - pkg:nuget/TheCloudTheory.Topaz.Identity@1.0.70-alpha
+- pkg:nuget/TheCloudTheory.Topaz.Identity@1.3.7-beta
