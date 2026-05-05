@@ -111,3 +111,4 @@
 - pkg:nuget/Syncfusion.PdfToImageConverter.WinForms@31.2.18
 - pkg:nuget/Syncfusion.PdfToImageConverter.WinForms@33.1.44
 - pkg:nuget/Syncfusion.PdfToImageConverter.WinForms@33.1.46
+- pkg:nuget/Syncfusion.PdfToImageConverter.WinForms@33.2.5
