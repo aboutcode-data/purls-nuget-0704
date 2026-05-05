@@ -54,3 +54,5 @@
 - pkg:nuget/Credfeto.ChangeLog.Cmd.osx-arm64@1.10.194.1759-main
 - pkg:nuget/Credfeto.ChangeLog.Cmd.osx-arm64@1.10.194.1774-main
 - pkg:nuget/Credfeto.ChangeLog.Cmd.osx-arm64@1.10.194.1775-main
+- pkg:nuget/Credfeto.ChangeLog.Cmd.osx-arm64@1.10.194.1790-frozen-set-know
+- pkg:nuget/Credfeto.ChangeLog.Cmd.osx-arm64@1.10.194.1791-tidy-up-code
