@@ -32,4 +32,5 @@
 - pkg:nuget/TestTrackingDiagrams.Extensions.MediatR@2.28.33
 - pkg:nuget/TestTrackingDiagrams.Extensions.MediatR@2.28.34
 - pkg:nuget/TestTrackingDiagrams.Extensions.MediatR@2.28.40
+- pkg:nuget/TestTrackingDiagrams.Extensions.MediatR@2.29.7-beta
 - pkg:nuget/TestTrackingDiagrams.Extensions.MediatR@2.4.1
