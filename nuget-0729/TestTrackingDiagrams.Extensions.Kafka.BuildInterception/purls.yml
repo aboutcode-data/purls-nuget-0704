@@ -6,4 +6,5 @@
 - pkg:nuget/TestTrackingDiagrams.Extensions.Kafka.BuildInterception@2.28.33
 - pkg:nuget/TestTrackingDiagrams.Extensions.Kafka.BuildInterception@2.28.34
 - pkg:nuget/TestTrackingDiagrams.Extensions.Kafka.BuildInterception@2.28.40
+- pkg:nuget/TestTrackingDiagrams.Extensions.Kafka.BuildInterception@2.29.12-beta
 - pkg:nuget/TestTrackingDiagrams.Extensions.Kafka.BuildInterception@2.29.7-beta
