@@ -1,1 +1,2 @@
 - pkg:nuget/Lookout.Hangfire@1.0.0-preview.2
+- pkg:nuget/Lookout.Hangfire@1.0.0-preview.5
