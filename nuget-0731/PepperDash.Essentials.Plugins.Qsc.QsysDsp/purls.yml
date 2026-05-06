@@ -7,3 +7,4 @@
 - pkg:nuget/PepperDash.Essentials.Plugins.Qsc.QsysDsp@3.2.0
 - pkg:nuget/PepperDash.Essentials.Plugins.Qsc.QsysDsp@3.2.0-feature-IDspPresets.1
 - pkg:nuget/PepperDash.Essentials.Plugins.Qsc.QsysDsp@3.2.0-feature-IDspPresets.2
+- pkg:nuget/PepperDash.Essentials.Plugins.Qsc.QsysDsp@3.3.0-feat-recallSave-byindex.2
