@@ -1,1 +1,4 @@
 - pkg:nuget/Lumeo.Scheduler@2.0.0-rc.20
+- pkg:nuget/Lumeo.Scheduler@2.0.0-rc.24
+- pkg:nuget/Lumeo.Scheduler@2.0.0-rc.25
+- pkg:nuget/Lumeo.Scheduler@2.0.0-rc.26
