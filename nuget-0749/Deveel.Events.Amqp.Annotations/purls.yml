@@ -1,1 +1,2 @@
 - pkg:nuget/Deveel.Events.Amqp.Annotations@0.4.0
+- pkg:nuget/Deveel.Events.Amqp.Annotations@1.2.2-pre.2
