@@ -39,3 +39,4 @@
 - pkg:nuget/Audit.NET.Polly@31.0.0
 - pkg:nuget/Audit.NET.Polly@31.0.1
 - pkg:nuget/Audit.NET.Polly@31.3.1
+- pkg:nuget/Audit.NET.Polly@32.1.0
