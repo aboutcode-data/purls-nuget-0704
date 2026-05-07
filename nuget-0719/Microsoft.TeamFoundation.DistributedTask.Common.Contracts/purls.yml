@@ -166,3 +166,4 @@
 - pkg:nuget/Microsoft.TeamFoundation.DistributedTask.Common.Contracts@20.259.0-preview
 - pkg:nuget/Microsoft.TeamFoundation.DistributedTask.Common.Contracts@20.260.0-preview
 - pkg:nuget/Microsoft.TeamFoundation.DistributedTask.Common.Contracts@20.262.0-preview
+- pkg:nuget/Microsoft.TeamFoundation.DistributedTask.Common.Contracts@20.271.20260413.1-ci
