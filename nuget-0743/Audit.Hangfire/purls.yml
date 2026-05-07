@@ -1,1 +1,2 @@
 - pkg:nuget/Audit.Hangfire@31.3.1
+- pkg:nuget/Audit.Hangfire@32.1.0
