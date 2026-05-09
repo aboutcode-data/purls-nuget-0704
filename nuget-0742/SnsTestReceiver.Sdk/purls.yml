@@ -5,3 +5,4 @@
 - pkg:nuget/SnsTestReceiver.Sdk@2.0.0
 - pkg:nuget/SnsTestReceiver.Sdk@3.0.0
 - pkg:nuget/SnsTestReceiver.Sdk@3.0.1
+- pkg:nuget/SnsTestReceiver.Sdk@4.1.0
