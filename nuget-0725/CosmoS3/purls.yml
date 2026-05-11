@@ -1,4 +1,5 @@
 - pkg:nuget/CosmoS3@1.9.1
+- pkg:nuget/CosmoS3@1.9.18
 - pkg:nuget/CosmoS3@1.9.2
 - pkg:nuget/CosmoS3@1.9.3
 - pkg:nuget/CosmoS3@1.9.4
