@@ -1,3 +1,4 @@
 - pkg:nuget/Cirreum.Persistence.SqlServer@1.0.23
 - pkg:nuget/Cirreum.Persistence.SqlServer@1.0.27
+- pkg:nuget/Cirreum.Persistence.SqlServer@1.0.31
 - pkg:nuget/Cirreum.Persistence.SqlServer@1.0.9
