@@ -225,3 +225,4 @@
 - pkg:nuget/Google.Apis.Safebrowsing.v4@1.66.0.2968
 - pkg:nuget/Google.Apis.Safebrowsing.v4@1.67.0.2968
 - pkg:nuget/Google.Apis.Safebrowsing.v4@1.68.0.2968
+- pkg:nuget/Google.Apis.Safebrowsing.v4@1.74.0.2968

@@ -60,3 +60,6 @@
 - pkg:nuget/Credfeto.ChangeLog.Cmd.osx-arm64@1.10.195.1799-tidy-up-code
 - pkg:nuget/Credfeto.ChangeLog.Cmd.osx-arm64@1.10.195.1840-main
 - pkg:nuget/Credfeto.ChangeLog.Cmd.osx-arm64@1.10.195.1841-main
+- pkg:nuget/Credfeto.ChangeLog.Cmd.osx-arm64@1.10.195.1846-comparison-link
+- pkg:nuget/Credfeto.ChangeLog.Cmd.osx-arm64@1.10.195.1847-main
+- pkg:nuget/Credfeto.ChangeLog.Cmd.osx-arm64@1.10.195.1848-comparison-link
