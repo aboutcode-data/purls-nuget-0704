@@ -19,6 +19,7 @@
 - pkg:nuget/Microsoft.Extensions.Configuration.UserSecrets@10.0.7
 - pkg:nuget/Microsoft.Extensions.Configuration.UserSecrets@11.0.0-preview.1.26104.118
 - pkg:nuget/Microsoft.Extensions.Configuration.UserSecrets@11.0.0-preview.2.26159.112
+- pkg:nuget/Microsoft.Extensions.Configuration.UserSecrets@11.0.0-preview.4.26230.115
 - pkg:nuget/Microsoft.Extensions.Configuration.UserSecrets@2.0.0
 - pkg:nuget/Microsoft.Extensions.Configuration.UserSecrets@2.0.0-preview1-final
 - pkg:nuget/Microsoft.Extensions.Configuration.UserSecrets@2.0.0-preview2-final
@@ -142,6 +143,7 @@
 - pkg:nuget/Microsoft.Extensions.Configuration.UserSecrets@9.0.1
 - pkg:nuget/Microsoft.Extensions.Configuration.UserSecrets@9.0.12
 - pkg:nuget/Microsoft.Extensions.Configuration.UserSecrets@9.0.13
+- pkg:nuget/Microsoft.Extensions.Configuration.UserSecrets@9.0.16
 - pkg:nuget/Microsoft.Extensions.Configuration.UserSecrets@9.0.2
 - pkg:nuget/Microsoft.Extensions.Configuration.UserSecrets@9.0.3
 - pkg:nuget/Microsoft.Extensions.Configuration.UserSecrets@9.0.4
