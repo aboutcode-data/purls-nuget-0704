@@ -170,6 +170,7 @@
 - pkg:nuget/Vintasoft.Barcode.Web.Services@15.2.9.1
 - pkg:nuget/Vintasoft.Barcode.Web.Services@15.3.11.1
 - pkg:nuget/Vintasoft.Barcode.Web.Services@15.3.5.1
+- pkg:nuget/Vintasoft.Barcode.Web.Services@16.0.0.1
 - pkg:nuget/Vintasoft.Barcode.Web.Services@9.2.0.1
 - pkg:nuget/Vintasoft.Barcode.Web.Services@9.2.0.3
 - pkg:nuget/Vintasoft.Barcode.Web.Services@9.2.1.1

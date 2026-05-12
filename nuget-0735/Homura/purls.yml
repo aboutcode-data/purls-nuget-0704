@@ -8,6 +8,7 @@
 - pkg:nuget/Homura@11.0.1
 - pkg:nuget/Homura@11.1.0
 - pkg:nuget/Homura@11.1.1
+- pkg:nuget/Homura@14.1.0
 - pkg:nuget/Homura@2.0.0
 - pkg:nuget/Homura@3.0.0
 - pkg:nuget/Homura@3.1.0

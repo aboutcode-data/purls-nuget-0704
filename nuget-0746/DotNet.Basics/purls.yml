@@ -196,6 +196,7 @@
 - pkg:nuget/DotNet.Basics@12.10.6
 - pkg:nuget/DotNet.Basics@12.11.0
 - pkg:nuget/DotNet.Basics@12.11.1
+- pkg:nuget/DotNet.Basics@12.12.3
 - pkg:nuget/DotNet.Basics@2.0.0-rc
 - pkg:nuget/DotNet.Basics@2.0.0-rc1
 - pkg:nuget/DotNet.Basics@2.0.0-rc10
