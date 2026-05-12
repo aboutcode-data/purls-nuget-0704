@@ -10,7 +10,9 @@
 - pkg:nuget/Microsoft.NETCore.App.Host.osx-arm64@10.0.1
 - pkg:nuget/Microsoft.NETCore.App.Host.osx-arm64@10.0.3
 - pkg:nuget/Microsoft.NETCore.App.Host.osx-arm64@10.0.7
+- pkg:nuget/Microsoft.NETCore.App.Host.osx-arm64@10.0.8
 - pkg:nuget/Microsoft.NETCore.App.Host.osx-arm64@11.0.0-preview.3.26207.106
+- pkg:nuget/Microsoft.NETCore.App.Host.osx-arm64@11.0.0-preview.4.26230.115
 - pkg:nuget/Microsoft.NETCore.App.Host.osx-arm64@6.0.0
 - pkg:nuget/Microsoft.NETCore.App.Host.osx-arm64@6.0.0-preview.1.21102.12
 - pkg:nuget/Microsoft.NETCore.App.Host.osx-arm64@6.0.0-preview.2.21154.6

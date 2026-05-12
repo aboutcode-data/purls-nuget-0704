@@ -23,7 +23,9 @@
 - pkg:nuget/Microsoft.Bcl.AsyncInterfaces@10.0.1
 - pkg:nuget/Microsoft.Bcl.AsyncInterfaces@10.0.2
 - pkg:nuget/Microsoft.Bcl.AsyncInterfaces@10.0.7
+- pkg:nuget/Microsoft.Bcl.AsyncInterfaces@10.0.8
 - pkg:nuget/Microsoft.Bcl.AsyncInterfaces@11.0.0-preview.2.26159.112
+- pkg:nuget/Microsoft.Bcl.AsyncInterfaces@11.0.0-preview.4.26230.115
 - pkg:nuget/Microsoft.Bcl.AsyncInterfaces@5.0.0
 - pkg:nuget/Microsoft.Bcl.AsyncInterfaces@5.0.0-rc.1.20451.14
 - pkg:nuget/Microsoft.Bcl.AsyncInterfaces@5.0.0-rc.2.20475.5
@@ -72,6 +74,7 @@
 - pkg:nuget/Microsoft.Bcl.AsyncInterfaces@9.0.1
 - pkg:nuget/Microsoft.Bcl.AsyncInterfaces@9.0.12
 - pkg:nuget/Microsoft.Bcl.AsyncInterfaces@9.0.13
+- pkg:nuget/Microsoft.Bcl.AsyncInterfaces@9.0.16
 - pkg:nuget/Microsoft.Bcl.AsyncInterfaces@9.0.2
 - pkg:nuget/Microsoft.Bcl.AsyncInterfaces@9.0.3
 - pkg:nuget/Microsoft.Bcl.AsyncInterfaces@9.0.4
