@@ -87,4 +87,5 @@
 - pkg:nuget/NATS.Client.ObjectStore@2.7.0-preview.3
 - pkg:nuget/NATS.Client.ObjectStore@2.7.0-preview.4
 - pkg:nuget/NATS.Client.ObjectStore@2.7.0-preview.5
+- pkg:nuget/NATS.Client.ObjectStore@2.8.0
 - pkg:nuget/NATS.Client.ObjectStore@3.0.0-preview.5
