@@ -71,3 +71,5 @@
 - pkg:nuget/Gestalt.ASPNet.MVC@2.4.0
 - pkg:nuget/Gestalt.ASPNet.MVC@2.4.1
 - pkg:nuget/Gestalt.ASPNet.MVC@2.4.2
+- pkg:nuget/Gestalt.ASPNet.MVC@2.4.5
+- pkg:nuget/Gestalt.ASPNet.MVC@2.4.6

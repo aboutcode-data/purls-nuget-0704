@@ -52,3 +52,4 @@
 - pkg:nuget/SimpleMail@5.1.4
 - pkg:nuget/SimpleMail@5.2.0
 - pkg:nuget/SimpleMail@5.2.3
+- pkg:nuget/SimpleMail@5.2.4
