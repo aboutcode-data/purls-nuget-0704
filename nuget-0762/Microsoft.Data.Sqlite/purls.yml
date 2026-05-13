@@ -19,6 +19,7 @@
 - pkg:nuget/Microsoft.Data.Sqlite@10.0.1
 - pkg:nuget/Microsoft.Data.Sqlite@10.0.7
 - pkg:nuget/Microsoft.Data.Sqlite@10.0.8
+- pkg:nuget/Microsoft.Data.Sqlite@11.0.0-preview.4.26230.115
 - pkg:nuget/Microsoft.Data.Sqlite@2.0.0
 - pkg:nuget/Microsoft.Data.Sqlite@2.0.0-preview1-final
 - pkg:nuget/Microsoft.Data.Sqlite@2.0.0-preview2-final
