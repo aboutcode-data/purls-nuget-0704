@@ -5,5 +5,6 @@
 - pkg:nuget/Soenneker.OpenAI.OpenApiClientUtil@4.0.4
 - pkg:nuget/Soenneker.OpenAI.OpenApiClientUtil@4.0.5
 - pkg:nuget/Soenneker.OpenAI.OpenApiClientUtil@4.0.50
+- pkg:nuget/Soenneker.OpenAI.OpenApiClientUtil@4.0.55
 - pkg:nuget/Soenneker.OpenAI.OpenApiClientUtil@4.0.6
 - pkg:nuget/Soenneker.OpenAI.OpenApiClientUtil@4.0.7
