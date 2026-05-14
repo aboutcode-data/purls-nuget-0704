@@ -1206,6 +1206,7 @@
 - pkg:nuget/AWSSDK.WorkSpaces@3.7.507.4
 - pkg:nuget/AWSSDK.WorkSpaces@3.7.507.5
 - pkg:nuget/AWSSDK.WorkSpaces@3.7.507.6
+- pkg:nuget/AWSSDK.WorkSpaces@3.7.507.8
 - pkg:nuget/AWSSDK.WorkSpaces@3.7.6
 - pkg:nuget/AWSSDK.WorkSpaces@3.7.6.1
 - pkg:nuget/AWSSDK.WorkSpaces@3.7.6.10

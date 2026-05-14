@@ -1004,6 +1004,7 @@
 - pkg:nuget/AWSSDK.MarketplaceCatalog@3.7.504.16
 - pkg:nuget/AWSSDK.MarketplaceCatalog@3.7.504.17
 - pkg:nuget/AWSSDK.MarketplaceCatalog@3.7.504.18
+- pkg:nuget/AWSSDK.MarketplaceCatalog@3.7.504.20
 - pkg:nuget/AWSSDK.MarketplaceCatalog@3.7.504.6
 - pkg:nuget/AWSSDK.MarketplaceCatalog@4.0.0
 - pkg:nuget/AWSSDK.MarketplaceCatalog@4.0.0-preview
