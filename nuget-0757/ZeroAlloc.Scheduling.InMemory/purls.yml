@@ -1,1 +1,2 @@
 - pkg:nuget/ZeroAlloc.Scheduling.InMemory@0.2.2
+- pkg:nuget/ZeroAlloc.Scheduling.InMemory@1.2.0
