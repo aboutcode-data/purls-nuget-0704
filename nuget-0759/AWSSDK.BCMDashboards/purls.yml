@@ -32,6 +32,7 @@
 - pkg:nuget/AWSSDK.BCMDashboards@3.7.502.11
 - pkg:nuget/AWSSDK.BCMDashboards@3.7.502.12
 - pkg:nuget/AWSSDK.BCMDashboards@3.7.502.13
+- pkg:nuget/AWSSDK.BCMDashboards@3.7.502.15
 - pkg:nuget/AWSSDK.BCMDashboards@3.7.502.8
 - pkg:nuget/AWSSDK.BCMDashboards@4.0.0
 - pkg:nuget/AWSSDK.BCMDashboards@4.0.0.1
