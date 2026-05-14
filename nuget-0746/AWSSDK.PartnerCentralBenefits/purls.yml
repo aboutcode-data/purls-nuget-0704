@@ -10,6 +10,7 @@
 - pkg:nuget/AWSSDK.PartnerCentralBenefits@3.7.500.42
 - pkg:nuget/AWSSDK.PartnerCentralBenefits@3.7.500.43
 - pkg:nuget/AWSSDK.PartnerCentralBenefits@3.7.500.44
+- pkg:nuget/AWSSDK.PartnerCentralBenefits@3.7.500.46
 - pkg:nuget/AWSSDK.PartnerCentralBenefits@4.0.0.13
 - pkg:nuget/AWSSDK.PartnerCentralBenefits@4.0.0.14
 - pkg:nuget/AWSSDK.PartnerCentralBenefits@4.0.0.15
