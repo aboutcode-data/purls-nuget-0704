@@ -1209,3 +1209,4 @@
 - pkg:nuget/AWSSDK.KinesisVideoMedia@4.0.2.21
 - pkg:nuget/AWSSDK.KinesisVideoMedia@4.0.2.22
 - pkg:nuget/AWSSDK.KinesisVideoMedia@4.0.2.23
+- pkg:nuget/AWSSDK.KinesisVideoMedia@4.0.2.32
