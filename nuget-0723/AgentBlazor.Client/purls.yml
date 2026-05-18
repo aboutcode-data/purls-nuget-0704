@@ -1,1 +1,3 @@
 - pkg:nuget/AgentBlazor.Client@0.1.0-preview.10
+- pkg:nuget/AgentBlazor.Client@0.2.0-preview.1
+- pkg:nuget/AgentBlazor.Client@0.2.0-preview.2
