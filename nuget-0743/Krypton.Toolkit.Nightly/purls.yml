@@ -64,6 +64,7 @@
 - pkg:nuget/Krypton.Toolkit.Nightly@110.26.5.127-alpha
 - pkg:nuget/Krypton.Toolkit.Nightly@110.26.5.128-alpha
 - pkg:nuget/Krypton.Toolkit.Nightly@110.26.5.133-alpha
+- pkg:nuget/Krypton.Toolkit.Nightly@110.26.5.138-alpha
 - pkg:nuget/Krypton.Toolkit.Nightly@6.0.2110-alpha.20210915155537
 - pkg:nuget/Krypton.Toolkit.Nightly@6.0.2110-alpha.YYYY09DD080204
 - pkg:nuget/Krypton.Toolkit.Nightly@6.2109.261-alpha
