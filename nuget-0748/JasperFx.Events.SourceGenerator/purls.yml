@@ -1,1 +1,2 @@
 - pkg:nuget/JasperFx.Events.SourceGenerator@1.4.0
+- pkg:nuget/JasperFx.Events.SourceGenerator@2.0.0-alpha.3
