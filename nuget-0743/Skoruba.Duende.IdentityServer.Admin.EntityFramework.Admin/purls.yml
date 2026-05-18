@@ -1,1 +1,2 @@
 - pkg:nuget/Skoruba.Duende.IdentityServer.Admin.EntityFramework.Admin@3.0.0-preview.11
+- pkg:nuget/Skoruba.Duende.IdentityServer.Admin.EntityFramework.Admin@3.0.0-rc4
