@@ -55,6 +55,7 @@
 - pkg:nuget/APF.Core.AWS@8.0.0.22-Beta-01
 - pkg:nuget/APF.Core.AWS@8.0.0.24
 - pkg:nuget/APF.Core.AWS@8.0.0.26-Beta-01
+- pkg:nuget/APF.Core.AWS@8.0.0.26-Beta-03
 - pkg:nuget/APF.Core.AWS@8.0.0.3
 - pkg:nuget/APF.Core.AWS@8.0.0.3-Beta-01
 - pkg:nuget/APF.Core.AWS@8.0.0.4
