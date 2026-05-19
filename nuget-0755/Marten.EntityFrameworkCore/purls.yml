@@ -2,3 +2,4 @@
 - pkg:nuget/Marten.EntityFrameworkCore@8.28.0
 - pkg:nuget/Marten.EntityFrameworkCore@8.29.3
 - pkg:nuget/Marten.EntityFrameworkCore@8.30.0
+- pkg:nuget/Marten.EntityFrameworkCore@9.0.0-alpha.4
