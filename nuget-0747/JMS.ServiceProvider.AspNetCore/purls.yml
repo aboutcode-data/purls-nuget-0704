@@ -178,3 +178,5 @@
 - pkg:nuget/JMS.ServiceProvider.AspNetCore@9.0.0
 - pkg:nuget/JMS.ServiceProvider.AspNetCore@9.0.0-beta.1.0.0
 - pkg:nuget/JMS.ServiceProvider.AspNetCore@9.0.0-beta.1.0.1
+- pkg:nuget/JMS.ServiceProvider.AspNetCore@9.0.5.1
+- pkg:nuget/JMS.ServiceProvider.AspNetCore@9.0.5.2
