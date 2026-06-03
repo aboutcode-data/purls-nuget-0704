@@ -23,3 +23,6 @@
 - pkg:nuget/Facet.Mapping.Expressions@6.5.2-preview.pr365.46
 - pkg:nuget/Facet.Mapping.Expressions@6.5.5-preview.pr365.51
 - pkg:nuget/Facet.Mapping.Expressions@6.5.5-preview.pr365.68
+- pkg:nuget/Facet.Mapping.Expressions@6.6.1
+- pkg:nuget/Facet.Mapping.Expressions@6.6.3-preview.pr382.78
+- pkg:nuget/Facet.Mapping.Expressions@6.6.7
