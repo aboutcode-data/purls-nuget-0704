@@ -288,3 +288,7 @@
 - pkg:nuget/BgFramework.Connection@26.3.18.1
 - pkg:nuget/BgFramework.Connection@26.3.26.1
 - pkg:nuget/BgFramework.Connection@26.5.14.1
+- pkg:nuget/BgFramework.Connection@26.5.22.1-beta
+- pkg:nuget/BgFramework.Connection@26.5.22.2
+- pkg:nuget/BgFramework.Connection@26.5.22.2-beta
+- pkg:nuget/BgFramework.Connection@26.5.28.1
