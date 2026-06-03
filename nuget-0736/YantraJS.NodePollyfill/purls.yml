@@ -221,8 +221,10 @@
 - pkg:nuget/YantraJS.NodePollyfill@1.2.36
 - pkg:nuget/YantraJS.NodePollyfill@1.2.37
 - pkg:nuget/YantraJS.NodePollyfill@1.2.38
+- pkg:nuget/YantraJS.NodePollyfill@1.2.386
 - pkg:nuget/YantraJS.NodePollyfill@1.2.39
 - pkg:nuget/YantraJS.NodePollyfill@1.2.39-gf6be331797
+- pkg:nuget/YantraJS.NodePollyfill@1.2.397
 - pkg:nuget/YantraJS.NodePollyfill@1.2.4
 - pkg:nuget/YantraJS.NodePollyfill@1.2.40
 - pkg:nuget/YantraJS.NodePollyfill@1.2.41
