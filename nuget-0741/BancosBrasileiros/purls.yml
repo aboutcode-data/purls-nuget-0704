@@ -505,8 +505,11 @@
 - pkg:nuget/BancosBrasileiros@6.2.26
 - pkg:nuget/BancosBrasileiros@6.2.27
 - pkg:nuget/BancosBrasileiros@6.2.28
+- pkg:nuget/BancosBrasileiros@6.2.291
+- pkg:nuget/BancosBrasileiros@6.2.297
 - pkg:nuget/BancosBrasileiros@6.2.3
 - pkg:nuget/BancosBrasileiros@6.2.30
+- pkg:nuget/BancosBrasileiros@6.2.303
 - pkg:nuget/BancosBrasileiros@6.2.31
 - pkg:nuget/BancosBrasileiros@6.2.32
 - pkg:nuget/BancosBrasileiros@6.2.33
