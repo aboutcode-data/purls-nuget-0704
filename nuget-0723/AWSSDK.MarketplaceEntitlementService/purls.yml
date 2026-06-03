@@ -1218,3 +1218,4 @@
 - pkg:nuget/AWSSDK.MarketplaceEntitlementService@4.0.4.6
 - pkg:nuget/AWSSDK.MarketplaceEntitlementService@4.0.4.7
 - pkg:nuget/AWSSDK.MarketplaceEntitlementService@4.0.4.8
+- pkg:nuget/AWSSDK.MarketplaceEntitlementService@4.0.6
