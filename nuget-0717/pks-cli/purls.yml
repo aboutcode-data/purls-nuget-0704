@@ -10,6 +10,7 @@
 - pkg:nuget/pks-cli@1.1.0-rc.6
 - pkg:nuget/pks-cli@1.2.0-rc.17
 - pkg:nuget/pks-cli@6.1.0
+- pkg:nuget/pks-cli@6.14.0-preview.262
 - pkg:nuget/pks-cli@6.2.0-preview.168
 - pkg:nuget/pks-cli@6.2.0-preview.67
 - pkg:nuget/pks-cli@6.2.0-preview.68
