@@ -37,6 +37,7 @@
 - pkg:nuget/SuperOffice.ContinuousDatabase@10.5.4.867
 - pkg:nuget/SuperOffice.ContinuousDatabase@10.5.4.878
 - pkg:nuget/SuperOffice.ContinuousDatabase@10.5.5.982
+- pkg:nuget/SuperOffice.ContinuousDatabase@11.13.1541
 - pkg:nuget/SuperOffice.ContinuousDatabase@8.1.6514.1619
 - pkg:nuget/SuperOffice.ContinuousDatabase@8.1.6536.16
 - pkg:nuget/SuperOffice.ContinuousDatabase@8.2.6550.1025
