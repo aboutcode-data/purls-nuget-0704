@@ -1,5 +1,6 @@
 - pkg:nuget/NuvTools.Security.Identity@10.1.1
 - pkg:nuget/NuvTools.Security.Identity@10.1.5
+- pkg:nuget/NuvTools.Security.Identity@10.1.8
 - pkg:nuget/NuvTools.Security.Identity@6.5.0
 - pkg:nuget/NuvTools.Security.Identity@7.0.0
 - pkg:nuget/NuvTools.Security.Identity@7.0.1
