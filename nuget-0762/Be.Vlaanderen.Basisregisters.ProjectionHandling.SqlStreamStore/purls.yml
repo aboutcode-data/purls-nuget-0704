@@ -26,6 +26,7 @@
 - pkg:nuget/Be.Vlaanderen.Basisregisters.ProjectionHandling.SqlStreamStore@14.0.0
 - pkg:nuget/Be.Vlaanderen.Basisregisters.ProjectionHandling.SqlStreamStore@15.0.0
 - pkg:nuget/Be.Vlaanderen.Basisregisters.ProjectionHandling.SqlStreamStore@15.0.1
+- pkg:nuget/Be.Vlaanderen.Basisregisters.ProjectionHandling.SqlStreamStore@16.0.0
 - pkg:nuget/Be.Vlaanderen.Basisregisters.ProjectionHandling.SqlStreamStore@2.0.0
 - pkg:nuget/Be.Vlaanderen.Basisregisters.ProjectionHandling.SqlStreamStore@2.0.1
 - pkg:nuget/Be.Vlaanderen.Basisregisters.ProjectionHandling.SqlStreamStore@3.0.0
