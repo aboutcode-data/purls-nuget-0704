@@ -66,6 +66,7 @@
 - pkg:nuget/TcOpen.Inxton.Mqtt@0.12.0-alpha.63
 - pkg:nuget/TcOpen.Inxton.Mqtt@0.12.0-alpha.69
 - pkg:nuget/TcOpen.Inxton.Mqtt@0.12.0-alpha.78
+- pkg:nuget/TcOpen.Inxton.Mqtt@0.12.0-alpha.88
 - pkg:nuget/TcOpen.Inxton.Mqtt@0.4.2-alpha.795
 - pkg:nuget/TcOpen.Inxton.Mqtt@0.4.2-alpha.807
 - pkg:nuget/TcOpen.Inxton.Mqtt@0.5.0-alpha.822
