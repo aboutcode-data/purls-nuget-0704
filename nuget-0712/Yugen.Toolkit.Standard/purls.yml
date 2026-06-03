@@ -40,3 +40,5 @@
 - pkg:nuget/Yugen.Toolkit.Standard@1.1.8
 - pkg:nuget/Yugen.Toolkit.Standard@1.1.9
 - pkg:nuget/Yugen.Toolkit.Standard@1.2.1
+- pkg:nuget/Yugen.Toolkit.Standard@2.0.11-preview
+- pkg:nuget/Yugen.Toolkit.Standard@2.0.7-preview
