@@ -1250,3 +1250,4 @@
 - pkg:nuget/AWSSDK.Batch@4.0.8.4
 - pkg:nuget/AWSSDK.Batch@4.0.8.5
 - pkg:nuget/AWSSDK.Batch@4.0.8.6
+- pkg:nuget/AWSSDK.Batch@4.0.9.6
