@@ -1451,6 +1451,8 @@
 - pkg:nuget/Credfeto.Package.Push@1.6.177.1787-main
 - pkg:nuget/Credfeto.Package.Push@1.6.177.1830-increase-code-c
 - pkg:nuget/Credfeto.Package.Push@1.6.177.1833-main
+- pkg:nuget/Credfeto.Package.Push@1.6.177.1834-main
+- pkg:nuget/Credfeto.Package.Push@1.6.177.1835-main
 - pkg:nuget/Credfeto.Package.Push@1.6.18.669-main
 - pkg:nuget/Credfeto.Package.Push@1.6.18.670-main
 - pkg:nuget/Credfeto.Package.Push@1.6.18.671-main
