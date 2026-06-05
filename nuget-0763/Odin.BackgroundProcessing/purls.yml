@@ -129,5 +129,6 @@
 - pkg:nuget/Odin.BackgroundProcessing@0.2.1
 - pkg:nuget/Odin.BackgroundProcessing@0.2.10
 - pkg:nuget/Odin.BackgroundProcessing@0.9.1
+- pkg:nuget/Odin.BackgroundProcessing@0.9.120
 - pkg:nuget/Odin.BackgroundProcessing@0.9.83
 - pkg:nuget/Odin.BackgroundProcessing@0.9.85
