@@ -35,6 +35,7 @@
 - pkg:nuget/Anthropic@12.11.0
 - pkg:nuget/Anthropic@12.13.0
 - pkg:nuget/Anthropic@12.20.0
+- pkg:nuget/Anthropic@12.25.0
 - pkg:nuget/Anthropic@2.0.0
 - pkg:nuget/Anthropic@2.0.1-dev.1
 - pkg:nuget/Anthropic@2.0.1-dev.10
