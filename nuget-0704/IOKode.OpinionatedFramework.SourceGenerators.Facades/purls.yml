@@ -18,6 +18,7 @@
 - pkg:nuget/IOKode.OpinionatedFramework.SourceGenerators.Facades@0.24.0-dev
 - pkg:nuget/IOKode.OpinionatedFramework.SourceGenerators.Facades@0.26.0-dev
 - pkg:nuget/IOKode.OpinionatedFramework.SourceGenerators.Facades@0.3.0-dev
+- pkg:nuget/IOKode.OpinionatedFramework.SourceGenerators.Facades@0.38.0-dev
 - pkg:nuget/IOKode.OpinionatedFramework.SourceGenerators.Facades@0.4.0-dev
 - pkg:nuget/IOKode.OpinionatedFramework.SourceGenerators.Facades@0.5.0-dev
 - pkg:nuget/IOKode.OpinionatedFramework.SourceGenerators.Facades@0.6.0-dev
