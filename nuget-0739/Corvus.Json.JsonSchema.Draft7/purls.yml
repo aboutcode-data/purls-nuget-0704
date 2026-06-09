@@ -134,3 +134,4 @@
 - pkg:nuget/Corvus.Json.JsonSchema.Draft7@4.5.0
 - pkg:nuget/Corvus.Json.JsonSchema.Draft7@4.6.3
 - pkg:nuget/Corvus.Json.JsonSchema.Draft7@4.6.5
+- pkg:nuget/Corvus.Json.JsonSchema.Draft7@5.1.14
