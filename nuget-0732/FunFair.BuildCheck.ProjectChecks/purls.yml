@@ -1253,3 +1253,4 @@
 - pkg:nuget/FunFair.BuildCheck.ProjectChecks@474.2.9.2326-main
 - pkg:nuget/FunFair.BuildCheck.ProjectChecks@474.2.9.2329-main
 - pkg:nuget/FunFair.BuildCheck.ProjectChecks@474.2.9.2331-optimise-projec
+- pkg:nuget/FunFair.BuildCheck.ProjectChecks@474.2.9.2332-main
