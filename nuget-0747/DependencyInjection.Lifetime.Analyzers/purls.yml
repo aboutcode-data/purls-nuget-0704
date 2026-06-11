@@ -1,6 +1,11 @@
 - pkg:nuget/DependencyInjection.Lifetime.Analyzers@1.7.0
 - pkg:nuget/DependencyInjection.Lifetime.Analyzers@1.9.0
 - pkg:nuget/DependencyInjection.Lifetime.Analyzers@2.1.1
+- pkg:nuget/DependencyInjection.Lifetime.Analyzers@2.10.5
+- pkg:nuget/DependencyInjection.Lifetime.Analyzers@2.10.6
+- pkg:nuget/DependencyInjection.Lifetime.Analyzers@2.10.7
+- pkg:nuget/DependencyInjection.Lifetime.Analyzers@2.10.8
+- pkg:nuget/DependencyInjection.Lifetime.Analyzers@2.10.9
 - pkg:nuget/DependencyInjection.Lifetime.Analyzers@2.2.0
 - pkg:nuget/DependencyInjection.Lifetime.Analyzers@2.3.0
 - pkg:nuget/DependencyInjection.Lifetime.Analyzers@2.3.1
