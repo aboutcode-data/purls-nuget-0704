@@ -39,4 +39,5 @@
 - pkg:nuget/NetEvolve.HealthChecks.MySql@4.15.1
 - pkg:nuget/NetEvolve.HealthChecks.MySql@4.20.61
 - pkg:nuget/NetEvolve.HealthChecks.MySql@4.3.0
+- pkg:nuget/NetEvolve.HealthChecks.MySql@5.13.335
 - pkg:nuget/NetEvolve.HealthChecks.MySql@5.13.51
