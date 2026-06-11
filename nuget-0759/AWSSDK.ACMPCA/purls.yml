@@ -1218,3 +1218,4 @@
 - pkg:nuget/AWSSDK.ACMPCA@4.0.3.19
 - pkg:nuget/AWSSDK.ACMPCA@4.0.3.20
 - pkg:nuget/AWSSDK.ACMPCA@4.0.4
+- pkg:nuget/AWSSDK.ACMPCA@4.0.4.6
