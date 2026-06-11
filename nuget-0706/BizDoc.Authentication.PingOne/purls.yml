@@ -8,5 +8,6 @@
 - pkg:nuget/BizDoc.Authentication.PingOne@0.1.9
 - pkg:nuget/BizDoc.Authentication.PingOne@0.2.9
 - pkg:nuget/BizDoc.Authentication.PingOne@1.0.0
+- pkg:nuget/BizDoc.Authentication.PingOne@10.0.3
 - pkg:nuget/BizDoc.Authentication.PingOne@9.0.1
 - pkg:nuget/BizDoc.Authentication.PingOne@9.1.0
