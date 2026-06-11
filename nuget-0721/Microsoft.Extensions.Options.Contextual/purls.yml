@@ -1,4 +1,5 @@
 - pkg:nuget/Microsoft.Extensions.Options.Contextual@10.6.0-preview.1.26261.4
+- pkg:nuget/Microsoft.Extensions.Options.Contextual@10.7.0-preview.1.26309.5
 - pkg:nuget/Microsoft.Extensions.Options.Contextual@8.0.0-preview.4.23273.7
 - pkg:nuget/Microsoft.Extensions.Options.Contextual@8.0.0-preview.5.23308.3
 - pkg:nuget/Microsoft.Extensions.Options.Contextual@8.0.0-preview.6.23360.2
