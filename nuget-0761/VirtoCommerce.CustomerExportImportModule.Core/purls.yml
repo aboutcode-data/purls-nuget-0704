@@ -1,4 +1,5 @@
 - pkg:nuget/VirtoCommerce.CustomerExportImportModule.Core@1.2.0-alpha.102
+- pkg:nuget/VirtoCommerce.CustomerExportImportModule.Core@3.1001.0
 - pkg:nuget/VirtoCommerce.CustomerExportImportModule.Core@3.200.0-alpha.114
 - pkg:nuget/VirtoCommerce.CustomerExportImportModule.Core@3.200.0-alpha.115
 - pkg:nuget/VirtoCommerce.CustomerExportImportModule.Core@3.201.0
