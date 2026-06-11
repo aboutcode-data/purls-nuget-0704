@@ -18,3 +18,4 @@
 - pkg:nuget/Azure.Security.KeyVault.Administration@4.6.0
 - pkg:nuget/Azure.Security.KeyVault.Administration@4.6.0-beta.1
 - pkg:nuget/Azure.Security.KeyVault.Administration@4.8.0
+- pkg:nuget/Azure.Security.KeyVault.Administration@4.9.0-beta.2
