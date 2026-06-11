@@ -2,3 +2,5 @@
 - pkg:nuget/CoreMap@0.9.51
 - pkg:nuget/CoreMap@0.9.52
 - pkg:nuget/CoreMap@1.0.0
+- pkg:nuget/CoreMap@1.1.0
+- pkg:nuget/CoreMap@1.1.2
