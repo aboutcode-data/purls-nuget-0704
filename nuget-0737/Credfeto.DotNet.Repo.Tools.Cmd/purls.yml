@@ -2346,3 +2346,5 @@
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Cmd@1.5.2.3094-main
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Cmd@1.5.2.3095-main
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Cmd@1.5.2.3097-main
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.Cmd@1.5.2.3100-main
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.Cmd@1.5.2.3101-dotnet-sdk-10-0
