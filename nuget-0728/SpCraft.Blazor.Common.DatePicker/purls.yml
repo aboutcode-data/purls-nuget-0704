@@ -52,4 +52,5 @@
 - pkg:nuget/SpCraft.Blazor.Common.DatePicker@1.2.8
 - pkg:nuget/SpCraft.Blazor.Common.DatePicker@1.2.9
 - pkg:nuget/SpCraft.Blazor.Common.DatePicker@2.0.24
+- pkg:nuget/SpCraft.Blazor.Common.DatePicker@2.0.29
 - pkg:nuget/SpCraft.Blazor.Common.DatePicker@2.0.8
