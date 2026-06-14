@@ -6,3 +6,5 @@
 - pkg:nuget/WolverineFx.Sqlite@5.31.0
 - pkg:nuget/WolverineFx.Sqlite@5.36.2
 - pkg:nuget/WolverineFx.Sqlite@5.39.1
+- pkg:nuget/WolverineFx.Sqlite@6.3.1
+- pkg:nuget/WolverineFx.Sqlite@6.7.0
