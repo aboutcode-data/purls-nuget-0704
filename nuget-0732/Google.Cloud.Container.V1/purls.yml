@@ -42,6 +42,7 @@
 - pkg:nuget/Google.Cloud.Container.V1@3.34.0
 - pkg:nuget/Google.Cloud.Container.V1@3.35.0
 - pkg:nuget/Google.Cloud.Container.V1@3.38.0
+- pkg:nuget/Google.Cloud.Container.V1@3.39.0
 - pkg:nuget/Google.Cloud.Container.V1@3.4.0
 - pkg:nuget/Google.Cloud.Container.V1@3.5.0
 - pkg:nuget/Google.Cloud.Container.V1@3.6.0
