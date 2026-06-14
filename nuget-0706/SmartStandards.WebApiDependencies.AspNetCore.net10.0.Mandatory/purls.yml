@@ -1,0 +1,2 @@
+- pkg:nuget/SmartStandards.WebApiDependencies.AspNetCore.net10.0.Mandatory@10.0.0
+- pkg:nuget/SmartStandards.WebApiDependencies.AspNetCore.net10.0.Mandatory@10.0.9
