@@ -1669,6 +1669,7 @@
 - pkg:nuget/HotChocolate.Language@16.1.2
 - pkg:nuget/HotChocolate.Language@16.1.4-p.3
 - pkg:nuget/HotChocolate.Language@16.1.4-p.5
+- pkg:nuget/HotChocolate.Language@16.1.4-p.6
 - pkg:nuget/HotChocolate.Language@9.0.0
 - pkg:nuget/HotChocolate.Language@9.0.0-preview.1
 - pkg:nuget/HotChocolate.Language@9.0.0-preview.10
