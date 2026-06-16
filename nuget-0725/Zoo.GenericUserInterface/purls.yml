@@ -59,6 +59,7 @@
 - pkg:nuget/Zoo.GenericUserInterface@1.3.0
 - pkg:nuget/Zoo.GenericUserInterface@1.4.0
 - pkg:nuget/Zoo.GenericUserInterface@1.5.0
+- pkg:nuget/Zoo.GenericUserInterface@10.0.6
 - pkg:nuget/Zoo.GenericUserInterface@2.0.0
 - pkg:nuget/Zoo.GenericUserInterface@2.1.0
 - pkg:nuget/Zoo.GenericUserInterface@2.2.0
