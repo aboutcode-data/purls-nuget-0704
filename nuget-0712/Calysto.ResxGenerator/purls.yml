@@ -25,6 +25,7 @@
 - pkg:nuget/Calysto.ResxGenerator@1.0.170
 - pkg:nuget/Calysto.ResxGenerator@1.0.171
 - pkg:nuget/Calysto.ResxGenerator@1.0.21
+- pkg:nuget/Calysto.ResxGenerator@1.0.211
 - pkg:nuget/Calysto.ResxGenerator@1.0.25
 - pkg:nuget/Calysto.ResxGenerator@1.0.26
 - pkg:nuget/Calysto.ResxGenerator@1.0.27
