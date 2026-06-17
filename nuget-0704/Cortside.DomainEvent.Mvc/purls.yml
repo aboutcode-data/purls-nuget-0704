@@ -1,3 +1,4 @@
+- pkg:nuget/Cortside.DomainEvent.Mvc@10.0.407-EBPP-5072
 - pkg:nuget/Cortside.DomainEvent.Mvc@8.0.380-SVC-3406
 - pkg:nuget/Cortside.DomainEvent.Mvc@8.0.381-SVC-3406
 - pkg:nuget/Cortside.DomainEvent.Mvc@8.0.382-SVC-3406
@@ -12,3 +13,4 @@
 - pkg:nuget/Cortside.DomainEvent.Mvc@8.0.393
 - pkg:nuget/Cortside.DomainEvent.Mvc@8.0.395
 - pkg:nuget/Cortside.DomainEvent.Mvc@8.1.396-develop
+- pkg:nuget/Cortside.DomainEvent.Mvc@8.1.406-EBPP-5072-dotnet8
