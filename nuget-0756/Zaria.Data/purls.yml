@@ -29,6 +29,7 @@
 - pkg:nuget/Zaria.Data@0.0.8-preview
 - pkg:nuget/Zaria.Data@0.0.9-preview
 - pkg:nuget/Zaria.Data@2.6.10
+- pkg:nuget/Zaria.Data@2.6.13
 - pkg:nuget/Zaria.Data@2.6.3
 - pkg:nuget/Zaria.Data@2.6.6
 - pkg:nuget/Zaria.Data@2.6.9
