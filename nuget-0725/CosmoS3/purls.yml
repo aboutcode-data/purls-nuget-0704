@@ -5,3 +5,5 @@
 - pkg:nuget/CosmoS3@1.9.4
 - pkg:nuget/CosmoS3@1.9.7
 - pkg:nuget/CosmoS3@2.2.0
+- pkg:nuget/CosmoS3@2.3.1
+- pkg:nuget/CosmoS3@2.3.5
