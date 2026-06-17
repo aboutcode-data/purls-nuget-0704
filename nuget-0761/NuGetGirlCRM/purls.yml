@@ -63,6 +63,8 @@
 - pkg:nuget/NuGetGirlCRM@2.0.366
 - pkg:nuget/NuGetGirlCRM@2.0.368
 - pkg:nuget/NuGetGirlCRM@2.0.37
+- pkg:nuget/NuGetGirlCRM@2.0.374
+- pkg:nuget/NuGetGirlCRM@2.0.376
 - pkg:nuget/NuGetGirlCRM@2.0.64
 - pkg:nuget/NuGetGirlCRM@2.0.65
 - pkg:nuget/NuGetGirlCRM@2.0.69
