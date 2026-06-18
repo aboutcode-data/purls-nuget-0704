@@ -3,3 +3,5 @@
 - pkg:nuget/DevExpress.Wpf.Grid.ja@25.1.9
 - pkg:nuget/DevExpress.Wpf.Grid.ja@25.2.5
 - pkg:nuget/DevExpress.Wpf.Grid.ja@25.2.7
+- pkg:nuget/DevExpress.Wpf.Grid.ja@26.1.2-beta
+- pkg:nuget/DevExpress.Wpf.Grid.ja@26.1.3
