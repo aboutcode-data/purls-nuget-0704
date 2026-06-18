@@ -4,3 +4,5 @@
 - pkg:nuget/DevExpress.Pdf.Drawing.ja@25.2.2-beta
 - pkg:nuget/DevExpress.Pdf.Drawing.ja@25.2.5
 - pkg:nuget/DevExpress.Pdf.Drawing.ja@25.2.7
+- pkg:nuget/DevExpress.Pdf.Drawing.ja@26.1.2-beta
+- pkg:nuget/DevExpress.Pdf.Drawing.ja@26.1.3
