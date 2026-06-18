@@ -36,3 +36,4 @@
 - pkg:nuget/MSTestX.UnitTestRunner@2.0.0-rc.8
 - pkg:nuget/MSTestX.UnitTestRunner@2.0.0-rc.9
 - pkg:nuget/MSTestX.UnitTestRunner@2.0.0-rc.9b
+- pkg:nuget/MSTestX.UnitTestRunner@2.0.1
