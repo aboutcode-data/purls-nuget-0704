@@ -1,4 +1,5 @@
 - pkg:nuget/AiDotNet.Native.CLBlast@0.101.5
+- pkg:nuget/AiDotNet.Native.CLBlast@0.101.6
 - pkg:nuget/AiDotNet.Native.CLBlast@0.12.0
 - pkg:nuget/AiDotNet.Native.CLBlast@0.15.3
 - pkg:nuget/AiDotNet.Native.CLBlast@0.15.4
