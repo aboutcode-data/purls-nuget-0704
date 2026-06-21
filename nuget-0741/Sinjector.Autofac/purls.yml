@@ -38,6 +38,7 @@
 - pkg:nuget/Sinjector.Autofac@1.0.141
 - pkg:nuget/Sinjector.Autofac@1.0.145
 - pkg:nuget/Sinjector.Autofac@1.0.147
+- pkg:nuget/Sinjector.Autofac@1.0.152
 - pkg:nuget/Sinjector.Autofac@1.0.79
 - pkg:nuget/Sinjector.Autofac@1.0.81
 - pkg:nuget/Sinjector.Autofac@1.0.82
