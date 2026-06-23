@@ -59,6 +59,7 @@
 - pkg:nuget/ProjectArrhythmia.GameLibs@26.4.1-alpha
 - pkg:nuget/ProjectArrhythmia.GameLibs@26.5.5-alpha
 - pkg:nuget/ProjectArrhythmia.GameLibs@26.5.7.2-alpha
+- pkg:nuget/ProjectArrhythmia.GameLibs@26.6.10
 - pkg:nuget/ProjectArrhythmia.GameLibs@26.6.7
 - pkg:nuget/ProjectArrhythmia.GameLibs@26.6.8
 - pkg:nuget/ProjectArrhythmia.GameLibs@26.6.9
