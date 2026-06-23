@@ -68,3 +68,4 @@
 - pkg:nuget/AWSSDK.S3Vectors@4.0.4.16
 - pkg:nuget/AWSSDK.S3Vectors@4.0.4.17
 - pkg:nuget/AWSSDK.S3Vectors@4.0.5.5
+- pkg:nuget/AWSSDK.S3Vectors@4.0.6.2
