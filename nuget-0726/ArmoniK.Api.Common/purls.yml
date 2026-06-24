@@ -2318,6 +2318,7 @@
 - pkg:nuget/ArmoniK.Api.Common@3.29.1-renovatepypi.15.e8726eee
 - pkg:nuget/ArmoniK.Api.Common@3.29.1-renovatepypi.8.bbd97df1
 - pkg:nuget/ArmoniK.Api.Common@3.29.1-renovatewebnpm.1.9b9c2982
+- pkg:nuget/ArmoniK.Api.Common@3.29.2-renovateangularnpm.1.c673e38d
 - pkg:nuget/ArmoniK.Api.Common@3.29.2-renovatemajorwebnpm.1.620e5656
 - pkg:nuget/ArmoniK.Api.Common@3.29.2-renovatepypi.1.4ce9774d
 - pkg:nuget/ArmoniK.Api.Common@3.3.0
