@@ -1265,4 +1265,5 @@
 - pkg:nuget/HotChocolate.Data.EntityFramework@16.2.0-p.5
 - pkg:nuget/HotChocolate.Data.EntityFramework@16.2.0-p.6
 - pkg:nuget/HotChocolate.Data.EntityFramework@16.2.1
+- pkg:nuget/HotChocolate.Data.EntityFramework@16.3.0
 - pkg:nuget/HotChocolate.Data.EntityFramework@16.3.0-p.2
