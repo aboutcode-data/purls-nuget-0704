@@ -1663,6 +1663,7 @@
 - pkg:nuget/HotChocolate@16.1.4-p.6
 - pkg:nuget/HotChocolate@16.2.0-p.6
 - pkg:nuget/HotChocolate@16.2.1
+- pkg:nuget/HotChocolate@16.3.0
 - pkg:nuget/HotChocolate@16.3.0-p.2
 - pkg:nuget/HotChocolate@9.0.0
 - pkg:nuget/HotChocolate@9.0.0-preview.1
