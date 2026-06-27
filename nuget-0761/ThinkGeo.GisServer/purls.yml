@@ -20,3 +20,5 @@
 - pkg:nuget/ThinkGeo.GisServer@15.0.0-beta041
 - pkg:nuget/ThinkGeo.GisServer@15.0.0-beta046
 - pkg:nuget/ThinkGeo.GisServer@15.0.0-beta060
+- pkg:nuget/ThinkGeo.GisServer@15.0.0-beta073
+- pkg:nuget/ThinkGeo.GisServer@15.0.0-beta074
