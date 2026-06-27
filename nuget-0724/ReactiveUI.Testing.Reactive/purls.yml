@@ -1,1 +1,2 @@
 - pkg:nuget/ReactiveUI.Testing.Reactive@23.2.1
+- pkg:nuget/ReactiveUI.Testing.Reactive@24.0.0-beta.1
