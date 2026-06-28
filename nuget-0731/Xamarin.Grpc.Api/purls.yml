@@ -44,3 +44,4 @@
 - pkg:nuget/Xamarin.Grpc.Api@1.74.0
 - pkg:nuget/Xamarin.Grpc.Api@1.74.0.1
 - pkg:nuget/Xamarin.Grpc.Api@1.75.0
+- pkg:nuget/Xamarin.Grpc.Api@1.82.0.1
