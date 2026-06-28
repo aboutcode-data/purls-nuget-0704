@@ -27,6 +27,7 @@
 - pkg:nuget/Xamarin.GooglePlayServices.Location@121.2.0
 - pkg:nuget/Xamarin.GooglePlayServices.Location@121.3.0
 - pkg:nuget/Xamarin.GooglePlayServices.Location@121.3.0.1
+- pkg:nuget/Xamarin.GooglePlayServices.Location@121.3.0.10
 - pkg:nuget/Xamarin.GooglePlayServices.Location@121.3.0.2
 - pkg:nuget/Xamarin.GooglePlayServices.Location@121.3.0.3
 - pkg:nuget/Xamarin.GooglePlayServices.Location@121.3.0.4
