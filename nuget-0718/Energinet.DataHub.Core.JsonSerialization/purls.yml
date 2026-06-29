@@ -27,3 +27,4 @@
 - pkg:nuget/Energinet.DataHub.Core.JsonSerialization@4.1.0
 - pkg:nuget/Energinet.DataHub.Core.JsonSerialization@4.1.0-alpha-117
 - pkg:nuget/Energinet.DataHub.Core.JsonSerialization@4.1.1
+- pkg:nuget/Energinet.DataHub.Core.JsonSerialization@5.1.1-alpha-130
