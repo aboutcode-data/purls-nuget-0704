@@ -94,3 +94,4 @@
 - pkg:nuget/Microsoft.Garnet@1.0.91
 - pkg:nuget/Microsoft.Garnet@1.1.7
 - pkg:nuget/Microsoft.Garnet@2.0.1-beta.3
+- pkg:nuget/Microsoft.Garnet@2.0.1-beta.7
