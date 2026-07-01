@@ -183,6 +183,7 @@
 - pkg:nuget/Mutagen.Bethesda.Synthesis@0.34.0-pre-release.2
 - pkg:nuget/Mutagen.Bethesda.Synthesis@0.35.0
 - pkg:nuget/Mutagen.Bethesda.Synthesis@0.35.0-alpha.2
+- pkg:nuget/Mutagen.Bethesda.Synthesis@0.36.0
 - pkg:nuget/Mutagen.Bethesda.Synthesis@0.7.0
 - pkg:nuget/Mutagen.Bethesda.Synthesis@0.8.0
 - pkg:nuget/Mutagen.Bethesda.Synthesis@0.8.1
