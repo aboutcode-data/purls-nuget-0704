@@ -34,6 +34,7 @@
 - pkg:nuget/Xamarin.GooglePlayServices.Fido@121.2.0.1
 - pkg:nuget/Xamarin.GooglePlayServices.Fido@121.2.0.2
 - pkg:nuget/Xamarin.GooglePlayServices.Fido@121.2.0.3
+- pkg:nuget/Xamarin.GooglePlayServices.Fido@121.3.0.1
 - pkg:nuget/Xamarin.GooglePlayServices.Fido@60.1142.0
 - pkg:nuget/Xamarin.GooglePlayServices.Fido@60.1142.0-beta1
 - pkg:nuget/Xamarin.GooglePlayServices.Fido@60.1142.0-beta2
