@@ -1019,6 +1019,7 @@
 - pkg:nuget/OpenTAP@9.33.1-beta.1
 - pkg:nuget/OpenTAP@9.33.1-beta.2
 - pkg:nuget/OpenTAP@9.33.1-beta.6
+- pkg:nuget/OpenTAP@9.34.0-alpha.2.1
 - pkg:nuget/OpenTAP@9.4.0
 - pkg:nuget/OpenTAP@9.4.0-beta.2
 - pkg:nuget/OpenTAP@9.4.0-beta.4
