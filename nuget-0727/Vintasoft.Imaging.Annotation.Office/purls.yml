@@ -124,3 +124,6 @@
 - pkg:nuget/Vintasoft.Imaging.Annotation.Office@15.0.12.1
 - pkg:nuget/Vintasoft.Imaging.Annotation.Office@15.0.14.1
 - pkg:nuget/Vintasoft.Imaging.Annotation.Office@15.0.8.1
+- pkg:nuget/Vintasoft.Imaging.Annotation.Office@15.1.0.1
+- pkg:nuget/Vintasoft.Imaging.Annotation.Office@15.1.1.1
+- pkg:nuget/Vintasoft.Imaging.Annotation.Office@15.1.2.1
