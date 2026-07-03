@@ -1,3 +1,4 @@
+- pkg:nuget/C1.WPF.Grid.Excel@10.0.20261.89
 - pkg:nuget/C1.WPF.Grid.Excel@5.0.20212.100
 - pkg:nuget/C1.WPF.Grid.Excel@5.0.20212.112
 - pkg:nuget/C1.WPF.Grid.Excel@5.0.20213.155
