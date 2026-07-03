@@ -139,3 +139,4 @@
 - pkg:nuget/CodeDesignPlus.Net.Redis.Cache@0.9.0
 - pkg:nuget/CodeDesignPlus.Net.Redis.Cache@0.9.0-beta.465
 - pkg:nuget/CodeDesignPlus.Net.Redis.Cache@0.9.0-rc.636
+- pkg:nuget/CodeDesignPlus.Net.Redis.Cache@1.0.0-beta.12906
