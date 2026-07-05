@@ -1,5 +1,6 @@
 - pkg:nuget/Rocket.Surgery.Extensions.Testing.Analyzers@10.0.0-beta.1
 - pkg:nuget/Rocket.Surgery.Extensions.Testing.Analyzers@10.0.0-beta.2
+- pkg:nuget/Rocket.Surgery.Extensions.Testing.Analyzers@10.0.6
 - pkg:nuget/Rocket.Surgery.Extensions.Testing.Analyzers@6.0.4
 - pkg:nuget/Rocket.Surgery.Extensions.Testing.Analyzers@6.1.0
 - pkg:nuget/Rocket.Surgery.Extensions.Testing.Analyzers@6.1.1

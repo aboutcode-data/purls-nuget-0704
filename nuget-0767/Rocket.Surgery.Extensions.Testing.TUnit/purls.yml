@@ -1,5 +1,6 @@
 - pkg:nuget/Rocket.Surgery.Extensions.Testing.TUnit@10.0.0-beta.1
 - pkg:nuget/Rocket.Surgery.Extensions.Testing.TUnit@10.0.0-beta.2
+- pkg:nuget/Rocket.Surgery.Extensions.Testing.TUnit@10.0.6
 - pkg:nuget/Rocket.Surgery.Extensions.Testing.TUnit@8.0.18-beta.309
 - pkg:nuget/Rocket.Surgery.Extensions.Testing.TUnit@9.0.0
 - pkg:nuget/Rocket.Surgery.Extensions.Testing.TUnit@9.0.0-beta.4

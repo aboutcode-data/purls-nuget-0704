@@ -1,5 +1,6 @@
 - pkg:nuget/Rocket.Surgery.Extensions.Testing.NSubstitute@10.0.0-beta.1
 - pkg:nuget/Rocket.Surgery.Extensions.Testing.NSubstitute@10.0.0-beta.2
+- pkg:nuget/Rocket.Surgery.Extensions.Testing.NSubstitute@10.0.6
 - pkg:nuget/Rocket.Surgery.Extensions.Testing.NSubstitute@5.1.1
 - pkg:nuget/Rocket.Surgery.Extensions.Testing.NSubstitute@5.2.0
 - pkg:nuget/Rocket.Surgery.Extensions.Testing.NSubstitute@5.2.1
