@@ -12,3 +12,4 @@
 - pkg:nuget/RDFSharp.Extensions.PostgreSQL@3.4.4
 - pkg:nuget/RDFSharp.Extensions.PostgreSQL@3.5.0
 - pkg:nuget/RDFSharp.Extensions.PostgreSQL@3.8.0
+- pkg:nuget/RDFSharp.Extensions.PostgreSQL@4.0.0
