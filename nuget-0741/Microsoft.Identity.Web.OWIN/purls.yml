@@ -79,5 +79,6 @@
 - pkg:nuget/Microsoft.Identity.Web.OWIN@3.9.2
 - pkg:nuget/Microsoft.Identity.Web.OWIN@3.9.3
 - pkg:nuget/Microsoft.Identity.Web.OWIN@3.9.4
+- pkg:nuget/Microsoft.Identity.Web.OWIN@4.12.0
 - pkg:nuget/Microsoft.Identity.Web.OWIN@4.6.0
 - pkg:nuget/Microsoft.Identity.Web.OWIN@4.7.0
