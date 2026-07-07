@@ -4,6 +4,7 @@
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.SqlDatabaseProjects@13.4.0
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.SqlDatabaseProjects@13.4.0-beta.651
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.SqlDatabaseProjects@13.4.0-beta.671
+- pkg:nuget/CommunityToolkit.Aspire.Hosting.SqlDatabaseProjects@13.4.1-beta.676
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.SqlDatabaseProjects@9.0.0
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.SqlDatabaseProjects@9.0.0-beta.63
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.SqlDatabaseProjects@9.0.0-beta.66
