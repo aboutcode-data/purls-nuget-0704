@@ -4,6 +4,7 @@
 - pkg:nuget/Volo.Docs.Installer@10.5.0
 - pkg:nuget/Volo.Docs.Installer@10.5.0-rc.1
 - pkg:nuget/Volo.Docs.Installer@10.5.0-rc.4
+- pkg:nuget/Volo.Docs.Installer@10.6.0-rc.1
 - pkg:nuget/Volo.Docs.Installer@6.0.0
 - pkg:nuget/Volo.Docs.Installer@6.0.0-rc.4
 - pkg:nuget/Volo.Docs.Installer@6.0.0-rc.5
