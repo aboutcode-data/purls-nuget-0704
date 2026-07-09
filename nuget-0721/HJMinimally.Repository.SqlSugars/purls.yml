@@ -10,3 +10,4 @@
 - pkg:nuget/HJMinimally.Repository.SqlSugars@1.0.8-preview01
 - pkg:nuget/HJMinimally.Repository.SqlSugars@1.0.9
 - pkg:nuget/HJMinimally.Repository.SqlSugars@1.1.0
+- pkg:nuget/HJMinimally.Repository.SqlSugars@1.3.0
