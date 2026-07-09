@@ -85,5 +85,7 @@
 - pkg:nuget/Umbraco.Community.BlockPreview@4.0.3
 - pkg:nuget/Umbraco.Community.BlockPreview@5.4.2
 - pkg:nuget/Umbraco.Community.BlockPreview@5.4.3
+- pkg:nuget/Umbraco.Community.BlockPreview@5.5.0
 - pkg:nuget/Umbraco.Community.BlockPreview@6.0.1
 - pkg:nuget/Umbraco.Community.BlockPreview@6.0.2
+- pkg:nuget/Umbraco.Community.BlockPreview@6.1.0
