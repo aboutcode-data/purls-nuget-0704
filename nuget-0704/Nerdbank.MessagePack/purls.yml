@@ -62,3 +62,4 @@
 - pkg:nuget/Nerdbank.MessagePack@0.9.26-rc
 - pkg:nuget/Nerdbank.MessagePack@0.9.35-rc
 - pkg:nuget/Nerdbank.MessagePack@1.0.2
+- pkg:nuget/Nerdbank.MessagePack@1.2.36
