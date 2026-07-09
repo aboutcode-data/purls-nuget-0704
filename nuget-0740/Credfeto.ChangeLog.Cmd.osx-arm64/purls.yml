@@ -130,3 +130,7 @@
 - pkg:nuget/Credfeto.ChangeLog.Cmd.osx-arm64@1.10.195.2157-main
 - pkg:nuget/Credfeto.ChangeLog.Cmd.osx-arm64@1.10.195.2158-main
 - pkg:nuget/Credfeto.ChangeLog.Cmd.osx-arm64@1.10.195.2159-main
+- pkg:nuget/Credfeto.ChangeLog.Cmd.osx-arm64@1.10.195.2184-main
+- pkg:nuget/Credfeto.ChangeLog.Cmd.osx-arm64@1.10.195.2185-main
+- pkg:nuget/Credfeto.ChangeLog.Cmd.osx-arm64@1.10.195.2186-main
+- pkg:nuget/Credfeto.ChangeLog.Cmd.osx-arm64@1.10.195.2187-cli-silent-exit
