@@ -140,3 +140,6 @@
 - pkg:nuget/Credfeto.ChangeLog.Cmd.osx-arm64@1.10.195.2202-main
 - pkg:nuget/Credfeto.ChangeLog.Cmd.osx-arm64@1.10.195.2215-createemptyasyn
 - pkg:nuget/Credfeto.ChangeLog.Cmd.osx-arm64@1.10.195.2216-main
+- pkg:nuget/Credfeto.ChangeLog.Cmd.osx-arm64@1.10.195.2222-main
+- pkg:nuget/Credfeto.ChangeLog.Cmd.osx-arm64@1.10.195.2223-main
+- pkg:nuget/Credfeto.ChangeLog.Cmd.osx-arm64@1.10.195.2224-main
