@@ -1,2 +1,3 @@
 - pkg:nuget/SuperStrong.Types.EntityFrameworkCore@1.0.0-beta.10
+- pkg:nuget/SuperStrong.Types.EntityFrameworkCore@1.0.0-beta.16
 - pkg:nuget/SuperStrong.Types.EntityFrameworkCore@1.0.0-beta.5
