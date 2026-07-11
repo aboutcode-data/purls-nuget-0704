@@ -147,3 +147,4 @@
 - pkg:nuget/Carneiro.Core.Web@6.9.3
 - pkg:nuget/Carneiro.Core.Web@7.2.6
 - pkg:nuget/Carneiro.Core.Web@7.3.0
+- pkg:nuget/Carneiro.Core.Web@7.4.4
