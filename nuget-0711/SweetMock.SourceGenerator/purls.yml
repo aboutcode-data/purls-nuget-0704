@@ -8,3 +8,4 @@
 - pkg:nuget/SweetMock.SourceGenerator@0.9.42-RC2
 - pkg:nuget/SweetMock.SourceGenerator@0.9.42-RC6
 - pkg:nuget/SweetMock.SourceGenerator@0.9.42-RC7
+- pkg:nuget/SweetMock.SourceGenerator@1.0.42-RC1
