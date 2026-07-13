@@ -68,3 +68,4 @@
 - pkg:nuget/Alis.Core.Ecs@0.7.6
 - pkg:nuget/Alis.Core.Ecs@0.7.7
 - pkg:nuget/Alis.Core.Ecs@0.8.5
+- pkg:nuget/Alis.Core.Ecs@1.0.9
