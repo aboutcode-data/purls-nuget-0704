@@ -531,3 +531,4 @@
 - pkg:nuget/SmartTender.CommercialServices.DTO@0.71.0
 - pkg:nuget/SmartTender.CommercialServices.DTO@0.74.0
 - pkg:nuget/SmartTender.CommercialServices.DTO@0.75.1
+- pkg:nuget/SmartTender.CommercialServices.DTO@0.77.0
