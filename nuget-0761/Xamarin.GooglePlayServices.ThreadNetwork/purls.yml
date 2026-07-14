@@ -17,3 +17,4 @@
 - pkg:nuget/Xamarin.GooglePlayServices.ThreadNetwork@116.2.1.4
 - pkg:nuget/Xamarin.GooglePlayServices.ThreadNetwork@116.3.0
 - pkg:nuget/Xamarin.GooglePlayServices.ThreadNetwork@116.3.0.1
+- pkg:nuget/Xamarin.GooglePlayServices.ThreadNetwork@116.3.0.4
