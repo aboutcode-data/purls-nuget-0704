@@ -38,3 +38,5 @@
 - pkg:nuget/EdgePDF.Viewer.AspNet.Framework@12.5.2
 - pkg:nuget/EdgePDF.Viewer.AspNet.Framework@12.5.2.2
 - pkg:nuget/EdgePDF.Viewer.AspNet.Framework@12.6.0
+- pkg:nuget/EdgePDF.Viewer.AspNet.Framework@12.6.1.6
+- pkg:nuget/EdgePDF.Viewer.AspNet.Framework@12.6.2.2
