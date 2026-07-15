@@ -1,1 +1,2 @@
 - pkg:nuget/OpenServiceBus.InMemoryStorage@1.0.1
+- pkg:nuget/OpenServiceBus.InMemoryStorage@1.0.4
