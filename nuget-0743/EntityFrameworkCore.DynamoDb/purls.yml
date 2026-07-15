@@ -7,3 +7,11 @@
 - pkg:nuget/EntityFrameworkCore.DynamoDb@1.0.0-alpha.24
 - pkg:nuget/EntityFrameworkCore.DynamoDb@1.0.0-alpha.27
 - pkg:nuget/EntityFrameworkCore.DynamoDb@1.0.0-alpha.46
+- pkg:nuget/EntityFrameworkCore.DynamoDb@1.0.0-alpha.49
+- pkg:nuget/EntityFrameworkCore.DynamoDb@10.0.0-preview.56
+- pkg:nuget/EntityFrameworkCore.DynamoDb@10.0.0-preview.57
+- pkg:nuget/EntityFrameworkCore.DynamoDb@10.0.0-preview.68
+- pkg:nuget/EntityFrameworkCore.DynamoDb@10.0.0-preview.80
+- pkg:nuget/EntityFrameworkCore.DynamoDb@10.0.0-preview.85
+- pkg:nuget/EntityFrameworkCore.DynamoDb@11.0.0-preview.80
+- pkg:nuget/EntityFrameworkCore.DynamoDb@11.0.0-preview.85
