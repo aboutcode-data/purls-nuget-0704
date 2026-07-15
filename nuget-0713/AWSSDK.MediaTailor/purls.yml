@@ -1200,6 +1200,7 @@
 - pkg:nuget/AWSSDK.MediaTailor@4.0.1.7
 - pkg:nuget/AWSSDK.MediaTailor@4.0.1.8
 - pkg:nuget/AWSSDK.MediaTailor@4.0.1.9
+- pkg:nuget/AWSSDK.MediaTailor@4.0.101.2
 - pkg:nuget/AWSSDK.MediaTailor@4.0.2
 - pkg:nuget/AWSSDK.MediaTailor@4.0.2.1
 - pkg:nuget/AWSSDK.MediaTailor@4.0.2.2
