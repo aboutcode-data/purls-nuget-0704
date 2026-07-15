@@ -1,3 +1,7 @@
+- pkg:nuget/Magnum.ServiceIntegration@2.0.13-beta.3
+- pkg:nuget/Magnum.ServiceIntegration@2.0.14-beta.1
+- pkg:nuget/Magnum.ServiceIntegration@2.0.14-beta.5
+- pkg:nuget/Magnum.ServiceIntegration@2.0.14-beta.6
 - pkg:nuget/Magnum.ServiceIntegration@2.0.8.10
 - pkg:nuget/Magnum.ServiceIntegration@2.0.8.11
 - pkg:nuget/Magnum.ServiceIntegration@2.0.8.12
