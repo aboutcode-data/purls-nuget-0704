@@ -12,3 +12,4 @@
 - pkg:nuget/Autofac.Extras.CommonServiceLocator@6.0.0
 - pkg:nuget/Autofac.Extras.CommonServiceLocator@6.0.1
 - pkg:nuget/Autofac.Extras.CommonServiceLocator@6.1.0
+- pkg:nuget/Autofac.Extras.CommonServiceLocator@7.0.1
