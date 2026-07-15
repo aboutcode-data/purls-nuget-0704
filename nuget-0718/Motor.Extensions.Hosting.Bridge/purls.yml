@@ -13,6 +13,8 @@
 - pkg:nuget/Motor.Extensions.Hosting.Bridge@0.14.0-rc1
 - pkg:nuget/Motor.Extensions.Hosting.Bridge@0.15.0
 - pkg:nuget/Motor.Extensions.Hosting.Bridge@0.15.0-beta.1
+- pkg:nuget/Motor.Extensions.Hosting.Bridge@0.18.0
+- pkg:nuget/Motor.Extensions.Hosting.Bridge@0.18.1
 - pkg:nuget/Motor.Extensions.Hosting.Bridge@0.6.10
 - pkg:nuget/Motor.Extensions.Hosting.Bridge@0.6.11
 - pkg:nuget/Motor.Extensions.Hosting.Bridge@0.6.12
