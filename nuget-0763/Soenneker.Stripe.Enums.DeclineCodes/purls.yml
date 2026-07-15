@@ -16,3 +16,5 @@
 - pkg:nuget/Soenneker.Stripe.Enums.DeclineCodes@4.0.32
 - pkg:nuget/Soenneker.Stripe.Enums.DeclineCodes@4.0.37
 - pkg:nuget/Soenneker.Stripe.Enums.DeclineCodes@4.0.44
+- pkg:nuget/Soenneker.Stripe.Enums.DeclineCodes@4.0.48
+- pkg:nuget/Soenneker.Stripe.Enums.DeclineCodes@4.0.52

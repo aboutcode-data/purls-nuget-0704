@@ -1,0 +1,15 @@
+- pkg:nuget/NSchema@0.0.2
+- pkg:nuget/NSchema@1.0.0-rc.1
+- pkg:nuget/NSchema@2.2.0-alpha2
+- pkg:nuget/NSchema@3.0.0
+- pkg:nuget/NSchema@3.0.0-alpha.2
+- pkg:nuget/NSchema@3.0.0-alpha.24
+- pkg:nuget/NSchema@3.0.0-alpha.28
+- pkg:nuget/NSchema@3.0.0-alpha.4
+- pkg:nuget/NSchema@3.0.0-alpha.7
+- pkg:nuget/NSchema@3.0.0-beta.1
+- pkg:nuget/NSchema@3.0.0-beta.5
+- pkg:nuget/NSchema@3.4.0
+- pkg:nuget/NSchema@4.2.0
+- pkg:nuget/NSchema@4.3.0
+- pkg:nuget/NSchema@4.4.0
