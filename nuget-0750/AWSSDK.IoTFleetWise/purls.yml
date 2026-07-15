@@ -624,6 +624,7 @@
 - pkg:nuget/AWSSDK.IoTFleetWise@4.0.1.8
 - pkg:nuget/AWSSDK.IoTFleetWise@4.0.1.9
 - pkg:nuget/AWSSDK.IoTFleetWise@4.0.100.1
+- pkg:nuget/AWSSDK.IoTFleetWise@4.0.100.4
 - pkg:nuget/AWSSDK.IoTFleetWise@4.0.2
 - pkg:nuget/AWSSDK.IoTFleetWise@4.0.2.1
 - pkg:nuget/AWSSDK.IoTFleetWise@4.0.2.2
