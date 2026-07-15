@@ -2,3 +2,5 @@
 - pkg:nuget/Thirty1Degrees.CommonLibrary.Base@1.5.1
 - pkg:nuget/Thirty1Degrees.CommonLibrary.Base@1.6.0
 - pkg:nuget/Thirty1Degrees.CommonLibrary.Base@1.6.1
+- pkg:nuget/Thirty1Degrees.CommonLibrary.Base@2.1.2
+- pkg:nuget/Thirty1Degrees.CommonLibrary.Base@2.2.0
