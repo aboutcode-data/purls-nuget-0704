@@ -59,3 +59,4 @@
 - pkg:nuget/Noesis.App.Displays.UIKit@3.2.6
 - pkg:nuget/Noesis.App.Displays.UIKit@3.2.7
 - pkg:nuget/Noesis.App.Displays.UIKit@3.2.8
+- pkg:nuget/Noesis.App.Displays.UIKit@4.0.0-beta16
