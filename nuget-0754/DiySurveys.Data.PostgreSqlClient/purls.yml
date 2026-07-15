@@ -1,6 +1,7 @@
 - pkg:nuget/DiySurveys.Data.PostgreSqlClient@10.0.0
 - pkg:nuget/DiySurveys.Data.PostgreSqlClient@10.0.1
 - pkg:nuget/DiySurveys.Data.PostgreSqlClient@10.1.0
+- pkg:nuget/DiySurveys.Data.PostgreSqlClient@10.2.8
 - pkg:nuget/DiySurveys.Data.PostgreSqlClient@8.0.0
 - pkg:nuget/DiySurveys.Data.PostgreSqlClient@8.0.1
 - pkg:nuget/DiySurveys.Data.PostgreSqlClient@8.0.10
