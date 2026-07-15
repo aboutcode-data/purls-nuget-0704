@@ -3,3 +3,5 @@
 - pkg:nuget/SrkToolkit.Web.AspNetCore2@2.0.146-preview1
 - pkg:nuget/SrkToolkit.Web.AspNetCore2@2.0.147-preview2
 - pkg:nuget/SrkToolkit.Web.AspNetCore2@2.0.148-preview2
+- pkg:nuget/SrkToolkit.Web.AspNetCore2@2.0.149-preview1
+- pkg:nuget/SrkToolkit.Web.AspNetCore2@2.0.150-preview1
