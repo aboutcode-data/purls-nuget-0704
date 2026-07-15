@@ -1,1 +1,2 @@
 - pkg:nuget/Trax.Effect.Broadcaster.SignalR@1.37.0
+- pkg:nuget/Trax.Effect.Broadcaster.SignalR@1.41.1
