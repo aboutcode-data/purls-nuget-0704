@@ -3,3 +3,4 @@
 - pkg:nuget/ANcpLua.Agents.Hosting.ServiceDefaults@1.13.0
 - pkg:nuget/ANcpLua.Agents.Hosting.ServiceDefaults@1.13.1
 - pkg:nuget/ANcpLua.Agents.Hosting.ServiceDefaults@1.13.4
+- pkg:nuget/ANcpLua.Agents.Hosting.ServiceDefaults@1.13.6
