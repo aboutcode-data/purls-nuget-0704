@@ -26,4 +26,6 @@
 - pkg:nuget/RetroSharp.NES@0.0.313
 - pkg:nuget/RetroSharp.NES@0.0.330
 - pkg:nuget/RetroSharp.NES@0.0.342
+- pkg:nuget/RetroSharp.NES@0.0.345
+- pkg:nuget/RetroSharp.NES@0.0.350
 - pkg:nuget/RetroSharp.NES@0.0.92
