@@ -111,6 +111,7 @@
 - pkg:nuget/RepoDb@1.13.1
 - pkg:nuget/RepoDb@1.13.1-alpha1
 - pkg:nuget/RepoDb@1.13.2-alpha1
+- pkg:nuget/RepoDb@1.15.0-alpha1
 - pkg:nuget/RepoDb@1.2.0
 - pkg:nuget/RepoDb@1.2.0-beta1
 - pkg:nuget/RepoDb@1.2.0-beta2
