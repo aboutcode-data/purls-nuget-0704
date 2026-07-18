@@ -1254,6 +1254,7 @@
 - pkg:nuget/AWSSDK.CloudWatchLogs@4.0.1
 - pkg:nuget/AWSSDK.CloudWatchLogs@4.0.1.1
 - pkg:nuget/AWSSDK.CloudWatchLogs@4.0.101.2
+- pkg:nuget/AWSSDK.CloudWatchLogs@4.0.101.3
 - pkg:nuget/AWSSDK.CloudWatchLogs@4.0.12
 - pkg:nuget/AWSSDK.CloudWatchLogs@4.0.15.3
 - pkg:nuget/AWSSDK.CloudWatchLogs@4.0.16
