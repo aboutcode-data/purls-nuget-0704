@@ -1,3 +1,4 @@
+- pkg:nuget/devprime.stack.extensions@10.0.5
 - pkg:nuget/devprime.stack.extensions@6.0.38
 - pkg:nuget/devprime.stack.extensions@6.0.39
 - pkg:nuget/devprime.stack.extensions@6.0.40
