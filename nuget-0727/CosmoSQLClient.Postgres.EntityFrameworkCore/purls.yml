@@ -26,3 +26,4 @@
 - pkg:nuget/CosmoSQLClient.Postgres.EntityFrameworkCore@6.57.5
 - pkg:nuget/CosmoSQLClient.Postgres.EntityFrameworkCore@6.63.0
 - pkg:nuget/CosmoSQLClient.Postgres.EntityFrameworkCore@6.69.0
+- pkg:nuget/CosmoSQLClient.Postgres.EntityFrameworkCore@6.80.0
