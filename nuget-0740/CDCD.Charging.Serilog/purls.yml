@@ -9,6 +9,8 @@
 - pkg:nuget/CDCD.Charging.Serilog@0.12.123
 - pkg:nuget/CDCD.Charging.Serilog@0.12.13
 - pkg:nuget/CDCD.Charging.Serilog@0.12.131
+- pkg:nuget/CDCD.Charging.Serilog@0.12.138
+- pkg:nuget/CDCD.Charging.Serilog@0.12.139
 - pkg:nuget/CDCD.Charging.Serilog@0.12.30
 - pkg:nuget/CDCD.Charging.Serilog@0.12.35
 - pkg:nuget/CDCD.Charging.Serilog@0.12.36
