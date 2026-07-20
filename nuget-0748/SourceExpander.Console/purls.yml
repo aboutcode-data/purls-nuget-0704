@@ -26,3 +26,4 @@
 - pkg:nuget/SourceExpander.Console@8.2.0
 - pkg:nuget/SourceExpander.Console@9.0.0-beta2
 - pkg:nuget/SourceExpander.Console@9.0.2-beta3
+- pkg:nuget/SourceExpander.Console@9.1.0-alpha3
