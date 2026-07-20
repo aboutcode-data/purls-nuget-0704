@@ -1,2 +1,4 @@
 - pkg:nuget/Memtly.Localization@1.0.0.10
 - pkg:nuget/Memtly.Localization@1.0.1.1
+- pkg:nuget/Memtly.Localization@1.0.4.12
+- pkg:nuget/Memtly.Localization@1.0.4.2
