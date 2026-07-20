@@ -102,3 +102,4 @@
 - pkg:nuget/OpenTraceability.MSC@1.2.8
 - pkg:nuget/OpenTraceability.MSC@1.4.75
 - pkg:nuget/OpenTraceability.MSC@2.0.0-beta.101
+- pkg:nuget/OpenTraceability.MSC@2.0.0-beta.105
