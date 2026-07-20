@@ -19,6 +19,7 @@
 - pkg:nuget/BoldReports.WPF@13.1.36
 - pkg:nuget/BoldReports.WPF@13.1.37
 - pkg:nuget/BoldReports.WPF@13.1.40
+- pkg:nuget/BoldReports.WPF@14.1.12
 - pkg:nuget/BoldReports.WPF@2.1.14
 - pkg:nuget/BoldReports.WPF@2.1.23
 - pkg:nuget/BoldReports.WPF@2.2.23
