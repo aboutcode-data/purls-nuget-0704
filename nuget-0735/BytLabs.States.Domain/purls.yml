@@ -53,3 +53,4 @@
 - pkg:nuget/BytLabs.States.Domain@4.2.0-alpha.106
 - pkg:nuget/BytLabs.States.Domain@4.2.0-alpha.107
 - pkg:nuget/BytLabs.States.Domain@5.2.0-alpha.123
+- pkg:nuget/BytLabs.States.Domain@5.2.0-alpha.125
