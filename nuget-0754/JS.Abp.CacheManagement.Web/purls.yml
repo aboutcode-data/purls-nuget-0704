@@ -1,5 +1,6 @@
 - pkg:nuget/JS.Abp.CacheManagement.Web@10.0.2
 - pkg:nuget/JS.Abp.CacheManagement.Web@10.2.1
+- pkg:nuget/JS.Abp.CacheManagement.Web@10.5.0
 - pkg:nuget/JS.Abp.CacheManagement.Web@8.0.1
 - pkg:nuget/JS.Abp.CacheManagement.Web@8.0.2
 - pkg:nuget/JS.Abp.CacheManagement.Web@8.0.3
