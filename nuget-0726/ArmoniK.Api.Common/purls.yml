@@ -2330,6 +2330,8 @@
 - pkg:nuget/ArmoniK.Api.Common@3.29.2-renovatenuget.1.da61a61b
 - pkg:nuget/ArmoniK.Api.Common@3.29.2-renovatenuget.1.e8406a72
 - pkg:nuget/ArmoniK.Api.Common@3.29.2-renovatepypi.1.4ce9774d
+- pkg:nuget/ArmoniK.Api.Common@3.29.3-renovatenuget.1.1670a22e
+- pkg:nuget/ArmoniK.Api.Common@3.29.3-renovatepypi.1.9b9c9f4b
 - pkg:nuget/ArmoniK.Api.Common@3.3.0
 - pkg:nuget/ArmoniK.Api.Common@3.3.0-32166g075acae.66.075acae
 - pkg:nuget/ArmoniK.Api.Common@3.3.0-32168g32114de.68.32114de
