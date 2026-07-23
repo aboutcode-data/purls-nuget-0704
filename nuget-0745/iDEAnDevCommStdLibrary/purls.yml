@@ -41,4 +41,5 @@
 - pkg:nuget/iDEAnDevCommStdLibrary@4.9.6
 - pkg:nuget/iDEAnDevCommStdLibrary@4.9.7
 - pkg:nuget/iDEAnDevCommStdLibrary@4.9.8
+- pkg:nuget/iDEAnDevCommStdLibrary@4.9.9
 - pkg:nuget/iDEAnDevCommStdLibrary@5.0.0
