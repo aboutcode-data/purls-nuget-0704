@@ -9,6 +9,7 @@
 - pkg:nuget/APF.Core.AWS@1.0.0.7-AL
 - pkg:nuget/APF.Core.AWS@1.0.0.8-AL
 - pkg:nuget/APF.Core.AWS@1.0.0.9-AL
+- pkg:nuget/APF.Core.AWS@10.0.0-Beta-02
 - pkg:nuget/APF.Core.AWS@6.0.0
 - pkg:nuget/APF.Core.AWS@6.0.0.1
 - pkg:nuget/APF.Core.AWS@6.0.0.10
