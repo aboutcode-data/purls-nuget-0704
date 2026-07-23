@@ -20,3 +20,4 @@
 - pkg:nuget/NewRelic.MAUI.Plugin@1.1.7
 - pkg:nuget/NewRelic.MAUI.Plugin@1.1.8
 - pkg:nuget/NewRelic.MAUI.Plugin@1.1.9
+- pkg:nuget/NewRelic.MAUI.Plugin@1.2.3
