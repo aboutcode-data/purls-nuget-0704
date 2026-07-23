@@ -5,3 +5,5 @@
 - pkg:nuget/dms3.openapi.framework@1.6.0
 - pkg:nuget/dms3.openapi.framework@1.6.1
 - pkg:nuget/dms3.openapi.framework@1.6.2
+- pkg:nuget/dms3.openapi.framework@2.0.0
+- pkg:nuget/dms3.openapi.framework@2.0.1
