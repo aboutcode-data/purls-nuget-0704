@@ -1,2 +1,4 @@
 - pkg:nuget/BlazorEngine.TestHelper@1.0.58
 - pkg:nuget/BlazorEngine.TestHelper@1.0.59
+- pkg:nuget/BlazorEngine.TestHelper@1.0.61
+- pkg:nuget/BlazorEngine.TestHelper@1.0.62
