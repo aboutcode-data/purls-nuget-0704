@@ -54,3 +54,4 @@
 - pkg:nuget/Google.Apis.WorkloadManager.v1@1.71.0.3898
 - pkg:nuget/Google.Apis.WorkloadManager.v1@1.73.0.4045
 - pkg:nuget/Google.Apis.WorkloadManager.v1@1.74.0.4136
+- pkg:nuget/Google.Apis.WorkloadManager.v1@1.75.0.4206
