@@ -2,4 +2,6 @@
 - pkg:nuget/Qore.BaseProj@1.0.6
 - pkg:nuget/Qore.BaseProj@1.2.5
 - pkg:nuget/Qore.BaseProj@2.0.242
+- pkg:nuget/Qore.BaseProj@2.0.246
+- pkg:nuget/Qore.BaseProj@2.0.249
 - pkg:nuget/Qore.BaseProj@2.0.4
