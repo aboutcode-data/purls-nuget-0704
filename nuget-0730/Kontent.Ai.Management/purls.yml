@@ -26,3 +26,4 @@
 - pkg:nuget/Kontent.Ai.Management@6.7.0
 - pkg:nuget/Kontent.Ai.Management@6.8.0
 - pkg:nuget/Kontent.Ai.Management@8.1.0
+- pkg:nuget/Kontent.Ai.Management@9.0.0-beta-4
