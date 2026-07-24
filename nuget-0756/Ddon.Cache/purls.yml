@@ -37,3 +37,5 @@
 - pkg:nuget/Ddon.Cache@3.1.8
 - pkg:nuget/Ddon.Cache@3.1.9
 - pkg:nuget/Ddon.Cache@7.0.0
+- pkg:nuget/Ddon.Cache@7.0.20
+- pkg:nuget/Ddon.Cache@8.0.0
