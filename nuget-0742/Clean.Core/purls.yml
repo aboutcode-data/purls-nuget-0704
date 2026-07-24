@@ -27,3 +27,4 @@
 - pkg:nuget/Clean.Core@6.0.1
 - pkg:nuget/Clean.Core@7.0.0-preview1
 - pkg:nuget/Clean.Core@7.0.0-preview8
+- pkg:nuget/Clean.Core@7.0.7
