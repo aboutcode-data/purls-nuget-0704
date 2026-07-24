@@ -24,3 +24,4 @@
 - pkg:nuget/HttpMachine.PCL@4.0.3
 - pkg:nuget/HttpMachine.PCL@5.0.0
 - pkg:nuget/HttpMachine.PCL@5.0.1
+- pkg:nuget/HttpMachine.PCL@6.0.1
