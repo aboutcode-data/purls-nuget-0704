@@ -38,6 +38,7 @@
 - pkg:nuget/Oracle.ManagedDataAccess@19.29.0
 - pkg:nuget/Oracle.ManagedDataAccess@19.3.0
 - pkg:nuget/Oracle.ManagedDataAccess@19.3.1
+- pkg:nuget/Oracle.ManagedDataAccess@19.32.0
 - pkg:nuget/Oracle.ManagedDataAccess@19.5.0
 - pkg:nuget/Oracle.ManagedDataAccess@19.6.0
 - pkg:nuget/Oracle.ManagedDataAccess@19.7.0
@@ -54,6 +55,7 @@
 - pkg:nuget/Oracle.ManagedDataAccess@21.18.0
 - pkg:nuget/Oracle.ManagedDataAccess@21.19.0
 - pkg:nuget/Oracle.ManagedDataAccess@21.20.0
+- pkg:nuget/Oracle.ManagedDataAccess@21.23.0
 - pkg:nuget/Oracle.ManagedDataAccess@21.3.0
 - pkg:nuget/Oracle.ManagedDataAccess@21.4.0
 - pkg:nuget/Oracle.ManagedDataAccess@21.5.0
