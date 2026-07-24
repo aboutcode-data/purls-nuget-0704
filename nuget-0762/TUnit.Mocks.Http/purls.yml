@@ -12,3 +12,5 @@
 - pkg:nuget/TUnit.Mocks.Http@1.35.2-beta
 - pkg:nuget/TUnit.Mocks.Http@1.37.24-beta
 - pkg:nuget/TUnit.Mocks.Http@1.43.11-beta
+- pkg:nuget/TUnit.Mocks.Http@1.48.6
+- pkg:nuget/TUnit.Mocks.Http@1.57.17
