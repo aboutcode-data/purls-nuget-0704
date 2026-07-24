@@ -2,3 +2,4 @@
 - pkg:nuget/EncySoftware.CAMAPI.Snapshot.Net@1.0.1-rc.2%2Bd6b9fbb2895f121549a378f398e994364ae09d08
 - pkg:nuget/EncySoftware.CAMAPI.Snapshot.Net@1.1.0
 - pkg:nuget/EncySoftware.CAMAPI.Snapshot.Net@2.0.0
+- pkg:nuget/EncySoftware.CAMAPI.Snapshot.Net@3.0.1-rc%2B8034d30b889df8431621046e346fb88de488d0fc
