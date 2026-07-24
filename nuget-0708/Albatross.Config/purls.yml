@@ -23,6 +23,7 @@
 - pkg:nuget/Albatross.Config@7.5.7%2B35b2074
 - pkg:nuget/Albatross.Config@7.5.8%2B8e7c52c
 - pkg:nuget/Albatross.Config@7.5.9%2B0ee6d27
+- pkg:nuget/Albatross.Config@8.0.0-45.main%2B2d5e2a8
 - pkg:nuget/Albatross.Config@9.0.0%2B20cd3ae
 - pkg:nuget/Albatross.Config@9.0.1-7.main%2Bbff27b4
 - pkg:nuget/Albatross.Config@9.0.1-9.main%2B5eb1c93
