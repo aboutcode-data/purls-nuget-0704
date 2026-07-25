@@ -153,3 +153,6 @@
 - pkg:nuget/Credfeto.ChangeLog.Cmd.osx-arm64@1.10.196.2314-main
 - pkg:nuget/Credfeto.ChangeLog.Cmd.osx-arm64@1.10.196.2327-main
 - pkg:nuget/Credfeto.ChangeLog.Cmd.osx-arm64@1.10.196.2328-main
+- pkg:nuget/Credfeto.ChangeLog.Cmd.osx-arm64@1.10.196.2329-drop-net9-targe
+- pkg:nuget/Credfeto.ChangeLog.Cmd.osx-arm64@1.10.196.2330-drop-net9-targe
+- pkg:nuget/Credfeto.ChangeLog.Cmd.osx-arm64@1.10.196.2332-changelog-linte
