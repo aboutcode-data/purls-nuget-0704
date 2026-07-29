@@ -1210,3 +1210,5 @@
 - pkg:nuget/Soenneker.Extensions.HttpRequestMessage@4.0.1329
 - pkg:nuget/Soenneker.Extensions.HttpRequestMessage@4.0.1336
 - pkg:nuget/Soenneker.Extensions.HttpRequestMessage@4.0.1348
+- pkg:nuget/Soenneker.Extensions.HttpRequestMessage@4.0.1354
+- pkg:nuget/Soenneker.Extensions.HttpRequestMessage@4.0.1355
