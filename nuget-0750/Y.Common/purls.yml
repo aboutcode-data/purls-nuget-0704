@@ -124,3 +124,5 @@
 - pkg:nuget/Y.Common@1.0.97
 - pkg:nuget/Y.Common@1.0.98
 - pkg:nuget/Y.Common@1.0.99
+- pkg:nuget/Y.Common@1.1.0
+- pkg:nuget/Y.Common@1.1.1
