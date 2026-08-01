@@ -65,3 +65,4 @@
 - pkg:nuget/Sarif.WorkItems@4.6.5
 - pkg:nuget/Sarif.WorkItems@5.1.1
 - pkg:nuget/Sarif.WorkItems@5.2.0
+- pkg:nuget/Sarif.WorkItems@5.6.0
