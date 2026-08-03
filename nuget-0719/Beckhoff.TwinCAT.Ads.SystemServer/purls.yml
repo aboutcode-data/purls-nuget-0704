@@ -40,3 +40,4 @@
 - pkg:nuget/Beckhoff.TwinCAT.Ads.SystemServer@6.2.387
 - pkg:nuget/Beckhoff.TwinCAT.Ads.SystemServer@6.2.467
 - pkg:nuget/Beckhoff.TwinCAT.Ads.SystemServer@6.2.485
+- pkg:nuget/Beckhoff.TwinCAT.Ads.SystemServer@7.0.303
