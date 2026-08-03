@@ -52,6 +52,7 @@
 - pkg:nuget/UltronSecurity.DataTransfer@1.0.71
 - pkg:nuget/UltronSecurity.DataTransfer@1.0.72
 - pkg:nuget/UltronSecurity.DataTransfer@1.0.73
+- pkg:nuget/UltronSecurity.DataTransfer@10.0.8
 - pkg:nuget/UltronSecurity.DataTransfer@8.0.0
 - pkg:nuget/UltronSecurity.DataTransfer@8.0.1
 - pkg:nuget/UltronSecurity.DataTransfer@8.0.10
