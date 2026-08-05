@@ -3,3 +3,9 @@
 - pkg:nuget/Ecng.Data.SQLite@1.0.14
 - pkg:nuget/Ecng.Data.SQLite@1.0.15
 - pkg:nuget/Ecng.Data.SQLite@1.0.18
+- pkg:nuget/Ecng.Data.SQLite@1.0.29
+- pkg:nuget/Ecng.Data.SQLite@1.0.30
+- pkg:nuget/Ecng.Data.SQLite@1.0.32
+- pkg:nuget/Ecng.Data.SQLite@1.0.37
+- pkg:nuget/Ecng.Data.SQLite@1.0.45
+- pkg:nuget/Ecng.Data.SQLite@1.0.47
