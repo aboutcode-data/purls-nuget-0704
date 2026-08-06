@@ -37,5 +37,6 @@
 - pkg:nuget/SanteGuard.Client@3.0.2073-alpha
 - pkg:nuget/SanteGuard.Client@3.0.2082-alpha
 - pkg:nuget/SanteGuard.Client@3.0.2087-alpha
+- pkg:nuget/SanteGuard.Client@3.0.2092-alpha
 - pkg:nuget/SanteGuard.Client@3.0.890-alpha
 - pkg:nuget/SanteGuard.Client@3.0.998-alpha
