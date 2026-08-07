@@ -45,6 +45,7 @@
 - pkg:nuget/ScarletCore@1.6.3
 - pkg:nuget/ScarletCore@1.6.39
 - pkg:nuget/ScarletCore@1.6.4
+- pkg:nuget/ScarletCore@1.6.41
 - pkg:nuget/ScarletCore@1.6.5
 - pkg:nuget/ScarletCore@1.6.6
 - pkg:nuget/ScarletCore@1.6.7
