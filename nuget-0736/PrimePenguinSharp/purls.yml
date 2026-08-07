@@ -14,6 +14,8 @@
 - pkg:nuget/PrimePenguinSharp@1.13.2
 - pkg:nuget/PrimePenguinSharp@1.13.3
 - pkg:nuget/PrimePenguinSharp@1.13.4
+- pkg:nuget/PrimePenguinSharp@1.13.6
+- pkg:nuget/PrimePenguinSharp@1.13.7
 - pkg:nuget/PrimePenguinSharp@1.2.0
 - pkg:nuget/PrimePenguinSharp@1.2.1
 - pkg:nuget/PrimePenguinSharp@1.2.10
