@@ -344,6 +344,7 @@
 - pkg:nuget/Hypar.CLI@1.14.0-alpha.6
 - pkg:nuget/Hypar.CLI@1.14.0-alpha.7
 - pkg:nuget/Hypar.CLI@1.14.0-alpha.9
+- pkg:nuget/Hypar.CLI@1.15.0-alpha.0
 - pkg:nuget/Hypar.CLI@1.2.0
 - pkg:nuget/Hypar.CLI@1.2.0-alpha.0
 - pkg:nuget/Hypar.CLI@1.2.0-alpha.1
