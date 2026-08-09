@@ -1,2 +1,7 @@
 - pkg:nuget/Galosys.Foundation.ModelContextProtocol@25.10.30.5
 - pkg:nuget/Galosys.Foundation.ModelContextProtocol@25.11.21.1-rc
+- pkg:nuget/Galosys.Foundation.ModelContextProtocol@26.7.2.1
+- pkg:nuget/Galosys.Foundation.ModelContextProtocol@26.7.20.1
+- pkg:nuget/Galosys.Foundation.ModelContextProtocol@26.7.20.2
+- pkg:nuget/Galosys.Foundation.ModelContextProtocol@26.7.21.1
+- pkg:nuget/Galosys.Foundation.ModelContextProtocol@26.8.5.1
