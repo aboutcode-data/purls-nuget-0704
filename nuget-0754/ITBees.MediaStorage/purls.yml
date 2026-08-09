@@ -5,6 +5,9 @@
 - pkg:nuget/ITBees.MediaStorage@8.0.110
 - pkg:nuget/ITBees.MediaStorage@8.0.12
 - pkg:nuget/ITBees.MediaStorage@8.0.125
+- pkg:nuget/ITBees.MediaStorage@8.0.126
+- pkg:nuget/ITBees.MediaStorage@8.0.127
+- pkg:nuget/ITBees.MediaStorage@8.0.128
 - pkg:nuget/ITBees.MediaStorage@8.0.13
 - pkg:nuget/ITBees.MediaStorage@8.0.14
 - pkg:nuget/ITBees.MediaStorage@8.0.15
