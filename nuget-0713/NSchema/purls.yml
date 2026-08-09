@@ -13,3 +13,5 @@
 - pkg:nuget/NSchema@4.2.0
 - pkg:nuget/NSchema@4.3.0
 - pkg:nuget/NSchema@4.4.0
+- pkg:nuget/NSchema@5.0.0-alpha.5
+- pkg:nuget/NSchema@5.4.0
