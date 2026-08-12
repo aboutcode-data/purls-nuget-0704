@@ -39,6 +39,7 @@
 - pkg:nuget/TinWeb@10.2.57
 - pkg:nuget/TinWeb@10.5.1
 - pkg:nuget/TinWeb@10.5.3
+- pkg:nuget/TinWeb@10.5.7
 - pkg:nuget/TinWeb@6.0.0
 - pkg:nuget/TinWeb@6.0.1
 - pkg:nuget/TinWeb@6.0.2
