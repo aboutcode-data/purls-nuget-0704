@@ -5,4 +5,5 @@
 - pkg:nuget/Shiny.DocumentDb.AppDataSync@12.2.0-beta-0001
 - pkg:nuget/Shiny.DocumentDb.AppDataSync@13.0.0
 - pkg:nuget/Shiny.DocumentDb.AppDataSync@13.2.0
+- pkg:nuget/Shiny.DocumentDb.AppDataSync@13.2.1
 - pkg:nuget/Shiny.DocumentDb.AppDataSync@9.0.0-beta-0002
