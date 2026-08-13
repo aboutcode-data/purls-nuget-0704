@@ -55,6 +55,7 @@
 - pkg:nuget/iAce@2.17.0
 - pkg:nuget/iAce@2.18.0
 - pkg:nuget/iAce@2.2.0
+- pkg:nuget/iAce@2.23.0
 - pkg:nuget/iAce@2.3.0
 - pkg:nuget/iAce@2.5.0
 - pkg:nuget/iAce@2.6.0
