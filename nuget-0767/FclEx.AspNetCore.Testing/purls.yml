@@ -4,3 +4,6 @@
 - pkg:nuget/FclEx.AspNetCore.Testing@2.1.1
 - pkg:nuget/FclEx.AspNetCore.Testing@2.1.5
 - pkg:nuget/FclEx.AspNetCore.Testing@2.2.0
+- pkg:nuget/FclEx.AspNetCore.Testing@2.2.1
+- pkg:nuget/FclEx.AspNetCore.Testing@2.2.2
+- pkg:nuget/FclEx.AspNetCore.Testing@2.2.3
