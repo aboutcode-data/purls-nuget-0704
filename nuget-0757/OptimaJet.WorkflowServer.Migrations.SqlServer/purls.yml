@@ -11,3 +11,4 @@
 - pkg:nuget/OptimaJet.WorkflowServer.Migrations.SqlServer@7.1.0
 - pkg:nuget/OptimaJet.WorkflowServer.Migrations.SqlServer@7.2.0
 - pkg:nuget/OptimaJet.WorkflowServer.Migrations.SqlServer@8.0.0
+- pkg:nuget/OptimaJet.WorkflowServer.Migrations.SqlServer@9.2.0
