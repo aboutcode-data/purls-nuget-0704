@@ -23,5 +23,6 @@
 - pkg:nuget/Albatross.Authentication@7.6.5-24.main%2Bd25d3a0
 - pkg:nuget/Albatross.Authentication@7.6.6-26.main%2B0a3d265
 - pkg:nuget/Albatross.Authentication@8.0.0%2B30534a3
+- pkg:nuget/Albatross.Authentication@8.1.1-57.main%2Bcf60c64
 - pkg:nuget/Albatross.Authentication@9.0.0%2B3126b4d
 - pkg:nuget/Albatross.Authentication@9.0.1%2Ba13e79e
