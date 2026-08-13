@@ -6,3 +6,7 @@
 - pkg:nuget/OfficeIMO.Excel@0.6.20
 - pkg:nuget/OfficeIMO.Excel@0.6.33
 - pkg:nuget/OfficeIMO.Excel@0.6.41
+- pkg:nuget/OfficeIMO.Excel@0.6.44
+- pkg:nuget/OfficeIMO.Excel@3.0.2
+- pkg:nuget/OfficeIMO.Excel@3.1.0
+- pkg:nuget/OfficeIMO.Excel@3.2.1
