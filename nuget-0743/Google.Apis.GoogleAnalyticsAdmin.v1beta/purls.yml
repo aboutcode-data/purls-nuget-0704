@@ -31,3 +31,4 @@
 - pkg:nuget/Google.Apis.GoogleAnalyticsAdmin.v1beta@1.68.0.3655
 - pkg:nuget/Google.Apis.GoogleAnalyticsAdmin.v1beta@1.68.0.3666
 - pkg:nuget/Google.Apis.GoogleAnalyticsAdmin.v1beta@1.69.0.3718
+- pkg:nuget/Google.Apis.GoogleAnalyticsAdmin.v1beta@1.75.0.4231
