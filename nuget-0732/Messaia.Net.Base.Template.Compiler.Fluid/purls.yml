@@ -1,2 +1,5 @@
 - pkg:nuget/Messaia.Net.Base.Template.Compiler.Fluid@10.0.0-RC04
 - pkg:nuget/Messaia.Net.Base.Template.Compiler.Fluid@10.0.1
+- pkg:nuget/Messaia.Net.Base.Template.Compiler.Fluid@10.0.3
+- pkg:nuget/Messaia.Net.Base.Template.Compiler.Fluid@10.1.0-rc03
+- pkg:nuget/Messaia.Net.Base.Template.Compiler.Fluid@10.1.0-rc04
