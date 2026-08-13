@@ -10,8 +10,10 @@
 - pkg:nuget/Microsoft.Net.Sdk.Compilers.Toolset@10.0.102
 - pkg:nuget/Microsoft.Net.Sdk.Compilers.Toolset@10.0.107
 - pkg:nuget/Microsoft.Net.Sdk.Compilers.Toolset@10.0.108
+- pkg:nuget/Microsoft.Net.Sdk.Compilers.Toolset@10.0.111
 - pkg:nuget/Microsoft.Net.Sdk.Compilers.Toolset@10.0.203
 - pkg:nuget/Microsoft.Net.Sdk.Compilers.Toolset@10.0.302
+- pkg:nuget/Microsoft.Net.Sdk.Compilers.Toolset@10.0.400
 - pkg:nuget/Microsoft.Net.Sdk.Compilers.Toolset@11.0.100-preview.1.26104.118
 - pkg:nuget/Microsoft.Net.Sdk.Compilers.Toolset@11.0.100-preview.4.26230.115
 - pkg:nuget/Microsoft.Net.Sdk.Compilers.Toolset@9.0.100
