@@ -7,3 +7,4 @@
 - pkg:nuget/DotNet.ReproducibleBuilds@1.2.25
 - pkg:nuget/DotNet.ReproducibleBuilds@1.2.39
 - pkg:nuget/DotNet.ReproducibleBuilds@1.2.4
+- pkg:nuget/DotNet.ReproducibleBuilds@2.0.5
