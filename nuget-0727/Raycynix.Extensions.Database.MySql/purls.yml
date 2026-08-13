@@ -1,1 +1,2 @@
 - pkg:nuget/Raycynix.Extensions.Database.MySql@1.0.0
+- pkg:nuget/Raycynix.Extensions.Database.MySql@2.0.0
