@@ -20,4 +20,8 @@
 - pkg:nuget/Sanet.MakaMek.Localization@0.61.12-preview
 - pkg:nuget/Sanet.MakaMek.Localization@0.61.14-preview
 - pkg:nuget/Sanet.MakaMek.Localization@0.62.0-preview
+- pkg:nuget/Sanet.MakaMek.Localization@0.62.10-preview
+- pkg:nuget/Sanet.MakaMek.Localization@0.62.19-preview
+- pkg:nuget/Sanet.MakaMek.Localization@0.62.29-preview
+- pkg:nuget/Sanet.MakaMek.Localization@0.62.34-preview
 - pkg:nuget/Sanet.MakaMek.Localization@0.62.4-preview
