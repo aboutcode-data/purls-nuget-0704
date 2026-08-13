@@ -32,6 +32,7 @@
 - pkg:nuget/Mvp24Hours.Application@1.6.251
 - pkg:nuget/Mvp24Hours.Application@1.7.61
 - pkg:nuget/Mvp24Hours.Application@1.9.81
+- pkg:nuget/Mvp24Hours.Application@10.8.0
 - pkg:nuget/Mvp24Hours.Application@2.11.241
 - pkg:nuget/Mvp24Hours.Application@2.12.101
 - pkg:nuget/Mvp24Hours.Application@2.12.102
