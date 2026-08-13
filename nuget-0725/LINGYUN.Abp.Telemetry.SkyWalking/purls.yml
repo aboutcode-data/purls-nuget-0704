@@ -1,3 +1,4 @@
+- pkg:nuget/LINGYUN.Abp.Telemetry.SkyWalking@10.4.0
 - pkg:nuget/LINGYUN.Abp.Telemetry.SkyWalking@9.1.1
 - pkg:nuget/LINGYUN.Abp.Telemetry.SkyWalking@9.1.3
 - pkg:nuget/LINGYUN.Abp.Telemetry.SkyWalking@9.2.0
