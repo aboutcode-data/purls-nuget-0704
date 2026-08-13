@@ -13,6 +13,9 @@
 - pkg:nuget/ITBees.SaldeoIntegration@8.0.32
 - pkg:nuget/ITBees.SaldeoIntegration@8.0.33
 - pkg:nuget/ITBees.SaldeoIntegration@8.0.34
+- pkg:nuget/ITBees.SaldeoIntegration@8.0.36
+- pkg:nuget/ITBees.SaldeoIntegration@8.0.37
+- pkg:nuget/ITBees.SaldeoIntegration@8.0.38
 - pkg:nuget/ITBees.SaldeoIntegration@8.0.6
 - pkg:nuget/ITBees.SaldeoIntegration@8.0.7
 - pkg:nuget/ITBees.SaldeoIntegration@8.0.9
