@@ -1,3 +1,4 @@
+- pkg:nuget/LINGYUN.Abp.WeChat.Official.Handlers@10.4.0
 - pkg:nuget/LINGYUN.Abp.WeChat.Official.Handlers@8.2.1
 - pkg:nuget/LINGYUN.Abp.WeChat.Official.Handlers@8.2.2
 - pkg:nuget/LINGYUN.Abp.WeChat.Official.Handlers@8.3.0
