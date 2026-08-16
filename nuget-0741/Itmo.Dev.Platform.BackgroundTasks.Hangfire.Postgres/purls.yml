@@ -43,3 +43,5 @@
 - pkg:nuget/Itmo.Dev.Platform.BackgroundTasks.Hangfire.Postgres@2.2.282
 - pkg:nuget/Itmo.Dev.Platform.BackgroundTasks.Hangfire.Postgres@2.2.288
 - pkg:nuget/Itmo.Dev.Platform.BackgroundTasks.Hangfire.Postgres@2.2.308
+- pkg:nuget/Itmo.Dev.Platform.BackgroundTasks.Hangfire.Postgres@2.2.466
+- pkg:nuget/Itmo.Dev.Platform.BackgroundTasks.Hangfire.Postgres@2.2.468
