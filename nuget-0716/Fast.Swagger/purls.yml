@@ -61,6 +61,7 @@
 - pkg:nuget/Fast.Swagger@3.5.2
 - pkg:nuget/Fast.Swagger@3.5.28
 - pkg:nuget/Fast.Swagger@3.5.3
+- pkg:nuget/Fast.Swagger@3.5.30
 - pkg:nuget/Fast.Swagger@3.5.4
 - pkg:nuget/Fast.Swagger@3.5.5
 - pkg:nuget/Fast.Swagger@3.5.6
