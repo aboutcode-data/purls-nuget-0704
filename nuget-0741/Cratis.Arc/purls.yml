@@ -33,6 +33,7 @@
 - pkg:nuget/Cratis.Arc@20.8.2
 - pkg:nuget/Cratis.Arc@21.0.2
 - pkg:nuget/Cratis.Arc@21.0.3
+- pkg:nuget/Cratis.Arc@21.14.2
 - pkg:nuget/Cratis.Arc@21.5.0
 - pkg:nuget/Cratis.Arc@21.6.0
 - pkg:nuget/Cratis.Arc@21.8.1
