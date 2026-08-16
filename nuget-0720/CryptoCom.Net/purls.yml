@@ -26,3 +26,5 @@
 - pkg:nuget/CryptoCom.Net@2.8.0
 - pkg:nuget/CryptoCom.Net@3.0.2
 - pkg:nuget/CryptoCom.Net@3.0.3
+- pkg:nuget/CryptoCom.Net@3.11.0
+- pkg:nuget/CryptoCom.Net@4.0.0
