@@ -14,3 +14,4 @@
 - pkg:nuget/Blueberry.Core.NetStandard@20250719.0.2-alpha
 - pkg:nuget/Blueberry.Core.NetStandard@20250719.0.3-alpha
 - pkg:nuget/Blueberry.Core.NetStandard@20250926.0.1-alpha
+- pkg:nuget/Blueberry.Core.NetStandard@20260717.0.1-alpha
