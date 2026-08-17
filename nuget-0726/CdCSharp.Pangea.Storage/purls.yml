@@ -14,3 +14,5 @@
 - pkg:nuget/CdCSharp.Pangea.Storage@1.0.32
 - pkg:nuget/CdCSharp.Pangea.Storage@1.0.33
 - pkg:nuget/CdCSharp.Pangea.Storage@1.0.34
+- pkg:nuget/CdCSharp.Pangea.Storage@1.0.41
+- pkg:nuget/CdCSharp.Pangea.Storage@1.0.42
