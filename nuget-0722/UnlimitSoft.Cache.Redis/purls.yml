@@ -25,3 +25,4 @@
 - pkg:nuget/UnlimitSoft.Cache.Redis@3.4.1.53
 - pkg:nuget/UnlimitSoft.Cache.Redis@3.4.1.55
 - pkg:nuget/UnlimitSoft.Cache.Redis@3.5.0.27
+- pkg:nuget/UnlimitSoft.Cache.Redis@3.5.0.39
