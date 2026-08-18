@@ -339,6 +339,8 @@
 - pkg:nuget/DotNetCore.Objects@19.6.0
 - pkg:nuget/DotNetCore.Objects@19.7.0
 - pkg:nuget/DotNetCore.Objects@19.8.0
+- pkg:nuget/DotNetCore.Objects@20.22.0
+- pkg:nuget/DotNetCore.Objects@20.23.0
 - pkg:nuget/DotNetCore.Objects@3.0.0
 - pkg:nuget/DotNetCore.Objects@5.0.0
 - pkg:nuget/DotNetCore.Objects@5.2.0
