@@ -33,6 +33,7 @@
 - pkg:nuget/CachingFramework.Redis@15.0.1
 - pkg:nuget/CachingFramework.Redis@15.0.2
 - pkg:nuget/CachingFramework.Redis@16.0.0
+- pkg:nuget/CachingFramework.Redis@18.0.0
 - pkg:nuget/CachingFramework.Redis@2.0.0
 - pkg:nuget/CachingFramework.Redis@2.0.0.1
 - pkg:nuget/CachingFramework.Redis@2.0.0.2
