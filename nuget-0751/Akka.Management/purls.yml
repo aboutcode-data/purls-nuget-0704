@@ -53,3 +53,4 @@
 - pkg:nuget/Akka.Management@1.5.5
 - pkg:nuget/Akka.Management@1.5.63
 - pkg:nuget/Akka.Management@1.5.7
+- pkg:nuget/Akka.Management@1.5.70
