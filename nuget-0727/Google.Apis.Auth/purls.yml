@@ -97,6 +97,7 @@
 - pkg:nuget/Google.Apis.Auth@1.7.0-beta
 - pkg:nuget/Google.Apis.Auth@1.70.0
 - pkg:nuget/Google.Apis.Auth@1.71.0
+- pkg:nuget/Google.Apis.Auth@1.76.0
 - pkg:nuget/Google.Apis.Auth@1.8.0-rc
 - pkg:nuget/Google.Apis.Auth@1.8.1
 - pkg:nuget/Google.Apis.Auth@1.8.2
