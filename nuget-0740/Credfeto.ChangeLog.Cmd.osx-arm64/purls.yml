@@ -168,3 +168,6 @@
 - pkg:nuget/Credfeto.ChangeLog.Cmd.osx-arm64@1.10.200.2419-changelogchecke
 - pkg:nuget/Credfeto.ChangeLog.Cmd.osx-arm64@1.10.200.2420-main
 - pkg:nuget/Credfeto.ChangeLog.Cmd.osx-arm64@1.10.200.2439-main
+- pkg:nuget/Credfeto.ChangeLog.Cmd.osx-arm64@1.10.200.2440-main
+- pkg:nuget/Credfeto.ChangeLog.Cmd.osx-arm64@1.10.200.2447-changelog-check
+- pkg:nuget/Credfeto.ChangeLog.Cmd.osx-arm64@1.10.200.2448-main
