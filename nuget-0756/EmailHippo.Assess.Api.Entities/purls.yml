@@ -74,6 +74,7 @@
 - pkg:nuget/EmailHippo.Assess.Api.Entities@1.1.259
 - pkg:nuget/EmailHippo.Assess.Api.Entities@1.1.268
 - pkg:nuget/EmailHippo.Assess.Api.Entities@1.1.280
+- pkg:nuget/EmailHippo.Assess.Api.Entities@1.1.282
 - pkg:nuget/EmailHippo.Assess.Api.Entities@1.1.43
 - pkg:nuget/EmailHippo.Assess.Api.Entities@1.1.45
 - pkg:nuget/EmailHippo.Assess.Api.Entities@1.1.46
