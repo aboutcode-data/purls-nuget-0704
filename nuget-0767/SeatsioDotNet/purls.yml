@@ -36,6 +36,7 @@
 - pkg:nuget/SeatsioDotNet@106.5.0
 - pkg:nuget/SeatsioDotNet@106.6.0
 - pkg:nuget/SeatsioDotNet@106.7.0
+- pkg:nuget/SeatsioDotNet@108.0.0
 - pkg:nuget/SeatsioDotNet@11.0.0
 - pkg:nuget/SeatsioDotNet@12.0.0
 - pkg:nuget/SeatsioDotNet@13.0.0
