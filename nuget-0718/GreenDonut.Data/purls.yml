@@ -282,4 +282,8 @@
 - pkg:nuget/GreenDonut.Data@16.5.0-p.9
 - pkg:nuget/GreenDonut.Data@16.6.0-p.11
 - pkg:nuget/GreenDonut.Data@16.6.0-p.14
+- pkg:nuget/GreenDonut.Data@16.6.1-p.1
+- pkg:nuget/GreenDonut.Data@16.6.1-p.2
 - pkg:nuget/GreenDonut.Data@16.6.1-p.3
+- pkg:nuget/GreenDonut.Data@16.6.2-p.1
+- pkg:nuget/GreenDonut.Data@16.6.2-p.4
