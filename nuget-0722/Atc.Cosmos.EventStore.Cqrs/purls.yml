@@ -16,3 +16,4 @@
 - pkg:nuget/Atc.Cosmos.EventStore.Cqrs@1.7.23
 - pkg:nuget/Atc.Cosmos.EventStore.Cqrs@1.8.3
 - pkg:nuget/Atc.Cosmos.EventStore.Cqrs@1.9.17
+- pkg:nuget/Atc.Cosmos.EventStore.Cqrs@2.0.1
