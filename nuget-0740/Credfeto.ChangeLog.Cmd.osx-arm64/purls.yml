@@ -172,3 +172,6 @@
 - pkg:nuget/Credfeto.ChangeLog.Cmd.osx-arm64@1.10.200.2447-changelog-check
 - pkg:nuget/Credfeto.ChangeLog.Cmd.osx-arm64@1.10.200.2448-main
 - pkg:nuget/Credfeto.ChangeLog.Cmd.osx-arm64@1.10.202.2486-main
+- pkg:nuget/Credfeto.ChangeLog.Cmd.osx-arm64@1.10.202.2493-remove-hardcode
+- pkg:nuget/Credfeto.ChangeLog.Cmd.osx-arm64@1.10.202.2494-remove-hardcode
+- pkg:nuget/Credfeto.ChangeLog.Cmd.osx-arm64@1.10.202.2495-remove-hardcode
