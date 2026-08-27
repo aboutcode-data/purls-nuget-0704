@@ -23,6 +23,7 @@
 - pkg:nuget/Blackbird.Applications.Sdk.Common@2.13.0
 - pkg:nuget/Blackbird.Applications.Sdk.Common@2.13.0-rc.9300
 - pkg:nuget/Blackbird.Applications.Sdk.Common@2.13.0-rc.9476
+- pkg:nuget/Blackbird.Applications.Sdk.Common@2.15.0-rc.13017
 - pkg:nuget/Blackbird.Applications.Sdk.Common@2.2.0-alpha1
 - pkg:nuget/Blackbird.Applications.Sdk.Common@2.2.0-alpha2
 - pkg:nuget/Blackbird.Applications.Sdk.Common@2.2.0-alpha3
