@@ -5,4 +5,5 @@
 - pkg:nuget/Papaltine.FluxSDK@0.15.0-beta
 - pkg:nuget/Papaltine.FluxSDK@0.16.0-beta
 - pkg:nuget/Papaltine.FluxSDK@0.17.0-beta
+- pkg:nuget/Papaltine.FluxSDK@1.10.0-rc.1
 - pkg:nuget/Papaltine.FluxSDK@1.9.0-beta.2
