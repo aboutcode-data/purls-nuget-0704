@@ -66,6 +66,7 @@
 - pkg:nuget/Indice.Scalefin.PothenModule@2.30.0
 - pkg:nuget/Indice.Scalefin.PothenModule@2.32.0
 - pkg:nuget/Indice.Scalefin.PothenModule@2.36.0
+- pkg:nuget/Indice.Scalefin.PothenModule@2.40.0-beta-02
 - pkg:nuget/Indice.Scalefin.PothenModule@2.9.0
 - pkg:nuget/Indice.Scalefin.PothenModule@2.9.0-beta-03
 - pkg:nuget/Indice.Scalefin.PothenModule@2.9.0-beta01
