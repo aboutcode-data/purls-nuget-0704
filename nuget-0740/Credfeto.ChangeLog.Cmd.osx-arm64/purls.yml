@@ -196,3 +196,6 @@
 - pkg:nuget/Credfeto.ChangeLog.Cmd.osx-arm64@1.10.203.2515-remove-analyzer
 - pkg:nuget/Credfeto.ChangeLog.Cmd.osx-arm64@1.10.203.2516-remove-analyzer
 - pkg:nuget/Credfeto.ChangeLog.Cmd.osx-arm64@1.10.203.2526-localise-unrele
+- pkg:nuget/Credfeto.ChangeLog.Cmd.osx-arm64@1.10.203.2532-localise-unrele
+- pkg:nuget/Credfeto.ChangeLog.Cmd.osx-arm64@1.10.203.2533-localise-unrele
+- pkg:nuget/Credfeto.ChangeLog.Cmd.osx-arm64@1.10.203.2534-localise-unrele
