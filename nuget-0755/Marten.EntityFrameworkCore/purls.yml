@@ -10,6 +10,7 @@
 - pkg:nuget/Marten.EntityFrameworkCore@9.22.1
 - pkg:nuget/Marten.EntityFrameworkCore@9.23.0
 - pkg:nuget/Marten.EntityFrameworkCore@9.25.0
+- pkg:nuget/Marten.EntityFrameworkCore@9.30.0
 - pkg:nuget/Marten.EntityFrameworkCore@9.4.0
 - pkg:nuget/Marten.EntityFrameworkCore@9.5.0
 - pkg:nuget/Marten.EntityFrameworkCore@9.6.0
