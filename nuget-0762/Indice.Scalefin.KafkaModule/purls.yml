@@ -67,6 +67,7 @@
 - pkg:nuget/Indice.Scalefin.KafkaModule@2.4.7
 - pkg:nuget/Indice.Scalefin.KafkaModule@2.4.8
 - pkg:nuget/Indice.Scalefin.KafkaModule@2.4.9
+- pkg:nuget/Indice.Scalefin.KafkaModule@2.40.0-beta-02
 - pkg:nuget/Indice.Scalefin.KafkaModule@2.5.0
 - pkg:nuget/Indice.Scalefin.KafkaModule@2.5.0-beta-01
 - pkg:nuget/Indice.Scalefin.KafkaModule@2.6.0
