@@ -21,6 +21,8 @@
 - pkg:nuget/CDCD.Charging.Serilog@0.12.171
 - pkg:nuget/CDCD.Charging.Serilog@0.12.182
 - pkg:nuget/CDCD.Charging.Serilog@0.12.184
+- pkg:nuget/CDCD.Charging.Serilog@0.12.195
+- pkg:nuget/CDCD.Charging.Serilog@0.12.200
 - pkg:nuget/CDCD.Charging.Serilog@0.12.30
 - pkg:nuget/CDCD.Charging.Serilog@0.12.35
 - pkg:nuget/CDCD.Charging.Serilog@0.12.36
@@ -49,6 +51,8 @@
 - pkg:nuget/CDCD.Charging.Serilog@0.12.85
 - pkg:nuget/CDCD.Charging.Serilog@0.12.97
 - pkg:nuget/CDCD.Charging.Serilog@0.12.98
+- pkg:nuget/CDCD.Charging.Serilog@0.13.0
+- pkg:nuget/CDCD.Charging.Serilog@0.13.1
 - pkg:nuget/CDCD.Charging.Serilog@1.0.1
 - pkg:nuget/CDCD.Charging.Serilog@1.0.2
 - pkg:nuget/CDCD.Charging.Serilog@2.0.0
