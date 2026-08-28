@@ -38,6 +38,7 @@
 - pkg:nuget/Microsoft.Orleans.Core@1.5.7
 - pkg:nuget/Microsoft.Orleans.Core@1.5.8
 - pkg:nuget/Microsoft.Orleans.Core@1.5.9
+- pkg:nuget/Microsoft.Orleans.Core@10.3.0
 - pkg:nuget/Microsoft.Orleans.Core@2.0.0
 - pkg:nuget/Microsoft.Orleans.Core@2.0.0-beta1
 - pkg:nuget/Microsoft.Orleans.Core@2.0.0-beta2
