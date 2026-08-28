@@ -3,6 +3,7 @@
 - pkg:nuget/Luck.AutoDependencyInjection@2.0.1
 - pkg:nuget/Luck.AutoDependencyInjection@2.0.10
 - pkg:nuget/Luck.AutoDependencyInjection@2.0.16
+- pkg:nuget/Luck.AutoDependencyInjection@2.0.17
 - pkg:nuget/Luck.AutoDependencyInjection@2.0.2
 - pkg:nuget/Luck.AutoDependencyInjection@2.0.3
 - pkg:nuget/Luck.AutoDependencyInjection@2.0.4
