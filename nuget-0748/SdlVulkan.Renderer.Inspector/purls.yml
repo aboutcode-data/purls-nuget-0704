@@ -8,4 +8,5 @@
 - pkg:nuget/SdlVulkan.Renderer.Inspector@7.1.1861%2Bf32dea773acfe97b35ff264df5aa0291d289b225
 - pkg:nuget/SdlVulkan.Renderer.Inspector@7.10.2121%2B689e40df8aaabe924b95bee308724c67837a96ea
 - pkg:nuget/SdlVulkan.Renderer.Inspector@7.26.2701%2B47047f655cb0e1bdf6ef4f20490be68a8b79f132
+- pkg:nuget/SdlVulkan.Renderer.Inspector@7.29.2781%2B70fff4820aaff533b9af76b316f286b4264975fc
 - pkg:nuget/SdlVulkan.Renderer.Inspector@7.9.2051%2Bdb197af9252e0372c3fb8c3b5351b91b2d45f146
