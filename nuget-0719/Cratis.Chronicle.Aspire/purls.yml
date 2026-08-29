@@ -36,4 +36,6 @@
 - pkg:nuget/Cratis.Chronicle.Aspire@16.34.1
 - pkg:nuget/Cratis.Chronicle.Aspire@16.36.2
 - pkg:nuget/Cratis.Chronicle.Aspire@16.37.2
+- pkg:nuget/Cratis.Chronicle.Aspire@16.38.5
+- pkg:nuget/Cratis.Chronicle.Aspire@16.38.6
 - pkg:nuget/Cratis.Chronicle.Aspire@16.6.1
