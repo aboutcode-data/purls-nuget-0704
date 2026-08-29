@@ -45,3 +45,4 @@
 - pkg:nuget/XiHan.Framework.Script@2.3.5
 - pkg:nuget/XiHan.Framework.Script@3.10.0
 - pkg:nuget/XiHan.Framework.Script@3.11.1
+- pkg:nuget/XiHan.Framework.Script@4.0.0
