@@ -9,6 +9,7 @@
 - pkg:nuget/cloudscribe.Core.IdentityServer.NoDb@1.1.0-rc20170401
 - pkg:nuget/cloudscribe.Core.IdentityServer.NoDb@1.1.0-rc20170509
 - pkg:nuget/cloudscribe.Core.IdentityServer.NoDb@1.1.1
+- pkg:nuget/cloudscribe.Core.IdentityServer.NoDb@10.1.0
 - pkg:nuget/cloudscribe.Core.IdentityServer.NoDb@2.0.0-preview20170821
 - pkg:nuget/cloudscribe.Core.IdentityServer.NoDb@2.0.0-preview20171002
 - pkg:nuget/cloudscribe.Core.IdentityServer.NoDb@2.1.0

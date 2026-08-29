@@ -9,6 +9,7 @@
 - pkg:nuget/cloudscribe.Core.Storage.EFCore.MySql@1.1.0-rc20170527
 - pkg:nuget/cloudscribe.Core.Storage.EFCore.MySql@1.1.0-rc20170627
 - pkg:nuget/cloudscribe.Core.Storage.EFCore.MySql@1.1.1
+- pkg:nuget/cloudscribe.Core.Storage.EFCore.MySql@10.1.0
 - pkg:nuget/cloudscribe.Core.Storage.EFCore.MySql@2.0.0-preview20170725
 - pkg:nuget/cloudscribe.Core.Storage.EFCore.MySql@2.0.0-preview20170727
 - pkg:nuget/cloudscribe.Core.Storage.EFCore.MySql@2.0.0-preview20170728
