@@ -22,6 +22,7 @@
 - pkg:nuget/cloudscribe.Web.StaticFiles@1.1.7
 - pkg:nuget/cloudscribe.Web.StaticFiles@1.1.8
 - pkg:nuget/cloudscribe.Web.StaticFiles@1.1.9
+- pkg:nuget/cloudscribe.Web.StaticFiles@10.1.0
 - pkg:nuget/cloudscribe.Web.StaticFiles@3.0.0
 - pkg:nuget/cloudscribe.Web.StaticFiles@3.0.0-preview20190901
 - pkg:nuget/cloudscribe.Web.StaticFiles@3.0.1
