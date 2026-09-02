@@ -1208,3 +1208,4 @@
 - pkg:nuget/HotChocolate.Data.MongoDb@16.6.2-p.4
 - pkg:nuget/HotChocolate.Data.MongoDb@16.6.2-p.7
 - pkg:nuget/HotChocolate.Data.MongoDb@16.6.2-p.8
+- pkg:nuget/HotChocolate.Data.MongoDb@16.6.3
