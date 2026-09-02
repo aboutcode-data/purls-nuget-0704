@@ -454,6 +454,7 @@
 - pkg:nuget/GemBox.Bundle@2026.8.111
 - pkg:nuget/GemBox.Bundle@2026.8.129
 - pkg:nuget/GemBox.Bundle@2026.8.130
+- pkg:nuget/GemBox.Bundle@2026.9.103
 - pkg:nuget/GemBox.Bundle@33.0.0.1009
 - pkg:nuget/GemBox.Bundle@33.0.0.1011
 - pkg:nuget/GemBox.Bundle@33.0.0.1012
