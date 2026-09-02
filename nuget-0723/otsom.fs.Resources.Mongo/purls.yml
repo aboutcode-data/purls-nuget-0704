@@ -14,5 +14,6 @@
 - pkg:nuget/otsom.fs.Resources.Mongo@0.0.59
 - pkg:nuget/otsom.fs.Resources.Mongo@0.0.6
 - pkg:nuget/otsom.fs.Resources.Mongo@0.0.7
+- pkg:nuget/otsom.fs.Resources.Mongo@0.1.10
 - pkg:nuget/otsom.fs.Resources.Mongo@0.1.8
 - pkg:nuget/otsom.fs.Resources.Mongo@0.1.9
