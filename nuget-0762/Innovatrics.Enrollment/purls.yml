@@ -66,6 +66,7 @@
 - pkg:nuget/Innovatrics.Enrollment@3.3.5
 - pkg:nuget/Innovatrics.Enrollment@3.3.6
 - pkg:nuget/Innovatrics.Enrollment@3.4.0
+- pkg:nuget/Innovatrics.Enrollment@30.2.0
 - pkg:nuget/Innovatrics.Enrollment@4.0.0
 - pkg:nuget/Innovatrics.Enrollment@5.0.0
 - pkg:nuget/Innovatrics.Enrollment@6.0.0
