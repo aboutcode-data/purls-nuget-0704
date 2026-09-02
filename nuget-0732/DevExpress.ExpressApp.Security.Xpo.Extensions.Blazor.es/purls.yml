@@ -1,2 +1,5 @@
 - pkg:nuget/DevExpress.ExpressApp.Security.Xpo.Extensions.Blazor.es@25.1.7
 - pkg:nuget/DevExpress.ExpressApp.Security.Xpo.Extensions.Blazor.es@25.2.5
+- pkg:nuget/DevExpress.ExpressApp.Security.Xpo.Extensions.Blazor.es@25.2.8
+- pkg:nuget/DevExpress.ExpressApp.Security.Xpo.Extensions.Blazor.es@25.2.9
+- pkg:nuget/DevExpress.ExpressApp.Security.Xpo.Extensions.Blazor.es@26.1.5-pre-26235
