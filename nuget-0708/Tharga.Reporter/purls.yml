@@ -18,3 +18,5 @@
 - pkg:nuget/Tharga.Reporter@1.2.8
 - pkg:nuget/Tharga.Reporter@1.2.9
 - pkg:nuget/Tharga.Reporter@2.3.7
+- pkg:nuget/Tharga.Reporter@2.4.2
+- pkg:nuget/Tharga.Reporter@2.4.3
