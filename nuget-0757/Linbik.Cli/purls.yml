@@ -1,1 +1,3 @@
 - pkg:nuget/Linbik.Cli@1.2.0-preview.1
+- pkg:nuget/Linbik.Cli@1.2.1
+- pkg:nuget/Linbik.Cli@1.2.3
