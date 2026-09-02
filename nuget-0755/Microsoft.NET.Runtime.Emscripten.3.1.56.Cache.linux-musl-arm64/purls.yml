@@ -9,6 +9,7 @@
 - pkg:nuget/Microsoft.NET.Runtime.Emscripten.3.1.56.Cache.linux-musl-arm64@10.0.0-rc.1.25451.107
 - pkg:nuget/Microsoft.NET.Runtime.Emscripten.3.1.56.Cache.linux-musl-arm64@10.0.0-rc.2.25502.107
 - pkg:nuget/Microsoft.NET.Runtime.Emscripten.3.1.56.Cache.linux-musl-arm64@10.0.1
+- pkg:nuget/Microsoft.NET.Runtime.Emscripten.3.1.56.Cache.linux-musl-arm64@10.0.11
 - pkg:nuget/Microsoft.NET.Runtime.Emscripten.3.1.56.Cache.linux-musl-arm64@10.0.3
 - pkg:nuget/Microsoft.NET.Runtime.Emscripten.3.1.56.Cache.linux-musl-arm64@10.0.7
 - pkg:nuget/Microsoft.NET.Runtime.Emscripten.3.1.56.Cache.linux-musl-arm64@10.0.8
@@ -24,6 +25,7 @@
 - pkg:nuget/Microsoft.NET.Runtime.Emscripten.3.1.56.Cache.linux-musl-arm64@9.0.10
 - pkg:nuget/Microsoft.NET.Runtime.Emscripten.3.1.56.Cache.linux-musl-arm64@9.0.16
 - pkg:nuget/Microsoft.NET.Runtime.Emscripten.3.1.56.Cache.linux-musl-arm64@9.0.17
+- pkg:nuget/Microsoft.NET.Runtime.Emscripten.3.1.56.Cache.linux-musl-arm64@9.0.19
 - pkg:nuget/Microsoft.NET.Runtime.Emscripten.3.1.56.Cache.linux-musl-arm64@9.0.2
 - pkg:nuget/Microsoft.NET.Runtime.Emscripten.3.1.56.Cache.linux-musl-arm64@9.0.3
 - pkg:nuget/Microsoft.NET.Runtime.Emscripten.3.1.56.Cache.linux-musl-arm64@9.0.4
