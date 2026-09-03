@@ -83,3 +83,5 @@
 - pkg:nuget/Itmo.Dev.Platform.Testing@1.2.243
 - pkg:nuget/Itmo.Dev.Platform.Testing@1.2.275
 - pkg:nuget/Itmo.Dev.Platform.Testing@1.2.308
+- pkg:nuget/Itmo.Dev.Platform.Testing@1.2.466
+- pkg:nuget/Itmo.Dev.Platform.Testing@1.2.468
