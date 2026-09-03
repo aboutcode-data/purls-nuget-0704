@@ -1,2 +1,3 @@
 - pkg:nuget/ByteAid.Tools.Az.Management@1.0.0
+- pkg:nuget/ByteAid.Tools.Az.Management@1.0.0-alpha.14
 - pkg:nuget/ByteAid.Tools.Az.Management@1.0.0-alpha.7
