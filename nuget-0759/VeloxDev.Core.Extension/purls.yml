@@ -9,3 +9,5 @@
 - pkg:nuget/VeloxDev.Core.Extension@4.0.2
 - pkg:nuget/VeloxDev.Core.Extension@4.0.3
 - pkg:nuget/VeloxDev.Core.Extension@4.3.0
+- pkg:nuget/VeloxDev.Core.Extension@5.2.0
+- pkg:nuget/VeloxDev.Core.Extension@5.4.0-preview1
