@@ -1,5 +1,9 @@
+- pkg:nuget/Excalibur.A3.Governance.Abstractions@10.0.0-alpha.9
 - pkg:nuget/Excalibur.A3.Governance.Abstractions@3.0.0-alpha.162
 - pkg:nuget/Excalibur.A3.Governance.Abstractions@3.0.0-alpha.181
+- pkg:nuget/Excalibur.A3.Governance.Abstractions@3.0.0-alpha.197
+- pkg:nuget/Excalibur.A3.Governance.Abstractions@3.0.0-alpha.214
+- pkg:nuget/Excalibur.A3.Governance.Abstractions@3.0.0-alpha.216
 - pkg:nuget/Excalibur.A3.Governance.Abstractions@3.0.0-alpha.74
 - pkg:nuget/Excalibur.A3.Governance.Abstractions@3.0.0-alpha.75
 - pkg:nuget/Excalibur.A3.Governance.Abstractions@3.0.0-alpha.76
