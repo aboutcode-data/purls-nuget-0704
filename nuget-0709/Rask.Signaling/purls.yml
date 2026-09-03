@@ -19,6 +19,7 @@
 - pkg:nuget/Rask.Signaling@0.20.1-alpha.0.207
 - pkg:nuget/Rask.Signaling@0.20.1-alpha.0.208
 - pkg:nuget/Rask.Signaling@0.20.1-alpha.0.209
+- pkg:nuget/Rask.Signaling@0.20.1-alpha.0.212
 - pkg:nuget/Rask.Signaling@0.20.1-alpha.0.52
 - pkg:nuget/Rask.Signaling@0.20.1-alpha.0.68
 - pkg:nuget/Rask.Signaling@0.20.1-alpha.0.74
