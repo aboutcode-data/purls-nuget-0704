@@ -17,3 +17,4 @@
 - pkg:nuget/Usa.Smart.Navigation.Extensions.DependencyInjection@2.6.3
 - pkg:nuget/Usa.Smart.Navigation.Extensions.DependencyInjection@2.7.0
 - pkg:nuget/Usa.Smart.Navigation.Extensions.DependencyInjection@2.9.0
+- pkg:nuget/Usa.Smart.Navigation.Extensions.DependencyInjection@3.6.0
