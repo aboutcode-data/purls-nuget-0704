@@ -128,5 +128,6 @@
 - pkg:nuget/Eternet.Mediator.Generator@3.2.13
 - pkg:nuget/Eternet.Mediator.Generator@3.2.14
 - pkg:nuget/Eternet.Mediator.Generator@3.3.2
+- pkg:nuget/Eternet.Mediator.Generator@3.4.14
 - pkg:nuget/Eternet.Mediator.Generator@3.4.5
 - pkg:nuget/Eternet.Mediator.Generator@3.4.6
