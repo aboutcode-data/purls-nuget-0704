@@ -91,5 +91,6 @@
 - pkg:nuget/ktsu.TextFilter@1.5.4
 - pkg:nuget/ktsu.TextFilter@1.5.41
 - pkg:nuget/ktsu.TextFilter@1.5.42
+- pkg:nuget/ktsu.TextFilter@1.5.43
 - pkg:nuget/ktsu.TextFilter@1.5.5-pre.3
 - pkg:nuget/ktsu.TextFilter@1.5.7-pre.6
