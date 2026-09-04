@@ -58,3 +58,4 @@
 - pkg:nuget/SkiaSharp.Views.Blazor@4.148.0-rc.1.2
 - pkg:nuget/SkiaSharp.Views.Blazor@4.150.1
 - pkg:nuget/SkiaSharp.Views.Blazor@4.150.2
+- pkg:nuget/SkiaSharp.Views.Blazor@4.151.2
