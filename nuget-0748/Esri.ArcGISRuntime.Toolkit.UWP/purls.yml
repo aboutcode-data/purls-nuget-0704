@@ -10,3 +10,4 @@
 - pkg:nuget/Esri.ArcGISRuntime.Toolkit.UWP@200.6.0
 - pkg:nuget/Esri.ArcGISRuntime.Toolkit.UWP@200.7.0
 - pkg:nuget/Esri.ArcGISRuntime.Toolkit.UWP@200.8.0
+- pkg:nuget/Esri.ArcGISRuntime.Toolkit.UWP@200.8.3
