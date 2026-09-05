@@ -1,5 +1,6 @@
 - pkg:nuget/Chd.Library.Kafka@1.2.7
 - pkg:nuget/Chd.Library.Kafka@1.2.8
+- pkg:nuget/Chd.Library.Kafka@10.0.6
 - pkg:nuget/Chd.Library.Kafka@7.2.8
 - pkg:nuget/Chd.Library.Kafka@8.0.0
 - pkg:nuget/Chd.Library.Kafka@8.0.1
