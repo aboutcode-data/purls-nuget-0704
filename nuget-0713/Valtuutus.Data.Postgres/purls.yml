@@ -9,3 +9,4 @@
 - pkg:nuget/Valtuutus.Data.Postgres@0.7.2-beta
 - pkg:nuget/Valtuutus.Data.Postgres@0.7.3-beta
 - pkg:nuget/Valtuutus.Data.Postgres@0.7.3.1-beta
+- pkg:nuget/Valtuutus.Data.Postgres@1.2.0
