@@ -8,6 +8,7 @@
 - pkg:nuget/Soenneker.Quark.Gen.Tailwind.Manifest.Suite@4.0.178
 - pkg:nuget/Soenneker.Quark.Gen.Tailwind.Manifest.Suite@4.0.180
 - pkg:nuget/Soenneker.Quark.Gen.Tailwind.Manifest.Suite@4.0.188
+- pkg:nuget/Soenneker.Quark.Gen.Tailwind.Manifest.Suite@4.0.193
 - pkg:nuget/Soenneker.Quark.Gen.Tailwind.Manifest.Suite@4.0.24
 - pkg:nuget/Soenneker.Quark.Gen.Tailwind.Manifest.Suite@4.0.30
 - pkg:nuget/Soenneker.Quark.Gen.Tailwind.Manifest.Suite@4.0.44
