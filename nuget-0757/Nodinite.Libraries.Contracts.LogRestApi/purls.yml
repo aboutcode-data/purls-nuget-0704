@@ -2,3 +2,4 @@
 - pkg:nuget/Nodinite.Libraries.Contracts.LogRestApi@7.5.25
 - pkg:nuget/Nodinite.Libraries.Contracts.LogRestApi@7.5.38
 - pkg:nuget/Nodinite.Libraries.Contracts.LogRestApi@7.5.42
+- pkg:nuget/Nodinite.Libraries.Contracts.LogRestApi@7.9.0
