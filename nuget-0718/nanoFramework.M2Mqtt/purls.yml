@@ -194,6 +194,7 @@
 - pkg:nuget/nanoFramework.M2Mqtt@5.1.210
 - pkg:nuget/nanoFramework.M2Mqtt@5.1.215
 - pkg:nuget/nanoFramework.M2Mqtt@5.1.22
+- pkg:nuget/nanoFramework.M2Mqtt@5.1.223
 - pkg:nuget/nanoFramework.M2Mqtt@5.1.25
 - pkg:nuget/nanoFramework.M2Mqtt@5.1.27
 - pkg:nuget/nanoFramework.M2Mqtt@5.1.34
