@@ -56,3 +56,6 @@
 - pkg:nuget/Laerdal.Dfu.Bindings.iOS@4.16.0.44003
 - pkg:nuget/Laerdal.Dfu.Bindings.iOS@4.16.0.44003-ios-sim-arm64
 - pkg:nuget/Laerdal.Dfu.Bindings.iOS@4.16.0.44003-ios-sim-x64
+- pkg:nuget/Laerdal.Dfu.Bindings.iOS@4.17.0.44007
+- pkg:nuget/Laerdal.Dfu.Bindings.iOS@4.17.0.44007-ios-sim-arm64
+- pkg:nuget/Laerdal.Dfu.Bindings.iOS@4.17.0.44007-ios-sim-x64
