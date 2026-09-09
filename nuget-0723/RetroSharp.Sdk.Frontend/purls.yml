@@ -57,3 +57,5 @@
 - pkg:nuget/RetroSharp.Sdk.Frontend@0.0.524
 - pkg:nuget/RetroSharp.Sdk.Frontend@0.0.536
 - pkg:nuget/RetroSharp.Sdk.Frontend@0.0.555
+- pkg:nuget/RetroSharp.Sdk.Frontend@0.0.566
+- pkg:nuget/RetroSharp.Sdk.Frontend@0.0.567
