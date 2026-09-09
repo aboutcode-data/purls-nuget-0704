@@ -265,6 +265,7 @@
 - pkg:nuget/clio@8.1.0.114
 - pkg:nuget/clio@8.1.0.117
 - pkg:nuget/clio@8.1.0.12
+- pkg:nuget/clio@8.1.0.122
 - pkg:nuget/clio@8.1.0.17
 - pkg:nuget/clio@8.1.0.24
 - pkg:nuget/clio@8.1.0.27
