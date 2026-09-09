@@ -43,6 +43,7 @@
 - pkg:nuget/Microsoft.AspNetCore.Cryptography.KeyDerivation@2.3.0
 - pkg:nuget/Microsoft.AspNetCore.Cryptography.KeyDerivation@2.3.10
 - pkg:nuget/Microsoft.AspNetCore.Cryptography.KeyDerivation@2.3.12
+- pkg:nuget/Microsoft.AspNetCore.Cryptography.KeyDerivation@2.3.13
 - pkg:nuget/Microsoft.AspNetCore.Cryptography.KeyDerivation@3.0.0
 - pkg:nuget/Microsoft.AspNetCore.Cryptography.KeyDerivation@3.0.0-preview7.19365.7
 - pkg:nuget/Microsoft.AspNetCore.Cryptography.KeyDerivation@3.0.0-preview8.19405.7
