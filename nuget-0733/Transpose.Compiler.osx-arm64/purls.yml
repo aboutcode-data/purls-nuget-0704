@@ -14,3 +14,4 @@
 - pkg:nuget/Transpose.Compiler.osx-arm64@26.8.4567
 - pkg:nuget/Transpose.Compiler.osx-arm64@26.8.4640
 - pkg:nuget/Transpose.Compiler.osx-arm64@26.8.4686
+- pkg:nuget/Transpose.Compiler.osx-arm64@26.9.4868
