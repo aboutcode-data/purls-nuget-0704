@@ -70,6 +70,7 @@
 - pkg:nuget/HuaweiCloud.SDK.Ram@3.1.201
 - pkg:nuget/HuaweiCloud.SDK.Ram@3.1.207
 - pkg:nuget/HuaweiCloud.SDK.Ram@3.1.208
+- pkg:nuget/HuaweiCloud.SDK.Ram@3.1.210
 - pkg:nuget/HuaweiCloud.SDK.Ram@3.1.95
 - pkg:nuget/HuaweiCloud.SDK.Ram@3.1.96
 - pkg:nuget/HuaweiCloud.SDK.Ram@3.1.97
