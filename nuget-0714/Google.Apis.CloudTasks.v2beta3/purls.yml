@@ -122,3 +122,4 @@
 - pkg:nuget/Google.Apis.CloudTasks.v2beta3@1.68.0.3602
 - pkg:nuget/Google.Apis.CloudTasks.v2beta3@1.69.0.3667
 - pkg:nuget/Google.Apis.CloudTasks.v2beta3@1.69.0.3753
+- pkg:nuget/Google.Apis.CloudTasks.v2beta3@1.76.0.4260
