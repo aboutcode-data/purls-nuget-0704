@@ -551,6 +551,15 @@
 - pkg:nuget/Rnwood.Smtp4dev@3.16.0-ci20260730101%2Bpr2097
 - pkg:nuget/Rnwood.Smtp4dev@3.16.0-ci20260830100%2Bpr2098
 - pkg:nuget/Rnwood.Smtp4dev@3.16.0-ci20260830101%2Bpr2098
+- pkg:nuget/Rnwood.Smtp4dev@3.16.0-ci20260911123%2Bpr2103
+- pkg:nuget/Rnwood.Smtp4dev@3.16.0-ci20260911127
+- pkg:nuget/Rnwood.Smtp4dev@3.16.0-ci20260911137
+- pkg:nuget/Rnwood.Smtp4dev@3.16.0-ci20260911138%2Bpr2111
+- pkg:nuget/Rnwood.Smtp4dev@3.16.0-ci20260911139%2Bpr2112
+- pkg:nuget/Rnwood.Smtp4dev@3.16.0-ci20260911141%2Bpr2099
+- pkg:nuget/Rnwood.Smtp4dev@3.16.0-ci20260911142%2Bpr2097
+- pkg:nuget/Rnwood.Smtp4dev@3.16.0-ci20260911143%2Bpr2100
+- pkg:nuget/Rnwood.Smtp4dev@3.16.0-ci20260911145%2Bpr1467
 - pkg:nuget/Rnwood.Smtp4dev@3.2.0-ci20220513121
 - pkg:nuget/Rnwood.Smtp4dev@3.2.0-ci20220514101
 - pkg:nuget/Rnwood.Smtp4dev@3.2.0-ci20220514116
