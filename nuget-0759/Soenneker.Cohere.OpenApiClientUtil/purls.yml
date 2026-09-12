@@ -1,6 +1,7 @@
 - pkg:nuget/Soenneker.Cohere.OpenApiClientUtil@4.0.100
 - pkg:nuget/Soenneker.Cohere.OpenApiClientUtil@4.0.108
 - pkg:nuget/Soenneker.Cohere.OpenApiClientUtil@4.0.124
+- pkg:nuget/Soenneker.Cohere.OpenApiClientUtil@4.0.155
 - pkg:nuget/Soenneker.Cohere.OpenApiClientUtil@4.0.31
 - pkg:nuget/Soenneker.Cohere.OpenApiClientUtil@4.0.32
 - pkg:nuget/Soenneker.Cohere.OpenApiClientUtil@4.0.37
