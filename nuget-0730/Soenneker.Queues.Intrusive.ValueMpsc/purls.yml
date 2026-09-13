@@ -4,4 +4,5 @@
 - pkg:nuget/Soenneker.Queues.Intrusive.ValueMpsc@4.0.18
 - pkg:nuget/Soenneker.Queues.Intrusive.ValueMpsc@4.0.22
 - pkg:nuget/Soenneker.Queues.Intrusive.ValueMpsc@4.0.25
+- pkg:nuget/Soenneker.Queues.Intrusive.ValueMpsc@4.0.39
 - pkg:nuget/Soenneker.Queues.Intrusive.ValueMpsc@4.0.7
