@@ -28,3 +28,4 @@
 - pkg:nuget/Tortuga.Chain.MySql@5.3.0
 - pkg:nuget/Tortuga.Chain.MySql@5.4.0
 - pkg:nuget/Tortuga.Chain.MySql@5.4.5
+- pkg:nuget/Tortuga.Chain.MySql@6.1.0
