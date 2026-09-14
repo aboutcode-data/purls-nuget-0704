@@ -23,6 +23,7 @@
 - pkg:nuget/GoCardless@1.1.7
 - pkg:nuget/GoCardless@1.1.8
 - pkg:nuget/GoCardless@1.1.9
+- pkg:nuget/GoCardless@10.0.3
 - pkg:nuget/GoCardless@2.0.0
 - pkg:nuget/GoCardless@2.0.1
 - pkg:nuget/GoCardless@2.0.2
