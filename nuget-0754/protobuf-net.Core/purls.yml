@@ -52,3 +52,4 @@
 - pkg:nuget/protobuf-net.Core@3.2.8
 - pkg:nuget/protobuf-net.Core@3.3.0-g6785ecbb35
 - pkg:nuget/protobuf-net.Core@3.4.19
+- pkg:nuget/protobuf-net.Core@3.4.29
