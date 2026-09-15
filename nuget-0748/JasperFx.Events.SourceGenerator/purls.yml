@@ -17,5 +17,6 @@
 - pkg:nuget/JasperFx.Events.SourceGenerator@2.47.0
 - pkg:nuget/JasperFx.Events.SourceGenerator@2.66.1
 - pkg:nuget/JasperFx.Events.SourceGenerator@2.68.0
+- pkg:nuget/JasperFx.Events.SourceGenerator@2.71.1
 - pkg:nuget/JasperFx.Events.SourceGenerator@2.9.3
 - pkg:nuget/JasperFx.Events.SourceGenerator@2.9.9
