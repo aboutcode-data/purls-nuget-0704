@@ -205,3 +205,5 @@
 - pkg:nuget/Credfeto.ChangeLog.Cmd.osx-arm64@1.10.204.2572-main
 - pkg:nuget/Credfeto.ChangeLog.Cmd.osx-arm64@1.10.205.2578
 - pkg:nuget/Credfeto.ChangeLog.Cmd.osx-arm64@1.10.206.2600-update-mezianto
+- pkg:nuget/Credfeto.ChangeLog.Cmd.osx-arm64@1.10.206.2604-update-mezianto
+- pkg:nuget/Credfeto.ChangeLog.Cmd.osx-arm64@1.10.206.2607-main
