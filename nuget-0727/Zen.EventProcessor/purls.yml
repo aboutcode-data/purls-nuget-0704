@@ -29,3 +29,4 @@
 - pkg:nuget/Zen.EventProcessor@7.0.74
 - pkg:nuget/Zen.EventProcessor@7.1.74
 - pkg:nuget/Zen.EventProcessor@8.1.74
+- pkg:nuget/Zen.EventProcessor@8.2.0
