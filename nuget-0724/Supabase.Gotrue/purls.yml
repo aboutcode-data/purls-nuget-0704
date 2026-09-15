@@ -10,3 +10,4 @@
 - pkg:nuget/Supabase.Gotrue@6.0.2
 - pkg:nuget/Supabase.Gotrue@6.0.3
 - pkg:nuget/Supabase.Gotrue@6.3.2
+- pkg:nuget/Supabase.Gotrue@8.1.1
