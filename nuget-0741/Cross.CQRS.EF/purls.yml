@@ -30,7 +30,9 @@
 - pkg:nuget/Cross.CQRS.EF@8.5.0-preview.22
 - pkg:nuget/Cross.CQRS.EF@8.5.0-preview.8
 - pkg:nuget/Cross.CQRS.EF@8.5.0-preview.9
+- pkg:nuget/Cross.CQRS.EF@9.0.0-dev.3
 - pkg:nuget/Cross.CQRS.EF@9.0.0-preview.0
+- pkg:nuget/Cross.CQRS.EF@9.0.0-preview.101
 - pkg:nuget/Cross.CQRS.EF@9.0.0-preview.23
 - pkg:nuget/Cross.CQRS.EF@9.0.0-preview.24
 - pkg:nuget/Cross.CQRS.EF@9.0.0-preview.25
@@ -40,6 +42,13 @@
 - pkg:nuget/Cross.CQRS.EF@9.0.0-preview.29
 - pkg:nuget/Cross.CQRS.EF@9.0.0-preview.30
 - pkg:nuget/Cross.CQRS.EF@9.0.0-preview.31
+- pkg:nuget/Cross.CQRS.EF@9.0.0-preview.32
 - pkg:nuget/Cross.CQRS.EF@9.0.0-preview.33
+- pkg:nuget/Cross.CQRS.EF@9.0.0-preview.66
+- pkg:nuget/Cross.CQRS.EF@9.0.0-preview.69
+- pkg:nuget/Cross.CQRS.EF@9.0.0-preview.73
 - pkg:nuget/Cross.CQRS.EF@9.0.0-preview.99
 - pkg:nuget/Cross.CQRS.EF@9.1.0
+- pkg:nuget/Cross.CQRS.EF@9.2.0
+- pkg:nuget/Cross.CQRS.EF@9.2.0-dev.3
+- pkg:nuget/Cross.CQRS.EF@9.2.0-preview.20
