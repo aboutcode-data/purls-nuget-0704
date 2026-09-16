@@ -11,6 +11,7 @@
 - pkg:nuget/TJC.Logging@0.1.7
 - pkg:nuget/TJC.Logging@0.1.8
 - pkg:nuget/TJC.Logging@0.1.9
+- pkg:nuget/TJC.Logging@0.11.0
 - pkg:nuget/TJC.Logging@0.2.0
 - pkg:nuget/TJC.Logging@0.2.1
 - pkg:nuget/TJC.Logging@0.2.2
