@@ -11,3 +11,5 @@
 - pkg:nuget/HartsyInference.LLM@2.0.0-alpha.67
 - pkg:nuget/HartsyInference.LLM@2.0.0-alpha.73
 - pkg:nuget/HartsyInference.LLM@2.0.0-alpha.78
+- pkg:nuget/HartsyInference.LLM@2.0.0-alpha.79
+- pkg:nuget/HartsyInference.LLM@2.0.0-alpha.81
