@@ -43,6 +43,7 @@
 - pkg:nuget/Reo.Core.Database.Abstractions@10.0.344
 - pkg:nuget/Reo.Core.Database.Abstractions@10.0.354
 - pkg:nuget/Reo.Core.Database.Abstractions@10.0.36
+- pkg:nuget/Reo.Core.Database.Abstractions@10.0.364
 - pkg:nuget/Reo.Core.Database.Abstractions@10.0.51
 - pkg:nuget/Reo.Core.Database.Abstractions@10.0.73
 - pkg:nuget/Reo.Core.Database.Abstractions@10.0.80
