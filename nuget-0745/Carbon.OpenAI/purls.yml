@@ -3,6 +3,7 @@
 - pkg:nuget/Carbon.OpenAI@0.11.0
 - pkg:nuget/Carbon.OpenAI@0.12.0
 - pkg:nuget/Carbon.OpenAI@0.13.0
+- pkg:nuget/Carbon.OpenAI@0.14.0
 - pkg:nuget/Carbon.OpenAI@0.2.0
 - pkg:nuget/Carbon.OpenAI@0.3.0
 - pkg:nuget/Carbon.OpenAI@0.4.0
