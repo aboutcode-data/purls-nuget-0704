@@ -8,6 +8,7 @@
 - pkg:nuget/Cike.AspNetCore.Swagger@1.0.60009
 - pkg:nuget/Cike.AspNetCore.Swagger@1.0.60010
 - pkg:nuget/Cike.AspNetCore.Swagger@1.0.60011
+- pkg:nuget/Cike.AspNetCore.Swagger@1.0.60023
 - pkg:nuget/Cike.AspNetCore.Swagger@1.0.629
 - pkg:nuget/Cike.AspNetCore.Swagger@1.0.630
 - pkg:nuget/Cike.AspNetCore.Swagger@1.0.631
