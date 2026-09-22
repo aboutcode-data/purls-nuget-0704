@@ -119,4 +119,6 @@
 - pkg:nuget/Umbraco.Commerce.Cms.Startup@16.5.0
 - pkg:nuget/Umbraco.Commerce.Cms.Startup@16.6.0
 - pkg:nuget/Umbraco.Commerce.Cms.Startup@17.1.11
+- pkg:nuget/Umbraco.Commerce.Cms.Startup@17.2.5
 - pkg:nuget/Umbraco.Commerce.Cms.Startup@18.0.0-rc1
+- pkg:nuget/Umbraco.Commerce.Cms.Startup@18.1.5
