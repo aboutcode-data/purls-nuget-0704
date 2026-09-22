@@ -46,3 +46,5 @@
 - pkg:nuget/Firecrawl@1.1.2-dev.93
 - pkg:nuget/Firecrawl@1.1.2-dev.98
 - pkg:nuget/Firecrawl@1.1.2-dev.99
+- pkg:nuget/Firecrawl@1.1.3-dev.19
+- pkg:nuget/Firecrawl@1.1.3-dev.23
