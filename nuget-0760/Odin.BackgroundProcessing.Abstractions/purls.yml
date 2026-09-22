@@ -97,6 +97,7 @@
 - pkg:nuget/Odin.BackgroundProcessing.Abstractions@0.2.10
 - pkg:nuget/Odin.BackgroundProcessing.Abstractions@0.9.1
 - pkg:nuget/Odin.BackgroundProcessing.Abstractions@0.9.120
+- pkg:nuget/Odin.BackgroundProcessing.Abstractions@0.9.142
 - pkg:nuget/Odin.BackgroundProcessing.Abstractions@0.9.53
 - pkg:nuget/Odin.BackgroundProcessing.Abstractions@0.9.83
 - pkg:nuget/Odin.BackgroundProcessing.Abstractions@0.9.85
