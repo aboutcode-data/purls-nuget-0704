@@ -2,3 +2,4 @@
 - pkg:nuget/Reimaginate.Test.Framework.Agents.SnapshotTesting@1.0.0-RC.2
 - pkg:nuget/Reimaginate.Test.Framework.Agents.SnapshotTesting@1.0.0-RC.3
 - pkg:nuget/Reimaginate.Test.Framework.Agents.SnapshotTesting@1.0.0-rc.1
+- pkg:nuget/Reimaginate.Test.Framework.Agents.SnapshotTesting@1.3.0-rc.2
