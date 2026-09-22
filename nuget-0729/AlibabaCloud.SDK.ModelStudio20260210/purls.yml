@@ -1,1 +1,4 @@
 - pkg:nuget/AlibabaCloud.SDK.ModelStudio20260210@1.0.0
+- pkg:nuget/AlibabaCloud.SDK.ModelStudio20260210@2.0.2
+- pkg:nuget/AlibabaCloud.SDK.ModelStudio20260210@2.2.0
+- pkg:nuget/AlibabaCloud.SDK.ModelStudio20260210@2.2.1
