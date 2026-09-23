@@ -1,3 +1,4 @@
+- pkg:nuget/IkeMtz.NRSRx.Logging.Elasticsearch@10.0.266.2
 - pkg:nuget/IkeMtz.NRSRx.Logging.Elasticsearch@5.0.293.5
 - pkg:nuget/IkeMtz.NRSRx.Logging.Elasticsearch@5.0.293.8
 - pkg:nuget/IkeMtz.NRSRx.Logging.Elasticsearch@5.0.333.9
