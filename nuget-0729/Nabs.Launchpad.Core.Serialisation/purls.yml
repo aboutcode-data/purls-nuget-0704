@@ -36,3 +36,4 @@
 - pkg:nuget/Nabs.Launchpad.Core.Serialisation@10.0.217
 - pkg:nuget/Nabs.Launchpad.Core.Serialisation@10.0.240
 - pkg:nuget/Nabs.Launchpad.Core.Serialisation@10.0.249
+- pkg:nuget/Nabs.Launchpad.Core.Serialisation@10.1.0
