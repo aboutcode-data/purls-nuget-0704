@@ -79,5 +79,6 @@
 - pkg:nuget/Fast.Consul@3.4.8
 - pkg:nuget/Fast.Consul@3.4.9
 - pkg:nuget/Fast.Consul@3.4.9.1
+- pkg:nuget/Fast.Consul@3.5.10
 - pkg:nuget/Fast.Consul@3.5.2
 - pkg:nuget/Fast.Consul@3.5.5
