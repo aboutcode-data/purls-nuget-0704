@@ -4,6 +4,7 @@
 - pkg:nuget/ByteAnt.ByteEditor.Core@1.1.0
 - pkg:nuget/ByteAnt.ByteEditor.Core@1.1.0-alpha
 - pkg:nuget/ByteAnt.ByteEditor.Core@17.0.0-alpha
+- pkg:nuget/ByteAnt.ByteEditor.Core@17.0.2
 - pkg:nuget/ByteAnt.ByteEditor.Core@2.0.0
 - pkg:nuget/ByteAnt.ByteEditor.Core@2.0.1
 - pkg:nuget/ByteAnt.ByteEditor.Core@2.0.3-alpha
