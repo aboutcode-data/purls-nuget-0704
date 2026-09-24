@@ -694,3 +694,4 @@
 - pkg:nuget/HotChocolate.Fusion.Composition@16.6.2-p.4
 - pkg:nuget/HotChocolate.Fusion.Composition@16.6.2-p.8
 - pkg:nuget/HotChocolate.Fusion.Composition@16.6.3
+- pkg:nuget/HotChocolate.Fusion.Composition@16.7.0-p.12
