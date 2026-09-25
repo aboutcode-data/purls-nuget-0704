@@ -65,6 +65,7 @@
 - pkg:nuget/Soenneker.Cloudflare.Attributes.Require@4.0.385
 - pkg:nuget/Soenneker.Cloudflare.Attributes.Require@4.0.391
 - pkg:nuget/Soenneker.Cloudflare.Attributes.Require@4.0.405
+- pkg:nuget/Soenneker.Cloudflare.Attributes.Require@4.0.410
 - pkg:nuget/Soenneker.Cloudflare.Attributes.Require@4.0.69
 - pkg:nuget/Soenneker.Cloudflare.Attributes.Require@4.0.73
 - pkg:nuget/Soenneker.Cloudflare.Attributes.Require@4.0.75
