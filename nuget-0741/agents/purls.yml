@@ -1,3 +1,6 @@
 - pkg:nuget/agents@0.0.38
 - pkg:nuget/agents@0.0.40
 - pkg:nuget/agents@0.0.87
+- pkg:nuget/agents@0.1.225
+- pkg:nuget/agents@0.1.232
+- pkg:nuget/agents@0.1.234
