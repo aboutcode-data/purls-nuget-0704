@@ -5,3 +5,4 @@
 - pkg:nuget/OpenTripModel.Model@1.1.1.2
 - pkg:nuget/OpenTripModel.Model@1.1.2
 - pkg:nuget/OpenTripModel.Model@5.7.1.1
+- pkg:nuget/OpenTripModel.Model@5.7.2

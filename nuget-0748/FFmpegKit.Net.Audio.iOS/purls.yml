@@ -1,1 +1,6 @@
 - pkg:nuget/FFmpegKit.Net.Audio.iOS@6.0.0.1-beta1
+- pkg:nuget/FFmpegKit.Net.Audio.iOS@8.1.2.1-beta.5.15
+- pkg:nuget/FFmpegKit.Net.Audio.iOS@8.1.2.2-beta.6.17
+- pkg:nuget/FFmpegKit.Net.Audio.iOS@8.1.2.2-beta.7.21
+- pkg:nuget/FFmpegKit.Net.Audio.iOS@8.1.2.3-beta.10.24
+- pkg:nuget/FFmpegKit.Net.Audio.iOS@8.1.2.3-beta.11.25
