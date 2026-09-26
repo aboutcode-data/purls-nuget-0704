@@ -113,3 +113,4 @@
 - pkg:nuget/GrayMint.Authorization.RoleManagement.RoleAuthorizations@3.0.99
 - pkg:nuget/GrayMint.Authorization.RoleManagement.RoleAuthorizations@3.2.164
 - pkg:nuget/GrayMint.Authorization.RoleManagement.RoleAuthorizations@3.2.167
+- pkg:nuget/GrayMint.Authorization.RoleManagement.RoleAuthorizations@3.2.178
