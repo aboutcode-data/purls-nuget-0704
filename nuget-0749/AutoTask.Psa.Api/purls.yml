@@ -6,3 +6,5 @@
 - pkg:nuget/AutoTask.Psa.Api@1.0.35-beta-gd862e7b8a9
 - pkg:nuget/AutoTask.Psa.Api@1.0.40-beta-gc85ed508b0
 - pkg:nuget/AutoTask.Psa.Api@1.0.45
+- pkg:nuget/AutoTask.Psa.Api@1.1.16
+- pkg:nuget/AutoTask.Psa.Api@1.1.23
