@@ -1,4 +1,8 @@
 - pkg:nuget/SpCraft.Blazor.Common.Grid.Abstractions@1.2.49
 - pkg:nuget/SpCraft.Blazor.Common.Grid.Abstractions@1.2.50
 - pkg:nuget/SpCraft.Blazor.Common.Grid.Abstractions@1.2.51
+- pkg:nuget/SpCraft.Blazor.Common.Grid.Abstractions@2.0.24
+- pkg:nuget/SpCraft.Blazor.Common.Grid.Abstractions@2.0.29
+- pkg:nuget/SpCraft.Blazor.Common.Grid.Abstractions@2.0.32
+- pkg:nuget/SpCraft.Blazor.Common.Grid.Abstractions@2.0.37
 - pkg:nuget/SpCraft.Blazor.Common.Grid.Abstractions@2.0.8
