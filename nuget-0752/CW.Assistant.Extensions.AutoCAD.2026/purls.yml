@@ -43,7 +43,13 @@
 - pkg:nuget/CW.Assistant.Extensions.AutoCAD.2026@26.10.0-PullRequest832.115.66074
 - pkg:nuget/CW.Assistant.Extensions.AutoCAD.2026@26.10.0-PullRequest846.135.66113
 - pkg:nuget/CW.Assistant.Extensions.AutoCAD.2026@26.10.0-PullRequest851.144.66133
+- pkg:nuget/CW.Assistant.Extensions.AutoCAD.2026@26.10.0-PullRequest857.151.66171
+- pkg:nuget/CW.Assistant.Extensions.AutoCAD.2026@26.10.0-PullRequest857.151.66172
+- pkg:nuget/CW.Assistant.Extensions.AutoCAD.2026@26.10.0-PullRequest861.151.66173
+- pkg:nuget/CW.Assistant.Extensions.AutoCAD.2026@26.10.0-PullRequest861.152.66176
 - pkg:nuget/CW.Assistant.Extensions.AutoCAD.2026@26.10.0-PullRequest865.145.66151
+- pkg:nuget/CW.Assistant.Extensions.AutoCAD.2026@26.10.0-PullRequest870.144.66159
+- pkg:nuget/CW.Assistant.Extensions.AutoCAD.2026@26.10.0-PullRequest873.148.66177
 - pkg:nuget/CW.Assistant.Extensions.AutoCAD.2026@26.10.0-alpha.2.65438
 - pkg:nuget/CW.Assistant.Extensions.AutoCAD.2026@26.10.0-alpha.3.65441
 - pkg:nuget/CW.Assistant.Extensions.AutoCAD.2026@26.10.0-alpha.4.65440
@@ -55,6 +61,9 @@
 - pkg:nuget/CW.Assistant.Extensions.AutoCAD.2026@26.10.0-alpha.73.65965
 - pkg:nuget/CW.Assistant.Extensions.AutoCAD.2026@26.10.0-alpha.74.65966
 - pkg:nuget/CW.Assistant.Extensions.AutoCAD.2026@26.10.0-beta.139.66112
+- pkg:nuget/CW.Assistant.Extensions.AutoCAD.2026@26.10.0-beta.157.66185
+- pkg:nuget/CW.Assistant.Extensions.AutoCAD.2026@26.10.0-beta.158.66186
+- pkg:nuget/CW.Assistant.Extensions.AutoCAD.2026@26.10.0-beta.159.66187
 - pkg:nuget/CW.Assistant.Extensions.AutoCAD.2026@26.10.0-beta.97.66008
 - pkg:nuget/CW.Assistant.Extensions.AutoCAD.2026@26.10.0-beta.98.66010
 - pkg:nuget/CW.Assistant.Extensions.AutoCAD.2026@26.10.0-claude-stack-comment-clarity.1.65998
@@ -67,6 +76,7 @@
 - pkg:nuget/CW.Assistant.Extensions.AutoCAD.2026@26.11.0-PullRequest821.2.66044
 - pkg:nuget/CW.Assistant.Extensions.AutoCAD.2026@26.11.0-PullRequest837.15.66094
 - pkg:nuget/CW.Assistant.Extensions.AutoCAD.2026@26.11.0-PullRequest858.6.66158
+- pkg:nuget/CW.Assistant.Extensions.AutoCAD.2026@26.11.0-PullRequest872.8.66175
 - pkg:nuget/CW.Assistant.Extensions.AutoCAD.2026@26.11.0-alpha.1.66060
 - pkg:nuget/CW.Assistant.Extensions.AutoCAD.2026@26.2.0-PullRequest55.5048
 - pkg:nuget/CW.Assistant.Extensions.AutoCAD.2026@26.2.0-alpha.463236
