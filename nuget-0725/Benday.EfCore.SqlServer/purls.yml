@@ -7,6 +7,7 @@
 - pkg:nuget/Benday.EfCore.SqlServer@1.6.0
 - pkg:nuget/Benday.EfCore.SqlServer@10.0.0
 - pkg:nuget/Benday.EfCore.SqlServer@11.0.0-alpha
+- pkg:nuget/Benday.EfCore.SqlServer@11.0.10-alpha
 - pkg:nuget/Benday.EfCore.SqlServer@2.0.0
 - pkg:nuget/Benday.EfCore.SqlServer@2.1.0
 - pkg:nuget/Benday.EfCore.SqlServer@3.0.0
