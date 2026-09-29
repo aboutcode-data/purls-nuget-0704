@@ -1,5 +1,6 @@
 - pkg:nuget/Soenneker.Stytch.HttpClients@4.0.101
 - pkg:nuget/Soenneker.Stytch.HttpClients@4.0.106
+- pkg:nuget/Soenneker.Stytch.HttpClients@4.0.108
 - pkg:nuget/Soenneker.Stytch.HttpClients@4.0.13
 - pkg:nuget/Soenneker.Stytch.HttpClients@4.0.17
 - pkg:nuget/Soenneker.Stytch.HttpClients@4.0.23
