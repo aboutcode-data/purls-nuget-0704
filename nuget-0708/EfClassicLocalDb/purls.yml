@@ -82,6 +82,8 @@
 - pkg:nuget/EfClassicLocalDb@20.2.1
 - pkg:nuget/EfClassicLocalDb@20.3.0
 - pkg:nuget/EfClassicLocalDb@20.3.1
+- pkg:nuget/EfClassicLocalDb@27.2.0
+- pkg:nuget/EfClassicLocalDb@27.2.1
 - pkg:nuget/EfClassicLocalDb@6.1.0
 - pkg:nuget/EfClassicLocalDb@6.2.0
 - pkg:nuget/EfClassicLocalDb@6.2.1
