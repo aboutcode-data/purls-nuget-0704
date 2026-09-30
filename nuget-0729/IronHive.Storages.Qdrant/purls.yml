@@ -7,4 +7,5 @@
 - pkg:nuget/IronHive.Storages.Qdrant@0.28.2
 - pkg:nuget/IronHive.Storages.Qdrant@0.41.0
 - pkg:nuget/IronHive.Storages.Qdrant@0.43.1
+- pkg:nuget/IronHive.Storages.Qdrant@0.45.3
 - pkg:nuget/IronHive.Storages.Qdrant@0.7.1
