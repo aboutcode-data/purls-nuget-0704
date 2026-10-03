@@ -44,6 +44,7 @@
 - pkg:nuget/GenMate.DataModels@4.0.3
 - pkg:nuget/GenMate.DataModels@4.0.5
 - pkg:nuget/GenMate.DataModels@4.1.0
+- pkg:nuget/GenMate.DataModels@40.1.0
 - pkg:nuget/GenMate.DataModels@5.0.0
 - pkg:nuget/GenMate.DataModels@5.1.0
 - pkg:nuget/GenMate.DataModels@5.2.0
