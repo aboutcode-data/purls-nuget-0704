@@ -1,1 +1,2 @@
 - pkg:nuget/DevProxy.Abstractions@4.0.0-alpha.4
+- pkg:nuget/DevProxy.Abstractions@4.0.0-beta.6
