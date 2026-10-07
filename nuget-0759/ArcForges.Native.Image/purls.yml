@@ -1,4 +1,5 @@
 - pkg:nuget/ArcForges.Native.Image@1.0.0-ci.105.1
+- pkg:nuget/ArcForges.Native.Image@1.0.0-ci.118.1
 - pkg:nuget/ArcForges.Native.Image@1.0.0-ci.12.1
 - pkg:nuget/ArcForges.Native.Image@1.0.0-ci.19.1
 - pkg:nuget/ArcForges.Native.Image@1.0.0-ci.22.1
