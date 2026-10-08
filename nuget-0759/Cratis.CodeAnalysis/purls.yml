@@ -24,4 +24,5 @@
 - pkg:nuget/Cratis.CodeAnalysis@22.44.2
 - pkg:nuget/Cratis.CodeAnalysis@22.50.3
 - pkg:nuget/Cratis.CodeAnalysis@22.53.0
+- pkg:nuget/Cratis.CodeAnalysis@22.55.1
 - pkg:nuget/Cratis.CodeAnalysis@22.8.2
