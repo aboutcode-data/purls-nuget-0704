@@ -7,3 +7,5 @@
 - pkg:nuget/Luthor-tool@1.6.0
 - pkg:nuget/Luthor-tool@1.7.0
 - pkg:nuget/Luthor-tool@1.8.0
+- pkg:nuget/Luthor-tool@4.1.0
+- pkg:nuget/Luthor-tool@5.0.0
