@@ -15,3 +15,5 @@
 - pkg:nuget/StuceSoftware.RandomStringGenerator@3.0.2-prerelease.16
 - pkg:nuget/StuceSoftware.RandomStringGenerator@3.0.2-prerelease.17
 - pkg:nuget/StuceSoftware.RandomStringGenerator@3.0.2-prerelease.18
+- pkg:nuget/StuceSoftware.RandomStringGenerator@3.0.3
+- pkg:nuget/StuceSoftware.RandomStringGenerator@3.0.3-prerelease.23
