@@ -3,3 +3,4 @@
 - pkg:nuget/Regira.Entities.Mapping.AutoMapper@6.0.2
 - pkg:nuget/Regira.Entities.Mapping.AutoMapper@6.1.0
 - pkg:nuget/Regira.Entities.Mapping.AutoMapper@6.3.0
+- pkg:nuget/Regira.Entities.Mapping.AutoMapper@6.5.0
