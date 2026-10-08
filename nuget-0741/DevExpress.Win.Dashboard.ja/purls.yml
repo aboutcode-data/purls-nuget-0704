@@ -1,3 +1,7 @@
 - pkg:nuget/DevExpress.Win.Dashboard.ja@25.1.11
+- pkg:nuget/DevExpress.Win.Dashboard.ja@25.1.12
 - pkg:nuget/DevExpress.Win.Dashboard.ja@25.1.6
 - pkg:nuget/DevExpress.Win.Dashboard.ja@25.2.5
+- pkg:nuget/DevExpress.Win.Dashboard.ja@26.1.2-beta
+- pkg:nuget/DevExpress.Win.Dashboard.ja@26.1.5-pre-26235
+- pkg:nuget/DevExpress.Win.Dashboard.ja@26.1.5-pre-26241
