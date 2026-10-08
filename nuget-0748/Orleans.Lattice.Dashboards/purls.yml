@@ -2,3 +2,7 @@
 - pkg:nuget/Orleans.Lattice.Dashboards@6.0.1
 - pkg:nuget/Orleans.Lattice.Dashboards@6.2.0
 - pkg:nuget/Orleans.Lattice.Dashboards@7.9.1
+- pkg:nuget/Orleans.Lattice.Dashboards@9.5.0
+- pkg:nuget/Orleans.Lattice.Dashboards@9.8.0
+- pkg:nuget/Orleans.Lattice.Dashboards@9.8.2
+- pkg:nuget/Orleans.Lattice.Dashboards@9.9.0

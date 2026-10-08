@@ -1,2 +1,4 @@
 - pkg:nuget/CosmicChimps.Aspire.Hosting.Dokploy@13.2.4-preview.10
 - pkg:nuget/CosmicChimps.Aspire.Hosting.Dokploy@13.2.4-preview.7
+- pkg:nuget/CosmicChimps.Aspire.Hosting.Dokploy@13.4.6-preview.12
+- pkg:nuget/CosmicChimps.Aspire.Hosting.Dokploy@13.5.3-preview.2
