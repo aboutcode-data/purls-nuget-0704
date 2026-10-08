@@ -43,4 +43,5 @@
 - pkg:nuget/DependencyResolver.NET@1.0.70-pre
 - pkg:nuget/DependencyResolver.NET@1.0.75-pre
 - pkg:nuget/DependencyResolver.NET@1.0.8-pre
+- pkg:nuget/DependencyResolver.NET@1.0.81-pre
 - pkg:nuget/DependencyResolver.NET@1.0.9-pre
