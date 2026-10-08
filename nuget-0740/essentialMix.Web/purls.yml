@@ -49,5 +49,6 @@
 - pkg:nuget/essentialMix.Web@15.0.9
 - pkg:nuget/essentialMix.Web@16.0.1
 - pkg:nuget/essentialMix.Web@16.1.0
+- pkg:nuget/essentialMix.Web@17.0.13
 - pkg:nuget/essentialMix.Web@17.0.2
 - pkg:nuget/essentialMix.Web@17.0.3
