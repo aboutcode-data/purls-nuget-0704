@@ -1,0 +1,4 @@
+- pkg:nuget/Nerdbank.MessagePack.Godot@1.3.66-beta
+- pkg:nuget/Nerdbank.MessagePack.Godot@1.3.88
+- pkg:nuget/Nerdbank.MessagePack.Godot@1.4.52-alpha
+- pkg:nuget/Nerdbank.MessagePack.Godot@1.4.82

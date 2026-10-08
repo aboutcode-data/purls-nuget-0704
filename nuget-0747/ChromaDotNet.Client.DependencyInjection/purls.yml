@@ -1,0 +1,12 @@
+- pkg:nuget/ChromaDotNet.Client.DependencyInjection@2.10.2
+- pkg:nuget/ChromaDotNet.Client.DependencyInjection@2.10.3
+- pkg:nuget/ChromaDotNet.Client.DependencyInjection@2.4.1
+- pkg:nuget/ChromaDotNet.Client.DependencyInjection@2.4.2-ci-37206910669
+- pkg:nuget/ChromaDotNet.Client.DependencyInjection@2.4.2-ci-37208597696
+- pkg:nuget/ChromaDotNet.Client.DependencyInjection@2.4.2-ci-37209760754
+- pkg:nuget/ChromaDotNet.Client.DependencyInjection@2.4.2-ci-37210065980
+- pkg:nuget/ChromaDotNet.Client.DependencyInjection@2.5.0
+- pkg:nuget/ChromaDotNet.Client.DependencyInjection@2.5.0-ci-37210408318
+- pkg:nuget/ChromaDotNet.Client.DependencyInjection@2.5.1-ci-37211433292
+- pkg:nuget/ChromaDotNet.Client.DependencyInjection@2.5.1-ci-37212577165
+- pkg:nuget/ChromaDotNet.Client.DependencyInjection@2.6.0-ci-37217957787
