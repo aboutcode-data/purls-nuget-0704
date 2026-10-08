@@ -1,2 +1,3 @@
 - pkg:nuget/MiniFox.Web.Sockets@8.0.0
 - pkg:nuget/MiniFox.Web.Sockets@8.0.10
+- pkg:nuget/MiniFox.Web.Sockets@8.2.3
