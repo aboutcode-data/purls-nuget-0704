@@ -10,6 +10,7 @@
 - pkg:nuget/SAEA.MVC@2.2.1.1
 - pkg:nuget/SAEA.MVC@2.2.2
 - pkg:nuget/SAEA.MVC@2.2.2.1
+- pkg:nuget/SAEA.MVC@26.10.8.1
 - pkg:nuget/SAEA.MVC@3.0.0.1
 - pkg:nuget/SAEA.MVC@3.0.0.2
 - pkg:nuget/SAEA.MVC@3.1.0
