@@ -164,4 +164,5 @@
 - pkg:nuget/Mocha.Analyzers@16.7.0-p.12
 - pkg:nuget/Mocha.Analyzers@16.7.0-p.14
 - pkg:nuget/Mocha.Analyzers@16.7.0-p.18
+- pkg:nuget/Mocha.Analyzers@16.7.0-p.23
 - pkg:nuget/Mocha.Analyzers@16.7.0-p.8
