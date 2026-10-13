@@ -1214,3 +1214,5 @@
 - pkg:nuget/FunFair.BuildVersion.Interfaces@6.2.20.2397-main
 - pkg:nuget/FunFair.BuildVersion.Interfaces@6.2.20.2399-main
 - pkg:nuget/FunFair.BuildVersion.Interfaces@6.2.20.2403-main
+- pkg:nuget/FunFair.BuildVersion.Interfaces@6.2.20.2404-main
+- pkg:nuget/FunFair.BuildVersion.Interfaces@6.2.20.2405-main
