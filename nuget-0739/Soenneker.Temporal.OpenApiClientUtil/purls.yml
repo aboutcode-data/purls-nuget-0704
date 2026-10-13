@@ -9,6 +9,7 @@
 - pkg:nuget/Soenneker.Temporal.OpenApiClientUtil@4.0.175
 - pkg:nuget/Soenneker.Temporal.OpenApiClientUtil@4.0.181
 - pkg:nuget/Soenneker.Temporal.OpenApiClientUtil@4.0.188
+- pkg:nuget/Soenneker.Temporal.OpenApiClientUtil@4.0.189
 - pkg:nuget/Soenneker.Temporal.OpenApiClientUtil@4.0.2
 - pkg:nuget/Soenneker.Temporal.OpenApiClientUtil@4.0.32
 - pkg:nuget/Soenneker.Temporal.OpenApiClientUtil@4.0.35
