@@ -1398,3 +1398,5 @@
 - pkg:nuget/MassTransit.EntityFrameworkCore@9.2.2-develop.175
 - pkg:nuget/MassTransit.EntityFrameworkCore@9.2.3-develop.181
 - pkg:nuget/MassTransit.EntityFrameworkCore@9.2.3-develop.183
+- pkg:nuget/MassTransit.EntityFrameworkCore@9.2.4-develop.192
+- pkg:nuget/MassTransit.EntityFrameworkCore@9.2.4-develop.196
