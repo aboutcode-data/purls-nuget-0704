@@ -1,4 +1,6 @@
+- pkg:nuget/Uno.Toolkit.WinUI.Material.Markup@10.0.0-dev.8
 - pkg:nuget/Uno.Toolkit.WinUI.Material.Markup@11.0.0-dev.142
+- pkg:nuget/Uno.Toolkit.WinUI.Material.Markup@11.0.0-dev.143
 - pkg:nuget/Uno.Toolkit.WinUI.Material.Markup@11.0.0-dev.90
 - pkg:nuget/Uno.Toolkit.WinUI.Material.Markup@11.0.0-dev.94
 - pkg:nuget/Uno.Toolkit.WinUI.Material.Markup@5.0.0-dev.124
