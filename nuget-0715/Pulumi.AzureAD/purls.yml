@@ -543,6 +543,9 @@
 - pkg:nuget/Pulumi.AzureAD@6.11.0-alpha.1787836841
 - pkg:nuget/Pulumi.AzureAD@6.11.0-alpha.1790618446
 - pkg:nuget/Pulumi.AzureAD@6.11.0-alpha.1791220971
+- pkg:nuget/Pulumi.AzureAD@6.11.1
+- pkg:nuget/Pulumi.AzureAD@6.11.1-alpha.1791907755
+- pkg:nuget/Pulumi.AzureAD@6.12.0-alpha.1791847642
 - pkg:nuget/Pulumi.AzureAD@6.2.0
 - pkg:nuget/Pulumi.AzureAD@6.2.0-alpha.1737091216
 - pkg:nuget/Pulumi.AzureAD@6.2.0-alpha.1737474211
