@@ -4,6 +4,7 @@
 - pkg:nuget/Soenneker.PayPal.HttpClients@4.0.125
 - pkg:nuget/Soenneker.PayPal.HttpClients@4.0.135
 - pkg:nuget/Soenneker.PayPal.HttpClients@4.0.139
+- pkg:nuget/Soenneker.PayPal.HttpClients@4.0.154
 - pkg:nuget/Soenneker.PayPal.HttpClients@4.0.2
 - pkg:nuget/Soenneker.PayPal.HttpClients@4.0.20
 - pkg:nuget/Soenneker.PayPal.HttpClients@4.0.27
