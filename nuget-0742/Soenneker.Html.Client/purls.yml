@@ -851,6 +851,9 @@
 - pkg:nuget/Soenneker.Html.Client@4.0.1124
 - pkg:nuget/Soenneker.Html.Client@4.0.1129
 - pkg:nuget/Soenneker.Html.Client@4.0.1130
+- pkg:nuget/Soenneker.Html.Client@4.0.1138
+- pkg:nuget/Soenneker.Html.Client@4.0.1139
+- pkg:nuget/Soenneker.Html.Client@4.0.1141
 - pkg:nuget/Soenneker.Html.Client@4.0.840
 - pkg:nuget/Soenneker.Html.Client@4.0.845
 - pkg:nuget/Soenneker.Html.Client@4.0.867
