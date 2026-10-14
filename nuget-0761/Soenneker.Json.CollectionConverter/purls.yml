@@ -942,3 +942,6 @@
 - pkg:nuget/Soenneker.Json.CollectionConverter@4.0.834
 - pkg:nuget/Soenneker.Json.CollectionConverter@4.0.836
 - pkg:nuget/Soenneker.Json.CollectionConverter@4.0.860
+- pkg:nuget/Soenneker.Json.CollectionConverter@4.0.868
+- pkg:nuget/Soenneker.Json.CollectionConverter@4.0.869
+- pkg:nuget/Soenneker.Json.CollectionConverter@4.0.870
