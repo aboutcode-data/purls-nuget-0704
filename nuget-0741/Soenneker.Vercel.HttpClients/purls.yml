@@ -4,6 +4,8 @@
 - pkg:nuget/Soenneker.Vercel.HttpClients@4.0.130
 - pkg:nuget/Soenneker.Vercel.HttpClients@4.0.136
 - pkg:nuget/Soenneker.Vercel.HttpClients@4.0.139
+- pkg:nuget/Soenneker.Vercel.HttpClients@4.0.154
+- pkg:nuget/Soenneker.Vercel.HttpClients@4.0.157
 - pkg:nuget/Soenneker.Vercel.HttpClients@4.0.18
 - pkg:nuget/Soenneker.Vercel.HttpClients@4.0.2
 - pkg:nuget/Soenneker.Vercel.HttpClients@4.0.20
