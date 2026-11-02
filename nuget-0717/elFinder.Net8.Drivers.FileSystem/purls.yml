@@ -10,3 +10,4 @@
 - pkg:nuget/elFinder.Net8.Drivers.FileSystem@8.0.7
 - pkg:nuget/elFinder.Net8.Drivers.FileSystem@8.0.8
 - pkg:nuget/elFinder.Net8.Drivers.FileSystem@8.0.9
+- pkg:nuget/elFinder.Net8.Drivers.FileSystem@8.1.6

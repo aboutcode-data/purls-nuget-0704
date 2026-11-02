@@ -1,5 +1,6 @@
 - pkg:nuget/YS.Knife.DataSource.Core@0.0.10
 - pkg:nuget/YS.Knife.DataSource.Core@0.0.11
+- pkg:nuget/YS.Knife.DataSource.Core@0.0.112
 - pkg:nuget/YS.Knife.DataSource.Core@0.0.12
 - pkg:nuget/YS.Knife.DataSource.Core@0.0.13
 - pkg:nuget/YS.Knife.DataSource.Core@0.0.14
