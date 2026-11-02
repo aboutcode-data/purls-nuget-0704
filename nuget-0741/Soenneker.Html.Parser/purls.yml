@@ -1,3 +1,5 @@
+- pkg:nuget/Soenneker.Html.Parser@11.0.1411
+- pkg:nuget/Soenneker.Html.Parser@11.0.1421
 - pkg:nuget/Soenneker.Html.Parser@2.1.1
 - pkg:nuget/Soenneker.Html.Parser@2.1.10
 - pkg:nuget/Soenneker.Html.Parser@2.1.11
@@ -995,6 +997,7 @@
 - pkg:nuget/Soenneker.Html.Parser@4.0.1390
 - pkg:nuget/Soenneker.Html.Parser@4.0.1399
 - pkg:nuget/Soenneker.Html.Parser@4.0.1400
+- pkg:nuget/Soenneker.Html.Parser@4.0.1408
 - pkg:nuget/Soenneker.Html.Parser@4.0.953
 - pkg:nuget/Soenneker.Html.Parser@4.0.959
 - pkg:nuget/Soenneker.Html.Parser@4.0.960

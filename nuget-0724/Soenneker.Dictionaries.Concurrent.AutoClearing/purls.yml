@@ -1,3 +1,4 @@
+- pkg:nuget/Soenneker.Dictionaries.Concurrent.AutoClearing@11.0.109
 - pkg:nuget/Soenneker.Dictionaries.Concurrent.AutoClearing@3.0.1
 - pkg:nuget/Soenneker.Dictionaries.Concurrent.AutoClearing@3.0.2
 - pkg:nuget/Soenneker.Dictionaries.Concurrent.AutoClearing@3.0.3
@@ -5,6 +6,7 @@
 - pkg:nuget/Soenneker.Dictionaries.Concurrent.AutoClearing@3.0.5
 - pkg:nuget/Soenneker.Dictionaries.Concurrent.AutoClearing@3.0.6
 - pkg:nuget/Soenneker.Dictionaries.Concurrent.AutoClearing@3.0.7
+- pkg:nuget/Soenneker.Dictionaries.Concurrent.AutoClearing@4.0.105
 - pkg:nuget/Soenneker.Dictionaries.Concurrent.AutoClearing@4.0.11
 - pkg:nuget/Soenneker.Dictionaries.Concurrent.AutoClearing@4.0.14
 - pkg:nuget/Soenneker.Dictionaries.Concurrent.AutoClearing@4.0.17
@@ -15,3 +17,4 @@
 - pkg:nuget/Soenneker.Dictionaries.Concurrent.AutoClearing@4.0.53
 - pkg:nuget/Soenneker.Dictionaries.Concurrent.AutoClearing@4.0.56
 - pkg:nuget/Soenneker.Dictionaries.Concurrent.AutoClearing@4.0.66
+- pkg:nuget/Soenneker.Dictionaries.Concurrent.AutoClearing@4.0.95
