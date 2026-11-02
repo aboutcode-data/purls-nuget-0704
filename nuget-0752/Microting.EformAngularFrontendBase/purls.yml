@@ -144,6 +144,7 @@
 - pkg:nuget/Microting.EformAngularFrontendBase@10.0.21
 - pkg:nuget/Microting.EformAngularFrontendBase@10.0.31
 - pkg:nuget/Microting.EformAngularFrontendBase@10.0.37
+- pkg:nuget/Microting.EformAngularFrontendBase@10.0.42
 - pkg:nuget/Microting.EformAngularFrontendBase@7.0.0
 - pkg:nuget/Microting.EformAngularFrontendBase@7.0.1
 - pkg:nuget/Microting.EformAngularFrontendBase@7.0.10
