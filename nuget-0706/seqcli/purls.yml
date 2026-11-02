@@ -96,4 +96,7 @@
 - pkg:nuget/seqcli@2026.1.2602-dev-02602
 - pkg:nuget/seqcli@2026.1.2603-dev-02603
 - pkg:nuget/seqcli@2026.1.2618-dev-02618
+- pkg:nuget/seqcli@2026.1.2653-dev-02653
+- pkg:nuget/seqcli@2026.1.2654
+- pkg:nuget/seqcli@2026.1.2660-dev-02660
 - pkg:nuget/seqcli@2323.0.0
