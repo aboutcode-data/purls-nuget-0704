@@ -2,6 +2,7 @@
 - pkg:nuget/IronProw.FluxGuard@0.13.4
 - pkg:nuget/IronProw.FluxGuard@0.15.12
 - pkg:nuget/IronProw.FluxGuard@0.15.2
+- pkg:nuget/IronProw.FluxGuard@0.16.1
 - pkg:nuget/IronProw.FluxGuard@0.2.4
 - pkg:nuget/IronProw.FluxGuard@0.2.6
 - pkg:nuget/IronProw.FluxGuard@0.3.13
