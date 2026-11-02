@@ -22,3 +22,5 @@
 - pkg:nuget/Jumoo.TranslationManager.Client@18.1.1
 - pkg:nuget/Jumoo.TranslationManager.Client@18.2.1
 - pkg:nuget/Jumoo.TranslationManager.Client@18.3.0
+- pkg:nuget/Jumoo.TranslationManager.Client@18.4.0
+- pkg:nuget/Jumoo.TranslationManager.Client@19.0.0-beta01
