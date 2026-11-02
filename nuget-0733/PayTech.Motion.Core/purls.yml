@@ -196,3 +196,6 @@
 - pkg:nuget/PayTech.Motion.Core@1.4.5.8
 - pkg:nuget/PayTech.Motion.Core@1.4.7
 - pkg:nuget/PayTech.Motion.Core@1.4.7.2
+- pkg:nuget/PayTech.Motion.Core@1.4.8
+- pkg:nuget/PayTech.Motion.Core@1.4.8.2
+- pkg:nuget/PayTech.Motion.Core@1.4.8.3
