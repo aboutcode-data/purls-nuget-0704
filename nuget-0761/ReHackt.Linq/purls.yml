@@ -15,6 +15,7 @@
 - pkg:nuget/ReHackt.Linq@1.1.0
 - pkg:nuget/ReHackt.Linq@1.1.1
 - pkg:nuget/ReHackt.Linq@1.1.2
+- pkg:nuget/ReHackt.Linq@10.0.6
 - pkg:nuget/ReHackt.Linq@7.0.0
 - pkg:nuget/ReHackt.Linq@7.0.1
 - pkg:nuget/ReHackt.Linq@7.1.0
