@@ -67,3 +67,4 @@
 - pkg:nuget/Stormancer.Server.Plugins.Profile@4.1.2.4
 - pkg:nuget/Stormancer.Server.Plugins.Profile@4.1.2.4-pre
 - pkg:nuget/Stormancer.Server.Plugins.Profile@4.1.2.5-pre
+- pkg:nuget/Stormancer.Server.Plugins.Profile@4.2.0.2-pre
