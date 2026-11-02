@@ -1,5 +1,6 @@
 - pkg:nuget/ReHackt.AspNetCore.Builder@1.0.0
 - pkg:nuget/ReHackt.AspNetCore.Builder@1.0.1
+- pkg:nuget/ReHackt.AspNetCore.Builder@10.0.6
 - pkg:nuget/ReHackt.AspNetCore.Builder@7.0.0
 - pkg:nuget/ReHackt.AspNetCore.Builder@7.0.1
 - pkg:nuget/ReHackt.AspNetCore.Builder@7.0.2
