@@ -210,6 +210,7 @@
 - pkg:nuget/HotChocolate.Utilities.DependencyInjection@14.3.0
 - pkg:nuget/HotChocolate.Utilities.DependencyInjection@14.3.0-p.1
 - pkg:nuget/HotChocolate.Utilities.DependencyInjection@14.3.0-p.2
+- pkg:nuget/HotChocolate.Utilities.DependencyInjection@14.3.3
 - pkg:nuget/HotChocolate.Utilities.DependencyInjection@14.4.0-p.1
 - pkg:nuget/HotChocolate.Utilities.DependencyInjection@14.4.0-p.10
 - pkg:nuget/HotChocolate.Utilities.DependencyInjection@14.4.0-p.2
@@ -522,6 +523,7 @@
 - pkg:nuget/HotChocolate.Utilities.DependencyInjection@16.6.2-p.8
 - pkg:nuget/HotChocolate.Utilities.DependencyInjection@16.6.3
 - pkg:nuget/HotChocolate.Utilities.DependencyInjection@16.6.8
+- pkg:nuget/HotChocolate.Utilities.DependencyInjection@16.7.0
 - pkg:nuget/HotChocolate.Utilities.DependencyInjection@16.7.0-p.12
 - pkg:nuget/HotChocolate.Utilities.DependencyInjection@16.7.0-p.14
 - pkg:nuget/HotChocolate.Utilities.DependencyInjection@16.7.0-p.18
@@ -529,3 +531,8 @@
 - pkg:nuget/HotChocolate.Utilities.DependencyInjection@16.7.0-p.23
 - pkg:nuget/HotChocolate.Utilities.DependencyInjection@16.7.0-p.25
 - pkg:nuget/HotChocolate.Utilities.DependencyInjection@16.7.0-p.26
+- pkg:nuget/HotChocolate.Utilities.DependencyInjection@16.7.0-p.32
+- pkg:nuget/HotChocolate.Utilities.DependencyInjection@16.7.0-p.33
+- pkg:nuget/HotChocolate.Utilities.DependencyInjection@16.8.0-p.4
+- pkg:nuget/HotChocolate.Utilities.DependencyInjection@16.8.0-p.8
+- pkg:nuget/HotChocolate.Utilities.DependencyInjection@16.8.0-p.9
