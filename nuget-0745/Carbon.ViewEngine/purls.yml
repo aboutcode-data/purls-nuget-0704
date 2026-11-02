@@ -157,6 +157,7 @@
 - pkg:nuget/Carbon.ViewEngine@0.76.0
 - pkg:nuget/Carbon.ViewEngine@0.76.1
 - pkg:nuget/Carbon.ViewEngine@0.77.0
+- pkg:nuget/Carbon.ViewEngine@0.79.0
 - pkg:nuget/Carbon.ViewEngine@0.8.0-alpha
 - pkg:nuget/Carbon.ViewEngine@0.8.1-alpha
 - pkg:nuget/Carbon.ViewEngine@0.8.2-alpha
