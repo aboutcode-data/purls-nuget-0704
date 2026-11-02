@@ -1,3 +1,4 @@
 - pkg:nuget/Quantum.Data.SqlBuilder@1.0.0
 - pkg:nuget/Quantum.Data.SqlBuilder@1.0.1
 - pkg:nuget/Quantum.Data.SqlBuilder@1.0.2
+- pkg:nuget/Quantum.Data.SqlBuilder@1.0.6
