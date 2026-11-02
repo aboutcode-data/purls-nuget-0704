@@ -192,3 +192,4 @@
 - pkg:nuget/FShade.Imperative@5.7.0-prerelease0011
 - pkg:nuget/FShade.Imperative@5.7.0-prerelease0012
 - pkg:nuget/FShade.Imperative@5.7.0-prerelease0013
+- pkg:nuget/FShade.Imperative@5.7.21
