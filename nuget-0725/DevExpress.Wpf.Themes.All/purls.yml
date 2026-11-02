@@ -1,4 +1,5 @@
 - pkg:nuget/DevExpress.Wpf.Themes.All@25.1.12
+- pkg:nuget/DevExpress.Wpf.Themes.All@25.1.15
 - pkg:nuget/DevExpress.Wpf.Themes.All@25.1.6
 - pkg:nuget/DevExpress.Wpf.Themes.All@25.1.7
 - pkg:nuget/DevExpress.Wpf.Themes.All@25.2.10
@@ -7,3 +8,4 @@
 - pkg:nuget/DevExpress.Wpf.Themes.All@26.1.5
 - pkg:nuget/DevExpress.Wpf.Themes.All@26.1.5-pre-26227
 - pkg:nuget/DevExpress.Wpf.Themes.All@26.1.5-pre-26241
+- pkg:nuget/DevExpress.Wpf.Themes.All@26.1.6
