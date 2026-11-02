@@ -121,6 +121,7 @@
 - pkg:nuget/DotNext.Threading@5.9.0
 - pkg:nuget/DotNext.Threading@6.0.0
 - pkg:nuget/DotNext.Threading@6.1.0
+- pkg:nuget/DotNext.Threading@6.11.0
 - pkg:nuget/DotNext.Threading@6.2.1
 - pkg:nuget/DotNext.Threading@6.2.3
 - pkg:nuget/DotNext.Threading@6.4.0
