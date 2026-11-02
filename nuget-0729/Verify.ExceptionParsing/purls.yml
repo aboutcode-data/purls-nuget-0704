@@ -366,3 +366,4 @@
 - pkg:nuget/Verify.ExceptionParsing@33.0.0-beta.4
 - pkg:nuget/Verify.ExceptionParsing@33.0.0-beta.6
 - pkg:nuget/Verify.ExceptionParsing@33.0.0-beta.8
+- pkg:nuget/Verify.ExceptionParsing@33.3.4
