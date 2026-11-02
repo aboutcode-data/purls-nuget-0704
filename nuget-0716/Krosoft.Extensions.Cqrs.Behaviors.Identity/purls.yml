@@ -27,6 +27,9 @@
 - pkg:nuget/Krosoft.Extensions.Cqrs.Behaviors.Identity@2025.9.9.2879
 - pkg:nuget/Krosoft.Extensions.Cqrs.Behaviors.Identity@2026.1.14.5080
 - pkg:nuget/Krosoft.Extensions.Cqrs.Behaviors.Identity@2026.1.20.5199
+- pkg:nuget/Krosoft.Extensions.Cqrs.Behaviors.Identity@2026.10.12.11264
+- pkg:nuget/Krosoft.Extensions.Cqrs.Behaviors.Identity@2026.10.16.11672
+- pkg:nuget/Krosoft.Extensions.Cqrs.Behaviors.Identity@2026.11.2.12414
 - pkg:nuget/Krosoft.Extensions.Cqrs.Behaviors.Identity@2026.3.18.6150
 - pkg:nuget/Krosoft.Extensions.Cqrs.Behaviors.Identity@2026.3.28.6281
 - pkg:nuget/Krosoft.Extensions.Cqrs.Behaviors.Identity@2026.4.17.6672
