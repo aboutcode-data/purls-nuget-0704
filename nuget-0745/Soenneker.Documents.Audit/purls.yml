@@ -177,6 +177,8 @@
 - pkg:nuget/Soenneker.Documents.Audit@1.0.97
 - pkg:nuget/Soenneker.Documents.Audit@1.0.98
 - pkg:nuget/Soenneker.Documents.Audit@1.0.99
+- pkg:nuget/Soenneker.Documents.Audit@11.0.2644
+- pkg:nuget/Soenneker.Documents.Audit@11.0.2645
 - pkg:nuget/Soenneker.Documents.Audit@2.0.1
 - pkg:nuget/Soenneker.Documents.Audit@2.0.181
 - pkg:nuget/Soenneker.Documents.Audit@2.0.182
