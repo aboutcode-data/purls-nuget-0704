@@ -1,3 +1,6 @@
+- pkg:nuget/Soenneker.Blazor.Floating.Tooltips@11.0.825
+- pkg:nuget/Soenneker.Blazor.Floating.Tooltips@11.0.831
+- pkg:nuget/Soenneker.Blazor.Floating.Tooltips@11.0.833
 - pkg:nuget/Soenneker.Blazor.Floating.Tooltips@3.0.1
 - pkg:nuget/Soenneker.Blazor.Floating.Tooltips@3.0.10
 - pkg:nuget/Soenneker.Blazor.Floating.Tooltips@3.0.100
@@ -232,3 +235,8 @@
 - pkg:nuget/Soenneker.Blazor.Floating.Tooltips@4.0.765
 - pkg:nuget/Soenneker.Blazor.Floating.Tooltips@4.0.767
 - pkg:nuget/Soenneker.Blazor.Floating.Tooltips@4.0.768
+- pkg:nuget/Soenneker.Blazor.Floating.Tooltips@4.0.790
+- pkg:nuget/Soenneker.Blazor.Floating.Tooltips@4.0.791
+- pkg:nuget/Soenneker.Blazor.Floating.Tooltips@4.0.792
+- pkg:nuget/Soenneker.Blazor.Floating.Tooltips@4.0.810
+- pkg:nuget/Soenneker.Blazor.Floating.Tooltips@4.0.814
