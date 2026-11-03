@@ -1,1 +1,4 @@
+- pkg:nuget/Eternet.Payments.Settlements.Contracts@1.0.10
 - pkg:nuget/Eternet.Payments.Settlements.Contracts@1.0.3
+- pkg:nuget/Eternet.Payments.Settlements.Contracts@1.0.7
+- pkg:nuget/Eternet.Payments.Settlements.Contracts@1.0.9
