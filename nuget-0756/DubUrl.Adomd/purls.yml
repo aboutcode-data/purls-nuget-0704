@@ -205,6 +205,9 @@
 - pkg:nuget/DubUrl.Adomd@0.3.1
 - pkg:nuget/DubUrl.Adomd@0.3.2
 - pkg:nuget/DubUrl.Adomd@0.3.3
+- pkg:nuget/DubUrl.Adomd@0.35.0
+- pkg:nuget/DubUrl.Adomd@0.36.0
+- pkg:nuget/DubUrl.Adomd@0.39.1
 - pkg:nuget/DubUrl.Adomd@0.4.0
 - pkg:nuget/DubUrl.Adomd@0.4.1
 - pkg:nuget/DubUrl.Adomd@0.4.14
@@ -213,6 +216,8 @@
 - pkg:nuget/DubUrl.Adomd@0.4.4
 - pkg:nuget/DubUrl.Adomd@0.4.5
 - pkg:nuget/DubUrl.Adomd@0.4.6
+- pkg:nuget/DubUrl.Adomd@0.42.1
+- pkg:nuget/DubUrl.Adomd@0.44.0
 - pkg:nuget/DubUrl.Adomd@0.5.0
 - pkg:nuget/DubUrl.Adomd@0.5.1
 - pkg:nuget/DubUrl.Adomd@0.5.11
@@ -220,6 +225,11 @@
 - pkg:nuget/DubUrl.Adomd@0.5.6
 - pkg:nuget/DubUrl.Adomd@0.5.8
 - pkg:nuget/DubUrl.Adomd@0.5.9
+- pkg:nuget/DubUrl.Adomd@0.51.0
+- pkg:nuget/DubUrl.Adomd@0.52.0
+- pkg:nuget/DubUrl.Adomd@0.53.0
+- pkg:nuget/DubUrl.Adomd@0.55.0
+- pkg:nuget/DubUrl.Adomd@0.56.0
 - pkg:nuget/DubUrl.Adomd@0.6.0
 - pkg:nuget/DubUrl.Adomd@0.7.0
 - pkg:nuget/DubUrl.Adomd@0.7.1
