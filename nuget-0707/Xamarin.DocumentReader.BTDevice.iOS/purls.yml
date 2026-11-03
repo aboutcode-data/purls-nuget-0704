@@ -23,6 +23,11 @@
 - pkg:nuget/Xamarin.DocumentReader.BTDevice.iOS@7.6.8-beta
 - pkg:nuget/Xamarin.DocumentReader.BTDevice.iOS@8.3.16-beta
 - pkg:nuget/Xamarin.DocumentReader.BTDevice.iOS@8.4.20-beta
+- pkg:nuget/Xamarin.DocumentReader.BTDevice.iOS@9.10.149-nightly
+- pkg:nuget/Xamarin.DocumentReader.BTDevice.iOS@9.10.154-rc
+- pkg:nuget/Xamarin.DocumentReader.BTDevice.iOS@9.10.160-nightly
+- pkg:nuget/Xamarin.DocumentReader.BTDevice.iOS@9.10.166-rc
+- pkg:nuget/Xamarin.DocumentReader.BTDevice.iOS@9.10.167-rc
 - pkg:nuget/Xamarin.DocumentReader.BTDevice.iOS@9.7.42-beta
 - pkg:nuget/Xamarin.DocumentReader.BTDevice.iOS@9.8.108-rc
 - pkg:nuget/Xamarin.DocumentReader.BTDevice.iOS@9.8.49-rc
@@ -30,6 +35,8 @@
 - pkg:nuget/Xamarin.DocumentReader.BTDevice.iOS@9.8.81-rc
 - pkg:nuget/Xamarin.DocumentReader.BTDevice.iOS@9.8.96-rc
 - pkg:nuget/Xamarin.DocumentReader.BTDevice.iOS@9.9.101-rc
+- pkg:nuget/Xamarin.DocumentReader.BTDevice.iOS@9.9.111-rc
+- pkg:nuget/Xamarin.DocumentReader.BTDevice.iOS@9.9.127-rc
 - pkg:nuget/Xamarin.DocumentReader.BTDevice.iOS@9.9.62-nightly
 - pkg:nuget/Xamarin.DocumentReader.BTDevice.iOS@9.9.79-nightly
 - pkg:nuget/Xamarin.DocumentReader.BTDevice.iOS@9.9.84-rc
