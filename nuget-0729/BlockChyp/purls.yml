@@ -75,6 +75,7 @@
 - pkg:nuget/BlockChyp@2.3.5
 - pkg:nuget/BlockChyp@2.3.6
 - pkg:nuget/BlockChyp@2.3.7
+- pkg:nuget/BlockChyp@2.30.22
 - pkg:nuget/BlockChyp@2.4.0
 - pkg:nuget/BlockChyp@2.5.0
 - pkg:nuget/BlockChyp@2.6.0
