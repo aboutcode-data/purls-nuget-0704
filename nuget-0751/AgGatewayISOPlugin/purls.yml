@@ -72,3 +72,4 @@
 - pkg:nuget/AgGatewayISOPlugin@5.6.1
 - pkg:nuget/AgGatewayISOPlugin@5.6.2
 - pkg:nuget/AgGatewayISOPlugin@5.6.3
+- pkg:nuget/AgGatewayISOPlugin@5.9.0
