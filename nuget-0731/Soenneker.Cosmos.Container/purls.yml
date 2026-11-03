@@ -323,6 +323,7 @@
 - pkg:nuget/Soenneker.Cosmos.Container@11.0.2611
 - pkg:nuget/Soenneker.Cosmos.Container@11.0.2612
 - pkg:nuget/Soenneker.Cosmos.Container@11.0.2614
+- pkg:nuget/Soenneker.Cosmos.Container@11.0.2620
 - pkg:nuget/Soenneker.Cosmos.Container@2.0.1
 - pkg:nuget/Soenneker.Cosmos.Container@2.0.2
 - pkg:nuget/Soenneker.Cosmos.Container@2.0.3
