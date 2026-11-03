@@ -1,4 +1,5 @@
 - pkg:nuget/Nxin.Abp.EventBus.RabbitMq@10.0.0
+- pkg:nuget/Nxin.Abp.EventBus.RabbitMq@10.0.8
 - pkg:nuget/Nxin.Abp.EventBus.RabbitMq@6.0.10
 - pkg:nuget/Nxin.Abp.EventBus.RabbitMq@6.0.11
 - pkg:nuget/Nxin.Abp.EventBus.RabbitMq@6.0.12
