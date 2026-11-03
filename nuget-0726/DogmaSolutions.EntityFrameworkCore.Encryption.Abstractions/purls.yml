@@ -6,3 +6,4 @@
 - pkg:nuget/DogmaSolutions.EntityFrameworkCore.Encryption.Abstractions@5.1.327
 - pkg:nuget/DogmaSolutions.EntityFrameworkCore.Encryption.Abstractions@6.0.336
 - pkg:nuget/DogmaSolutions.EntityFrameworkCore.Encryption.Abstractions@6.0.340
+- pkg:nuget/DogmaSolutions.EntityFrameworkCore.Encryption.Abstractions@6.1.892
