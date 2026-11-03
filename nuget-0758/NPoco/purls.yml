@@ -221,3 +221,4 @@
 - pkg:nuget/NPoco@6.0.0-preview7
 - pkg:nuget/NPoco@6.1.0
 - pkg:nuget/NPoco@6.3.0
+- pkg:nuget/NPoco@6.4.0
