@@ -26,3 +26,4 @@
 - pkg:nuget/Pixata.Blazor.TelerikComponents@12.3.5
 - pkg:nuget/Pixata.Blazor.TelerikComponents@12.3.6
 - pkg:nuget/Pixata.Blazor.TelerikComponents@15.0.0
+- pkg:nuget/Pixata.Blazor.TelerikComponents@15.0.1
