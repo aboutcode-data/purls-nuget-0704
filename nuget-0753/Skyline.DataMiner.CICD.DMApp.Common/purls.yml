@@ -213,3 +213,5 @@
 - pkg:nuget/Skyline.DataMiner.CICD.DMApp.Common@6.0.0-foxtrot
 - pkg:nuget/Skyline.DataMiner.CICD.DMApp.Common@6.1.0
 - pkg:nuget/Skyline.DataMiner.CICD.DMApp.Common@6.3.2-harvesting20261005.1
+- pkg:nuget/Skyline.DataMiner.CICD.DMApp.Common@6.4.1-intelligence.1
+- pkg:nuget/Skyline.DataMiner.CICD.DMApp.Common@6.6.1
