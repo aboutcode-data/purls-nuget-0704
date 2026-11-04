@@ -11,6 +11,7 @@
 - pkg:nuget/ReactiveProperty.Blazor@9.1.0
 - pkg:nuget/ReactiveProperty.Blazor@9.1.1
 - pkg:nuget/ReactiveProperty.Blazor@9.1.2
+- pkg:nuget/ReactiveProperty.Blazor@9.10.0
 - pkg:nuget/ReactiveProperty.Blazor@9.2.0
 - pkg:nuget/ReactiveProperty.Blazor@9.2.0-pre202305241301
 - pkg:nuget/ReactiveProperty.Blazor@9.3.0
