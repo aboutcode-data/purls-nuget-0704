@@ -10,4 +10,6 @@
 - pkg:nuget/PackageGuard@1.6.0
 - pkg:nuget/PackageGuard@1.6.1
 - pkg:nuget/PackageGuard@2.1.1
+- pkg:nuget/PackageGuard@2.10.1
+- pkg:nuget/PackageGuard@2.11.2
 - pkg:nuget/PackageGuard@2.7.0
