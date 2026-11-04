@@ -41,6 +41,15 @@
 - pkg:nuget/Cratis.Chronicle.Aspire@16.6.1
 - pkg:nuget/Cratis.Chronicle.Aspire@18.0.0
 - pkg:nuget/Cratis.Chronicle.Aspire@18.5.0
+- pkg:nuget/Cratis.Chronicle.Aspire@19.102.0
+- pkg:nuget/Cratis.Chronicle.Aspire@19.106.0
+- pkg:nuget/Cratis.Chronicle.Aspire@19.106.7
+- pkg:nuget/Cratis.Chronicle.Aspire@19.108.1
+- pkg:nuget/Cratis.Chronicle.Aspire@19.112.3
+- pkg:nuget/Cratis.Chronicle.Aspire@19.115.0
+- pkg:nuget/Cratis.Chronicle.Aspire@19.115.2
+- pkg:nuget/Cratis.Chronicle.Aspire@19.119.0
+- pkg:nuget/Cratis.Chronicle.Aspire@19.121.0
 - pkg:nuget/Cratis.Chronicle.Aspire@19.15.0
 - pkg:nuget/Cratis.Chronicle.Aspire@19.16.0
 - pkg:nuget/Cratis.Chronicle.Aspire@19.17.0
@@ -68,3 +77,9 @@
 - pkg:nuget/Cratis.Chronicle.Aspire@19.59.5
 - pkg:nuget/Cratis.Chronicle.Aspire@19.6.1
 - pkg:nuget/Cratis.Chronicle.Aspire@19.65.2
+- pkg:nuget/Cratis.Chronicle.Aspire@19.75.0
+- pkg:nuget/Cratis.Chronicle.Aspire@19.76.0
+- pkg:nuget/Cratis.Chronicle.Aspire@19.79.0
+- pkg:nuget/Cratis.Chronicle.Aspire@19.89.0
+- pkg:nuget/Cratis.Chronicle.Aspire@19.92.0
+- pkg:nuget/Cratis.Chronicle.Aspire@19.99.0
