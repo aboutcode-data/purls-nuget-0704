@@ -120,3 +120,5 @@
 - pkg:nuget/Umbraco.Workflow.Core@17.4.0-rc
 - pkg:nuget/Umbraco.Workflow.Core@18.0.0-rc3
 - pkg:nuget/Umbraco.Workflow.Core@18.1.0-rc
+- pkg:nuget/Umbraco.Workflow.Core@18.2.5
+- pkg:nuget/Umbraco.Workflow.Core@18.3.0-rc2
