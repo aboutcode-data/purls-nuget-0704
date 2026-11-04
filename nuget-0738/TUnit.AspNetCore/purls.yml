@@ -26,6 +26,8 @@
 - pkg:nuget/TUnit.AspNetCore@1.70.0
 - pkg:nuget/TUnit.AspNetCore@1.72.0
 - pkg:nuget/TUnit.AspNetCore@1.73.0
+- pkg:nuget/TUnit.AspNetCore@1.73.19
+- pkg:nuget/TUnit.AspNetCore@1.74.0
 - pkg:nuget/TUnit.AspNetCore@1.9.42
 - pkg:nuget/TUnit.AspNetCore@1.9.81
 - pkg:nuget/TUnit.AspNetCore@1.9.85
