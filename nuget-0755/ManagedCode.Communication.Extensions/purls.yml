@@ -6,6 +6,7 @@
 - pkg:nuget/ManagedCode.Communication.Extensions@10.2.9
 - pkg:nuget/ManagedCode.Communication.Extensions@10.3.10
 - pkg:nuget/ManagedCode.Communication.Extensions@10.3.19
+- pkg:nuget/ManagedCode.Communication.Extensions@10.3.22
 - pkg:nuget/ManagedCode.Communication.Extensions@10.3.4
 - pkg:nuget/ManagedCode.Communication.Extensions@2.0.25
 - pkg:nuget/ManagedCode.Communication.Extensions@2.0.26
