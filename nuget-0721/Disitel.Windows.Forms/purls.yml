@@ -55,3 +55,6 @@
 - pkg:nuget/Disitel.Windows.Forms@2.2.1
 - pkg:nuget/Disitel.Windows.Forms@2.2.5
 - pkg:nuget/Disitel.Windows.Forms@2.3.1
+- pkg:nuget/Disitel.Windows.Forms@2.3.9
+- pkg:nuget/Disitel.Windows.Forms@2.4.1
+- pkg:nuget/Disitel.Windows.Forms@2.4.4
