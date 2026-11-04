@@ -12,6 +12,7 @@
 - pkg:nuget/Akc.Base@1.0.7
 - pkg:nuget/Akc.Base@1.0.8
 - pkg:nuget/Akc.Base@1.0.9
+- pkg:nuget/Akc.Base@10.0.2
 - pkg:nuget/Akc.Base@2.0.0
 - pkg:nuget/Akc.Base@2.0.10
 - pkg:nuget/Akc.Base@2.0.11
