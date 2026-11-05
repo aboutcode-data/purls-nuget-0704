@@ -247,3 +247,6 @@
 - pkg:nuget/Pulumi.PulumiService@1.6.0-alpha.1792512051
 - pkg:nuget/Pulumi.PulumiService@1.6.0-alpha.1792513788
 - pkg:nuget/Pulumi.PulumiService@1.7.0-alpha.1793641665
+- pkg:nuget/Pulumi.PulumiService@1.8.0-alpha.1793805998
+- pkg:nuget/Pulumi.PulumiService@1.8.0-alpha.1793806325
+- pkg:nuget/Pulumi.PulumiService@1.8.0-alpha.1793806344
