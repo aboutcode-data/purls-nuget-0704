@@ -191,6 +191,9 @@
 - pkg:nuget/Sufficit.Base@1.26.1024.2002
 - pkg:nuget/Sufficit.Base@1.26.1027.1300
 - pkg:nuget/Sufficit.Base@1.26.1027.1902
+- pkg:nuget/Sufficit.Base@1.26.1104.2036
+- pkg:nuget/Sufficit.Base@1.26.1104.2038
+- pkg:nuget/Sufficit.Base@1.26.1104.2050
 - pkg:nuget/Sufficit.Base@1.26.119.2003
 - pkg:nuget/Sufficit.Base@1.26.327.1229
 - pkg:nuget/Sufficit.Base@1.26.327.1317
