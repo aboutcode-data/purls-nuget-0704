@@ -2,6 +2,7 @@
 - pkg:nuget/TensorStack.WPF@0.13.12
 - pkg:nuget/TensorStack.WPF@0.13.7
 - pkg:nuget/TensorStack.WPF@0.14.3
+- pkg:nuget/TensorStack.WPF@0.14.6
 - pkg:nuget/TensorStack.WPF@0.6.12
 - pkg:nuget/TensorStack.WPF@0.6.20
 - pkg:nuget/TensorStack.WPF@0.6.9
