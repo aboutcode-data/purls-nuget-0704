@@ -2,6 +2,7 @@
 - pkg:nuget/TensorStack.Common@0.13.12
 - pkg:nuget/TensorStack.Common@0.13.7
 - pkg:nuget/TensorStack.Common@0.14.3
+- pkg:nuget/TensorStack.Common@0.14.6
 - pkg:nuget/TensorStack.Common@0.2.1
 - pkg:nuget/TensorStack.Common@0.6.12
 - pkg:nuget/TensorStack.Common@0.6.9
