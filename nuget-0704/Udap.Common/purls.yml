@@ -241,4 +241,5 @@
 - pkg:nuget/Udap.Common@0.9.15
 - pkg:nuget/Udap.Common@0.9.16
 - pkg:nuget/Udap.Common@0.9.18-preview001
+- pkg:nuget/Udap.Common@0.9.20
 - pkg:nuget/Udap.Common@0.9.4
