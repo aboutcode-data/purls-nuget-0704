@@ -2,6 +2,7 @@
 - pkg:nuget/Soenneker.Cloudflare.Security@11.0.536
 - pkg:nuget/Soenneker.Cloudflare.Security@11.0.540
 - pkg:nuget/Soenneker.Cloudflare.Security@11.0.541
+- pkg:nuget/Soenneker.Cloudflare.Security@11.0.555
 - pkg:nuget/Soenneker.Cloudflare.Security@3.0.1
 - pkg:nuget/Soenneker.Cloudflare.Security@3.0.10
 - pkg:nuget/Soenneker.Cloudflare.Security@3.0.100
