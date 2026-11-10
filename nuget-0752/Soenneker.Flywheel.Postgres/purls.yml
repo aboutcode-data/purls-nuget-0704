@@ -3,6 +3,7 @@
 - pkg:nuget/Soenneker.Flywheel.Postgres@11.0.447
 - pkg:nuget/Soenneker.Flywheel.Postgres@11.0.463
 - pkg:nuget/Soenneker.Flywheel.Postgres@11.0.465
+- pkg:nuget/Soenneker.Flywheel.Postgres@11.0.472
 - pkg:nuget/Soenneker.Flywheel.Postgres@5.0.103
 - pkg:nuget/Soenneker.Flywheel.Postgres@5.0.106
 - pkg:nuget/Soenneker.Flywheel.Postgres@5.0.114
