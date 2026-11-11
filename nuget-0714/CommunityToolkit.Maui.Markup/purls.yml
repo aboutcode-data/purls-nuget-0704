@@ -28,3 +28,4 @@
 - pkg:nuget/CommunityToolkit.Maui.Markup@5.1.0
 - pkg:nuget/CommunityToolkit.Maui.Markup@6.0.0
 - pkg:nuget/CommunityToolkit.Maui.Markup@6.0.1
+- pkg:nuget/CommunityToolkit.Maui.Markup@9.0.0
