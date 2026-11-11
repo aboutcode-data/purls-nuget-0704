@@ -1,4 +1,5 @@
 - pkg:nuget/Soenneker.Extensions.Dtos.Email@11.0.507
+- pkg:nuget/Soenneker.Extensions.Dtos.Email@11.0.510
 - pkg:nuget/Soenneker.Extensions.Dtos.Email@3.0.1
 - pkg:nuget/Soenneker.Extensions.Dtos.Email@3.0.10
 - pkg:nuget/Soenneker.Extensions.Dtos.Email@3.0.100
