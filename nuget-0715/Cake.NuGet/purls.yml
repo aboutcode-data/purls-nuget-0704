@@ -55,3 +55,4 @@
 - pkg:nuget/Cake.NuGet@4.2.0
 - pkg:nuget/Cake.NuGet@5.0.0
 - pkg:nuget/Cake.NuGet@6.0.0
+- pkg:nuget/Cake.NuGet@7.0.0
