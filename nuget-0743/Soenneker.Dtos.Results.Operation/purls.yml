@@ -1,4 +1,5 @@
 - pkg:nuget/Soenneker.Dtos.Results.Operation@11.0.84
+- pkg:nuget/Soenneker.Dtos.Results.Operation@11.0.87
 - pkg:nuget/Soenneker.Dtos.Results.Operation@3.0.1
 - pkg:nuget/Soenneker.Dtos.Results.Operation@3.0.2
 - pkg:nuget/Soenneker.Dtos.Results.Operation@3.0.3
