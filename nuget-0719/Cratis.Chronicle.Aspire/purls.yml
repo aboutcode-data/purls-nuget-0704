@@ -58,6 +58,8 @@
 - pkg:nuget/Cratis.Chronicle.Aspire@19.15.0
 - pkg:nuget/Cratis.Chronicle.Aspire@19.151.0
 - pkg:nuget/Cratis.Chronicle.Aspire@19.153.0
+- pkg:nuget/Cratis.Chronicle.Aspire@19.153.1
+- pkg:nuget/Cratis.Chronicle.Aspire@19.153.2
 - pkg:nuget/Cratis.Chronicle.Aspire@19.16.0
 - pkg:nuget/Cratis.Chronicle.Aspire@19.17.0
 - pkg:nuget/Cratis.Chronicle.Aspire@19.21.1
