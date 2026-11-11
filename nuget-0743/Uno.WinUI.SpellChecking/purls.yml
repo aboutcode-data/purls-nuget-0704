@@ -149,6 +149,8 @@
 - pkg:nuget/Uno.WinUI.SpellChecking@7.1.0-dev.160
 - pkg:nuget/Uno.WinUI.SpellChecking@7.1.0-dev.161
 - pkg:nuget/Uno.WinUI.SpellChecking@7.1.0-dev.167
+- pkg:nuget/Uno.WinUI.SpellChecking@7.1.0-dev.170
+- pkg:nuget/Uno.WinUI.SpellChecking@7.1.0-dev.173
 - pkg:nuget/Uno.WinUI.SpellChecking@7.1.0-dev.19
 - pkg:nuget/Uno.WinUI.SpellChecking@7.1.0-dev.27
 - pkg:nuget/Uno.WinUI.SpellChecking@7.1.0-dev.28
