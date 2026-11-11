@@ -20,4 +20,5 @@
 - pkg:nuget/ktsu.ImGui.App.Testing@3.77.2
 - pkg:nuget/ktsu.ImGui.App.Testing@3.78.0
 - pkg:nuget/ktsu.ImGui.App.Testing@3.79.0
+- pkg:nuget/ktsu.ImGui.App.Testing@3.80.0
 - pkg:nuget/ktsu.ImGui.App.Testing@3.9.0
