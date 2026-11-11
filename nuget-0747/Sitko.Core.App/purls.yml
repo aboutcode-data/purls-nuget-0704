@@ -173,6 +173,8 @@
 - pkg:nuget/Sitko.Core.App@12.0.0
 - pkg:nuget/Sitko.Core.App@13.0.0-beta.1
 - pkg:nuget/Sitko.Core.App@13.0.0-beta.2
+- pkg:nuget/Sitko.Core.App@13.1.1
+- pkg:nuget/Sitko.Core.App@13.1.2
 - pkg:nuget/Sitko.Core.App@3.10.0
 - pkg:nuget/Sitko.Core.App@3.11.0
 - pkg:nuget/Sitko.Core.App@3.12.0
