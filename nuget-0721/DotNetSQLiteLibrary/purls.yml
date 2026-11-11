@@ -39,3 +39,4 @@
 - pkg:nuget/DotNetSQLiteLibrary@1.8.1
 - pkg:nuget/DotNetSQLiteLibrary@1.8.1.1
 - pkg:nuget/DotNetSQLiteLibrary@1.9.0
+- pkg:nuget/DotNetSQLiteLibrary@2.1.0
