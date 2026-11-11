@@ -154,3 +154,4 @@
 - pkg:nuget/NuGet.Commands@7.0.0
 - pkg:nuget/NuGet.Commands@7.0.3
 - pkg:nuget/NuGet.Commands@7.3.1
+- pkg:nuget/NuGet.Commands@8.0.0
