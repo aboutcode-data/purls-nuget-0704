@@ -1,3 +1,4 @@
+- pkg:nuget/Soenneker.Google.Geocode@11.0.1250
 - pkg:nuget/Soenneker.Google.Geocode@2.1.1
 - pkg:nuget/Soenneker.Google.Geocode@2.1.10
 - pkg:nuget/Soenneker.Google.Geocode@2.1.100
