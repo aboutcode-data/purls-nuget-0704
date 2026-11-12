@@ -16,6 +16,7 @@
 - pkg:nuget/WebMarkupMin.AspNet4.HttpModules@2.19.0
 - pkg:nuget/WebMarkupMin.AspNet4.HttpModules@2.2.0
 - pkg:nuget/WebMarkupMin.AspNet4.HttpModules@2.2.2
+- pkg:nuget/WebMarkupMin.AspNet4.HttpModules@2.24.0
 - pkg:nuget/WebMarkupMin.AspNet4.HttpModules@2.3.0
 - pkg:nuget/WebMarkupMin.AspNet4.HttpModules@2.4.0
 - pkg:nuget/WebMarkupMin.AspNet4.HttpModules@2.5.0
