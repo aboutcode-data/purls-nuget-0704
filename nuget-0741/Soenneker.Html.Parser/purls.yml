@@ -1,5 +1,7 @@
 - pkg:nuget/Soenneker.Html.Parser@11.0.1411
 - pkg:nuget/Soenneker.Html.Parser@11.0.1421
+- pkg:nuget/Soenneker.Html.Parser@11.0.1435
+- pkg:nuget/Soenneker.Html.Parser@11.0.1440
 - pkg:nuget/Soenneker.Html.Parser@2.1.1
 - pkg:nuget/Soenneker.Html.Parser@2.1.10
 - pkg:nuget/Soenneker.Html.Parser@2.1.11
