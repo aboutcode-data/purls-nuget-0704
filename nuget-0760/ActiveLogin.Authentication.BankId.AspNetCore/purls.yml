@@ -26,6 +26,7 @@
 - pkg:nuget/ActiveLogin.Authentication.BankId.AspNetCore@11.1.0
 - pkg:nuget/ActiveLogin.Authentication.BankId.AspNetCore@11.1.0-rc-1
 - pkg:nuget/ActiveLogin.Authentication.BankId.AspNetCore@12.0.0
+- pkg:nuget/ActiveLogin.Authentication.BankId.AspNetCore@12.1.0
 - pkg:nuget/ActiveLogin.Authentication.BankId.AspNetCore@2.0.0
 - pkg:nuget/ActiveLogin.Authentication.BankId.AspNetCore@2.0.0-rc-1
 - pkg:nuget/ActiveLogin.Authentication.BankId.AspNetCore@2.0.1
