@@ -1,5 +1,8 @@
 - pkg:nuget/Soenneker.Extensions.DateRangeType@11.0.811
 - pkg:nuget/Soenneker.Extensions.DateRangeType@11.0.814
+- pkg:nuget/Soenneker.Extensions.DateRangeType@11.0.823
+- pkg:nuget/Soenneker.Extensions.DateRangeType@11.0.827
+- pkg:nuget/Soenneker.Extensions.DateRangeType@11.0.828
 - pkg:nuget/Soenneker.Extensions.DateRangeType@3.0.1
 - pkg:nuget/Soenneker.Extensions.DateRangeType@3.0.10
 - pkg:nuget/Soenneker.Extensions.DateRangeType@3.0.100
