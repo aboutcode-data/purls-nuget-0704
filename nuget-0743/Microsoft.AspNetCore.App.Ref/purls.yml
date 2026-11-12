@@ -16,6 +16,7 @@
 - pkg:nuget/Microsoft.AspNetCore.App.Ref@11.0.0-preview.4.26230.115
 - pkg:nuget/Microsoft.AspNetCore.App.Ref@11.0.0-preview.5.26302.115
 - pkg:nuget/Microsoft.AspNetCore.App.Ref@11.0.0-rc.1.26425.128
+- pkg:nuget/Microsoft.AspNetCore.App.Ref@11.0.0-rc.3.26522.148
 - pkg:nuget/Microsoft.AspNetCore.App.Ref@3.0.0
 - pkg:nuget/Microsoft.AspNetCore.App.Ref@3.0.0-preview3-19153-02
 - pkg:nuget/Microsoft.AspNetCore.App.Ref@3.0.0-preview4-19216-03
@@ -144,6 +145,8 @@
 - pkg:nuget/Microsoft.AspNetCore.App.Ref@8.0.29
 - pkg:nuget/Microsoft.AspNetCore.App.Ref@8.0.3
 - pkg:nuget/Microsoft.AspNetCore.App.Ref@8.0.32
+- pkg:nuget/Microsoft.AspNetCore.App.Ref@8.0.33
+- pkg:nuget/Microsoft.AspNetCore.App.Ref@8.0.34
 - pkg:nuget/Microsoft.AspNetCore.App.Ref@8.0.4
 - pkg:nuget/Microsoft.AspNetCore.App.Ref@8.0.5
 - pkg:nuget/Microsoft.AspNetCore.App.Ref@8.0.6
@@ -166,6 +169,7 @@
 - pkg:nuget/Microsoft.AspNetCore.App.Ref@9.0.19
 - pkg:nuget/Microsoft.AspNetCore.App.Ref@9.0.2
 - pkg:nuget/Microsoft.AspNetCore.App.Ref@9.0.20
+- pkg:nuget/Microsoft.AspNetCore.App.Ref@9.0.23
 - pkg:nuget/Microsoft.AspNetCore.App.Ref@9.0.3
 - pkg:nuget/Microsoft.AspNetCore.App.Ref@9.0.4
 - pkg:nuget/Microsoft.AspNetCore.App.Ref@9.0.5
