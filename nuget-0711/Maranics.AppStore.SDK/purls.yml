@@ -46,3 +46,4 @@
 - pkg:nuget/Maranics.AppStore.SDK@2.0.0-dev1
 - pkg:nuget/Maranics.AppStore.SDK@2.0.0-dev21
 - pkg:nuget/Maranics.AppStore.SDK@2.0.0-dev2121212
+- pkg:nuget/Maranics.AppStore.SDK@2.5.0
