@@ -747,3 +747,4 @@
 - pkg:nuget/AWSSDK.MigrationHubStrategyRecommendations@4.0.100.5
 - pkg:nuget/AWSSDK.MigrationHubStrategyRecommendations@4.0.100.8
 - pkg:nuget/AWSSDK.MigrationHubStrategyRecommendations@4.0.2.5
+- pkg:nuget/AWSSDK.MigrationHubStrategyRecommendations@4.1.0
