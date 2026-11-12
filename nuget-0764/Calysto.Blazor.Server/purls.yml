@@ -73,6 +73,8 @@
 - pkg:nuget/Calysto.Blazor.Server@1.0.1426
 - pkg:nuget/Calysto.Blazor.Server@1.0.1635
 - pkg:nuget/Calysto.Blazor.Server@1.0.1739
+- pkg:nuget/Calysto.Blazor.Server@1.0.1743
+- pkg:nuget/Calysto.Blazor.Server@1.0.1750
 - pkg:nuget/Calysto.Blazor.Server@1.0.519
 - pkg:nuget/Calysto.Blazor.Server@1.0.520
 - pkg:nuget/Calysto.Blazor.Server@1.0.521
