@@ -1,4 +1,8 @@
 - pkg:nuget/Datalake.ShellModule@1.0.0
+- pkg:nuget/Datalake.ShellModule@1.0.3.103
+- pkg:nuget/Datalake.ShellModule@1.0.3.104
 - pkg:nuget/Datalake.ShellModule@1.0.3.40
 - pkg:nuget/Datalake.ShellModule@1.0.3.49
 - pkg:nuget/Datalake.ShellModule@1.0.3.85
+- pkg:nuget/Datalake.ShellModule@1.0.3.89
+- pkg:nuget/Datalake.ShellModule@1.0.3.91
