@@ -2,6 +2,8 @@
 - pkg:nuget/Soenneker.Graph.Users@11.0.801
 - pkg:nuget/Soenneker.Graph.Users@11.0.810
 - pkg:nuget/Soenneker.Graph.Users@11.0.815
+- pkg:nuget/Soenneker.Graph.Users@11.0.823
+- pkg:nuget/Soenneker.Graph.Users@11.0.825
 - pkg:nuget/Soenneker.Graph.Users@3.0.1
 - pkg:nuget/Soenneker.Graph.Users@3.0.10
 - pkg:nuget/Soenneker.Graph.Users@3.0.100
