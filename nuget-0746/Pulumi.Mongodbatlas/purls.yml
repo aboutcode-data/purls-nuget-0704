@@ -584,6 +584,7 @@
 - pkg:nuget/Pulumi.Mongodbatlas@4.18.0-alpha.1792492170
 - pkg:nuget/Pulumi.Mongodbatlas@4.18.1-alpha.1793126561
 - pkg:nuget/Pulumi.Mongodbatlas@4.2.0-alpha.1768501011
+- pkg:nuget/Pulumi.Mongodbatlas@4.20.0-alpha.1794465657
 - pkg:nuget/Pulumi.Mongodbatlas@4.6.0
 - pkg:nuget/Pulumi.Mongodbatlas@4.6.0-alpha.1773728447
 - pkg:nuget/Pulumi.Mongodbatlas@4.6.0-alpha.1774890654
