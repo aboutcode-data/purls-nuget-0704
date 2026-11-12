@@ -19,3 +19,5 @@
 - pkg:nuget/KubeOps.Aspire@13.3.4
 - pkg:nuget/KubeOps.Aspire@13.3.4-prerelease.3
 - pkg:nuget/KubeOps.Aspire@13.3.6-prerelease.2
+- pkg:nuget/KubeOps.Aspire@14.0.0-prerelease.1
+- pkg:nuget/KubeOps.Aspire@14.0.0-prerelease.4

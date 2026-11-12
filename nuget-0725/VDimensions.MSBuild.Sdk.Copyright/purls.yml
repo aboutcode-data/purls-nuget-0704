@@ -25,4 +25,8 @@
 - pkg:nuget/VDimensions.MSBuild.Sdk.Copyright@0.6.7
 - pkg:nuget/VDimensions.MSBuild.Sdk.Copyright@0.6.8
 - pkg:nuget/VDimensions.MSBuild.Sdk.Copyright@0.6.9
+- pkg:nuget/VDimensions.MSBuild.Sdk.Copyright@0.7.26
+- pkg:nuget/VDimensions.MSBuild.Sdk.Copyright@0.7.30
 - pkg:nuget/VDimensions.MSBuild.Sdk.Copyright@0.7.5
+- pkg:nuget/VDimensions.MSBuild.Sdk.Copyright@0.7.6
+- pkg:nuget/VDimensions.MSBuild.Sdk.Copyright@0.7.7
