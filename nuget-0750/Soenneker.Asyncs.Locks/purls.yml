@@ -1,4 +1,6 @@
 - pkg:nuget/Soenneker.Asyncs.Locks@11.0.116
+- pkg:nuget/Soenneker.Asyncs.Locks@11.0.121
+- pkg:nuget/Soenneker.Asyncs.Locks@11.0.122
 - pkg:nuget/Soenneker.Asyncs.Locks@4.0.102
 - pkg:nuget/Soenneker.Asyncs.Locks@4.0.111
 - pkg:nuget/Soenneker.Asyncs.Locks@4.0.112
