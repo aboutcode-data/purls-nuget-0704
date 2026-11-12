@@ -1,7 +1,15 @@
+- pkg:nuget/Soenneker.Notion.OpenApiClient@11.0.141
+- pkg:nuget/Soenneker.Notion.OpenApiClient@11.0.143
+- pkg:nuget/Soenneker.Notion.OpenApiClient@11.0.145
+- pkg:nuget/Soenneker.Notion.OpenApiClient@11.0.151
+- pkg:nuget/Soenneker.Notion.OpenApiClient@11.0.153
+- pkg:nuget/Soenneker.Notion.OpenApiClient@11.0.155
+- pkg:nuget/Soenneker.Notion.OpenApiClient@11.0.159
 - pkg:nuget/Soenneker.Notion.OpenApiClient@4.0.1
 - pkg:nuget/Soenneker.Notion.OpenApiClient@4.0.102
 - pkg:nuget/Soenneker.Notion.OpenApiClient@4.0.11
 - pkg:nuget/Soenneker.Notion.OpenApiClient@4.0.12
+- pkg:nuget/Soenneker.Notion.OpenApiClient@4.0.132
 - pkg:nuget/Soenneker.Notion.OpenApiClient@4.0.19
 - pkg:nuget/Soenneker.Notion.OpenApiClient@4.0.2
 - pkg:nuget/Soenneker.Notion.OpenApiClient@4.0.3
