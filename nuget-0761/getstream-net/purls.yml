@@ -1,3 +1,8 @@
 - pkg:nuget/getstream-net@1.2.0
 - pkg:nuget/getstream-net@11.0.0
+- pkg:nuget/getstream-net@12.2.0
+- pkg:nuget/getstream-net@15.0.0
+- pkg:nuget/getstream-net@15.1.0
+- pkg:nuget/getstream-net@16.0.1
+- pkg:nuget/getstream-net@16.1.0
 - pkg:nuget/getstream-net@9.0.0

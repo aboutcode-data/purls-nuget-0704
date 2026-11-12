@@ -31,5 +31,7 @@
 - pkg:nuget/BFAdvertisement@1.4.12
 - pkg:nuget/BFAdvertisement@1.4.15
 - pkg:nuget/BFAdvertisement@1.4.16
+- pkg:nuget/BFAdvertisement@1.4.22
+- pkg:nuget/BFAdvertisement@1.4.26
 - pkg:nuget/BFAdvertisement@1.4.3
 - pkg:nuget/BFAdvertisement@1.4.5
