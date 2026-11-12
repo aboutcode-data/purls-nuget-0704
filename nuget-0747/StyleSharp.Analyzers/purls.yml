@@ -23,3 +23,8 @@
 - pkg:nuget/StyleSharp.Analyzers@3.41.8
 - pkg:nuget/StyleSharp.Analyzers@3.42.0
 - pkg:nuget/StyleSharp.Analyzers@3.44.0
+- pkg:nuget/StyleSharp.Analyzers@4.0.0
+- pkg:nuget/StyleSharp.Analyzers@4.0.10
+- pkg:nuget/StyleSharp.Analyzers@4.0.5
+- pkg:nuget/StyleSharp.Analyzers@5.0.3
+- pkg:nuget/StyleSharp.Analyzers@5.1.4
