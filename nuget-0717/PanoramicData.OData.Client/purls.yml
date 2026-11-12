@@ -1,3 +1,5 @@
+- pkg:nuget/PanoramicData.OData.Client@10.0.112
+- pkg:nuget/PanoramicData.OData.Client@10.0.115
 - pkg:nuget/PanoramicData.OData.Client@10.0.61
 - pkg:nuget/PanoramicData.OData.Client@10.0.70
 - pkg:nuget/PanoramicData.OData.Client@6.0.0

@@ -17,3 +17,7 @@
 - pkg:nuget/Vapi@0.0.0-dev.5
 - pkg:nuget/Vapi@0.0.0-dev.6
 - pkg:nuget/Vapi@0.0.0-dev.7
+- pkg:nuget/Vapi@1.0.1-dev.45
+- pkg:nuget/Vapi@1.0.1-dev.50
+- pkg:nuget/Vapi@1.0.1-dev.54
+- pkg:nuget/Vapi@1.0.1-dev.89
