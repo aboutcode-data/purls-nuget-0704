@@ -3,3 +3,6 @@
 - pkg:nuget/Amazon.CDK.CfnPropertyMixins@2.247.0
 - pkg:nuget/Amazon.CDK.CfnPropertyMixins@2.252.0
 - pkg:nuget/Amazon.CDK.CfnPropertyMixins@2.262.1
+- pkg:nuget/Amazon.CDK.CfnPropertyMixins@2.272.0
+- pkg:nuget/Amazon.CDK.CfnPropertyMixins@2.273.0
+- pkg:nuget/Amazon.CDK.CfnPropertyMixins@2.274.0
