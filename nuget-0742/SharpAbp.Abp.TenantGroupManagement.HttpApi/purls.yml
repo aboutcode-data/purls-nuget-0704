@@ -117,3 +117,5 @@
 - pkg:nuget/SharpAbp.Abp.TenantGroupManagement.HttpApi@4.5.6
 - pkg:nuget/SharpAbp.Abp.TenantGroupManagement.HttpApi@4.6.8
 - pkg:nuget/SharpAbp.Abp.TenantGroupManagement.HttpApi@4.6.9
+- pkg:nuget/SharpAbp.Abp.TenantGroupManagement.HttpApi@4.7.5
+- pkg:nuget/SharpAbp.Abp.TenantGroupManagement.HttpApi@6.0.1
