@@ -2,3 +2,6 @@
 - pkg:nuget/HumeAI@0.0.0-dev.5
 - pkg:nuget/HumeAI@0.0.0-dev.6
 - pkg:nuget/HumeAI@0.0.0-dev.7
+- pkg:nuget/HumeAI@1.0.2-dev.1
+- pkg:nuget/HumeAI@1.0.2-dev.18
+- pkg:nuget/HumeAI@1.0.2-dev.6
