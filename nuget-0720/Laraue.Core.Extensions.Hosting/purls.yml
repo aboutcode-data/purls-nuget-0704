@@ -1,4 +1,5 @@
 - pkg:nuget/Laraue.Core.Extensions.Hosting@10.5.0
+- pkg:nuget/Laraue.Core.Extensions.Hosting@10.6.0
 - pkg:nuget/Laraue.Core.Extensions.Hosting@7.0.0
 - pkg:nuget/Laraue.Core.Extensions.Hosting@7.0.1
 - pkg:nuget/Laraue.Core.Extensions.Hosting@7.0.2
