@@ -231,6 +231,7 @@
 - pkg:nuget/DubUrl.Adomd@0.55.0
 - pkg:nuget/DubUrl.Adomd@0.56.0
 - pkg:nuget/DubUrl.Adomd@0.6.0
+- pkg:nuget/DubUrl.Adomd@0.64.0
 - pkg:nuget/DubUrl.Adomd@0.7.0
 - pkg:nuget/DubUrl.Adomd@0.7.1
 - pkg:nuget/DubUrl.Adomd@0.7.2
