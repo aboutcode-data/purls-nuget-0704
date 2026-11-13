@@ -24,6 +24,7 @@
 - pkg:nuget/Plugin.AdMob@1.3.1-beta.2502021237
 - pkg:nuget/Plugin.AdMob@1.3.1-beta.7
 - pkg:nuget/Plugin.AdMob@10.0.120.2
+- pkg:nuget/Plugin.AdMob@10.0.130
 - pkg:nuget/Plugin.AdMob@2.0.0
 - pkg:nuget/Plugin.AdMob@2.0.1-beta.1
 - pkg:nuget/Plugin.AdMob@2.0.1-beta.2
