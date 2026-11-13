@@ -17,3 +17,5 @@
 - pkg:nuget/DependencyModules.Testing@1.0.0-RC9042
 - pkg:nuget/DependencyModules.Testing@1.0.0-RC9044
 - pkg:nuget/DependencyModules.Testing@1.0.0-rc9230
+- pkg:nuget/DependencyModules.Testing@1.2.1
+- pkg:nuget/DependencyModules.Testing@1.6.1
