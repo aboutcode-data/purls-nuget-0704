@@ -16,6 +16,7 @@
 - pkg:nuget/Enigmatry.Entry.AspNetCore.Tests.Utilities@10.2.3
 - pkg:nuget/Enigmatry.Entry.AspNetCore.Tests.Utilities@10.3.0
 - pkg:nuget/Enigmatry.Entry.AspNetCore.Tests.Utilities@10.4.0
+- pkg:nuget/Enigmatry.Entry.AspNetCore.Tests.Utilities@10.6.0
 - pkg:nuget/Enigmatry.Entry.AspNetCore.Tests.Utilities@2.0.0
 - pkg:nuget/Enigmatry.Entry.AspNetCore.Tests.Utilities@2.0.0-preview
 - pkg:nuget/Enigmatry.Entry.AspNetCore.Tests.Utilities@2.0.0-preview.1
