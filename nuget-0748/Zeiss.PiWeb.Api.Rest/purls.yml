@@ -1,3 +1,5 @@
+- pkg:nuget/Zeiss.PiWeb.Api.Rest@10.1.0
+- pkg:nuget/Zeiss.PiWeb.Api.Rest@10.1.0-beta0001-271
 - pkg:nuget/Zeiss.PiWeb.Api.Rest@6.0.0
 - pkg:nuget/Zeiss.PiWeb.Api.Rest@6.0.1
 - pkg:nuget/Zeiss.PiWeb.Api.Rest@6.1.0
