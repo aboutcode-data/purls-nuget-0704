@@ -1,5 +1,8 @@
 - pkg:nuget/Soenneker.Extensions.DateTimeOffsets.Suite@11.0.571
 - pkg:nuget/Soenneker.Extensions.DateTimeOffsets.Suite@11.0.576
+- pkg:nuget/Soenneker.Extensions.DateTimeOffsets.Suite@11.0.579
+- pkg:nuget/Soenneker.Extensions.DateTimeOffsets.Suite@11.0.582
+- pkg:nuget/Soenneker.Extensions.DateTimeOffsets.Suite@11.0.586
 - pkg:nuget/Soenneker.Extensions.DateTimeOffsets.Suite@4.0.129
 - pkg:nuget/Soenneker.Extensions.DateTimeOffsets.Suite@4.0.162
 - pkg:nuget/Soenneker.Extensions.DateTimeOffsets.Suite@4.0.168
