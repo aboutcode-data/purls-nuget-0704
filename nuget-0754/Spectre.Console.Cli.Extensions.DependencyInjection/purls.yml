@@ -33,6 +33,8 @@
 - pkg:nuget/Spectre.Console.Cli.Extensions.DependencyInjection@0.31.0
 - pkg:nuget/Spectre.Console.Cli.Extensions.DependencyInjection@0.31.1-preview.0.1
 - pkg:nuget/Spectre.Console.Cli.Extensions.DependencyInjection@0.31.1-preview.0.2
+- pkg:nuget/Spectre.Console.Cli.Extensions.DependencyInjection@0.33.1-preview.0.1
+- pkg:nuget/Spectre.Console.Cli.Extensions.DependencyInjection@0.34.0
 - pkg:nuget/Spectre.Console.Cli.Extensions.DependencyInjection@0.4.0
 - pkg:nuget/Spectre.Console.Cli.Extensions.DependencyInjection@0.4.1-preview.0.1
 - pkg:nuget/Spectre.Console.Cli.Extensions.DependencyInjection@0.4.1-preview.0.2
