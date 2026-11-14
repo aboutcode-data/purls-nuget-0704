@@ -1,4 +1,6 @@
 - pkg:nuget/Clean.Core@1.0.0-beta001
+- pkg:nuget/Clean.Core@19.0.0-beta01
+- pkg:nuget/Clean.Core@19.0.0-rc02
 - pkg:nuget/Clean.Core@2.0.0
 - pkg:nuget/Clean.Core@2.0.0-beta002
 - pkg:nuget/Clean.Core@2.0.1
