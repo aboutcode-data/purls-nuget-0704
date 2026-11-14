@@ -9,3 +9,5 @@
 - pkg:nuget/Zespy.Ndis.SupportCatalogue.Client@1.55.0-dev.3
 - pkg:nuget/Zespy.Ndis.SupportCatalogue.Client@1.56.0
 - pkg:nuget/Zespy.Ndis.SupportCatalogue.Client@1.57.0-dev.3
+- pkg:nuget/Zespy.Ndis.SupportCatalogue.Client@1.70.5
+- pkg:nuget/Zespy.Ndis.SupportCatalogue.Client@1.72.1
