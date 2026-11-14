@@ -29,3 +29,8 @@
 - pkg:nuget/LightPath.Cargo@2.0.4.4
 - pkg:nuget/LightPath.Cargo@2.0.4.6
 - pkg:nuget/LightPath.Cargo@2.0.4.7
+- pkg:nuget/LightPath.Cargo@3.1.10
+- pkg:nuget/LightPath.Cargo@3.1.3
+- pkg:nuget/LightPath.Cargo@3.1.5
+- pkg:nuget/LightPath.Cargo@3.1.6
+- pkg:nuget/LightPath.Cargo@3.1.8
