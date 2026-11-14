@@ -1,4 +1,6 @@
 - pkg:nuget/UGestor.Util@1.2.0.1
 - pkg:nuget/UGestor.Util@1.2.2.1
 - pkg:nuget/UGestor.Util@3.0.0.1
+- pkg:nuget/UGestor.Util@4.2.0.221
+- pkg:nuget/UGestor.Util@4.2.0.389
 - pkg:nuget/UGestor.Util@4.2.0.69

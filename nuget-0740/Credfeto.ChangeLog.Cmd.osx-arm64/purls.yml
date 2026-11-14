@@ -244,3 +244,5 @@
 - pkg:nuget/Credfeto.ChangeLog.Cmd.osx-arm64@1.10.214.2877-changelog-mcp-s
 - pkg:nuget/Credfeto.ChangeLog.Cmd.osx-arm64@1.10.216.2897-mcp-repo-root
 - pkg:nuget/Credfeto.ChangeLog.Cmd.osx-arm64@1.10.216.2898-main
+- pkg:nuget/Credfeto.ChangeLog.Cmd.osx-arm64@1.10.216.2909
+- pkg:nuget/Credfeto.ChangeLog.Cmd.osx-arm64@1.10.217.2908-main
