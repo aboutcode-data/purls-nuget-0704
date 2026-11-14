@@ -1,5 +1,11 @@
 - pkg:nuget/Asteroid.Cli@1.12.0
+- pkg:nuget/Asteroid.Cli@1.14.0
 - pkg:nuget/Asteroid.Cli@1.2.0
 - pkg:nuget/Asteroid.Cli@1.3.0
+- pkg:nuget/Asteroid.Cli@1.31.0
+- pkg:nuget/Asteroid.Cli@1.38.0
+- pkg:nuget/Asteroid.Cli@1.39.0
+- pkg:nuget/Asteroid.Cli@1.40.0
+- pkg:nuget/Asteroid.Cli@1.44.2
 - pkg:nuget/Asteroid.Cli@1.6.1
 - pkg:nuget/Asteroid.Cli@1.6.2

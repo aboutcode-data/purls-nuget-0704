@@ -1,1 +1,16 @@
 - pkg:nuget/Lakona.Rpc.Core@0.13.0
+- pkg:nuget/Lakona.Rpc.Core@0.13.1
+- pkg:nuget/Lakona.Rpc.Core@0.13.10
+- pkg:nuget/Lakona.Rpc.Core@0.13.13
+- pkg:nuget/Lakona.Rpc.Core@0.13.2
+- pkg:nuget/Lakona.Rpc.Core@0.13.3
+- pkg:nuget/Lakona.Rpc.Core@0.13.4
+- pkg:nuget/Lakona.Rpc.Core@0.13.5
+- pkg:nuget/Lakona.Rpc.Core@0.13.6
+- pkg:nuget/Lakona.Rpc.Core@0.13.8
+- pkg:nuget/Lakona.Rpc.Core@0.13.9
+- pkg:nuget/Lakona.Rpc.Core@0.14.11
+- pkg:nuget/Lakona.Rpc.Core@0.15.0
+- pkg:nuget/Lakona.Rpc.Core@0.16.3
+- pkg:nuget/Lakona.Rpc.Core@0.16.4
+- pkg:nuget/Lakona.Rpc.Core@0.16.7
