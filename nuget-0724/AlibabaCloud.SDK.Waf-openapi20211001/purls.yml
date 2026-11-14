@@ -47,3 +47,5 @@
 - pkg:nuget/AlibabaCloud.SDK.Waf-openapi20211001@7.0.3
 - pkg:nuget/AlibabaCloud.SDK.Waf-openapi20211001@7.1.0
 - pkg:nuget/AlibabaCloud.SDK.Waf-openapi20211001@7.7.0
+- pkg:nuget/AlibabaCloud.SDK.Waf-openapi20211001@7.8.8
+- pkg:nuget/AlibabaCloud.SDK.Waf-openapi20211001@7.9.0
