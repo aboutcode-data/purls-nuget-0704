@@ -63,3 +63,4 @@
 - pkg:nuget/IbanNet.DataAnnotations@5.8.0
 - pkg:nuget/IbanNet.DataAnnotations@5.8.1
 - pkg:nuget/IbanNet.DataAnnotations@5.9.0
+- pkg:nuget/IbanNet.DataAnnotations@6.2.1
