@@ -1,3 +1,10 @@
+- pkg:nuget/Soenneker.Docker.Registry.OpenApiClientUtil@11.0.101
+- pkg:nuget/Soenneker.Docker.Registry.OpenApiClientUtil@11.0.107
+- pkg:nuget/Soenneker.Docker.Registry.OpenApiClientUtil@11.0.108
+- pkg:nuget/Soenneker.Docker.Registry.OpenApiClientUtil@11.0.110
+- pkg:nuget/Soenneker.Docker.Registry.OpenApiClientUtil@11.0.111
+- pkg:nuget/Soenneker.Docker.Registry.OpenApiClientUtil@11.0.114
+- pkg:nuget/Soenneker.Docker.Registry.OpenApiClientUtil@11.0.99
 - pkg:nuget/Soenneker.Docker.Registry.OpenApiClientUtil@4.0.18
 - pkg:nuget/Soenneker.Docker.Registry.OpenApiClientUtil@4.0.23
 - pkg:nuget/Soenneker.Docker.Registry.OpenApiClientUtil@4.0.29
@@ -8,3 +15,4 @@
 - pkg:nuget/Soenneker.Docker.Registry.OpenApiClientUtil@4.0.55
 - pkg:nuget/Soenneker.Docker.Registry.OpenApiClientUtil@4.0.61
 - pkg:nuget/Soenneker.Docker.Registry.OpenApiClientUtil@4.0.72
+- pkg:nuget/Soenneker.Docker.Registry.OpenApiClientUtil@4.0.79
