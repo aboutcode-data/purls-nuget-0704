@@ -4,6 +4,7 @@
 - pkg:nuget/Soenneker.Vercel.OpenApiClient@11.0.199
 - pkg:nuget/Soenneker.Vercel.OpenApiClient@11.0.200
 - pkg:nuget/Soenneker.Vercel.OpenApiClient@11.0.206
+- pkg:nuget/Soenneker.Vercel.OpenApiClient@11.0.221
 - pkg:nuget/Soenneker.Vercel.OpenApiClient@4.0.10
 - pkg:nuget/Soenneker.Vercel.OpenApiClient@4.0.109
 - pkg:nuget/Soenneker.Vercel.OpenApiClient@4.0.11
