@@ -31,6 +31,7 @@
 - pkg:nuget/Etherna.MongoDB.Driver@2.29.0
 - pkg:nuget/Etherna.MongoDB.Driver@3.0.1
 - pkg:nuget/Etherna.MongoDB.Driver@3.1.0
+- pkg:nuget/Etherna.MongoDB.Driver@3.14.0
 - pkg:nuget/Etherna.MongoDB.Driver@3.2.100
 - pkg:nuget/Etherna.MongoDB.Driver@3.2.101
 - pkg:nuget/Etherna.MongoDB.Driver@3.2.2
