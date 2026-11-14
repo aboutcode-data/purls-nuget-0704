@@ -1,5 +1,10 @@
+- pkg:nuget/WW.Cad.Avalonia_Net8.0@8.0.2025.1051-trial
+- pkg:nuget/WW.Cad.Avalonia_Net8.0@8.0.2025.11131-trial
 - pkg:nuget/WW.Cad.Avalonia_Net8.0@8.0.2025.11262-trial
+- pkg:nuget/WW.Cad.Avalonia_Net8.0@8.0.2025.12101-trial
+- pkg:nuget/WW.Cad.Avalonia_Net8.0@8.0.2025.12102-trial
 - pkg:nuget/WW.Cad.Avalonia_Net8.0@8.0.2025.1221-trial
+- pkg:nuget/WW.Cad.Avalonia_Net8.0@8.0.2025.12241-trial
 - pkg:nuget/WW.Cad.Avalonia_Net8.0@8.0.2025.1231-trial
 - pkg:nuget/WW.Cad.Avalonia_Net8.0@8.0.2025.1232-trial
 - pkg:nuget/WW.Cad.Avalonia_Net8.0@8.0.2025.1241-trial
@@ -11,5 +16,10 @@
 - pkg:nuget/WW.Cad.Avalonia_Net8.0@8.0.2025.6042-trial
 - pkg:nuget/WW.Cad.Avalonia_Net8.0@8.0.2025.7041-trial
 - pkg:nuget/WW.Cad.Avalonia_Net8.0@8.0.2025.7232-trial
+- pkg:nuget/WW.Cad.Avalonia_Net8.0@8.0.2026.1271-trial
 - pkg:nuget/WW.Cad.Avalonia_Net8.0@8.0.2026.2021-trial
+- pkg:nuget/WW.Cad.Avalonia_Net8.0@8.0.2026.2031-trial
+- pkg:nuget/WW.Cad.Avalonia_Net8.0@8.0.2026.2162-trial
 - pkg:nuget/WW.Cad.Avalonia_Net8.0@8.0.2026.8041-trial
+- pkg:nuget/WW.Cad.Avalonia_Net8.0@8.0.2026.9081-trial
+- pkg:nuget/WW.Cad.Avalonia_Net8.0@8.0.2026.9091-trial
