@@ -51,3 +51,5 @@
 - pkg:nuget/SharpAbp.Abp.Faster@4.5.6
 - pkg:nuget/SharpAbp.Abp.Faster@4.6.8
 - pkg:nuget/SharpAbp.Abp.Faster@4.6.9
+- pkg:nuget/SharpAbp.Abp.Faster@4.7.5
+- pkg:nuget/SharpAbp.Abp.Faster@6.0.1
