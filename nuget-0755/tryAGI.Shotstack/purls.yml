@@ -1,4 +1,12 @@
+- pkg:nuget/tryAGI.Shotstack@0.0.0-dev.36
 - pkg:nuget/tryAGI.Shotstack@0.0.0-dev.5
 - pkg:nuget/tryAGI.Shotstack@0.0.0-dev.6
 - pkg:nuget/tryAGI.Shotstack@0.0.0-dev.7
 - pkg:nuget/tryAGI.Shotstack@0.0.0-dev.9
+- pkg:nuget/tryAGI.Shotstack@1.0.1-dev.27
+- pkg:nuget/tryAGI.Shotstack@1.0.1-dev.37
+- pkg:nuget/tryAGI.Shotstack@1.0.1-dev.45
+- pkg:nuget/tryAGI.Shotstack@1.0.1-dev.46
+- pkg:nuget/tryAGI.Shotstack@1.0.1-dev.49
+- pkg:nuget/tryAGI.Shotstack@1.0.1-dev.51
+- pkg:nuget/tryAGI.Shotstack@1.0.1-dev.53

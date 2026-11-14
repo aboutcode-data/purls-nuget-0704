@@ -1,0 +1,5 @@
+- pkg:nuget/PulseTrade.Shared.fs@1.571.101.302-win1
+- pkg:nuget/PulseTrade.Shared.fs@1.571.101.302-win13
+- pkg:nuget/PulseTrade.Shared.fs@1.571.101.302-win7
+- pkg:nuget/PulseTrade.Shared.fs@1.571.101.302-win8
+- pkg:nuget/PulseTrade.Shared.fs@1.571.101.302-win9
