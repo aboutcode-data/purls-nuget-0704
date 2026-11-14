@@ -128,3 +128,4 @@
 - pkg:nuget/Zerra@5.1.9
 - pkg:nuget/Zerra@5.2.4
 - pkg:nuget/Zerra@6.0.0-rc.1
+- pkg:nuget/Zerra@6.0.0-rc.8
