@@ -3,3 +3,5 @@
 - pkg:nuget/FFmpegKit.Net.HttpsGpl.iOS@8.1.2.2-beta.7.21
 - pkg:nuget/FFmpegKit.Net.HttpsGpl.iOS@8.1.2.3-beta.10.24
 - pkg:nuget/FFmpegKit.Net.HttpsGpl.iOS@8.1.2.3-beta.11.25
+- pkg:nuget/FFmpegKit.Net.HttpsGpl.iOS@8.1.2.3-beta.13.29
+- pkg:nuget/FFmpegKit.Net.HttpsGpl.iOS@8.1.2.3-beta.15.31
