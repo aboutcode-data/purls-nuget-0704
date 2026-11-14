@@ -1,1 +1,3 @@
 - pkg:nuget/FoxCart.Core@1.0.4
+- pkg:nuget/FoxCart.Core@2.4.0
+- pkg:nuget/FoxCart.Core@2.8.0-preview.1
