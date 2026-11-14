@@ -69,3 +69,4 @@
 - pkg:nuget/OpenIddict.Validation.ServerIntegration@7.1.0
 - pkg:nuget/OpenIddict.Validation.ServerIntegration@7.2.0
 - pkg:nuget/OpenIddict.Validation.ServerIntegration@7.3.0
+- pkg:nuget/OpenIddict.Validation.ServerIntegration@8.0.0-preview.6.26564.67
