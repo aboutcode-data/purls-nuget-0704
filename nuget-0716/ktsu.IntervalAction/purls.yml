@@ -36,3 +36,5 @@
 - pkg:nuget/ktsu.IntervalAction@1.4.6
 - pkg:nuget/ktsu.IntervalAction@1.4.7-pre.1
 - pkg:nuget/ktsu.IntervalAction@1.6.1-pre.1
+- pkg:nuget/ktsu.IntervalAction@1.7.0
+- pkg:nuget/ktsu.IntervalAction@1.7.1-pre.2
