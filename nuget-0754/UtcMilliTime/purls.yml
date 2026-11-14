@@ -2,3 +2,5 @@
 - pkg:nuget/UtcMilliTime@1.0.1
 - pkg:nuget/UtcMilliTime@2.0.0
 - pkg:nuget/UtcMilliTime@2.2.0
+- pkg:nuget/UtcMilliTime@3.0.0
+- pkg:nuget/UtcMilliTime@3.0.1
