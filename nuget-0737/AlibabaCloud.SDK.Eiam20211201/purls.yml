@@ -27,3 +27,4 @@
 - pkg:nuget/AlibabaCloud.SDK.Eiam20211201@1.8.5
 - pkg:nuget/AlibabaCloud.SDK.Eiam20211201@1.9.0
 - pkg:nuget/AlibabaCloud.SDK.Eiam20211201@2.0.0
+- pkg:nuget/AlibabaCloud.SDK.Eiam20211201@2.1.2
