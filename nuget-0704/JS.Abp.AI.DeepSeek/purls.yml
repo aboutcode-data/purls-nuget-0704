@@ -1,3 +1,5 @@
+- pkg:nuget/JS.Abp.AI.DeepSeek@10.6.1
+- pkg:nuget/JS.Abp.AI.DeepSeek@10.6.2
 - pkg:nuget/JS.Abp.AI.DeepSeek@9.0.5
 - pkg:nuget/JS.Abp.AI.DeepSeek@9.0.6
 - pkg:nuget/JS.Abp.AI.DeepSeek@9.1.0
