@@ -15,6 +15,7 @@
 - pkg:nuget/PolySharp@1.14.0%2B2a6e35e675b50de59bd2638db833e7d942b06631
 - pkg:nuget/PolySharp@1.14.1%2Ba7a92a9ddd050275c91c42b711d22cb41c3fbf3d
 - pkg:nuget/PolySharp@1.15.0%2B02753db24d9685e54db06739eb63183d86eb5b62
+- pkg:nuget/PolySharp@1.17.1%2B3cf93c5e434d14007ba55c569223cbd517edac65
 - pkg:nuget/PolySharp@1.2.0%2B5578d33a96e91f763cbb128e6d9463c41b1bb57a
 - pkg:nuget/PolySharp@1.3.0%2B6a2efbbea40172b38fa57f0e72bd8daadfaaebbe
 - pkg:nuget/PolySharp@1.4.0%2Bc755fd66e3a28e7505771264cf7d593d11887904
