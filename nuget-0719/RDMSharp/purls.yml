@@ -4,6 +4,8 @@
 - pkg:nuget/RDMSharp@0.0.12
 - pkg:nuget/RDMSharp@0.0.13
 - pkg:nuget/RDMSharp@0.0.14
+- pkg:nuget/RDMSharp@0.0.16
+- pkg:nuget/RDMSharp@0.0.17
 - pkg:nuget/RDMSharp@0.0.2
 - pkg:nuget/RDMSharp@0.0.3
 - pkg:nuget/RDMSharp@0.0.4
