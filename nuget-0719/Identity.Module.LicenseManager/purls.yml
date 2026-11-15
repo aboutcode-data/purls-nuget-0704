@@ -2,6 +2,9 @@
 - pkg:nuget/Identity.Module.LicenseManager@2.5.113
 - pkg:nuget/Identity.Module.LicenseManager@2.5.114
 - pkg:nuget/Identity.Module.LicenseManager@2.5.115
+- pkg:nuget/Identity.Module.LicenseManager@2.5.128
+- pkg:nuget/Identity.Module.LicenseManager@2.5.131
+- pkg:nuget/Identity.Module.LicenseManager@2.5.134
 - pkg:nuget/Identity.Module.LicenseManager@2.5.27
 - pkg:nuget/Identity.Module.LicenseManager@2.5.28
 - pkg:nuget/Identity.Module.LicenseManager@2.5.29
