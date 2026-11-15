@@ -1,3 +1,5 @@
+- pkg:nuget/PaketLocalUpdate@10.10.0.17%2B062e70281f
+- pkg:nuget/PaketLocalUpdate@11.10.0.17%2B062e70281f
 - pkg:nuget/PaketLocalUpdate@3.8.1%2B2babee2ca3
 - pkg:nuget/PaketLocalUpdate@3.8.1-u20221128-150657-ci%2B2babee2ca3
 - pkg:nuget/PaketLocalUpdate@3.8.1.1%2B77844e10ec
@@ -197,6 +199,7 @@
 - pkg:nuget/PaketLocalUpdate@8.10.0.1%2Bac7ac72345
 - pkg:nuget/PaketLocalUpdate@8.10.0.1-u20231128-233126-ci%2Bac7ac72345
 - pkg:nuget/PaketLocalUpdate@8.10.0.10-u20250427-204945-ci%2B0c15b0f811
+- pkg:nuget/PaketLocalUpdate@8.10.0.17%2B062e70281f
 - pkg:nuget/PaketLocalUpdate@8.10.0.2%2B643877f556
 - pkg:nuget/PaketLocalUpdate@8.10.0.3%2Bfdbaa4ae2d
 - pkg:nuget/PaketLocalUpdate@8.10.0.4%2B05adecff30
@@ -238,4 +241,5 @@
 - pkg:nuget/PaketLocalUpdate@8.9.0-u20231128-211852-ci%2B4d797de8a2
 - pkg:nuget/PaketLocalUpdate@8.9.0-u20231128-212720-ci%2Be9580ae6fc
 - pkg:nuget/PaketLocalUpdate@9.10.0.10-u20250427-204945-ci%2B0c15b0f811
+- pkg:nuget/PaketLocalUpdate@9.10.0.17%2B062e70281f
 - pkg:nuget/PaketLocalUpdate@9.10.0.9%2Bce8376dd1c
