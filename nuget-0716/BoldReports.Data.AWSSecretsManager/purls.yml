@@ -6,3 +6,5 @@
 - pkg:nuget/BoldReports.Data.AWSSecretsManager@14.1.12
 - pkg:nuget/BoldReports.Data.AWSSecretsManager@14.1.18
 - pkg:nuget/BoldReports.Data.AWSSecretsManager@14.1.19
+- pkg:nuget/BoldReports.Data.AWSSecretsManager@14.1.23
+- pkg:nuget/BoldReports.Data.AWSSecretsManager@15.1.16
