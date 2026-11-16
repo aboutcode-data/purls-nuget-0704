@@ -1,3 +1,4 @@
 - pkg:nuget/VpnHood.Net.VpnAdapters.WinDivert@8.2.852
 - pkg:nuget/VpnHood.Net.VpnAdapters.WinDivert@9.0.855
 - pkg:nuget/VpnHood.Net.VpnAdapters.WinDivert@9.0.857
+- pkg:nuget/VpnHood.Net.VpnAdapters.WinDivert@9.1.875
