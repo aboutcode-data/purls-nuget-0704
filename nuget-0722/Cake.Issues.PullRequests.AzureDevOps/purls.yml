@@ -47,3 +47,4 @@
 - pkg:nuget/Cake.Issues.PullRequests.AzureDevOps@5.8.0
 - pkg:nuget/Cake.Issues.PullRequests.AzureDevOps@5.9.0
 - pkg:nuget/Cake.Issues.PullRequests.AzureDevOps@5.9.1
+- pkg:nuget/Cake.Issues.PullRequests.AzureDevOps@7.0.0-beta0001
