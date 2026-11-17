@@ -126,3 +126,5 @@
 - pkg:nuget/Credfeto.DotNet.Code.Analysis.Overrides.Cmd.linux-x64@1.0.5.946-main
 - pkg:nuget/Credfeto.DotNet.Code.Analysis.Overrides.Cmd.linux-x64@1.0.5.952-main
 - pkg:nuget/Credfeto.DotNet.Code.Analysis.Overrides.Cmd.linux-x64@1.0.5.953-main
+- pkg:nuget/Credfeto.DotNet.Code.Analysis.Overrides.Cmd.linux-x64@1.0.5.961-main
+- pkg:nuget/Credfeto.DotNet.Code.Analysis.Overrides.Cmd.linux-x64@1.0.5.962-main
