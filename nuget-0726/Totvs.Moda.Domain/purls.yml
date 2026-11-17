@@ -96,6 +96,7 @@
 - pkg:nuget/Totvs.Moda.Domain@1.9.7
 - pkg:nuget/Totvs.Moda.Domain@1.9.8
 - pkg:nuget/Totvs.Moda.Domain@1.9.9
+- pkg:nuget/Totvs.Moda.Domain@10.0.1
 - pkg:nuget/Totvs.Moda.Domain@2.0.0
 - pkg:nuget/Totvs.Moda.Domain@2.0.1
 - pkg:nuget/Totvs.Moda.Domain@2.0.2
