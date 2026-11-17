@@ -7,6 +7,7 @@
 - pkg:nuget/Volo.Abp.Identity.Installer@10.7.0-rc.2
 - pkg:nuget/Volo.Abp.Identity.Installer@10.7.0-rc.3
 - pkg:nuget/Volo.Abp.Identity.Installer@10.7.0-rc.5
+- pkg:nuget/Volo.Abp.Identity.Installer@11.0.0-rc.3
 - pkg:nuget/Volo.Abp.Identity.Installer@5.0.0
 - pkg:nuget/Volo.Abp.Identity.Installer@5.0.0-beta.2
 - pkg:nuget/Volo.Abp.Identity.Installer@5.0.0-beta.3
