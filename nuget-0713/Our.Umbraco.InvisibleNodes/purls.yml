@@ -8,6 +8,7 @@
 - pkg:nuget/Our.Umbraco.InvisibleNodes@13.0.0
 - pkg:nuget/Our.Umbraco.InvisibleNodes@15.0.0-beta
 - pkg:nuget/Our.Umbraco.InvisibleNodes@16.0.0-beta
+- pkg:nuget/Our.Umbraco.InvisibleNodes@17.1.0
 - pkg:nuget/Our.Umbraco.InvisibleNodes@2.0.0
 - pkg:nuget/Our.Umbraco.InvisibleNodes@2.0.1
 - pkg:nuget/Our.Umbraco.InvisibleNodes@2.0.2
