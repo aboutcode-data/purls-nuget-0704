@@ -51,6 +51,7 @@
 - pkg:nuget/Aspose.Words.Shaping.HarfBuzz.Cpp@25.6.0
 - pkg:nuget/Aspose.Words.Shaping.HarfBuzz.Cpp@25.7.0
 - pkg:nuget/Aspose.Words.Shaping.HarfBuzz.Cpp@25.8.0
+- pkg:nuget/Aspose.Words.Shaping.HarfBuzz.Cpp@26.10.0
 - pkg:nuget/Aspose.Words.Shaping.HarfBuzz.Cpp@26.4.0
 - pkg:nuget/Aspose.Words.Shaping.HarfBuzz.Cpp@26.7.0
 - pkg:nuget/Aspose.Words.Shaping.HarfBuzz.Cpp@26.8.0
