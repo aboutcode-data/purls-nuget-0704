@@ -4,6 +4,8 @@
 - pkg:nuget/Oqtane.Updater@10.2.0
 - pkg:nuget/Oqtane.Updater@10.3.0
 - pkg:nuget/Oqtane.Updater@10.3.1
+- pkg:nuget/Oqtane.Updater@10.3.2
+- pkg:nuget/Oqtane.Updater@11.0.0
 - pkg:nuget/Oqtane.Updater@2.1.0
 - pkg:nuget/Oqtane.Updater@2.2.0
 - pkg:nuget/Oqtane.Updater@2.3.0
