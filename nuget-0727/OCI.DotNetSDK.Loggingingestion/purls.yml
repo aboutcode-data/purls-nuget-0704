@@ -58,6 +58,7 @@
 - pkg:nuget/OCI.DotNetSDK.Loggingingestion@15.0.0
 - pkg:nuget/OCI.DotNetSDK.Loggingingestion@15.1.0
 - pkg:nuget/OCI.DotNetSDK.Loggingingestion@15.2.0
+- pkg:nuget/OCI.DotNetSDK.Loggingingestion@151.0.0
 - pkg:nuget/OCI.DotNetSDK.Loggingingestion@16.0.0
 - pkg:nuget/OCI.DotNetSDK.Loggingingestion@17.0.0
 - pkg:nuget/OCI.DotNetSDK.Loggingingestion@17.1.0
