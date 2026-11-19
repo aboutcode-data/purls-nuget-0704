@@ -215,6 +215,8 @@
 - pkg:nuget/Soenneker.Blob.Sas@11.0.3129
 - pkg:nuget/Soenneker.Blob.Sas@11.0.3140
 - pkg:nuget/Soenneker.Blob.Sas@11.0.3145
+- pkg:nuget/Soenneker.Blob.Sas@11.0.3154
+- pkg:nuget/Soenneker.Blob.Sas@11.0.3155
 - pkg:nuget/Soenneker.Blob.Sas@2.0.1
 - pkg:nuget/Soenneker.Blob.Sas@2.0.2
 - pkg:nuget/Soenneker.Blob.Sas@2.0.215
