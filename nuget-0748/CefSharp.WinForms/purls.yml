@@ -78,6 +78,7 @@
 - pkg:nuget/CefSharp.WinForms@140.1.140
 - pkg:nuget/CefSharp.WinForms@144.0.270
 - pkg:nuget/CefSharp.WinForms@146.0.70
+- pkg:nuget/CefSharp.WinForms@150.0.240
 - pkg:nuget/CefSharp.WinForms@33.0.0
 - pkg:nuget/CefSharp.WinForms@33.0.2
 - pkg:nuget/CefSharp.WinForms@33.1.0-pre01
