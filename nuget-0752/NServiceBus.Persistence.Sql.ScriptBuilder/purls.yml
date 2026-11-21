@@ -96,3 +96,5 @@
 - pkg:nuget/NServiceBus.Persistence.Sql.ScriptBuilder@8.2.0
 - pkg:nuget/NServiceBus.Persistence.Sql.ScriptBuilder@8.3.0
 - pkg:nuget/NServiceBus.Persistence.Sql.ScriptBuilder@8.3.3
+- pkg:nuget/NServiceBus.Persistence.Sql.ScriptBuilder@8.3.6
+- pkg:nuget/NServiceBus.Persistence.Sql.ScriptBuilder@9.0.8
