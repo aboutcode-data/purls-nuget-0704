@@ -23,8 +23,15 @@
 - pkg:nuget/Tinkoff.InvestApi@0.6.14
 - pkg:nuget/Tinkoff.InvestApi@0.6.16
 - pkg:nuget/Tinkoff.InvestApi@0.6.17
+- pkg:nuget/Tinkoff.InvestApi@0.6.18
+- pkg:nuget/Tinkoff.InvestApi@0.6.19
 - pkg:nuget/Tinkoff.InvestApi@0.6.2
+- pkg:nuget/Tinkoff.InvestApi@0.6.20
 - pkg:nuget/Tinkoff.InvestApi@0.6.21
+- pkg:nuget/Tinkoff.InvestApi@0.6.22
+- pkg:nuget/Tinkoff.InvestApi@0.6.22.1
+- pkg:nuget/Tinkoff.InvestApi@0.6.23
+- pkg:nuget/Tinkoff.InvestApi@0.6.24
 - pkg:nuget/Tinkoff.InvestApi@0.6.25
 - pkg:nuget/Tinkoff.InvestApi@0.6.3
 - pkg:nuget/Tinkoff.InvestApi@0.6.4
