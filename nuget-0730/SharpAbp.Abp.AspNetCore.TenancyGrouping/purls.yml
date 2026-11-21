@@ -39,4 +39,5 @@
 - pkg:nuget/SharpAbp.Abp.AspNetCore.TenancyGrouping@4.6.9
 - pkg:nuget/SharpAbp.Abp.AspNetCore.TenancyGrouping@4.7.10
 - pkg:nuget/SharpAbp.Abp.AspNetCore.TenancyGrouping@4.7.5
+- pkg:nuget/SharpAbp.Abp.AspNetCore.TenancyGrouping@4.8.0
 - pkg:nuget/SharpAbp.Abp.AspNetCore.TenancyGrouping@6.0.1
