@@ -47,3 +47,5 @@
 - pkg:nuget/SourceCrafter.DependencyInjection.MsConfiguration@2.26.206.340
 - pkg:nuget/SourceCrafter.DependencyInjection.MsConfiguration@2.26.226.81
 - pkg:nuget/SourceCrafter.DependencyInjection.MsConfiguration@2.26.249.144
+- pkg:nuget/SourceCrafter.DependencyInjection.MsConfiguration@2.26.282.289
+- pkg:nuget/SourceCrafter.DependencyInjection.MsConfiguration@2.26.286.181
