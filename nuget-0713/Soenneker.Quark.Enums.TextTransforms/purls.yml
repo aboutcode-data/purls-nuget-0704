@@ -1,6 +1,7 @@
 - pkg:nuget/Soenneker.Quark.Enums.TextTransforms@11.0.91
 - pkg:nuget/Soenneker.Quark.Enums.TextTransforms@11.0.93
 - pkg:nuget/Soenneker.Quark.Enums.TextTransforms@11.0.94
+- pkg:nuget/Soenneker.Quark.Enums.TextTransforms@11.0.96
 - pkg:nuget/Soenneker.Quark.Enums.TextTransforms@3.0.1
 - pkg:nuget/Soenneker.Quark.Enums.TextTransforms@3.0.3
 - pkg:nuget/Soenneker.Quark.Enums.TextTransforms@3.0.4
