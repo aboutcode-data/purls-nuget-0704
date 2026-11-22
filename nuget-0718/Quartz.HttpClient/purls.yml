@@ -5,3 +5,4 @@
 - pkg:nuget/Quartz.HttpClient@4.2.0
 - pkg:nuget/Quartz.HttpClient@4.3.0
 - pkg:nuget/Quartz.HttpClient@4.5.0
+- pkg:nuget/Quartz.HttpClient@4.8.1
