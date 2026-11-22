@@ -11,3 +11,4 @@
 - pkg:nuget/Zespy.Ndis.SupportCatalogue.Client.Models@1.57.0-dev.3
 - pkg:nuget/Zespy.Ndis.SupportCatalogue.Client.Models@1.70.5
 - pkg:nuget/Zespy.Ndis.SupportCatalogue.Client.Models@1.72.1
+- pkg:nuget/Zespy.Ndis.SupportCatalogue.Client.Models@1.74.0
