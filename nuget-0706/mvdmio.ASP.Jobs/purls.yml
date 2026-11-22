@@ -59,3 +59,4 @@
 - pkg:nuget/mvdmio.ASP.Jobs@4.3.0
 - pkg:nuget/mvdmio.ASP.Jobs@4.7.0
 - pkg:nuget/mvdmio.ASP.Jobs@5.0.0
+- pkg:nuget/mvdmio.ASP.Jobs@7.0.0
