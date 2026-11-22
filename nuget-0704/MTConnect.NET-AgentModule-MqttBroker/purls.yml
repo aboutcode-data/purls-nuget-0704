@@ -28,3 +28,4 @@
 - pkg:nuget/MTConnect.NET-AgentModule-MqttBroker@6.6.0
 - pkg:nuget/MTConnect.NET-AgentModule-MqttBroker@6.7.0
 - pkg:nuget/MTConnect.NET-AgentModule-MqttBroker@6.8.0
+- pkg:nuget/MTConnect.NET-AgentModule-MqttBroker@7.2.0.105
