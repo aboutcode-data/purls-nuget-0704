@@ -20,6 +20,7 @@
 - pkg:nuget/SunamoPInvoke@24.7.16.1
 - pkg:nuget/SunamoPInvoke@24.9.20.1
 - pkg:nuget/SunamoPInvoke@25.3.29.1
+- pkg:nuget/SunamoPInvoke@26.11.22.1
 - pkg:nuget/SunamoPInvoke@26.2.4.1
 - pkg:nuget/SunamoPInvoke@26.3.28.3
 - pkg:nuget/SunamoPInvoke@26.7.29.1
