@@ -15,4 +15,6 @@
 - pkg:nuget/Webority.Store.Admin@0.23.11
 - pkg:nuget/Webority.Store.Admin@0.23.2
 - pkg:nuget/Webority.Store.Admin@0.23.8
+- pkg:nuget/Webority.Store.Admin@0.24.1
+- pkg:nuget/Webority.Store.Admin@0.24.2
 - pkg:nuget/Webority.Store.Admin@0.8.0
