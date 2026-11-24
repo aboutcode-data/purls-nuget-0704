@@ -196,3 +196,4 @@
 - pkg:nuget/TouchSocket.Core.Autofac@4.2.18
 - pkg:nuget/TouchSocket.Core.Autofac@4.3.10
 - pkg:nuget/TouchSocket.Core.Autofac@4.3.4
+- pkg:nuget/TouchSocket.Core.Autofac@5.0.0-beta.28
