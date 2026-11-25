@@ -53,6 +53,8 @@
 - pkg:nuget/KatLang@0.8.269
 - pkg:nuget/KatLang@0.8.274
 - pkg:nuget/KatLang@0.8.275
+- pkg:nuget/KatLang@0.8.277
+- pkg:nuget/KatLang@0.8.278
 - pkg:nuget/KatLang@0.8.31
 - pkg:nuget/KatLang@0.8.36
 - pkg:nuget/KatLang@0.8.56
