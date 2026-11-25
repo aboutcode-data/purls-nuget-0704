@@ -20,6 +20,7 @@
 - pkg:nuget/Soenneker.Flywheel.Communication@11.0.569
 - pkg:nuget/Soenneker.Flywheel.Communication@11.0.576
 - pkg:nuget/Soenneker.Flywheel.Communication@11.0.579
+- pkg:nuget/Soenneker.Flywheel.Communication@11.0.580
 - pkg:nuget/Soenneker.Flywheel.Communication@5.0.103
 - pkg:nuget/Soenneker.Flywheel.Communication@5.0.106
 - pkg:nuget/Soenneker.Flywheel.Communication@5.0.114
