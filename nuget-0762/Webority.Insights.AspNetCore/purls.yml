@@ -14,4 +14,5 @@
 - pkg:nuget/Webority.Insights.AspNetCore@0.22.0
 - pkg:nuget/Webority.Insights.AspNetCore@0.24.2
 - pkg:nuget/Webority.Insights.AspNetCore@0.24.3
+- pkg:nuget/Webority.Insights.AspNetCore@0.24.5
 - pkg:nuget/Webority.Insights.AspNetCore@0.8.2
