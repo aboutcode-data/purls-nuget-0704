@@ -415,3 +415,4 @@
 - pkg:nuget/Pulumi.Nomad@2.7.0-alpha.1793375477
 - pkg:nuget/Pulumi.Nomad@2.7.0-alpha.1794465845
 - pkg:nuget/Pulumi.Nomad@2.7.0-alpha.1795502485
+- pkg:nuget/Pulumi.Nomad@2.7.0-alpha.1795675331
