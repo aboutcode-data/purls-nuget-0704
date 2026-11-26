@@ -45,3 +45,4 @@
 - pkg:nuget/cdePackager@6.104.0
 - pkg:nuget/cdePackager@6.112.0
 - pkg:nuget/cdePackager@6.112.2
+- pkg:nuget/cdePackager@7.111.5
