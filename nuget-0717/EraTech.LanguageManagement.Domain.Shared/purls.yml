@@ -61,3 +61,4 @@
 - pkg:nuget/EraTech.LanguageManagement.Domain.Shared@2.1.99
 - pkg:nuget/EraTech.LanguageManagement.Domain.Shared@2.2.3
 - pkg:nuget/EraTech.LanguageManagement.Domain.Shared@2.2.39
+- pkg:nuget/EraTech.LanguageManagement.Domain.Shared@2.2.45
