@@ -2,3 +2,4 @@
 - pkg:nuget/AsiBackbone.Core@2.2.0
 - pkg:nuget/AsiBackbone.Core@3.0.0
 - pkg:nuget/AsiBackbone.Core@3.2.1
+- pkg:nuget/AsiBackbone.Core@7.5.3
