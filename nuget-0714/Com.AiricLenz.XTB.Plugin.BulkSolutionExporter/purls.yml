@@ -15,3 +15,5 @@
 - pkg:nuget/Com.AiricLenz.XTB.Plugin.BulkSolutionExporter@2025.3.19.25
 - pkg:nuget/Com.AiricLenz.XTB.Plugin.BulkSolutionExporter@2025.6.11.27
 - pkg:nuget/Com.AiricLenz.XTB.Plugin.BulkSolutionExporter@2025.6.2.26
+- pkg:nuget/Com.AiricLenz.XTB.Plugin.BulkSolutionExporter@2026.10.8.29
+- pkg:nuget/Com.AiricLenz.XTB.Plugin.BulkSolutionExporter@2026.11.19.31
