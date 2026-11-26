@@ -5,3 +5,4 @@
 - pkg:nuget/Biosero.DataServices.Client@1.6.4
 - pkg:nuget/Biosero.DataServices.Client@2.0.0
 - pkg:nuget/Biosero.DataServices.Client@2.0.1
+- pkg:nuget/Biosero.DataServices.Client@2.0.3
