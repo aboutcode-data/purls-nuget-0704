@@ -4,3 +4,10 @@
 - pkg:nuget/NTComponents.Analyzers@2.0.0-preview.56
 - pkg:nuget/NTComponents.Analyzers@2.0.0-preview.58
 - pkg:nuget/NTComponents.Analyzers@2.0.0-preview.65
+- pkg:nuget/NTComponents.Analyzers@2.0.0-preview.73
+- pkg:nuget/NTComponents.Analyzers@2.0.0-preview.74
+- pkg:nuget/NTComponents.Analyzers@2.0.0-preview.76
+- pkg:nuget/NTComponents.Analyzers@2.0.1-preview.2
+- pkg:nuget/NTComponents.Analyzers@2.0.2-preview.2
+- pkg:nuget/NTComponents.Analyzers@2.2.0-preview.1
+- pkg:nuget/NTComponents.Analyzers@2.2.1-preview.2
