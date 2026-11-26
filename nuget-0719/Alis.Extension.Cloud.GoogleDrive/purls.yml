@@ -58,3 +58,4 @@
 - pkg:nuget/Alis.Extension.Cloud.GoogleDrive@1.4.8
 - pkg:nuget/Alis.Extension.Cloud.GoogleDrive@1.5.0
 - pkg:nuget/Alis.Extension.Cloud.GoogleDrive@1.5.4
+- pkg:nuget/Alis.Extension.Cloud.GoogleDrive@1.5.5
