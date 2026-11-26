@@ -19,4 +19,7 @@
 - pkg:nuget/Sufficit.FastAGI@1.24.1129.1801
 - pkg:nuget/Sufficit.FastAGI@1.24.319.1940
 - pkg:nuget/Sufficit.FastAGI@1.24.517.2220
+- pkg:nuget/Sufficit.FastAGI@1.26.1126.1349
+- pkg:nuget/Sufficit.FastAGI@1.26.1126.1404
+- pkg:nuget/Sufficit.FastAGI@1.26.1126.1635
 - pkg:nuget/Sufficit.FastAGI@1.26.327.2028
