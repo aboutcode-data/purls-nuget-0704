@@ -23,4 +23,5 @@
 - pkg:nuget/RawCef.Binaries.Windows32.Release@1000.0.0-cef.158.0.1.ci.43029638284
 - pkg:nuget/RawCef.Binaries.Windows32.Release@1000.0.0-cef.158.0.3.ci.44757396987
 - pkg:nuget/RawCef.Binaries.Windows32.Release@1000.0.0-cef.158.0.3.ci.44912465104
+- pkg:nuget/RawCef.Binaries.Windows32.Release@1000.0.0-cef.158.0.6.ci.45657192918
 - pkg:nuget/RawCef.Binaries.Windows32.Release@151.3.14
