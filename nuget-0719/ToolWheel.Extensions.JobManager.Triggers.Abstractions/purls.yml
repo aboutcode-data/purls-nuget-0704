@@ -1,1 +1,8 @@
+- pkg:nuget/ToolWheel.Extensions.JobManager.Triggers.Abstractions@1.0.0
+- pkg:nuget/ToolWheel.Extensions.JobManager.Triggers.Abstractions@1.0.0-previe.2
+- pkg:nuget/ToolWheel.Extensions.JobManager.Triggers.Abstractions@1.0.0-preview3
+- pkg:nuget/ToolWheel.Extensions.JobManager.Triggers.Abstractions@1.0.0-preview3.1
+- pkg:nuget/ToolWheel.Extensions.JobManager.Triggers.Abstractions@1.0.0-preview4
+- pkg:nuget/ToolWheel.Extensions.JobManager.Triggers.Abstractions@1.0.0-preview5
 - pkg:nuget/ToolWheel.Extensions.JobManager.Triggers.Abstractions@1.0.0-preview6
+- pkg:nuget/ToolWheel.Extensions.JobManager.Triggers.Abstractions@1.1.0
