@@ -32,3 +32,4 @@
 - pkg:nuget/BSynchro.Crm.Core.Application@8.0.0
 - pkg:nuget/BSynchro.Crm.Core.Application@8.0.1
 - pkg:nuget/BSynchro.Crm.Core.Application@8.2.1
+- pkg:nuget/BSynchro.Crm.Core.Application@8.4.1
