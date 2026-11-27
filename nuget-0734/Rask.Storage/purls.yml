@@ -67,3 +67,5 @@
 - pkg:nuget/Rask.Storage@0.24.1-alpha.0.51
 - pkg:nuget/Rask.Storage@0.24.1-alpha.0.521
 - pkg:nuget/Rask.Storage@0.24.1-alpha.0.752
+- pkg:nuget/Rask.Storage@0.24.1-alpha.0.760
+- pkg:nuget/Rask.Storage@0.24.1-alpha.0.766
