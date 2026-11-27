@@ -136,6 +136,7 @@
 - pkg:nuget/Jack.CryptoCoinJsonRpc@2.1.9
 - pkg:nuget/Jack.CryptoCoinJsonRpc@2.2.0
 - pkg:nuget/Jack.CryptoCoinJsonRpc@2.2.1
+- pkg:nuget/Jack.CryptoCoinJsonRpc@2.2.16
 - pkg:nuget/Jack.CryptoCoinJsonRpc@2.2.2
 - pkg:nuget/Jack.CryptoCoinJsonRpc@2.2.3
 - pkg:nuget/Jack.CryptoCoinJsonRpc@2.2.5
