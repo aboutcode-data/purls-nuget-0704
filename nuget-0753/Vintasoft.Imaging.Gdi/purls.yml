@@ -114,3 +114,5 @@
 - pkg:nuget/Vintasoft.Imaging.Gdi@15.1.3.1
 - pkg:nuget/Vintasoft.Imaging.Gdi@15.2.1.1
 - pkg:nuget/Vintasoft.Imaging.Gdi@15.2.2.1
+- pkg:nuget/Vintasoft.Imaging.Gdi@15.2.4.1
+- pkg:nuget/Vintasoft.Imaging.Gdi@15.2.5.1
