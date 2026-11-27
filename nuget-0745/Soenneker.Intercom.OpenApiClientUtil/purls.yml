@@ -10,6 +10,7 @@
 - pkg:nuget/Soenneker.Intercom.OpenApiClientUtil@11.0.289
 - pkg:nuget/Soenneker.Intercom.OpenApiClientUtil@11.0.291
 - pkg:nuget/Soenneker.Intercom.OpenApiClientUtil@11.0.302
+- pkg:nuget/Soenneker.Intercom.OpenApiClientUtil@11.0.311
 - pkg:nuget/Soenneker.Intercom.OpenApiClientUtil@4.0.10
 - pkg:nuget/Soenneker.Intercom.OpenApiClientUtil@4.0.109
 - pkg:nuget/Soenneker.Intercom.OpenApiClientUtil@4.0.125
