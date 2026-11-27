@@ -6,3 +6,4 @@
 - pkg:nuget/Lightsoft.AspNetCore.Modularity@0.0.0.5
 - pkg:nuget/Lightsoft.AspNetCore.Modularity@0.0.0.6
 - pkg:nuget/Lightsoft.AspNetCore.Modularity@0.0.0.7
+- pkg:nuget/Lightsoft.AspNetCore.Modularity@2.1.0-preview.1
