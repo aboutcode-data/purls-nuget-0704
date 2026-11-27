@@ -1,3 +1,8 @@
 - pkg:nuget/Paperwork.CLI@1.0.0
 - pkg:nuget/Paperwork.CLI@1.1.0
 - pkg:nuget/Paperwork.CLI@1.2.0
+- pkg:nuget/Paperwork.CLI@9.7.4.2
+- pkg:nuget/Paperwork.CLI@9.7.4.5
+- pkg:nuget/Paperwork.CLI@9.8.2.1
+- pkg:nuget/Paperwork.CLI@9.9.0
+- pkg:nuget/Paperwork.CLI@9.9.1
