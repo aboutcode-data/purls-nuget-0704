@@ -31,4 +31,8 @@
 - pkg:nuget/PostHog@2.13.3
 - pkg:nuget/PostHog@2.15.4
 - pkg:nuget/PostHog@2.15.6
+- pkg:nuget/PostHog@2.16.0
+- pkg:nuget/PostHog@2.19.0
+- pkg:nuget/PostHog@2.21.0
+- pkg:nuget/PostHog@2.21.2
 - pkg:nuget/PostHog@2.8.1
