@@ -1,0 +1,3 @@
+- pkg:nuget/Gil.Sqlite@0.18.0
+- pkg:nuget/Gil.Sqlite@0.21.0
+- pkg:nuget/Gil.Sqlite@0.25.0
