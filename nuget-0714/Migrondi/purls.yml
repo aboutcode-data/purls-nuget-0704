@@ -22,3 +22,5 @@
 - pkg:nuget/Migrondi@1.0.0-beta-014
 - pkg:nuget/Migrondi@1.0.0-rc-001
 - pkg:nuget/Migrondi@1.0.0-rc-002
+- pkg:nuget/Migrondi@2.0.0
+- pkg:nuget/Migrondi@2.0.1
