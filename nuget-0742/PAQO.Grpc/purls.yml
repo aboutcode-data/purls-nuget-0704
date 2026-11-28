@@ -7,3 +7,5 @@
 - pkg:nuget/PAQO.Grpc@2.0.0
 - pkg:nuget/PAQO.Grpc@2.0.1
 - pkg:nuget/PAQO.Grpc@21.4.0
+- pkg:nuget/PAQO.Grpc@21.4.2
+- pkg:nuget/PAQO.Grpc@21.5.1
