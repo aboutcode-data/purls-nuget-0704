@@ -1,0 +1,9 @@
+- pkg:nuget/Cilica.Core@0.14.1-preview
+- pkg:nuget/Cilica.Core@0.15.2-preview
+- pkg:nuget/Cilica.Core@0.18.2-preview
+- pkg:nuget/Cilica.Core@0.19.1-preview
+- pkg:nuget/Cilica.Core@0.20.1-preview
+- pkg:nuget/Cilica.Core@0.20.2-preview
+- pkg:nuget/Cilica.Core@0.20.3-preview
+- pkg:nuget/Cilica.Core@0.20.5-preview
+- pkg:nuget/Cilica.Core@0.20.7-preview
