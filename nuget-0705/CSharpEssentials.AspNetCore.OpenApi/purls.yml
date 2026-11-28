@@ -1,0 +1,6 @@
+- pkg:nuget/CSharpEssentials.AspNetCore.OpenApi@5.2.1
+- pkg:nuget/CSharpEssentials.AspNetCore.OpenApi@6.0.0
+- pkg:nuget/CSharpEssentials.AspNetCore.OpenApi@6.3.0
+- pkg:nuget/CSharpEssentials.AspNetCore.OpenApi@6.5.0
+- pkg:nuget/CSharpEssentials.AspNetCore.OpenApi@7.0.0
+- pkg:nuget/CSharpEssentials.AspNetCore.OpenApi@9.0.0
