@@ -4,3 +4,4 @@
 - pkg:nuget/MessageQueueNET.Worker@3.24.4201
 - pkg:nuget/MessageQueueNET.Worker@3.24.5101
 - pkg:nuget/MessageQueueNET.Worker@3.25.3702
+- pkg:nuget/MessageQueueNET.Worker@4.0.0-preview.1
