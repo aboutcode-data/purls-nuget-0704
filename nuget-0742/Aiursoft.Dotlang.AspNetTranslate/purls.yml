@@ -1,3 +1,6 @@
+- pkg:nuget/Aiursoft.Dotlang.AspNetTranslate@10.0.100
+- pkg:nuget/Aiursoft.Dotlang.AspNetTranslate@10.0.101
+- pkg:nuget/Aiursoft.Dotlang.AspNetTranslate@10.0.102
 - pkg:nuget/Aiursoft.Dotlang.AspNetTranslate@10.0.22
 - pkg:nuget/Aiursoft.Dotlang.AspNetTranslate@10.0.25
 - pkg:nuget/Aiursoft.Dotlang.AspNetTranslate@10.0.35
@@ -14,3 +17,5 @@
 - pkg:nuget/Aiursoft.Dotlang.AspNetTranslate@10.0.81
 - pkg:nuget/Aiursoft.Dotlang.AspNetTranslate@10.0.86
 - pkg:nuget/Aiursoft.Dotlang.AspNetTranslate@10.0.92
+- pkg:nuget/Aiursoft.Dotlang.AspNetTranslate@10.0.97
+- pkg:nuget/Aiursoft.Dotlang.AspNetTranslate@10.0.98
