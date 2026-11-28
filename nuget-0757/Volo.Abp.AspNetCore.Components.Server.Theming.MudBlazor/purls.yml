@@ -1,0 +1,6 @@
+- pkg:nuget/Volo.Abp.AspNetCore.Components.Server.Theming.MudBlazor@10.5.0
+- pkg:nuget/Volo.Abp.AspNetCore.Components.Server.Theming.MudBlazor@10.5.0-rc.1
+- pkg:nuget/Volo.Abp.AspNetCore.Components.Server.Theming.MudBlazor@10.6.3
+- pkg:nuget/Volo.Abp.AspNetCore.Components.Server.Theming.MudBlazor@10.7.1
+- pkg:nuget/Volo.Abp.AspNetCore.Components.Server.Theming.MudBlazor@11.0.0
+- pkg:nuget/Volo.Abp.AspNetCore.Components.Server.Theming.MudBlazor@11.0.0-rc.1
