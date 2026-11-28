@@ -6,6 +6,8 @@
 - pkg:nuget/Soenneker.Pinecone.OpenApiClientUtil@11.0.192
 - pkg:nuget/Soenneker.Pinecone.OpenApiClientUtil@11.0.196
 - pkg:nuget/Soenneker.Pinecone.OpenApiClientUtil@11.0.199
+- pkg:nuget/Soenneker.Pinecone.OpenApiClientUtil@11.0.204
+- pkg:nuget/Soenneker.Pinecone.OpenApiClientUtil@11.0.206
 - pkg:nuget/Soenneker.Pinecone.OpenApiClientUtil@4.0.113
 - pkg:nuget/Soenneker.Pinecone.OpenApiClientUtil@4.0.116
 - pkg:nuget/Soenneker.Pinecone.OpenApiClientUtil@4.0.125
