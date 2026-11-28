@@ -5,3 +5,5 @@
 - pkg:nuget/Maple.Result@1.42.3
 - pkg:nuget/Maple.Result@2.6.13
 - pkg:nuget/Maple.Result@2.6.15
+- pkg:nuget/Maple.Result@3.0.0-rc.1
+- pkg:nuget/Maple.Result@3.0.0-rc.2
