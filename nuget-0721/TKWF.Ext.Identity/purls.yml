@@ -4,3 +4,8 @@
 - pkg:nuget/TKWF.Ext.Identity@0.3.4-preview.0.50
 - pkg:nuget/TKWF.Ext.Identity@0.3.4-preview.0.59
 - pkg:nuget/TKWF.Ext.Identity@0.5.1-preview.0.9
+- pkg:nuget/TKWF.Ext.Identity@0.5.3-preview.0.22
+- pkg:nuget/TKWF.Ext.Identity@0.5.3-preview.0.47
+- pkg:nuget/TKWF.Ext.Identity@0.5.4-preview.0.18
+- pkg:nuget/TKWF.Ext.Identity@0.5.4-preview.0.19
+- pkg:nuget/TKWF.Ext.Identity@0.5.4-preview.0.65
