@@ -1,3 +1,4 @@
 - pkg:nuget/Mud.Feishu@2.0.5
 - pkg:nuget/Mud.Feishu@3.0.0-rc3
 - pkg:nuget/Mud.Feishu@3.0.1
+- pkg:nuget/Mud.Feishu@3.0.2
