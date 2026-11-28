@@ -9,3 +9,5 @@
 - pkg:nuget/Asgard.AspNetCore.Core@4.1.11
 - pkg:nuget/Asgard.AspNetCore.Core@4.1.6
 - pkg:nuget/Asgard.AspNetCore.Core@5.0.2
+- pkg:nuget/Asgard.AspNetCore.Core@7.1.0
+- pkg:nuget/Asgard.AspNetCore.Core@8.0.0
