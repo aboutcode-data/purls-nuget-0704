@@ -2,6 +2,7 @@
 - pkg:nuget/Zomp.EFCore.BinaryFunctions.Npgsql@0.1.28-alpha
 - pkg:nuget/Zomp.EFCore.BinaryFunctions.Npgsql@1.0.1
 - pkg:nuget/Zomp.EFCore.BinaryFunctions.Npgsql@1.0.2
+- pkg:nuget/Zomp.EFCore.BinaryFunctions.Npgsql@11.0.1
 - pkg:nuget/Zomp.EFCore.BinaryFunctions.Npgsql@7.0.1
 - pkg:nuget/Zomp.EFCore.BinaryFunctions.Npgsql@8.0.1
 - pkg:nuget/Zomp.EFCore.BinaryFunctions.Npgsql@8.0.1-preview4

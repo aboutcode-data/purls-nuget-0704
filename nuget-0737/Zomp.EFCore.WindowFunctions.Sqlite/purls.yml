@@ -6,6 +6,7 @@
 - pkg:nuget/Zomp.EFCore.WindowFunctions.Sqlite@0.1.4-alpha
 - pkg:nuget/Zomp.EFCore.WindowFunctions.Sqlite@1.0.1
 - pkg:nuget/Zomp.EFCore.WindowFunctions.Sqlite@1.0.2
+- pkg:nuget/Zomp.EFCore.WindowFunctions.Sqlite@11.0.1
 - pkg:nuget/Zomp.EFCore.WindowFunctions.Sqlite@7.0.1
 - pkg:nuget/Zomp.EFCore.WindowFunctions.Sqlite@8.0.1
 - pkg:nuget/Zomp.EFCore.WindowFunctions.Sqlite@8.0.1-preview4
