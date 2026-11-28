@@ -178,3 +178,4 @@
 - pkg:nuget/BlazorGoogleMaps@4.9.3
 - pkg:nuget/BlazorGoogleMaps@4.9.4
 - pkg:nuget/BlazorGoogleMaps@4.9.5
+- pkg:nuget/BlazorGoogleMaps@5.0.2
