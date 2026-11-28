@@ -33,6 +33,8 @@
 - pkg:nuget/AdamE.Firebase.iOS.ABTesting@11.8.0
 - pkg:nuget/AdamE.Firebase.iOS.ABTesting@11.9.0
 - pkg:nuget/AdamE.Firebase.iOS.ABTesting@12.0.0
+- pkg:nuget/AdamE.Firebase.iOS.ABTesting@12.15.0
+- pkg:nuget/AdamE.Firebase.iOS.ABTesting@12.17.0
 - pkg:nuget/AdamE.Firebase.iOS.ABTesting@12.2.0
 - pkg:nuget/AdamE.Firebase.iOS.ABTesting@12.3.0
 - pkg:nuget/AdamE.Firebase.iOS.ABTesting@12.7.0
