@@ -1,4 +1,8 @@
 - pkg:nuget/URouting@0.10.0
+- pkg:nuget/URouting@0.19.0
+- pkg:nuget/URouting@0.19.1
 - pkg:nuget/URouting@0.2.3
+- pkg:nuget/URouting@0.20.0
+- pkg:nuget/URouting@0.24.1
 - pkg:nuget/URouting@0.5.0
 - pkg:nuget/URouting@0.9.0
